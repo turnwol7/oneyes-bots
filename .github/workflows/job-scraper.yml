@@ -1,0 +1,31 @@
+name: Job Scraper Cron
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  # Add manual trigger
+  workflow_dispatch:  # This enables manual triggering
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run job scraper
+        run: node scraper.js
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}

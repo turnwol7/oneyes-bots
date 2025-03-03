@@ -1,0 +1,16 @@
+{
+  "name": "job-scraper-bot",
+  "version": "1.0.0",
+  "description": "A cool job scraper for software jobs",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Justin Bishop",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.1",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7"
+  }
+}
