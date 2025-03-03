@@ -6,6 +6,11 @@ const cheerio = require("cheerio");
 const JOBS_URL = "https://digitalnovascotia.com/job-posts/";
 const JOBS_FILE = "jobs.json";
 
+process.on('unhandledRejection', (error) => {
+    console.error('Unhandled promise rejection:', error);
+    process.exit(1);
+});
+
 async function scrapeJobs() {
     try {
         console.log("Fetching jobs from:", JOBS_URL);

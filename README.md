@@ -1,5 +1,25 @@
-# BE THE FIRST TO FIND OUT  
+# Digital Nova Scotia Job Scraper Bot
 
-Go to the Discord link on the right to be notified when new jobs are posted on https://digitalnovascotia.com/job-posts/ 💥  
+A GitHub Actions bot that monitors Digital Nova Scotia's job board and posts new job listings to a Discord channel.
 
-This repo is a simple script that runs on the hour. Give it a star if you find any value in this tool!  
+## Features
+
+- Scrapes job listings from digitalnovascotia.com
+- Posts new jobs to Discord with detailed information
+- Runs automatically every hour via GitHub Actions
+- Tracks previously posted jobs to avoid duplicates
+
+## To modify this to a new job board
+
+1. Fork this repository
+2. Create a Discord webhook in your server
+3. Add the webhook URL as a GitHub Secret named `WEBHOOK_URL`
+4. Enable GitHub Actions in your fork
+
+## Contributing
+
+Feel free to submit issues and enhancement requests!
+
+## License
+
+MIT License - feel free to use this code for your own projects.  
