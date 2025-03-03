@@ -1,4 +1,4 @@
-# Digital Nova Scotia Job Scraper Bot
+# Nova Scotia Tech Job Scraper Bot
 
 A GitHub Actions bot that monitors Digital Nova Scotia's job board and posts new job listings to a Discord channel.
 
