@@ -66,6 +66,9 @@ async function checkForNewJobs() {
     const currentJobs = await scrapeJobs();
     const previousJobs = loadPreviousJobs();
     
+    // Reverse the order so new jobs appear at the bottom
+    currentJobs.reverse();
+    
     console.log("\nComparing jobs:");
     console.log(`Current jobs: ${currentJobs.length}`);
     console.log(`Previous jobs: ${previousJobs.length}`);
@@ -78,11 +81,7 @@ async function checkForNewJobs() {
         newJobs.forEach(job => {
             console.log(`- ${job.title} (${job.company})`);
         });
-    } else {
-        console.log("No new jobs found. All jobs are already in our database.");
-    }
 
-    if (newJobs.length > 0) {
         saveJobs(currentJobs);
         console.log(`\nSaved ${currentJobs.length} jobs to ${JOBS_FILE}`);
         
@@ -91,7 +90,7 @@ async function checkForNewJobs() {
             try {
                 console.log("\nSending to Discord webhook...");
                 
-                // Split jobs into chunks of 10
+                // Split jobs into chunks of 10 for the initial run
                 const chunkSize = 10;
                 for (let i = 0; i < newJobs.length; i += chunkSize) {
                     const chunk = newJobs.slice(i, i + chunkSize);
@@ -123,6 +122,8 @@ async function checkForNewJobs() {
         } else {
             console.error("WEBHOOK_URL not defined in .env");
         }
+    } else {
+        console.log("No new jobs found. All jobs are already in our database.");
     }
 }
 
