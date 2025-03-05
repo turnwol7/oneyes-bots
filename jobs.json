@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Business Analyst – Document Retention Policy",
-    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-document-retention-policy/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "UX Service Designer",
     "link": "https://digitalnovascotia.com/job-posts/ux-service-designer/",
     "company": "Mariner Partners Inc.",
@@ -208,5 +201,12 @@
     "company": "Océan Communications",
     "location": "Halifax",
     "jobType": "Part Time"
+  },
+  {
+    "title": "Account Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/account-coordinator-14/",
+    "company": "Outshine",
+    "location": "Halifax",
+    "jobType": "Full Time"
   }
 ]
