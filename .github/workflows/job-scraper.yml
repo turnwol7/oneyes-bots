@@ -1,5 +1,9 @@
 name: Job Scraper Cron
 
+# Add permissions at the top level
+permissions:
+  contents: write  # This gives permission to write to the repository
+
 on:
   schedule:
     - cron: '0 * * * *'  # Run every hour
