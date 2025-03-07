@@ -1,40 +1,5 @@
 [
   {
-    "title": "UX Service Designer",
-    "link": "https://digitalnovascotia.com/job-posts/ux-service-designer/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Security Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/senior-security-consultant-6/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Clinical Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-clinical-business-analyst/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Business Analyst – Healthcare",
-    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-healthcare-3/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Healthcare Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-healthcare-business-analyst/",
-    "company": "Mara Consulting Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Data Solutions Architect",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-solutions-architect-3/",
     "company": "Mara Consulting Inc.",
@@ -206,6 +171,41 @@
     "title": "Account Coordinator",
     "link": "https://digitalnovascotia.com/job-posts/account-coordinator-14/",
     "company": "Outshine",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Specialist SFMC Campaign Deployment",
+    "link": "https://digitalnovascotia.com/job-posts/specialist-sfmc-campaign-deployment/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Program Instructor",
+    "link": "https://digitalnovascotia.com/job-posts/program-instructor/",
+    "company": "Dalhousie University",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Team Leader",
+    "link": "https://digitalnovascotia.com/job-posts/team-leader/",
+    "company": "Dalhousie University",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Outreach Instructor",
+    "link": "https://digitalnovascotia.com/job-posts/outreach-instructor/",
+    "company": "Dalhousie University",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Outreach Team Leader",
+    "link": "https://digitalnovascotia.com/job-posts/outreach-team-leader/",
+    "company": "Dalhousie University",
     "location": "Halifax",
     "jobType": "Full Time"
   }
