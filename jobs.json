@@ -1,33 +1,5 @@
 [
   {
-    "title": "Technical Support Lead (POS systems)",
-    "link": "https://digitalnovascotia.com/job-posts/technical-support-lead-pos-systems/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr. Full Stack .Net Engineer with React",
-    "link": "https://digitalnovascotia.com/job-posts/sr-full-stack-net-engineer-with-react/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": ".NET Full Stack Engineering Lead",
-    "link": "https://digitalnovascotia.com/job-posts/net-full-stack-engineering-lead/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Java Production Support- Remote",
-    "link": "https://digitalnovascotia.com/job-posts/senior-java-production-support-remote/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "UKG Workforce Integration Manager",
     "link": "https://digitalnovascotia.com/job-posts/ukg-workforce-integration-manager/",
     "company": "Cognizant",
@@ -206,6 +178,34 @@
     "title": "Freelancer Application",
     "link": "https://digitalnovascotia.com/job-posts/freelancer-application-10/",
     "company": "TribalScale",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Informatica P360 Developer",
+    "link": "https://digitalnovascotia.com/job-posts/informatica-p360-developer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Temporary"
+  },
+  {
+    "title": "Appian Developer",
+    "link": "https://digitalnovascotia.com/job-posts/appian-developer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Co-op"
+  },
+  {
+    "title": "Workday Integration Developer",
+    "link": "https://digitalnovascotia.com/job-posts/workday-integration-developer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Project Manager- Healthcare",
+    "link": "https://digitalnovascotia.com/job-posts/sr-project-manager-healthcare/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   }
