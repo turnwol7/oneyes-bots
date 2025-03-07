@@ -1,54 +1,5 @@
 [
   {
-    "title": "Cybersecurity Specialist (Intermediate)",
-    "link": "https://digitalnovascotia.com/job-posts/cybersecurity-specialist-intermediate/",
-    "company": "MOBIA Technology Innovations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Network Operations Centre Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/network-operations-centre-analyst-3/",
-    "company": "MNP Digital",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Corporate Sales Manager",
-    "link": "https://digitalnovascotia.com/job-posts/corporate-sales-manager-5/",
-    "company": "Microhills Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Growth Manager – Media & Entertainment",
-    "link": "https://digitalnovascotia.com/job-posts/growth-manager-media-entertainment-2/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Web Developer",
-    "link": "https://digitalnovascotia.com/job-posts/web-developer-20/",
-    "company": "MDR Strategy Group Ltd.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Azure Cloud Infra Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/azure-cloud-infra-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "IBM DB2 LUW Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/ibm-db2-luw-administrator/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Technical Support Lead (POS systems)",
     "link": "https://digitalnovascotia.com/job-posts/technical-support-lead-pos-systems/",
     "company": "Cognizant",
@@ -206,6 +157,55 @@
     "title": "Associate Platform Engineering Intern",
     "link": "https://digitalnovascotia.com/job-posts/associate-platform-engineering-intern/",
     "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate Software Support Technician",
+    "link": "https://digitalnovascotia.com/job-posts/associate-software-support-technician/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate Software Support Technician",
+    "link": "https://digitalnovascotia.com/job-posts/associate-software-support-technician-2/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Customer Success Representative – Technical Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/customer-success-representative-technical-specialist/",
+    "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Engineer (FrontEnd/Full Stack)",
+    "link": "https://digitalnovascotia.com/job-posts/software-engineer-frontend-full-stack-3/",
+    "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Automation Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/automation-test-engineer-4/",
+    "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Roku Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/roku-engineer-2/",
+    "company": "TribalScale",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Freelancer Application",
+    "link": "https://digitalnovascotia.com/job-posts/freelancer-application-10/",
+    "company": "TribalScale",
     "location": "Halifax",
     "jobType": "Full Time"
   }
