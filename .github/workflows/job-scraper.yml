@@ -37,12 +37,14 @@ jobs:
       # Add these new steps to commit changes
       - name: Configure Git
         run: |
-          git config --global user.name 'Turnwol7'
+          git config --global user.name 'turnwol7'
           git config --global user.email 'justinb.developer@gmail.com'
 
       - name: Commit and push if changed
         run: |
-          git add jobs.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update jobs.json" && git push)
+          # Add both files
+          git add jobs.json package-lock.json
+          # Check if there are changes and commit them
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update jobs and dependencies" && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
