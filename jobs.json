@@ -1,61 +1,5 @@
 [
   {
-    "title": "Online Marketing Strategist",
-    "link": "https://digitalnovascotia.com/job-posts/online-marketing-strategist-4/",
-    "company": "Océan Communications",
-    "location": "Halifax",
-    "jobType": "Part Time"
-  },
-  {
-    "title": "Account Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/account-coordinator-14/",
-    "company": "Outshine",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Specialist SFMC Campaign Deployment",
-    "link": "https://digitalnovascotia.com/job-posts/specialist-sfmc-campaign-deployment/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Program Instructor",
-    "link": "https://digitalnovascotia.com/job-posts/program-instructor/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Team Leader",
-    "link": "https://digitalnovascotia.com/job-posts/team-leader/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Outreach Instructor",
-    "link": "https://digitalnovascotia.com/job-posts/outreach-instructor/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Outreach Team Leader",
-    "link": "https://digitalnovascotia.com/job-posts/outreach-team-leader/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Camper Support Instructor",
-    "link": "https://digitalnovascotia.com/job-posts/camper-support-instructor/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Program Instructor [High School Student]",
     "link": "https://digitalnovascotia.com/job-posts/program-instructor-high-school-student/",
     "company": "Dalhousie University",
@@ -206,6 +150,62 @@
     "title": "Paid Media Strategy",
     "link": "https://digitalnovascotia.com/job-posts/paid-media-strategy/",
     "company": "Mira Media Agency",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Architect, Dynamics 365 CRM/D365 CE (Hybrid)",
+    "link": "https://digitalnovascotia.com/job-posts/technical-architect-dynamics-365-crm-d365-ce-hybrid/",
+    "company": "BDO Canada LLP",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-46/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-23/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-39/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-58/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Product Manager/Senior Digital Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/product-manager-senior-digital-business-analyst-17/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "DevOps Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/devops-engineer-45/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/data-engineer-39/",
+    "company": "Ayruz Data Marketing Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
   }
