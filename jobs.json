@@ -1,12 +1,5 @@
 [
   {
-    "title": "UKG Workforce Integration Manager",
-    "link": "https://digitalnovascotia.com/job-posts/ukg-workforce-integration-manager/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Full Stack Developer with Python, Djago and React Experience",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-with-python-djago-and-react-experience/",
     "company": "Cognizant",
@@ -206,6 +199,13 @@
     "title": "Sr Project Manager- Healthcare",
     "link": "https://digitalnovascotia.com/job-posts/sr-project-manager-healthcare/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Service Desk Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/service-desk-analyst-12/",
+    "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time"
   }
