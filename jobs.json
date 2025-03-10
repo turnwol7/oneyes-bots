@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Developer with Python, Djago and React Experience",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-with-python-djago-and-react-experience/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Undergraduate Generative AI Externship",
-    "link": "https://digitalnovascotia.com/job-posts/undergraduate-generative-ai-externship/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Part Time"
-  },
-  {
     "title": "Associate, Communications",
     "link": "https://digitalnovascotia.com/job-posts/associate-communications/",
     "company": "MDR Strategy Group Ltd.",
@@ -206,6 +192,20 @@
     "title": "Service Desk Analyst",
     "link": "https://digitalnovascotia.com/job-posts/service-desk-analyst-12/",
     "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Director, Engagement",
+    "link": "https://digitalnovascotia.com/job-posts/director-engagement/",
+    "company": "Believeco",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Specialist, IT Service Management",
+    "link": "https://digitalnovascotia.com/job-posts/senior-specialist-it-service-management-2/",
+    "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time"
   }
