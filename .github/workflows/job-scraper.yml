@@ -37,8 +37,8 @@ jobs:
       # Add these new steps to commit changes
       - name: Configure Git
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'Turnwol7'
+          git config --global user.email 'justinb.developer@gmail.com'
 
       - name: Commit and push if changed
         run: |
