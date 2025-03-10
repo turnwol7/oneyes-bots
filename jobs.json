@@ -1,12 +1,5 @@
 [
   {
-    "title": "Associate, Communications",
-    "link": "https://digitalnovascotia.com/job-posts/associate-communications/",
-    "company": "MDR Strategy Group Ltd.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Online Marketing Strategist",
     "link": "https://digitalnovascotia.com/job-posts/online-marketing-strategist-4/",
     "company": "Océan Communications",
@@ -206,6 +199,13 @@
     "title": "Senior Specialist, IT Service Management",
     "link": "https://digitalnovascotia.com/job-posts/senior-specialist-it-service-management-2/",
     "company": "BDO Canada LLP",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Paid Media Strategy",
+    "link": "https://digitalnovascotia.com/job-posts/paid-media-strategy/",
+    "company": "Mira Media Agency",
     "location": "Halifax",
     "jobType": "Full Time"
   }
