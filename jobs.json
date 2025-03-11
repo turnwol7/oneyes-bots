@@ -1,75 +1,5 @@
 [
   {
-    "title": "Program Instructor [High School Student]",
-    "link": "https://digitalnovascotia.com/job-posts/program-instructor-high-school-student/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Marketing Cloud Solution Architect (Remote)",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-remote/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Salesforce Data Cloud Consultant (Remote)",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-data-cloud-consultant-remote-6/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Associate, Paid Search",
-    "link": "https://digitalnovascotia.com/job-posts/associate-paid-search-3/",
-    "company": "Outshine",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Associate, Paid Social",
-    "link": "https://digitalnovascotia.com/job-posts/associate-paid-social-4/",
-    "company": "Outshine",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Engineer, Messaging Platform",
-    "link": "https://digitalnovascotia.com/job-posts/senior-engineer-messaging-platform/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Associate Platform Engineering Intern",
-    "link": "https://digitalnovascotia.com/job-posts/associate-platform-engineering-intern/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Associate Software Support Technician",
-    "link": "https://digitalnovascotia.com/job-posts/associate-software-support-technician/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Associate Software Support Technician",
-    "link": "https://digitalnovascotia.com/job-posts/associate-software-support-technician-2/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Customer Success Representative – Technical Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/customer-success-representative-technical-specialist/",
-    "company": "Proposify",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Software Engineer (FrontEnd/Full Stack)",
     "link": "https://digitalnovascotia.com/job-posts/software-engineer-frontend-full-stack-3/",
     "company": "Proposify",
@@ -207,6 +137,76 @@
     "link": "https://digitalnovascotia.com/job-posts/data-engineer-39/",
     "company": "Ayruz Data Marketing Inc.",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Founder Success Lead (2SLGBTQI+)",
+    "link": "https://digitalnovascotia.com/job-posts/founder-success-lead-2slgbtqi-2/",
+    "company": "Tribe Network",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Graphic Designer",
+    "link": "https://digitalnovascotia.com/job-posts/graphic-designer-28/",
+    "company": "Rhyme + Reason",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Full Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-34/",
+    "company": "Ayruz Data Marketing Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Creative Designer",
+    "link": "https://digitalnovascotia.com/job-posts/creative-designer-5/",
+    "company": "Ayruz Data Marketing Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Scientist",
+    "link": "https://digitalnovascotia.com/job-posts/data-scientist-20/",
+    "company": "Ayruz Data Marketing Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Principal Security Developer",
+    "link": "https://digitalnovascotia.com/job-posts/principal-security-developer-2/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Developer, Vulnerability Scanner",
+    "link": "https://digitalnovascotia.com/job-posts/senior-developer-vulnerability-scanner-2/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Developer",
+    "link": "https://digitalnovascotia.com/job-posts/lead-developer-4/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Architect",
+    "link": "https://digitalnovascotia.com/job-posts/software-architect-3/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-developer-15/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
