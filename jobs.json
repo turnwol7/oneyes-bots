@@ -1,47 +1,5 @@
 [
   {
-    "title": "Software Engineer (FrontEnd/Full Stack)",
-    "link": "https://digitalnovascotia.com/job-posts/software-engineer-frontend-full-stack-3/",
-    "company": "Proposify",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Automation Test Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/automation-test-engineer-4/",
-    "company": "Proposify",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Roku Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/roku-engineer-2/",
-    "company": "TribalScale",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Freelancer Application",
-    "link": "https://digitalnovascotia.com/job-posts/freelancer-application-10/",
-    "company": "TribalScale",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Informatica P360 Developer",
-    "link": "https://digitalnovascotia.com/job-posts/informatica-p360-developer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Temporary"
-  },
-  {
-    "title": "Appian Developer",
-    "link": "https://digitalnovascotia.com/job-posts/appian-developer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Co-op"
-  },
-  {
     "title": "Workday Integration Developer",
     "link": "https://digitalnovascotia.com/job-posts/workday-integration-developer/",
     "company": "CGI",
@@ -207,6 +165,48 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-developer-15/",
     "company": "Arctic Wolf",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Bilingual Project Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/bilingual-project-coordinator-2/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Bilingual Service Desk Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/bilingual-service-desk-analyst-8/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Temporary"
+  },
+  {
+    "title": "Partner Marketing Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/partner-marketing-coordinator/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Python Automation Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-python-automation-test-engineer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Azure Data Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-azure-data-engineer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Systems Analyst – Data and Financial Services",
+    "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-data-and-financial-services-3/",
+    "company": "CGI",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
