@@ -1,54 +1,5 @@
 [
   {
-    "title": "Paid Media Strategy",
-    "link": "https://digitalnovascotia.com/job-posts/paid-media-strategy/",
-    "company": "Mira Media Agency",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Technical Architect, Dynamics 365 CRM/D365 CE (Hybrid)",
-    "link": "https://digitalnovascotia.com/job-posts/technical-architect-dynamics-365-crm-d365-ce-hybrid/",
-    "company": "BDO Canada LLP",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-46/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Solution Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-23/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-39/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-58/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Product Manager/Senior Digital Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/product-manager-senior-digital-business-analyst-17/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "DevOps Engineer",
     "link": "https://digitalnovascotia.com/job-posts/devops-engineer-45/",
     "company": "Barrington Consulting Group",
@@ -207,6 +158,55 @@
     "link": "https://digitalnovascotia.com/job-posts/software-developer-55/",
     "company": "CGI",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Development Manager",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-manager-6/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Application Security Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-application-security-engineer/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Engineering Program Manager",
+    "link": "https://digitalnovascotia.com/job-posts/sr-engineering-program-manager-2/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Staff Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Staff DevSecOps Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/staff-devsecops-engineer-2/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Marketing Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-manager/",
+    "company": "EfficiencyOne",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/cybersecurity-analyst-6/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
     "jobType": "Full Time"
   }
 ]
