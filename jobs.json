@@ -1,26 +1,5 @@
 [
   {
-    "title": "DevOps Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/devops-engineer-45/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Data Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/data-engineer-39/",
-    "company": "Ayruz Data Marketing Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Founder Success Lead (2SLGBTQI+)",
-    "link": "https://digitalnovascotia.com/job-posts/founder-success-lead-2slgbtqi-2/",
-    "company": "Tribe Network",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Graphic Designer",
     "link": "https://digitalnovascotia.com/job-posts/graphic-designer-28/",
     "company": "Rhyme + Reason",
@@ -205,6 +184,27 @@
   {
     "title": "Cybersecurity Analyst",
     "link": "https://digitalnovascotia.com/job-posts/cybersecurity-analyst-6/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Network Security Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/network-security-engineer-4/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Information Security Manager",
+    "link": "https://digitalnovascotia.com/job-posts/information-security-manager-2/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Security Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/security-consultant-4/",
     "company": "Castellan Information Security",
     "location": "Shelburne",
     "jobType": "Full Time"
