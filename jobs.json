@@ -1,40 +1,5 @@
 [
   {
-    "title": "Senior Developer, Vulnerability Scanner",
-    "link": "https://digitalnovascotia.com/job-posts/senior-developer-vulnerability-scanner-2/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Lead Developer",
-    "link": "https://digitalnovascotia.com/job-posts/lead-developer-4/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Architect",
-    "link": "https://digitalnovascotia.com/job-posts/software-architect-3/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-developer-15/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Bilingual Project Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/bilingual-project-coordinator-2/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Bilingual Service Desk Analyst",
     "link": "https://digitalnovascotia.com/job-posts/bilingual-service-desk-analyst-8/",
     "company": "Compugen",
@@ -207,6 +172,41 @@
     "link": "https://digitalnovascotia.com/job-posts/database-administrator-3/",
     "company": "Castellan Information Security",
     "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing and Events Manager",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-and-events-manager/",
+    "company": "Bulletproof",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Security Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/security-consultant-5/",
+    "company": "Bulletproof",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cloud Security Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/cloud-security-specialist-2/",
+    "company": "Bulletproof",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr. NetSuite Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/sr-netsuite-administrator/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-software-development-engineer-4/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
