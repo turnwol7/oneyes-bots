@@ -1,40 +1,5 @@
 [
   {
-    "title": "Graphic Designer",
-    "link": "https://digitalnovascotia.com/job-posts/graphic-designer-28/",
-    "company": "Rhyme + Reason",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-34/",
-    "company": "Ayruz Data Marketing Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Creative Designer",
-    "link": "https://digitalnovascotia.com/job-posts/creative-designer-5/",
-    "company": "Ayruz Data Marketing Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Data Scientist",
-    "link": "https://digitalnovascotia.com/job-posts/data-scientist-20/",
-    "company": "Ayruz Data Marketing Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Principal Security Developer",
-    "link": "https://digitalnovascotia.com/job-posts/principal-security-developer-2/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Developer, Vulnerability Scanner",
     "link": "https://digitalnovascotia.com/job-posts/senior-developer-vulnerability-scanner-2/",
     "company": "Arctic Wolf",
@@ -205,6 +170,41 @@
   {
     "title": "Security Consultant",
     "link": "https://digitalnovascotia.com/job-posts/security-consultant-4/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-85/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-56/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Service Desk/IT Desk Support",
+    "link": "https://digitalnovascotia.com/job-posts/service-desk-it-desk-support-2/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "System Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/system-administrator-5/",
+    "company": "Castellan Information Security",
+    "location": "Shelburne",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Database Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/database-administrator-3/",
     "company": "Castellan Information Security",
     "location": "Shelburne",
     "jobType": "Full Time"
