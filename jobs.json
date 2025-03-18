@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Enterprise Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-enterprise-architect-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Director of Consulting Services, Services to Credit Unions",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-consulting-services-services-to-credit-unions/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Project Control Officer",
     "link": "https://digitalnovascotia.com/job-posts/project-control-officer-3/",
     "company": "CGI",
@@ -206,6 +192,20 @@
     "title": "Digital Discovery Camp Leader",
     "link": "https://digitalnovascotia.com/job-posts/digital-discovery-camp-leader/",
     "company": "Discovery Centre",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Digital Discovery Camp Counsellor",
+    "link": "https://digitalnovascotia.com/job-posts/digital-discovery-camp-counsellor/",
+    "company": "Discovery Centre",
+    "location": "Halifax",
+    "jobType": "Temporary"
+  },
+  {
+    "title": "Performance Marketer",
+    "link": "https://digitalnovascotia.com/job-posts/performance-marketer/",
+    "company": "REDspace Inc",
     "location": "Halifax",
     "jobType": "Full Time"
   }
