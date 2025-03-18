@@ -1,47 +1,5 @@
 [
   {
-    "title": "Bilingual Service Desk Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/bilingual-service-desk-analyst-8/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Temporary"
-  },
-  {
-    "title": "Partner Marketing Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/partner-marketing-coordinator/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Python Automation Test Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-python-automation-test-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Azure Data Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-azure-data-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Business Systems Analyst – Data and Financial Services",
-    "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-data-and-financial-services-3/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior .Net Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-net-developer-13/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Enterprise Architect",
     "link": "https://digitalnovascotia.com/job-posts/senior-enterprise-architect-2/",
     "company": "CGI",
@@ -206,6 +164,48 @@
     "title": "Sr Software Development Engineer",
     "link": "https://digitalnovascotia.com/job-posts/sr-software-development-engineer-4/",
     "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Development Manager",
+    "link": "https://digitalnovascotia.com/job-posts/business-development-manager-9/",
+    "company": "Telcovision Group LTD. - dba. Strategy Up",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Performance Media Strategist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-performance-media-strategist-2/",
+    "company": "VERB Interactive Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Service Desk Technician",
+    "link": "https://digitalnovascotia.com/job-posts/service-desk-technician-7/",
+    "company": "VERB Interactive Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Junior Developer – NSCC Placement",
+    "link": "https://digitalnovascotia.com/job-posts/junior-developer-nscc-placement/",
+    "company": "VERB Interactive Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Information Technology Manager",
+    "link": "https://digitalnovascotia.com/job-posts/information-technology-manager/",
+    "company": "Nova Scotia Health & IWK",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Digital Discovery Camp Leader",
+    "link": "https://digitalnovascotia.com/job-posts/digital-discovery-camp-leader/",
+    "company": "Discovery Centre",
     "location": "Halifax",
     "jobType": "Full Time"
   }
