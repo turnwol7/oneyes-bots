@@ -1,12 +1,5 @@
 [
   {
-    "title": "Security Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/security-consultant-4/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Business Analyst",
     "link": "https://digitalnovascotia.com/job-posts/business-analyst-85/",
     "company": "Castellan Information Security",
@@ -206,6 +199,13 @@
     "title": "Director of Digital Marketing",
     "link": "https://digitalnovascotia.com/job-posts/director-of-digital-marketing/",
     "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Various IT Roles",
+    "link": "https://digitalnovascotia.com/job-posts/various-it-roles/",
+    "company": "T7 Technologies Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
   }
