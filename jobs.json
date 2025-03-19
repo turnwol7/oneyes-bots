@@ -1,26 +1,5 @@
 [
   {
-    "title": "Project Control Officer",
-    "link": "https://digitalnovascotia.com/job-posts/project-control-officer-3/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-55/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Development Manager",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-manager-6/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Sr Application Security Engineer",
     "link": "https://digitalnovascotia.com/job-posts/sr-application-security-engineer/",
     "company": "BeyondTrust",
@@ -206,6 +185,27 @@
     "title": "Performance Marketer",
     "link": "https://digitalnovascotia.com/job-posts/performance-marketer/",
     "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Social Media Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/social-media-specialist-3/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Retention Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/retention-specialist-2/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Performance and Conversion Manager",
+    "link": "https://digitalnovascotia.com/job-posts/performance-and-conversion-manager/",
+    "company": "Humankind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time"
   }
