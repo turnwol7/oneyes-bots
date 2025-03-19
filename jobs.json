@@ -1,61 +1,5 @@
 [
   {
-    "title": "Sr Application Security Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-application-security-engineer/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr Engineering Program Manager",
-    "link": "https://digitalnovascotia.com/job-posts/sr-engineering-program-manager-2/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Staff Software Development Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Staff DevSecOps Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/staff-devsecops-engineer-2/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Marketing Manager",
-    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-manager/",
-    "company": "EfficiencyOne",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Cybersecurity Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/cybersecurity-analyst-6/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Network Security Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/network-security-engineer-4/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Information Security Manager",
-    "link": "https://digitalnovascotia.com/job-posts/information-security-manager-2/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Security Consultant",
     "link": "https://digitalnovascotia.com/job-posts/security-consultant-4/",
     "company": "Castellan Information Security",
@@ -206,6 +150,62 @@
     "title": "Performance and Conversion Manager",
     "link": "https://digitalnovascotia.com/job-posts/performance-and-conversion-manager/",
     "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "B2B Content Marketing Strategist",
+    "link": "https://digitalnovascotia.com/job-posts/b2b-content-marketing-strategist-6/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/account-manager-18/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Content Creator",
+    "link": "https://digitalnovascotia.com/job-posts/content-creator-5/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Content Marketing Manager",
+    "link": "https://digitalnovascotia.com/job-posts/content-marketing-manager-12/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr. Full Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-full-stack-developer-2/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Applied Research Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/applied-research-specialist/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Quality & Customer Experience Manager",
+    "link": "https://digitalnovascotia.com/job-posts/quality-customer-experience-manager/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Director of Digital Marketing",
+    "link": "https://digitalnovascotia.com/job-posts/director-of-digital-marketing/",
+    "company": "Foundation Marketing",
     "location": "Halifax",
     "jobType": "Full Time"
   }
