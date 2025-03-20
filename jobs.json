@@ -1,26 +1,5 @@
 [
   {
-    "title": "Service Desk/IT Desk Support",
-    "link": "https://digitalnovascotia.com/job-posts/service-desk-it-desk-support-2/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "System Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/system-administrator-5/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Database Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/database-administrator-3/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Marketing and Events Manager",
     "link": "https://digitalnovascotia.com/job-posts/marketing-and-events-manager/",
     "company": "Bulletproof",
@@ -206,6 +185,27 @@
     "title": "Grant Writer",
     "link": "https://digitalnovascotia.com/job-posts/grant-writer-3/",
     "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developers",
+    "link": "https://digitalnovascotia.com/job-posts/software-developers-10/",
+    "company": "Compusult Limited",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "RightFax Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/rightfax-engineer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Control-M Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/control-m-engineer/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   }
