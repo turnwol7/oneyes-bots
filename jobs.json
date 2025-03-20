@@ -1,19 +1,5 @@
 [
   {
-    "title": "Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-85/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-56/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Service Desk/IT Desk Support",
     "link": "https://digitalnovascotia.com/job-posts/service-desk-it-desk-support-2/",
     "company": "Castellan Information Security",
@@ -206,6 +192,20 @@
     "title": "Various IT Roles",
     "link": "https://digitalnovascotia.com/job-posts/various-it-roles/",
     "company": "T7 Technologies Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Office Manager",
+    "link": "https://digitalnovascotia.com/job-posts/office-manager-6/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Grant Writer",
+    "link": "https://digitalnovascotia.com/job-posts/grant-writer-3/",
+    "company": "Forward Creative",
     "location": "Halifax",
     "jobType": "Full Time"
   }
