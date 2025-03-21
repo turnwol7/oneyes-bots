@@ -1,33 +1,5 @@
 [
   {
-    "title": "Senior Performance Media Strategist",
-    "link": "https://digitalnovascotia.com/job-posts/senior-performance-media-strategist-2/",
-    "company": "VERB Interactive Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Service Desk Technician",
-    "link": "https://digitalnovascotia.com/job-posts/service-desk-technician-7/",
-    "company": "VERB Interactive Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Junior Developer – NSCC Placement",
-    "link": "https://digitalnovascotia.com/job-posts/junior-developer-nscc-placement/",
-    "company": "VERB Interactive Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Information Technology Manager",
-    "link": "https://digitalnovascotia.com/job-posts/information-technology-manager/",
-    "company": "Nova Scotia Health & IWK",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Digital Discovery Camp Leader",
     "link": "https://digitalnovascotia.com/job-posts/digital-discovery-camp-leader/",
     "company": "Discovery Centre",
@@ -206,6 +178,34 @@
     "title": "SEO Specialist",
     "link": "https://digitalnovascotia.com/job-posts/seo-specialist-7/",
     "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cyber Security Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/cyber-security-specialist-4/",
+    "company": "Emera",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cyber Security Associate",
+    "link": "https://digitalnovascotia.com/job-posts/cyber-security-associate/",
+    "company": "Emera",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Engineer, Senior",
+    "link": "https://digitalnovascotia.com/job-posts/engineer-senior/",
+    "company": "Emera",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Unified Communications Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-unified-communications-specialist/",
+    "company": "Emera",
     "location": "Halifax",
     "jobType": "Full Time"
   }
