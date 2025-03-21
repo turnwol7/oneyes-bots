@@ -1,12 +1,5 @@
 [
   {
-    "title": "Business Development Manager",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-manager-9/",
-    "company": "Telcovision Group LTD. - dba. Strategy Up",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Performance Media Strategist",
     "link": "https://digitalnovascotia.com/job-posts/senior-performance-media-strategist-2/",
     "company": "VERB Interactive Inc.",
@@ -206,6 +199,13 @@
     "title": "Senior SDET",
     "link": "https://digitalnovascotia.com/job-posts/senior-sdet-4/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SEO Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/seo-specialist-7/",
+    "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time"
   }
