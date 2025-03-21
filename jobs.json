@@ -1,47 +1,5 @@
 [
   {
-    "title": "Database Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/database-administrator-3/",
-    "company": "Castellan Information Security",
-    "location": "Shelburne",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Marketing and Events Manager",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-and-events-manager/",
-    "company": "Bulletproof",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Security Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/security-consultant-5/",
-    "company": "Bulletproof",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Cloud Security Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-security-specialist-2/",
-    "company": "Bulletproof",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr. NetSuite Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/sr-netsuite-administrator/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr Software Development Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-software-development-engineer-4/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Business Development Manager",
     "link": "https://digitalnovascotia.com/job-posts/business-development-manager-9/",
     "company": "Telcovision Group LTD. - dba. Strategy Up",
@@ -206,6 +164,48 @@
     "title": "Control-M Engineer",
     "link": "https://digitalnovascotia.com/job-posts/control-m-engineer/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Vice President of Sales (Remote)",
+    "link": "https://digitalnovascotia.com/job-posts/vice-president-of-sales-remote/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Test Manager",
+    "link": "https://digitalnovascotia.com/job-posts/test-manager/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Data Steward",
+    "link": "https://digitalnovascotia.com/job-posts/technical-data-steward/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ETL Test Automator (Java/Python/SQL)",
+    "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-2/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "PySpark AWS Developer",
+    "link": "https://digitalnovascotia.com/job-posts/pyspark-aws-developer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior SDET",
+    "link": "https://digitalnovascotia.com/job-posts/senior-sdet-4/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   }
