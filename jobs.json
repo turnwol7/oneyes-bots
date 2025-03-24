@@ -1,40 +1,5 @@
 [
   {
-    "title": "Digital Discovery Camp Counsellor",
-    "link": "https://digitalnovascotia.com/job-posts/digital-discovery-camp-counsellor/",
-    "company": "Discovery Centre",
-    "location": "Halifax",
-    "jobType": "Temporary"
-  },
-  {
-    "title": "Performance Marketer",
-    "link": "https://digitalnovascotia.com/job-posts/performance-marketer/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Social Media Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/social-media-specialist-3/",
-    "company": "Humankind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Retention Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/retention-specialist-2/",
-    "company": "Humankind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Performance and Conversion Manager",
-    "link": "https://digitalnovascotia.com/job-posts/performance-and-conversion-manager/",
-    "company": "Humankind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "B2B Content Marketing Strategist",
     "link": "https://digitalnovascotia.com/job-posts/b2b-content-marketing-strategist-6/",
     "company": "Foundation Marketing",
@@ -206,6 +171,41 @@
     "title": "E-Commerce Solution Development Lead",
     "link": "https://digitalnovascotia.com/job-posts/e-commerce-solution-development-lead-2/",
     "company": "Torq IT",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer Intern",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-intern-3/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Cloud Operations Engineer (HYBRID)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-cloud-operations-engineer-hybrid-2/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Platform Engineer (Observability)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-platform-engineer-observability/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/software-engineer-28/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Application Security Engineer, Secure Product Development",
+    "link": "https://digitalnovascotia.com/job-posts/application-security-engineer-secure-product-development/",
+    "company": "ResMed",
     "location": "Halifax",
     "jobType": "Full Time"
   }
