@@ -1,12 +1,5 @@
 [
   {
-    "title": "Digital Discovery Camp Leader",
-    "link": "https://digitalnovascotia.com/job-posts/digital-discovery-camp-leader/",
-    "company": "Discovery Centre",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Digital Discovery Camp Counsellor",
     "link": "https://digitalnovascotia.com/job-posts/digital-discovery-camp-counsellor/",
     "company": "Discovery Centre",
@@ -206,6 +199,13 @@
     "title": "Senior Unified Communications Specialist",
     "link": "https://digitalnovascotia.com/job-posts/senior-unified-communications-specialist/",
     "company": "Emera",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "E-Commerce Solution Development Lead",
+    "link": "https://digitalnovascotia.com/job-posts/e-commerce-solution-development-lead-2/",
+    "company": "Torq IT",
     "location": "Halifax",
     "jobType": "Full Time"
   }
