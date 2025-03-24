@@ -1,33 +1,5 @@
 [
   {
-    "title": "B2B Content Marketing Strategist",
-    "link": "https://digitalnovascotia.com/job-posts/b2b-content-marketing-strategist-6/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Account Manager",
-    "link": "https://digitalnovascotia.com/job-posts/account-manager-18/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Content Marketing Manager",
-    "link": "https://digitalnovascotia.com/job-posts/content-marketing-manager-12/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr. Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-full-stack-developer-2/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Applied Research Specialist",
     "link": "https://digitalnovascotia.com/job-posts/applied-research-specialist/",
     "company": "Foundation Marketing",
@@ -207,6 +179,34 @@
     "link": "https://digitalnovascotia.com/job-posts/application-security-engineer-secure-product-development/",
     "company": "ResMed",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Global Product Marketing Manager, Consumer Digital",
+    "link": "https://digitalnovascotia.com/job-posts/global-product-marketing-manager-consumer-digital/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "45Drives Marketing Team Member – Content Creator",
+    "link": "https://digitalnovascotia.com/job-posts/45drives-marketing-team-member-content-creator/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Internship opportunities",
+    "link": "https://digitalnovascotia.com/job-posts/internship-opportunities-2/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Future Opportunities with Protocase/45 Drives!",
+    "link": "https://digitalnovascotia.com/job-posts/future-opportunities-with-protocase-45-drives/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
     "jobType": "Full Time"
   }
 ]
