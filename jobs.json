@@ -1,19 +1,5 @@
 [
   {
-    "title": "Control-M Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/control-m-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Vice President of Sales (Remote)",
-    "link": "https://digitalnovascotia.com/job-posts/vice-president-of-sales-remote/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Test Manager",
     "link": "https://digitalnovascotia.com/job-posts/test-manager/",
     "company": "CGI",
@@ -205,6 +191,20 @@
   {
     "title": "Senior Platform & Infrastructure Developer, Observability",
     "link": "https://digitalnovascotia.com/job-posts/senior-platform-infrastructure-developer-observability-2/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Program Manager, Hardware",
+    "link": "https://digitalnovascotia.com/job-posts/senior-program-manager-hardware/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/lead-software-developer-5/",
     "company": "Arctic Wolf",
     "location": "Provincial",
     "jobType": "Full Time"
