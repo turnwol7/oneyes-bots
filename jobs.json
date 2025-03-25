@@ -1,61 +1,5 @@
 [
   {
-    "title": "Applied Research Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/applied-research-specialist/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Quality & Customer Experience Manager",
-    "link": "https://digitalnovascotia.com/job-posts/quality-customer-experience-manager/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Director of Digital Marketing",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-digital-marketing/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Various IT Roles",
-    "link": "https://digitalnovascotia.com/job-posts/various-it-roles/",
-    "company": "T7 Technologies Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Office Manager",
-    "link": "https://digitalnovascotia.com/job-posts/office-manager-6/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Grant Writer",
-    "link": "https://digitalnovascotia.com/job-posts/grant-writer-3/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developers",
-    "link": "https://digitalnovascotia.com/job-posts/software-developers-10/",
-    "company": "Compusult Limited",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "RightFax Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/rightfax-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Control-M Engineer",
     "link": "https://digitalnovascotia.com/job-posts/control-m-engineer/",
     "company": "Cognizant",
@@ -207,6 +151,62 @@
     "link": "https://digitalnovascotia.com/job-posts/future-opportunities-with-protocase-45-drives/",
     "company": "Protocase Inc.",
     "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "HR Systems Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/hr-systems-analyst-3/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Temporary"
+  },
+  {
+    "title": "Project Manager (Interconnection) Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-interconnection-engineer/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Co-Op Cyber Security",
+    "link": "https://digitalnovascotia.com/job-posts/co-op-cyber-security/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Co-op"
+  },
+  {
+    "title": "Senior Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-47/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-65/",
+    "company": "Modest Tree Media Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Web Developer Co-op Summer 2025",
+    "link": "https://digitalnovascotia.com/job-posts/web-developer-co-op-summer-2025-2/",
+    "company": "Aptitude Digital",
+    "location": "Provincial",
+    "jobType": "Co-op"
+  },
+  {
+    "title": "Director, Engineering Excellence",
+    "link": "https://digitalnovascotia.com/job-posts/director-engineering-excellence-2/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Platform & Infrastructure Developer, Observability",
+    "link": "https://digitalnovascotia.com/job-posts/senior-platform-infrastructure-developer-observability-2/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
