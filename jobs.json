@@ -1,54 +1,5 @@
 [
   {
-    "title": "ETL Test Automator (Java/Python/SQL)",
-    "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "PySpark AWS Developer",
-    "link": "https://digitalnovascotia.com/job-posts/pyspark-aws-developer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior SDET",
-    "link": "https://digitalnovascotia.com/job-posts/senior-sdet-4/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "SEO Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/seo-specialist-7/",
-    "company": "Resulta",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Cyber Security Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/cyber-security-specialist-4/",
-    "company": "Emera",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Cyber Security Associate",
-    "link": "https://digitalnovascotia.com/job-posts/cyber-security-associate/",
-    "company": "Emera",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Engineer, Senior",
-    "link": "https://digitalnovascotia.com/job-posts/engineer-senior/",
-    "company": "Emera",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Unified Communications Specialist",
     "link": "https://digitalnovascotia.com/job-posts/senior-unified-communications-specialist/",
     "company": "Emera",
@@ -207,6 +158,55 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-lead-technical-program-manager/",
     "company": "Arctic Wolf",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Change Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-change-manager-5/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Development Engineer in Test",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-in-test-5/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr. NetSuite Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/sr-netsuite-administrator-2/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Security Technician",
+    "link": "https://digitalnovascotia.com/job-posts/senior-security-technician-2/",
+    "company": "Cabco Communications",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Field Supervisor- Senior Security Technician",
+    "link": "https://digitalnovascotia.com/job-posts/field-supervisor-senior-security-technician/",
+    "company": "Cabco Communications",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Residential Security Technician",
+    "link": "https://digitalnovascotia.com/job-posts/residential-security-technician-2/",
+    "company": "Cabco Communications",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Development Team Lead",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-team-lead/",
+    "company": "CapIntel Inc",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
