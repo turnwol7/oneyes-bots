@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Unified Communications Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/senior-unified-communications-specialist/",
-    "company": "Emera",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "E-Commerce Solution Development Lead",
     "link": "https://digitalnovascotia.com/job-posts/e-commerce-solution-development-lead-2/",
     "company": "Torq IT",
@@ -207,6 +200,13 @@
     "link": "https://digitalnovascotia.com/job-posts/software-development-team-lead/",
     "company": "CapIntel Inc",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Carbide Work Term Opportunities",
+    "link": "https://digitalnovascotia.com/job-posts/carbide-work-term-opportunities-2/",
+    "company": "Carbide",
+    "location": "Cape Breton",
     "jobType": "Full Time"
   }
 ]
