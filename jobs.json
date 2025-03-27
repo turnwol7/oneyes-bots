@@ -1,75 +1,5 @@
 [
   {
-    "title": "E-Commerce Solution Development Lead",
-    "link": "https://digitalnovascotia.com/job-posts/e-commerce-solution-development-lead-2/",
-    "company": "Torq IT",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer Intern",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-intern-3/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Cloud Operations Engineer (HYBRID)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-cloud-operations-engineer-hybrid-2/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Platform Engineer (Observability)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-platform-engineer-observability/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/software-engineer-28/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Application Security Engineer, Secure Product Development",
-    "link": "https://digitalnovascotia.com/job-posts/application-security-engineer-secure-product-development/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Global Product Marketing Manager, Consumer Digital",
-    "link": "https://digitalnovascotia.com/job-posts/global-product-marketing-manager-consumer-digital/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "45Drives Marketing Team Member – Content Creator",
-    "link": "https://digitalnovascotia.com/job-posts/45drives-marketing-team-member-content-creator/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Internship opportunities",
-    "link": "https://digitalnovascotia.com/job-posts/internship-opportunities-2/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Future Opportunities with Protocase/45 Drives!",
-    "link": "https://digitalnovascotia.com/job-posts/future-opportunities-with-protocase-45-drives/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
     "title": "HR Systems Analyst",
     "link": "https://digitalnovascotia.com/job-posts/hr-systems-analyst-3/",
     "company": "NS Power",
@@ -207,6 +137,76 @@
     "link": "https://digitalnovascotia.com/job-posts/carbide-work-term-opportunities-2/",
     "company": "Carbide",
     "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Administrative Assistant-Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/administrative-assistant-halifax/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Scrum Master",
+    "link": "https://digitalnovascotia.com/job-posts/senior-scrum-master-5/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Java Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-31/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Solution Architect – Digital Banking Application",
+    "link": "https://digitalnovascotia.com/job-posts/solution-architect-digital-banking-application/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Enterprise Architect",
+    "link": "https://digitalnovascotia.com/job-posts/senior-enterprise-architect-3/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Director of Consulting Services, Services to Credit Unions",
+    "link": "https://digitalnovascotia.com/job-posts/director-of-consulting-services-services-to-credit-unions-2/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Workday Integration Developer",
+    "link": "https://digitalnovascotia.com/job-posts/workday-integration-developer-2/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Workday Integration Developer",
+    "link": "https://digitalnovascotia.com/job-posts/workday-integration-developer-3/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior .Net Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-net-developer-14/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Retention Marketing Manager",
+    "link": "https://digitalnovascotia.com/job-posts/retention-marketing-manager-2/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
