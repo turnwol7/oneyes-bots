@@ -1,19 +1,5 @@
 [
   {
-    "title": "Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/project-manager-65/",
-    "company": "Modest Tree Media Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Web Developer Co-op Summer 2025",
-    "link": "https://digitalnovascotia.com/job-posts/web-developer-co-op-summer-2025-2/",
-    "company": "Aptitude Digital",
-    "location": "Provincial",
-    "jobType": "Co-op"
-  },
-  {
     "title": "Director, Engineering Excellence",
     "link": "https://digitalnovascotia.com/job-posts/director-engineering-excellence-2/",
     "company": "Arctic Wolf",
@@ -206,6 +192,20 @@
     "title": "Technical Architect",
     "link": "https://digitalnovascotia.com/job-posts/technical-architect/",
     "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-coordinator-14/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Product Manager",
+    "link": "https://digitalnovascotia.com/job-posts/product-manager-35/",
+    "company": "Dash Social",
     "location": "Halifax",
     "jobType": "Full Time"
   }
