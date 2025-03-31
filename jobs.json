@@ -1,26 +1,5 @@
 [
   {
-    "title": "Director, Engineering Excellence",
-    "link": "https://digitalnovascotia.com/job-posts/director-engineering-excellence-2/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Platform & Infrastructure Developer, Observability",
-    "link": "https://digitalnovascotia.com/job-posts/senior-platform-infrastructure-developer-observability-2/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Program Manager, Hardware",
-    "link": "https://digitalnovascotia.com/job-posts/senior-program-manager-hardware/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Lead Software Developer",
     "link": "https://digitalnovascotia.com/job-posts/lead-software-developer-5/",
     "company": "Arctic Wolf",
@@ -206,6 +185,27 @@
     "title": "Product Manager",
     "link": "https://digitalnovascotia.com/job-posts/product-manager-35/",
     "company": "Dash Social",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior UI/UX Designer, ServiceNow CoE",
+    "link": "https://digitalnovascotia.com/job-posts/senior-ui-ux-designer-servicenow-coe/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ServiceNow Senior Technical Consultant – Service Portal, CoE",
+    "link": "https://digitalnovascotia.com/job-posts/servicenow-senior-technical-consultant-service-portal-coe/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ServiceNow Solution Architect – Service Portal, CoE",
+    "link": "https://digitalnovascotia.com/job-posts/servicenow-solution-architect-service-portal-coe/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   }
