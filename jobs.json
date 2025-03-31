@@ -1,61 +1,5 @@
 [
   {
-    "title": "Lead Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/lead-software-developer-5/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr. Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-software-developer-8/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Lead Technical Program Manager",
-    "link": "https://digitalnovascotia.com/job-posts/senior-lead-technical-program-manager/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Change Manager",
-    "link": "https://digitalnovascotia.com/job-posts/senior-change-manager-5/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Development Engineer in Test",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-in-test-5/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr. NetSuite Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/sr-netsuite-administrator-2/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Security Technician",
-    "link": "https://digitalnovascotia.com/job-posts/senior-security-technician-2/",
-    "company": "Cabco Communications",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Field Supervisor- Senior Security Technician",
-    "link": "https://digitalnovascotia.com/job-posts/field-supervisor-senior-security-technician/",
-    "company": "Cabco Communications",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Residential Security Technician",
     "link": "https://digitalnovascotia.com/job-posts/residential-security-technician-2/",
     "company": "Cabco Communications",
@@ -205,6 +149,62 @@
   {
     "title": "ServiceNow Solution Architect – Service Portal, CoE",
     "link": "https://digitalnovascotia.com/job-posts/servicenow-solution-architect-service-portal-coe/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Solution Architect – ServiceNow",
+    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-servicenow/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Infra Dev Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/infra-dev-specialist/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IAM Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/iam-engineer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ServiceNow Senior Technical Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/servicenow-senior-technical-consultant/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Halifax Onsite Delivery Manager",
+    "link": "https://digitalnovascotia.com/job-posts/halifax-onsite-delivery-manager/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Tosca Automation Tester",
+    "link": "https://digitalnovascotia.com/job-posts/senior-tosca-automation-tester/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "RightFax Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/rightfax-engineer-2/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Control-M Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/control-m-engineer-2/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
