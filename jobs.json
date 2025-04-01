@@ -1,33 +1,5 @@
 [
   {
-    "title": "Software Development Team Lead",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-team-lead/",
-    "company": "CapIntel Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Carbide Work Term Opportunities",
-    "link": "https://digitalnovascotia.com/job-posts/carbide-work-term-opportunities-2/",
-    "company": "Carbide",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Administrative Assistant-Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/administrative-assistant-halifax/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Scrum Master",
-    "link": "https://digitalnovascotia.com/job-posts/senior-scrum-master-5/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Java Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-31/",
     "company": "CGI",
@@ -207,6 +179,34 @@
     "link": "https://digitalnovascotia.com/job-posts/solutions-architect-10/",
     "company": "Bulletproof",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Human Resource Partner",
+    "link": "https://digitalnovascotia.com/job-posts/human-resource-partner/",
+    "company": "uptreeHR",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Cloud Security Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-cloud-security-engineer/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Architect",
+    "link": "https://digitalnovascotia.com/job-posts/software-architect-4/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Security Developer",
+    "link": "https://digitalnovascotia.com/job-posts/security-developer/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
