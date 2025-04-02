@@ -1,33 +1,5 @@
 [
   {
-    "title": "Senior Java Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-31/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Solution Architect – Digital Banking Application",
-    "link": "https://digitalnovascotia.com/job-posts/solution-architect-digital-banking-application/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Enterprise Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-enterprise-architect-3/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Director of Consulting Services, Services to Credit Unions",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-consulting-services-services-to-credit-unions-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Workday Integration Developer",
     "link": "https://digitalnovascotia.com/job-posts/workday-integration-developer-2/",
     "company": "CGI",
@@ -207,6 +179,34 @@
     "link": "https://digitalnovascotia.com/job-posts/security-developer/",
     "company": "Arctic Wolf",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Implementation Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/technical-implementation-engineer-3/",
+    "company": "Sandbox ERP",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Development Manager",
+    "link": "https://digitalnovascotia.com/job-posts/business-development-manager-10/",
+    "company": "Sandbox ERP",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-57/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "45Drives Quality Technician",
+    "link": "https://digitalnovascotia.com/job-posts/45drives-quality-technician/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
     "jobType": "Full Time"
   }
 ]
