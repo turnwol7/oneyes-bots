@@ -1,13 +1,6 @@
 [
   {
     "title": "Workday Integration Developer",
-    "link": "https://digitalnovascotia.com/job-posts/workday-integration-developer-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Workday Integration Developer",
     "link": "https://digitalnovascotia.com/job-posts/workday-integration-developer-3/",
     "company": "CGI",
     "location": "Halifax",
@@ -207,6 +200,13 @@
     "link": "https://digitalnovascotia.com/job-posts/45drives-quality-technician/",
     "company": "Protocase Inc.",
     "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "QA Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/qa-engineer-6/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
