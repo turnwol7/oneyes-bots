@@ -1,19 +1,5 @@
 [
   {
-    "title": "Workday Integration Developer",
-    "link": "https://digitalnovascotia.com/job-posts/workday-integration-developer-3/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior .Net Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-net-developer-14/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Retention Marketing Manager",
     "link": "https://digitalnovascotia.com/job-posts/retention-marketing-manager-2/",
     "company": "Humankind Global Recruitment",
@@ -206,6 +192,20 @@
     "title": "QA Engineer",
     "link": "https://digitalnovascotia.com/job-posts/qa-engineer-6/",
     "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-58/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-40/",
+    "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time"
   }
