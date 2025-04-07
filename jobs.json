@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior UI/UX Designer, ServiceNow CoE",
-    "link": "https://digitalnovascotia.com/job-posts/senior-ui-ux-designer-servicenow-coe/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "ServiceNow Senior Technical Consultant – Service Portal, CoE",
     "link": "https://digitalnovascotia.com/job-posts/servicenow-senior-technical-consultant-service-portal-coe/",
     "company": "Cognizant",
@@ -206,6 +199,13 @@
     "title": "Account Managers, Supervisors, Directors",
     "link": "https://digitalnovascotia.com/job-posts/account-managers-supervisors-directors-2/",
     "company": "Trampoline",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Development Representative",
+    "link": "https://digitalnovascotia.com/job-posts/business-development-representative-24/",
+    "company": "Fortinet",
     "location": "Halifax",
     "jobType": "Full Time"
   }
