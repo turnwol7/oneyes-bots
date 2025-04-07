@@ -1,47 +1,5 @@
 [
   {
-    "title": "ServiceNow Senior Technical Consultant – Service Portal, CoE",
-    "link": "https://digitalnovascotia.com/job-posts/servicenow-senior-technical-consultant-service-portal-coe/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "ServiceNow Solution Architect – Service Portal, CoE",
-    "link": "https://digitalnovascotia.com/job-posts/servicenow-solution-architect-service-portal-coe/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Solution Architect – ServiceNow",
-    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-servicenow/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Infra Dev Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/infra-dev-specialist/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "IAM Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/iam-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "ServiceNow Senior Technical Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/servicenow-senior-technical-consultant/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Halifax Onsite Delivery Manager",
     "link": "https://digitalnovascotia.com/job-posts/halifax-onsite-delivery-manager/",
     "company": "Cognizant",
@@ -206,6 +164,48 @@
     "title": "Business Development Representative",
     "link": "https://digitalnovascotia.com/job-posts/business-development-representative-24/",
     "company": "Fortinet",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Client Operations Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/client-operations-analyst/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Quality Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/data-quality-analyst/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Full Stack Developer – GFT",
+    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-gft/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Data Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/lead-data-engineer-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Systems Analyst – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-halifax/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Analyst, IT SOX Compliance",
+    "link": "https://digitalnovascotia.com/job-posts/analyst-it-sox-compliance-6/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   }
