@@ -1,54 +1,5 @@
 [
   {
-    "title": "Halifax Onsite Delivery Manager",
-    "link": "https://digitalnovascotia.com/job-posts/halifax-onsite-delivery-manager/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Tosca Automation Tester",
-    "link": "https://digitalnovascotia.com/job-posts/senior-tosca-automation-tester/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "RightFax Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/rightfax-engineer-2/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Control-M Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/control-m-engineer-2/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Solutions Architect",
-    "link": "https://digitalnovascotia.com/job-posts/solutions-architect-10/",
-    "company": "Bulletproof",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Human Resource Partner",
-    "link": "https://digitalnovascotia.com/job-posts/human-resource-partner/",
-    "company": "uptreeHR",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr Cloud Security Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-cloud-security-engineer/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Software Architect",
     "link": "https://digitalnovascotia.com/job-posts/software-architect-4/",
     "company": "Arctic Wolf",
@@ -206,6 +157,55 @@
     "title": "Analyst, IT SOX Compliance",
     "link": "https://digitalnovascotia.com/job-posts/analyst-it-sox-compliance-6/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IAM Analyst (Global Security)",
+    "link": "https://digitalnovascotia.com/job-posts/iam-analyst-global-security/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Site Release Manager",
+    "link": "https://digitalnovascotia.com/job-posts/site-release-manager/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Technical Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/senior-technical-consultant-2/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Modeler",
+    "link": "https://digitalnovascotia.com/job-posts/data-modeler-3/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Kinaxis Rapid Response Architect",
+    "link": "https://digitalnovascotia.com/job-posts/kinaxis-rapid-response-architect/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Duck Creek Product Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/lead-duck-creek-product-consultant/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Marketing Cloud Consultant (Remote)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-cloud-consultant-remote-10/",
+    "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time"
   }
