@@ -1,19 +1,5 @@
 [
   {
-    "title": "Software Architect",
-    "link": "https://digitalnovascotia.com/job-posts/software-architect-4/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Security Developer",
-    "link": "https://digitalnovascotia.com/job-posts/security-developer/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Technical Implementation Engineer",
     "link": "https://digitalnovascotia.com/job-posts/technical-implementation-engineer-3/",
     "company": "Sandbox ERP",
@@ -205,6 +191,20 @@
   {
     "title": "Senior Marketing Cloud Consultant (Remote)",
     "link": "https://digitalnovascotia.com/job-posts/senior-marketing-cloud-consultant-remote-10/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Membership and Events Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/membership-and-events-coordinator/",
+    "company": "CB Chamber of Commerce",
+    "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Cloud Solution Architect (Remote)",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-remote-2/",
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time"
