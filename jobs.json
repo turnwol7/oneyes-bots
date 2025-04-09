@@ -1,54 +1,5 @@
 [
   {
-    "title": "Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-57/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "45Drives Quality Technician",
-    "link": "https://digitalnovascotia.com/job-posts/45drives-quality-technician/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "QA Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/qa-engineer-6/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-58/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-40/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "AI Engineer, Cons/ Sr Cons",
-    "link": "https://digitalnovascotia.com/job-posts/ai-engineer-cons-sr-cons/",
-    "company": "Avanade",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Dynamics CE Technical Architect",
-    "link": "https://digitalnovascotia.com/job-posts/dynamics-ce-technical-architect/",
-    "company": "Avanade",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior D365 F&SCM Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-d365-fscm-developer/",
     "company": "Avanade",
@@ -205,6 +156,55 @@
   {
     "title": "Junior Java Software Engineer",
     "link": "https://digitalnovascotia.com/job-posts/junior-java-software-engineer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-59/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer (Java + Python)",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-java-python/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Engineering Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/data-engineering-consultant-7/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Salesforce Developer",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-developer-10/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ETL Test Automator (Java/Python/SQL)",
+    "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-3/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full Stack Java Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-java-developer-4/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SAP MM Consultant with English and French",
+    "link": "https://digitalnovascotia.com/job-posts/sap-mm-consultant-with-english-and-french/",
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
