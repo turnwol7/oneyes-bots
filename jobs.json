@@ -1,19 +1,5 @@
 [
   {
-    "title": "Technical Implementation Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/technical-implementation-engineer-3/",
-    "company": "Sandbox ERP",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Business Development Manager",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-manager-10/",
-    "company": "Sandbox ERP",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Software Developer",
     "link": "https://digitalnovascotia.com/job-posts/software-developer-57/",
     "company": "Protocase Inc.",
@@ -206,6 +192,20 @@
     "title": "Marketing Cloud Solution Architect (Remote)",
     "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-remote-2/",
     "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": ".Net Development Lead",
+    "link": "https://digitalnovascotia.com/job-posts/net-development-lead/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Junior Java Software Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/junior-java-software-engineer/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   }
