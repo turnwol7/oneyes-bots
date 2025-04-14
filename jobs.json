@@ -1,19 +1,5 @@
 [
   {
-    "title": "Full Stack Developer – GFT",
-    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-gft/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Lead Data Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/lead-data-engineer-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Business Systems Analyst – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-halifax/",
     "company": "RBC Technology & Operations",
@@ -207,6 +193,20 @@
     "link": "https://digitalnovascotia.com/job-posts/devops-engineer-46/",
     "company": "Barrington Consulting Group",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer – Hardware",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-hardware/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Developer – Network Appliance Platform",
+    "link": "https://digitalnovascotia.com/job-posts/senior-developer-network-appliance-platform/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
