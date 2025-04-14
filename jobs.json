@@ -1,47 +1,5 @@
 [
   {
-    "title": "Marketing Manager & UX-Oriented Visual Designer",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-manager-ux-oriented-visual-designer/",
-    "company": "TribalScale",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior GCP Cloud Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-gcp-cloud-engineer-3/",
-    "company": "TribalScale",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Account Managers, Supervisors, Directors",
-    "link": "https://digitalnovascotia.com/job-posts/account-managers-supervisors-directors-2/",
-    "company": "Trampoline",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Business Development Representative",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-representative-24/",
-    "company": "Fortinet",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Client Operations Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/client-operations-analyst/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Data Quality Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/data-quality-analyst/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Full Stack Developer – GFT",
     "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-gft/",
     "company": "RBC Technology & Operations",
@@ -206,6 +164,48 @@
     "title": "Implementation Manager – Bilingual, Spanish speaking",
     "link": "https://digitalnovascotia.com/job-posts/implementation-manager-bilingual-spanish-speaking/",
     "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-48/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-24/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-41/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-59/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Product Manager/Senior Digital Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/product-manager-senior-digital-business-analyst-18/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "DevOps Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/devops-engineer-46/",
+    "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time"
   }
