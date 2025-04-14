@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior D365 F&SCM Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-d365-fscm-developer/",
-    "company": "Avanade",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Consultant D365 F&SCM Solution Development",
-    "link": "https://digitalnovascotia.com/job-posts/consultant-d365-fscm-solution-development/",
-    "company": "Avanade",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Marketing Manager & UX-Oriented Visual Designer",
     "link": "https://digitalnovascotia.com/job-posts/marketing-manager-ux-oriented-visual-designer/",
     "company": "TribalScale",
@@ -206,6 +192,20 @@
     "title": "SAP MM Consultant with English and French",
     "link": "https://digitalnovascotia.com/job-posts/sap-mm-consultant-with-english-and-french/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Scheduler/Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/technical-scheduler-coordinator/",
+    "company": "Bulletproof",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Implementation Manager – Bilingual, Spanish speaking",
+    "link": "https://digitalnovascotia.com/job-posts/implementation-manager-bilingual-spanish-speaking/",
+    "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time"
   }
