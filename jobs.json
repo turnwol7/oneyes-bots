@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kinaxis Rapid Response Architect",
-    "link": "https://digitalnovascotia.com/job-posts/kinaxis-rapid-response-architect/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Lead Duck Creek Product Consultant",
     "link": "https://digitalnovascotia.com/job-posts/lead-duck-creek-product-consultant/",
     "company": "Cognizant",
@@ -206,6 +199,13 @@
     "title": "Senior Full Stack Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-engineer-5/",
     "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate, Paid Search",
+    "link": "https://digitalnovascotia.com/job-posts/associate-paid-search-4/",
+    "company": "Outshine",
     "location": "Halifax",
     "jobType": "Full Time"
   }
