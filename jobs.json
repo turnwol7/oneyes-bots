@@ -1,26 +1,5 @@
 [
   {
-    "title": "Lead Duck Creek Product Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/lead-duck-creek-product-consultant/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Marketing Cloud Consultant (Remote)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-cloud-consultant-remote-10/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Membership and Events Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/membership-and-events-coordinator/",
-    "company": "CB Chamber of Commerce",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Marketing Cloud Solution Architect (Remote)",
     "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-remote-2/",
     "company": "CloudKettle",
@@ -206,6 +185,27 @@
     "title": "Associate, Paid Search",
     "link": "https://digitalnovascotia.com/job-posts/associate-paid-search-4/",
     "company": "Outshine",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate, Paid Social",
+    "link": "https://digitalnovascotia.com/job-posts/associate-paid-social-5/",
+    "company": "Outshine",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Junior Network Analyst – Term",
+    "link": "https://digitalnovascotia.com/job-posts/junior-network-analyst-term/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Temporary"
+  },
+  {
+    "title": "Senior Technologist (Planner)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-technologist-planner/",
+    "company": "NS Power",
     "location": "Halifax",
     "jobType": "Full Time"
   }
