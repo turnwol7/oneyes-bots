@@ -1,47 +1,5 @@
 [
   {
-    "title": "Business Systems Analyst – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-halifax/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Analyst, IT SOX Compliance",
-    "link": "https://digitalnovascotia.com/job-posts/analyst-it-sox-compliance-6/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "IAM Analyst (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/iam-analyst-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Site Release Manager",
-    "link": "https://digitalnovascotia.com/job-posts/site-release-manager/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Technical Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/senior-technical-consultant-2/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Data Modeler",
-    "link": "https://digitalnovascotia.com/job-posts/data-modeler-3/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Kinaxis Rapid Response Architect",
     "link": "https://digitalnovascotia.com/job-posts/kinaxis-rapid-response-architect/",
     "company": "Cognizant",
@@ -207,6 +165,48 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-developer-network-appliance-platform/",
     "company": "Arctic Wolf",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Content Writer (Freelance) – Talent Pool",
+    "link": "https://digitalnovascotia.com/job-posts/content-writer-freelance-talent-pool/",
+    "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Engineer,Platform Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/senior-engineerplatform-engineering/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IT Support Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/it-support-specialist-18/",
+    "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-24/",
+    "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer – Frontend",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-frontend-4/",
+    "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-engineer-5/",
+    "company": "Proposify",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
