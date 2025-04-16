@@ -1,12 +1,5 @@
 [
   {
-    "title": "Software Developer (Java + Python)",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-java-python/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Data Engineering Consultant",
     "link": "https://digitalnovascotia.com/job-posts/data-engineering-consultant-7/",
     "company": "CGI",
@@ -205,6 +198,13 @@
   {
     "title": "Senior Healthcare Business Analyst (Halifax or Fredericton Based)",
     "link": "https://digitalnovascotia.com/job-posts/senior-healthcare-business-analyst-halifax-or-fredericton-based/",
+    "company": "Mara Consulting Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Data Solutions Architect",
+    "link": "https://digitalnovascotia.com/job-posts/senior-data-solutions-architect-4/",
     "company": "Mara Consulting Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
