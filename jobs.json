@@ -1,12 +1,5 @@
 [
   {
-    "title": "Marketing Cloud Solution Architect (Remote)",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-remote-2/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": ".Net Development Lead",
     "link": "https://digitalnovascotia.com/job-posts/net-development-lead/",
     "company": "CGI",
@@ -206,6 +199,13 @@
     "title": "Senior Technologist (Planner)",
     "link": "https://digitalnovascotia.com/job-posts/senior-technologist-planner/",
     "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Manager",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-manager-13/",
+    "company": "Rhyme + Reason",
     "location": "Halifax",
     "jobType": "Full Time"
   }
