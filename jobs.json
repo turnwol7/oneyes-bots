@@ -1,26 +1,5 @@
 [
   {
-    "title": ".Net Development Lead",
-    "link": "https://digitalnovascotia.com/job-posts/net-development-lead/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Junior Java Software Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/junior-java-software-engineer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-59/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Software Developer (Java + Python)",
     "link": "https://digitalnovascotia.com/job-posts/software-developer-java-python/",
     "company": "CGI",
@@ -206,6 +185,27 @@
     "title": "Marketing Manager",
     "link": "https://digitalnovascotia.com/job-posts/marketing-manager-13/",
     "company": "Rhyme + Reason",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Programmatic Manager",
+    "link": "https://digitalnovascotia.com/job-posts/programmatic-manager-3/",
+    "company": "Trampoline",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Graphic Design Intern (Summer 2025)",
+    "link": "https://digitalnovascotia.com/job-posts/graphic-design-intern-summer-2025/",
+    "company": "MDR Strategy Group Ltd.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Healthcare Business Analyst (Halifax or Fredericton Based)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-healthcare-business-analyst-halifax-or-fredericton-based/",
+    "company": "Mara Consulting Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
   }
