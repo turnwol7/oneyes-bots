@@ -1,5 +1,19 @@
 [
   {
+    "title": "Data Engineering Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/data-engineering-consultant-7/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Salesforce Developer",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-developer-10/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "ETL Test Automator (Java/Python/SQL)",
     "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-3/",
     "company": "CGI",
@@ -192,20 +206,6 @@
     "title": "Senior Data Solutions Architect",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-solutions-architect-4/",
     "company": "Mara Consulting Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Service Desk Analyst (Designated Position)",
-    "link": "https://digitalnovascotia.com/job-posts/service-desk-analyst-designated-position/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Manager, Enterprise Applications",
-    "link": "https://digitalnovascotia.com/job-posts/manager-enterprise-applications/",
-    "company": "Dalhousie University",
     "location": "Halifax",
     "jobType": "Full Time"
   }
