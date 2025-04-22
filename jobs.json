@@ -1,26 +1,5 @@
 [
   {
-    "title": "Data Engineering Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/data-engineering-consultant-7/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Salesforce Developer",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-developer-10/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "ETL Test Automator (Java/Python/SQL)",
-    "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-3/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Full Stack Java Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-java-developer-4/",
     "company": "CGI",
@@ -206,6 +185,27 @@
     "title": "Senior Data Solutions Architect",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-solutions-architect-4/",
     "company": "Mara Consulting Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Community Manager",
+    "link": "https://digitalnovascotia.com/job-posts/community-manager/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Vendor Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/vendor-account-manager-2/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Channel Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/channel-account-manager/",
+    "company": "GoSecure",
     "location": "Halifax",
     "jobType": "Full Time"
   }
