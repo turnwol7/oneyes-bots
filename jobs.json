@@ -1,54 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Java Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-java-developer-4/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "SAP MM Consultant with English and French",
-    "link": "https://digitalnovascotia.com/job-posts/sap-mm-consultant-with-english-and-french/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Technical Scheduler/Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/technical-scheduler-coordinator/",
-    "company": "Bulletproof",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Implementation Manager – Bilingual, Spanish speaking",
-    "link": "https://digitalnovascotia.com/job-posts/implementation-manager-bilingual-spanish-speaking/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-48/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Solution Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-24/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-41/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Full Stack Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-59/",
     "company": "Barrington Consulting Group",
@@ -206,6 +157,55 @@
     "title": "Channel Account Manager",
     "link": "https://digitalnovascotia.com/job-posts/channel-account-manager/",
     "company": "GoSecure",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Reddit Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/reddit-specialist/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "B2B Content Marketing Strategist",
+    "link": "https://digitalnovascotia.com/job-posts/b2b-content-marketing-strategist-7/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/account-manager-19/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Content Creator",
+    "link": "https://digitalnovascotia.com/job-posts/content-creator-6/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Content Marketing Manager",
+    "link": "https://digitalnovascotia.com/job-posts/content-marketing-manager-13/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Applied Research Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/applied-research-specialist-2/",
+    "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Director of Digital Marketing",
+    "link": "https://digitalnovascotia.com/job-posts/director-of-digital-marketing-2/",
+    "company": "Foundation Marketing",
     "location": "Halifax",
     "jobType": "Full Time"
   }
