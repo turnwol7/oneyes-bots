@@ -1,33 +1,5 @@
 [
   {
-    "title": "Senior Engineer,Platform Engineering",
-    "link": "https://digitalnovascotia.com/job-posts/senior-engineerplatform-engineering/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "IT Support Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/it-support-specialist-18/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-24/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Software Developer – Frontend",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-frontend-4/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Full Stack Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-engineer-5/",
     "company": "Proposify",
@@ -206,6 +178,34 @@
     "title": "Senior Automation Test Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-automation-test-engineer/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "DevSecOps",
+    "link": "https://digitalnovascotia.com/job-posts/devsecops/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Data Engineering Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/senior-data-engineering-consultant-2/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Control Officer",
+    "link": "https://digitalnovascotia.com/job-posts/project-control-officer-4/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-25/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   }
