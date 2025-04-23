@@ -1,47 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-59/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Product Manager/Senior Digital Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/product-manager-senior-digital-business-analyst-18/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "DevOps Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/devops-engineer-46/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Software Developer – Hardware",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-hardware/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Developer – Network Appliance Platform",
-    "link": "https://digitalnovascotia.com/job-posts/senior-developer-network-appliance-platform/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Content Writer (Freelance) – Talent Pool",
-    "link": "https://digitalnovascotia.com/job-posts/content-writer-freelance-talent-pool/",
-    "company": "Resulta",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Engineer,Platform Engineering",
     "link": "https://digitalnovascotia.com/job-posts/senior-engineerplatform-engineering/",
     "company": "ResMed",
@@ -206,6 +164,48 @@
     "title": "Director of Digital Marketing",
     "link": "https://digitalnovascotia.com/job-posts/director-of-digital-marketing-2/",
     "company": "Foundation Marketing",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Field Marketing Manager",
+    "link": "https://digitalnovascotia.com/job-posts/field-marketing-manager/",
+    "company": "Dash Social",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Director, Performance Marketing",
+    "link": "https://digitalnovascotia.com/job-posts/director-performance-marketing/",
+    "company": "Dash Social",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Oracle and MS SQL Database Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/oracle-and-ms-sql-database-administrator/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Python Automation Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-python-automation-test-engineer-2/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "DNS BlueCat Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/dns-bluecat-engineer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Automation Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-automation-test-engineer/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   }
