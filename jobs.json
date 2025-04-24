@@ -1,75 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-engineer-5/",
-    "company": "Proposify",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Associate, Paid Search",
-    "link": "https://digitalnovascotia.com/job-posts/associate-paid-search-4/",
-    "company": "Outshine",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Associate, Paid Social",
-    "link": "https://digitalnovascotia.com/job-posts/associate-paid-social-5/",
-    "company": "Outshine",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Junior Network Analyst – Term",
-    "link": "https://digitalnovascotia.com/job-posts/junior-network-analyst-term/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Temporary"
-  },
-  {
-    "title": "Senior Technologist (Planner)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-technologist-planner/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Marketing Manager",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-manager-13/",
-    "company": "Rhyme + Reason",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Programmatic Manager",
-    "link": "https://digitalnovascotia.com/job-posts/programmatic-manager-3/",
-    "company": "Trampoline",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Graphic Design Intern (Summer 2025)",
-    "link": "https://digitalnovascotia.com/job-posts/graphic-design-intern-summer-2025/",
-    "company": "MDR Strategy Group Ltd.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Healthcare Business Analyst (Halifax or Fredericton Based)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-healthcare-business-analyst-halifax-or-fredericton-based/",
-    "company": "Mara Consulting Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Data Solutions Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-data-solutions-architect-4/",
-    "company": "Mara Consulting Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Community Manager",
     "link": "https://digitalnovascotia.com/job-posts/community-manager/",
     "company": "Humankind Global Recruitment",
@@ -205,6 +135,76 @@
   {
     "title": "Senior Solution Architect",
     "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-25/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Salesforce Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-project-manager/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-60/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer (Java + Python)",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-java-python-2/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Analyst-Healthcare",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-healthcare-3/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Scrum Master",
+    "link": "https://digitalnovascotia.com/job-posts/scrum-master-16/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Salesforce Business Systems Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-business-systems-analyst/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "FileNet Developer",
+    "link": "https://digitalnovascotia.com/job-posts/filenet-developer-5/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "KOFAX Developer",
+    "link": "https://digitalnovascotia.com/job-posts/kofax-developer-2/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ECM Developer",
+    "link": "https://digitalnovascotia.com/job-posts/ecm-developer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cloud Security Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/cloud-security-specialist-3/",
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
