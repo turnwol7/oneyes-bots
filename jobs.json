@@ -1,82 +1,5 @@
 [
   {
-    "title": "Community Manager",
-    "link": "https://digitalnovascotia.com/job-posts/community-manager/",
-    "company": "Humankind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Vendor Account Manager",
-    "link": "https://digitalnovascotia.com/job-posts/vendor-account-manager-2/",
-    "company": "Humankind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Channel Account Manager",
-    "link": "https://digitalnovascotia.com/job-posts/channel-account-manager/",
-    "company": "GoSecure",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Reddit Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/reddit-specialist/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "B2B Content Marketing Strategist",
-    "link": "https://digitalnovascotia.com/job-posts/b2b-content-marketing-strategist-7/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Account Manager",
-    "link": "https://digitalnovascotia.com/job-posts/account-manager-19/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Content Creator",
-    "link": "https://digitalnovascotia.com/job-posts/content-creator-6/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Content Marketing Manager",
-    "link": "https://digitalnovascotia.com/job-posts/content-marketing-manager-13/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Applied Research Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/applied-research-specialist-2/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Director of Digital Marketing",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-digital-marketing-2/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Field Marketing Manager",
-    "link": "https://digitalnovascotia.com/job-posts/field-marketing-manager/",
-    "company": "Dash Social",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Director, Performance Marketing",
     "link": "https://digitalnovascotia.com/job-posts/director-performance-marketing/",
     "company": "Dash Social",
@@ -206,6 +129,83 @@
     "title": "Cloud Security Specialist",
     "link": "https://digitalnovascotia.com/job-posts/cloud-security-specialist-3/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Coordinator, Creative",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-coordinator-creative/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Graphic & Digital Designer",
+    "link": "https://digitalnovascotia.com/job-posts/graphic-digital-designer/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Intermediate Public Relations and Communications",
+    "link": "https://digitalnovascotia.com/job-posts/intermediate-public-relations-and-communications/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Manager, Communications/Government",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-communications-government/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Writer – Proposal, Grant, Reports",
+    "link": "https://digitalnovascotia.com/job-posts/technical-writer-proposal-grant-reports/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Manager, Content and Marketing Strategist",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-content-and-marketing-strategist/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Ads & Analytics Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/ads-analytics-specialist/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Full Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-35/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Content Producer",
+    "link": "https://digitalnovascotia.com/job-posts/content-producer/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Content Videographer & Editor",
+    "link": "https://digitalnovascotia.com/job-posts/content-videographer-editor/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Enterprise Data Architect",
+    "link": "https://digitalnovascotia.com/job-posts/enterprise-data-architect-2/",
+    "company": "NS Power",
     "location": "Halifax",
     "jobType": "Full Time"
   }
