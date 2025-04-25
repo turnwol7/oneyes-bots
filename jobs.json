@@ -1,33 +1,5 @@
 [
   {
-    "title": "Director, Performance Marketing",
-    "link": "https://digitalnovascotia.com/job-posts/director-performance-marketing/",
-    "company": "Dash Social",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Oracle and MS SQL Database Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/oracle-and-ms-sql-database-administrator/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Python Automation Test Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-python-automation-test-engineer-2/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "DNS BlueCat Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/dns-bluecat-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Automation Test Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-automation-test-engineer/",
     "company": "Cognizant",
@@ -205,6 +177,34 @@
   {
     "title": "Enterprise Data Architect",
     "link": "https://digitalnovascotia.com/job-posts/enterprise-data-architect-2/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Junior Integration Analyst – 12 Months Term",
+    "link": "https://digitalnovascotia.com/job-posts/junior-integration-analyst-12-months-term/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cloud Support Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/cloud-support-specialist/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Intermediate ServiceNow Analyst (2 Positions)",
+    "link": "https://digitalnovascotia.com/job-posts/intermediate-servicenow-analyst-2-positions/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior ServiceNow Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-servicenow-analyst/",
     "company": "NS Power",
     "location": "Halifax",
     "jobType": "Full Time"
