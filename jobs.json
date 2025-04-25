@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Automation Test Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-automation-test-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "DevSecOps",
     "link": "https://digitalnovascotia.com/job-posts/devsecops/",
     "company": "CGI",
@@ -205,6 +198,13 @@
   {
     "title": "Senior ServiceNow Analyst",
     "link": "https://digitalnovascotia.com/job-posts/senior-servicenow-analyst/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SharePoint Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/sharepoint-business-analyst/",
     "company": "NS Power",
     "location": "Halifax",
     "jobType": "Full Time"
