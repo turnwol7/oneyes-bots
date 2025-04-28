@@ -1,33 +1,5 @@
 [
   {
-    "title": "Senior Solution Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-25/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Salesforce Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-project-manager/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-60/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer (Java + Python)",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-java-python-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Business Analyst-Healthcare",
     "link": "https://digitalnovascotia.com/job-posts/business-analyst-healthcare-3/",
     "company": "CGI",
@@ -206,6 +178,34 @@
     "title": "Manager, Engagement",
     "link": "https://digitalnovascotia.com/job-posts/manager-engagement/",
     "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-66/",
+    "company": "ACENET",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SOC Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/soc-analyst/",
+    "company": "Admiral Insurance",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sales Representative – Engineering Services",
+    "link": "https://digitalnovascotia.com/job-posts/sales-representative-engineering-services/",
+    "company": "Employnxt",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Digital Marketing & Analytics Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/digital-marketing-analytics-specialist/",
+    "company": "EfficiencyOne",
     "location": "Halifax",
     "jobType": "Full Time"
   }
