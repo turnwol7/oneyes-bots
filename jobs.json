@@ -1,19 +1,5 @@
 [
   {
-    "title": "FileNet Developer",
-    "link": "https://digitalnovascotia.com/job-posts/filenet-developer-5/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "KOFAX Developer",
-    "link": "https://digitalnovascotia.com/job-posts/kofax-developer-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "ECM Developer",
     "link": "https://digitalnovascotia.com/job-posts/ecm-developer/",
     "company": "CGI",
@@ -207,6 +193,20 @@
     "link": "https://digitalnovascotia.com/job-posts/security-developer-2/",
     "company": "Arctic Wolf",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Digital Editor & Graphic Designer",
+    "link": "https://digitalnovascotia.com/job-posts/digital-editor-graphic-designer/",
+    "company": "Nova Social Media & Marketing",
+    "location": "Cumberland",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Community Champion & Connector",
+    "link": "https://digitalnovascotia.com/job-posts/community-champion-connector/",
+    "company": "Volta",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
