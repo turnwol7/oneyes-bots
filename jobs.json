@@ -1,26 +1,5 @@
 [
   {
-    "title": "Business Analyst-Healthcare",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-healthcare-3/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Scrum Master",
-    "link": "https://digitalnovascotia.com/job-posts/scrum-master-16/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Salesforce Business Systems Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-business-systems-analyst/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "FileNet Developer",
     "link": "https://digitalnovascotia.com/job-posts/filenet-developer-5/",
     "company": "CGI",
@@ -207,6 +186,27 @@
     "link": "https://digitalnovascotia.com/job-posts/digital-marketing-analytics-specialist/",
     "company": "EfficiencyOne",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-67/",
+    "company": "CarteNav",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Manager, Application Security",
+    "link": "https://digitalnovascotia.com/job-posts/manager-application-security-2/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Security Developer",
+    "link": "https://digitalnovascotia.com/job-posts/security-developer-2/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
