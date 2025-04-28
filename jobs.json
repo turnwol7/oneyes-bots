@@ -1,12 +1,5 @@
 [
   {
-    "title": "ECM Developer",
-    "link": "https://digitalnovascotia.com/job-posts/ecm-developer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Cloud Security Specialist",
     "link": "https://digitalnovascotia.com/job-posts/cloud-security-specialist-3/",
     "company": "CGI",
@@ -208,5 +201,12 @@
     "company": "Volta",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing & Communications Intern",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-communications-intern/",
+    "company": "Tribe Network",
+    "location": "Halifax",
+    "jobType": "Internship"
   }
 ]
