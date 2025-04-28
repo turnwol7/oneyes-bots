@@ -1,12 +1,5 @@
 [
   {
-    "title": "Cloud Security Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-security-specialist-3/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Marketing Coordinator, Creative",
     "link": "https://digitalnovascotia.com/job-posts/marketing-coordinator-creative/",
     "company": "Forward Creative",
@@ -208,5 +201,12 @@
     "company": "Tribe Network",
     "location": "Halifax",
     "jobType": "Internship"
+  },
+  {
+    "title": "Director of Sales Growth and Strategy",
+    "link": "https://digitalnovascotia.com/job-posts/director-of-sales-growth-and-strategy/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time"
   }
 ]
