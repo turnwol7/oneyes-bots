@@ -1,26 +1,5 @@
 [
   {
-    "title": "DevSecOps",
-    "link": "https://digitalnovascotia.com/job-posts/devsecops/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Data Engineering Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/senior-data-engineering-consultant-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Project Control Officer",
-    "link": "https://digitalnovascotia.com/job-posts/project-control-officer-4/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Solution Architect",
     "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-25/",
     "company": "CGI",
@@ -205,6 +184,27 @@
   {
     "title": "SharePoint Business Analyst",
     "link": "https://digitalnovascotia.com/job-posts/sharepoint-business-analyst/",
+    "company": "NS Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Brand Manager",
+    "link": "https://digitalnovascotia.com/job-posts/brand-manager-4/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Head of Marketing",
+    "link": "https://digitalnovascotia.com/job-posts/head-of-marketing-2/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Manager, Engagement",
+    "link": "https://digitalnovascotia.com/job-posts/manager-engagement/",
     "company": "NS Power",
     "location": "Halifax",
     "jobType": "Full Time"
