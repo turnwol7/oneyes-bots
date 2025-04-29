@@ -1,12 +1,5 @@
 [
   {
-    "title": "Project Manager, Communications/Government",
-    "link": "https://digitalnovascotia.com/job-posts/project-manager-communications-government/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Technical Writer – Proposal, Grant, Reports",
     "link": "https://digitalnovascotia.com/job-posts/technical-writer-proposal-grant-reports/",
     "company": "Forward Creative",
@@ -206,6 +199,13 @@
     "title": "SEO Specialist",
     "link": "https://digitalnovascotia.com/job-posts/seo-specialist-8/",
     "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Cloud Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-2/",
+    "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time"
   }
