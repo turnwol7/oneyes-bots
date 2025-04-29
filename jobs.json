@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ads & Analytics Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/ads-analytics-specialist/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Full Stack Developer",
     "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-35/",
     "company": "Forward Creative",
@@ -208,5 +201,12 @@
     "company": "TribalScale",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "R&D Software Development Co-op – Summer 2025",
+    "link": "https://digitalnovascotia.com/job-posts/rd-software-development-co-op-summer-2025/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Co-op"
   }
 ]
