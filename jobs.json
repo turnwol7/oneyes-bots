@@ -1,26 +1,5 @@
 [
   {
-    "title": "Marketing Coordinator, Creative",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-coordinator-creative/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Graphic & Digital Designer",
-    "link": "https://digitalnovascotia.com/job-posts/graphic-digital-designer/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Intermediate Public Relations and Communications",
-    "link": "https://digitalnovascotia.com/job-posts/intermediate-public-relations-and-communications/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Project Manager, Communications/Government",
     "link": "https://digitalnovascotia.com/job-posts/project-manager-communications-government/",
     "company": "Forward Creative",
@@ -207,6 +186,27 @@
     "link": "https://digitalnovascotia.com/job-posts/director-of-sales-growth-and-strategy/",
     "company": "Protocase Inc.",
     "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Tech Lead",
+    "link": "https://digitalnovascotia.com/job-posts/tech-lead-4/",
+    "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/software-engineer-29/",
+    "company": "ResMed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SEO Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/seo-specialist-8/",
+    "company": "Resulta",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
