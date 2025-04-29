@@ -1,12 +1,5 @@
 [
   {
-    "title": "Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-35/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Content Producer",
     "link": "https://digitalnovascotia.com/job-posts/content-producer/",
     "company": "Forward Creative",
@@ -208,5 +201,12 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Co-op"
+  },
+  {
+    "title": "Clinical Data Associate / Clinical Data Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/records-management-technician/",
+    "company": "Sparrow BioAcoustics",
+    "location": "Halifax",
+    "jobType": "Full Time"
   }
 ]
