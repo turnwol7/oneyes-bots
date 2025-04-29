@@ -1,12 +1,5 @@
 [
   {
-    "title": "Technical Writer – Proposal, Grant, Reports",
-    "link": "https://digitalnovascotia.com/job-posts/technical-writer-proposal-grant-reports/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Project Manager, Content and Marketing Strategist",
     "link": "https://digitalnovascotia.com/job-posts/project-manager-content-and-marketing-strategist/",
     "company": "Forward Creative",
@@ -206,6 +199,13 @@
     "title": "Marketing Cloud Solution Architect",
     "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-2/",
     "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "DNS BlueCat Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/dns-bluecat-engineer-2/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   }
