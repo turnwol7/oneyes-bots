@@ -1,12 +1,5 @@
 [
   {
-    "title": "Project Manager, Content and Marketing Strategist",
-    "link": "https://digitalnovascotia.com/job-posts/project-manager-content-and-marketing-strategist/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Ads & Analytics Specialist",
     "link": "https://digitalnovascotia.com/job-posts/ads-analytics-specialist/",
     "company": "Forward Creative",
@@ -206,6 +199,13 @@
     "title": "DNS BlueCat Engineer",
     "link": "https://digitalnovascotia.com/job-posts/dns-bluecat-engineer-2/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Roku Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/roku-engineer-3/",
+    "company": "TribalScale",
     "location": "Halifax",
     "jobType": "Full Time"
   }
