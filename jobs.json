@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ads & Analytics Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/ads-analytics-specialist/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Full Stack Developer",
     "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-35/",
     "company": "Forward Creative",
@@ -207,6 +200,13 @@
     "link": "https://digitalnovascotia.com/job-posts/records-management-technician/",
     "company": "Sparrow BioAcoustics",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Asset Management Quality Assurance Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/asset-management-quality-assurance-analyst/",
+    "company": "Compugen",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
