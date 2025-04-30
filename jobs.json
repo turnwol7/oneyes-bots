@@ -1,12 +1,5 @@
 [
   {
-    "title": "Content Videographer & Editor",
-    "link": "https://digitalnovascotia.com/job-posts/content-videographer-editor/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Enterprise Data Architect",
     "link": "https://digitalnovascotia.com/job-posts/enterprise-data-architect-2/",
     "company": "NS Power",
@@ -206,6 +199,13 @@
     "title": "Technical Architect",
     "link": "https://digitalnovascotia.com/job-posts/technical-architect-2/",
     "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior IT Technician",
+    "link": "https://digitalnovascotia.com/job-posts/senior-it-technician-6/",
+    "company": "Robotnik Solutions",
     "location": "Halifax",
     "jobType": "Full Time"
   }
