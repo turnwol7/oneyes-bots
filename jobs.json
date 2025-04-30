@@ -1,12 +1,5 @@
 [
   {
-    "title": "Cloud Support Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-support-specialist/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Intermediate ServiceNow Analyst (2 Positions)",
     "link": "https://digitalnovascotia.com/job-posts/intermediate-servicenow-analyst-2-positions/",
     "company": "NS Power",
@@ -206,6 +199,13 @@
     "title": "Tech Lead",
     "link": "https://digitalnovascotia.com/job-posts/tech-lead-5/",
     "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Solutions Architect",
+    "link": "https://digitalnovascotia.com/job-posts/solutions-architect-11/",
+    "company": "Maplewave",
     "location": "Halifax",
     "jobType": "Full Time"
   }
