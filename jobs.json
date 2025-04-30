@@ -1,12 +1,5 @@
 [
   {
-    "title": "Enterprise Data Architect",
-    "link": "https://digitalnovascotia.com/job-posts/enterprise-data-architect-2/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Junior Integration Analyst – 12 Months Term",
     "link": "https://digitalnovascotia.com/job-posts/junior-integration-analyst-12-months-term/",
     "company": "NS Power",
@@ -206,6 +199,13 @@
     "title": "Senior IT Technician",
     "link": "https://digitalnovascotia.com/job-posts/senior-it-technician-6/",
     "company": "Robotnik Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Junior Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-3/",
+    "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time"
   }
