@@ -1,19 +1,5 @@
 [
   {
-    "title": "Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-35/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Content Producer",
-    "link": "https://digitalnovascotia.com/job-posts/content-producer/",
-    "company": "Forward Creative",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Content Videographer & Editor",
     "link": "https://digitalnovascotia.com/job-posts/content-videographer-editor/",
     "company": "Forward Creative",
@@ -207,6 +193,20 @@
     "link": "https://digitalnovascotia.com/job-posts/asset-management-quality-assurance-analyst/",
     "company": "Compugen",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Consultant – Modern Work",
+    "link": "https://digitalnovascotia.com/job-posts/senior-consultant-modern-work/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Architect",
+    "link": "https://digitalnovascotia.com/job-posts/technical-architect-2/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
