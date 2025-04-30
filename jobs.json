@@ -1,33 +1,5 @@
 [
   {
-    "title": "Junior Integration Analyst – 12 Months Term",
-    "link": "https://digitalnovascotia.com/job-posts/junior-integration-analyst-12-months-term/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Cloud Support Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-support-specialist/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Intermediate ServiceNow Analyst (2 Positions)",
-    "link": "https://digitalnovascotia.com/job-posts/intermediate-servicenow-analyst-2-positions/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior ServiceNow Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-servicenow-analyst/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "SharePoint Business Analyst",
     "link": "https://digitalnovascotia.com/job-posts/sharepoint-business-analyst/",
     "company": "NS Power",
@@ -206,6 +178,34 @@
     "title": "Solutions Architect",
     "link": "https://digitalnovascotia.com/job-posts/solutions-architect-11/",
     "company": "Maplewave",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Marketing Cloud Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-cloud-consultant-2/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Cloud Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-3/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Salesforce Technical Architect",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-technical-architect/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Salesforce Industries Cloud Architect",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-industries-cloud-architect-3/",
+    "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time"
   }
