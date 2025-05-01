@@ -1,19 +1,5 @@
 [
   {
-    "title": "SOC Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/soc-analyst/",
-    "company": "Admiral Insurance",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sales Representative – Engineering Services",
-    "link": "https://digitalnovascotia.com/job-posts/sales-representative-engineering-services/",
-    "company": "Employnxt",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Digital Marketing & Analytics Specialist",
     "link": "https://digitalnovascotia.com/job-posts/digital-marketing-analytics-specialist/",
     "company": "EfficiencyOne",
@@ -206,6 +192,20 @@
     "title": "eComm Management Analyst",
     "link": "https://digitalnovascotia.com/job-posts/ecomm-management-analyst/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer – Frontend",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-frontend-5/",
+    "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-25/",
+    "company": "REDspace Inc",
     "location": "Halifax",
     "jobType": "Full Time"
   }
