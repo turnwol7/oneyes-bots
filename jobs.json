@@ -1,19 +1,5 @@
 [
   {
-    "title": "Community Champion & Connector",
-    "link": "https://digitalnovascotia.com/job-posts/community-champion-connector/",
-    "company": "Volta",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Marketing & Communications Intern",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-communications-intern/",
-    "company": "Tribe Network",
-    "location": "Halifax",
-    "jobType": "Internship"
-  },
-  {
     "title": "Director of Sales Growth and Strategy",
     "link": "https://digitalnovascotia.com/job-posts/director-of-sales-growth-and-strategy/",
     "company": "Protocase Inc.",
@@ -208,5 +194,19 @@
     "company": "Compugen",
     "location": "Provincial",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Fall Co-op – Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/fall-co-op-software-developer/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Co-op"
+  },
+  {
+    "title": "Fall Technical Co-op – Model-Based Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/fall-technical-co-op-model-based-test-engineer/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Co-op"
   }
 ]
