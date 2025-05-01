@@ -1,19 +1,5 @@
 [
   {
-    "title": "Digital Marketing & Analytics Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/digital-marketing-analytics-specialist/",
-    "company": "EfficiencyOne",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Security Developer",
-    "link": "https://digitalnovascotia.com/job-posts/security-developer-2/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Community Champion & Connector",
     "link": "https://digitalnovascotia.com/job-posts/community-champion-connector/",
     "company": "Volta",
@@ -207,6 +193,20 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-25/",
     "company": "REDspace Inc",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IT Services Manager",
+    "link": "https://digitalnovascotia.com/job-posts/it-services-manager/",
+    "company": "CyberClan",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Billingual Data Protection Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/billingual-data-protection-analyst/",
+    "company": "Compugen",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
