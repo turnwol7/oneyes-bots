@@ -1,40 +1,5 @@
 [
   {
-    "title": "SharePoint Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/sharepoint-business-analyst/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Brand Manager",
-    "link": "https://digitalnovascotia.com/job-posts/brand-manager-4/",
-    "company": "Humankind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Head of Marketing",
-    "link": "https://digitalnovascotia.com/job-posts/head-of-marketing-2/",
-    "company": "Humankind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Manager, Engagement",
-    "link": "https://digitalnovascotia.com/job-posts/manager-engagement/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/project-manager-66/",
-    "company": "ACENET",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "SOC Analyst",
     "link": "https://digitalnovascotia.com/job-posts/soc-analyst/",
     "company": "Admiral Insurance",
@@ -126,7 +91,7 @@
     "jobType": "Co-op"
   },
   {
-    "title": "Clinical Data Associate / Clinical Data Specialist",
+    "title": "Clinical Data Specialist",
     "link": "https://digitalnovascotia.com/job-posts/records-management-technician/",
     "company": "Sparrow BioAcoustics",
     "location": "Halifax",
@@ -206,6 +171,41 @@
     "title": "Salesforce Industries Cloud Architect",
     "link": "https://digitalnovascotia.com/job-posts/salesforce-industries-cloud-architect-3/",
     "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full Stack Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-engineer-6/",
+    "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Development Engineer – Full Stack",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-full-stack/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Application Support Analyst, GFT",
+    "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cybersecurity GRC Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/cybersecurity-grc-analyst/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "eComm Management Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/ecomm-management-analyst/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   }
