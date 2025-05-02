@@ -1,12 +1,5 @@
 [
   {
-    "title": "SOC Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/soc-analyst-2/",
-    "company": "Admiral Insurance",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Tech Lead",
     "link": "https://digitalnovascotia.com/job-posts/tech-lead-4/",
     "company": "Proposify",
@@ -182,7 +175,7 @@
     "jobType": "Full Time"
   },
   {
-    "title": "Billingual Data Protection Analyst",
+    "title": "Bilingual Data Protection Analyst",
     "link": "https://digitalnovascotia.com/job-posts/billingual-data-protection-analyst/",
     "company": "Compugen",
     "location": "Provincial",
@@ -206,6 +199,13 @@
     "title": "Content Marketing Strategist",
     "link": "https://digitalnovascotia.com/job-posts/content-marketing-strategist-6/",
     "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Manager, Cloud Applications",
+    "link": "https://digitalnovascotia.com/job-posts/manager-cloud-applications/",
+    "company": "NS Power",
     "location": "Halifax",
     "jobType": "Full Time"
   }
