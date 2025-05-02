@@ -1,12 +1,5 @@
 [
   {
-    "title": "Director of Sales Growth and Strategy",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-sales-growth-and-strategy/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
     "title": "SOC Analyst",
     "link": "https://digitalnovascotia.com/job-posts/soc-analyst-2/",
     "company": "Admiral Insurance",
@@ -208,5 +201,12 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op"
+  },
+  {
+    "title": "Content Marketing Strategist",
+    "link": "https://digitalnovascotia.com/job-posts/content-marketing-strategist-6/",
+    "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time"
   }
 ]
