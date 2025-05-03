@@ -1,5 +1,12 @@
 [
   {
+    "title": "SOC Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/soc-analyst-2/",
+    "company": "Admiral Insurance",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Tech Lead",
     "link": "https://digitalnovascotia.com/job-posts/tech-lead-4/",
     "company": "Proposify",
@@ -17,13 +24,6 @@
     "title": "SEO Specialist",
     "link": "https://digitalnovascotia.com/job-posts/seo-specialist-8/",
     "company": "Resulta",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "DNS BlueCat Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/dns-bluecat-engineer-2/",
-    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   },
