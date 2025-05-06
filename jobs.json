@@ -1,12 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/software-engineer-29/",
-    "company": "ResMed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "SEO Specialist",
     "link": "https://digitalnovascotia.com/job-posts/seo-specialist-8/",
     "company": "Resulta",
@@ -206,6 +199,13 @@
     "title": "Senior Software Developer – Big Data, GFT",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-big-data-gft-4/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Manager of Broadcast Sales",
+    "link": "https://digitalnovascotia.com/job-posts/manager-of-broadcast-sales/",
+    "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time"
   }
