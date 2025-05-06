@@ -1,12 +1,5 @@
 [
   {
-    "title": "SEO Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/seo-specialist-8/",
-    "company": "Resulta",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "R&D Software Development Co-op – Summer 2025",
     "link": "https://digitalnovascotia.com/job-posts/rd-software-development-co-op-summer-2025/",
     "company": "Protocase Inc.",
@@ -205,6 +198,13 @@
   {
     "title": "Manager of Broadcast Sales",
     "link": "https://digitalnovascotia.com/job-posts/manager-of-broadcast-sales/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer – Enterprise Architecture",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-enterprise-architecture/",
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time"
