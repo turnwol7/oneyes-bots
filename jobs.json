@@ -1,19 +1,5 @@
 [
   {
-    "title": "Asset Management Quality Assurance Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/asset-management-quality-assurance-analyst/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Consultant – Modern Work",
-    "link": "https://digitalnovascotia.com/job-posts/senior-consultant-modern-work/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Technical Architect",
     "link": "https://digitalnovascotia.com/job-posts/technical-architect-2/",
     "company": "Mariner Partners Inc.",
@@ -206,6 +192,20 @@
     "title": "Senior Project Manager – Synchronous Condensers",
     "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-synchronous-condensers/",
     "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SQL Database Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/sql-database-administrator/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Azure Data Engineer with Snowflake",
+    "link": "https://digitalnovascotia.com/job-posts/azure-data-engineer-with-snowflake/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   }
