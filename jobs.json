@@ -1,33 +1,5 @@
 [
   {
-    "title": "Technical Architect",
-    "link": "https://digitalnovascotia.com/job-posts/technical-architect-2/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior IT Technician",
-    "link": "https://digitalnovascotia.com/job-posts/senior-it-technician-6/",
-    "company": "Robotnik Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Junior Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-3/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Tech Lead",
-    "link": "https://digitalnovascotia.com/job-posts/tech-lead-5/",
-    "company": "Proposify",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Solutions Architect",
     "link": "https://digitalnovascotia.com/job-posts/solutions-architect-11/",
     "company": "Maplewave",
@@ -208,5 +180,33 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Senior AWS Engineer- Serverless Framework",
+    "link": "https://digitalnovascotia.com/job-posts/senior-aws-engineer-serverless-framework/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ServiceNow Technical Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/servicenow-technical-consultant/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Cloud Economist – FinOps",
+    "link": "https://digitalnovascotia.com/job-posts/lead-cloud-economist-finops/",
+    "company": "Arctic Wolf",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Site Reliability Engineer – DevOps – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-site-reliability-engineer-devops-halifax/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full TimeFeatured Job"
   }
 ]
