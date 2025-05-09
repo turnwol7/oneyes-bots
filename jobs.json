@@ -1,5 +1,12 @@
 [
   {
+    "title": "Junior Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-3/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Tech Lead",
     "link": "https://digitalnovascotia.com/job-posts/tech-lead-5/",
     "company": "Proposify",
@@ -193,13 +200,6 @@
     "link": "https://digitalnovascotia.com/job-posts/servicenow-technical-consultant/",
     "company": "Cognizant",
     "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Lead Cloud Economist – FinOps",
-    "link": "https://digitalnovascotia.com/job-posts/lead-cloud-economist-finops/",
-    "company": "Arctic Wolf",
-    "location": "Provincial",
     "jobType": "Full Time"
   },
   {
