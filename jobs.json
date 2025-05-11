@@ -1,5 +1,12 @@
 [
   {
+    "title": "Senior IT Technician",
+    "link": "https://digitalnovascotia.com/job-posts/senior-it-technician-6/",
+    "company": "Robotnik Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Junior Software Developer",
     "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-3/",
     "company": "Lockheed Martin Canada",
@@ -66,13 +73,6 @@
     "title": "Application Support Analyst, GFT",
     "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft/",
     "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Cybersecurity GRC Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/cybersecurity-grc-analyst/",
-    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   },
