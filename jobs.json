@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior IT Technician",
-    "link": "https://digitalnovascotia.com/job-posts/senior-it-technician-6/",
-    "company": "Robotnik Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Junior Software Developer",
     "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-3/",
     "company": "Lockheed Martin Canada",
@@ -199,6 +192,13 @@
     "title": "ServiceNow Technical Consultant",
     "link": "https://digitalnovascotia.com/job-posts/servicenow-technical-consultant/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-halifax/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
