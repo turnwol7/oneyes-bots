@@ -1,12 +1,5 @@
 [
   {
-    "title": "Junior Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-3/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Tech Lead",
     "link": "https://digitalnovascotia.com/job-posts/tech-lead-5/",
     "company": "Proposify",
@@ -199,6 +192,13 @@
     "title": "Senior Software Developer – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-halifax/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Databricks AI Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/databricks-ai-engineer-2/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   },
