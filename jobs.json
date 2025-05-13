@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Marketing Cloud Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-cloud-consultant-2/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Marketing Cloud Solution Architect",
     "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-3/",
     "company": "CloudKettle",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/resource-innovation-specialist/",
     "company": "Protocase Inc.",
     "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Security Technician",
+    "link": "https://digitalnovascotia.com/job-posts/senior-security-technician-3/",
+    "company": "Cabco Communications",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
