@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tech Lead",
-    "link": "https://digitalnovascotia.com/job-posts/tech-lead-5/",
-    "company": "Proposify",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Solutions Architect",
     "link": "https://digitalnovascotia.com/job-posts/solutions-architect-11/",
     "company": "Maplewave",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/cypress-qa-automation-engineer/",
     "company": "Cognizant",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "45Drives Mechanical Server Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/45drives-mechanical-server-engineer/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
     "jobType": "Full Time"
   },
   {
