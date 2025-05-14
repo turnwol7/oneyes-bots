@@ -1,12 +1,5 @@
 [
   {
-    "title": "Salesforce Technical Architect",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-technical-architect/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Salesforce Industries Cloud Architect",
     "link": "https://digitalnovascotia.com/job-posts/salesforce-industries-cloud-architect-3/",
     "company": "CloudKettle",
@@ -199,6 +192,13 @@
     "title": "Senior Communications Cabling Technician",
     "link": "https://digitalnovascotia.com/job-posts/senior-communications-cabling-technician-3/",
     "company": "Cabco Communications",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Salesforce Developer",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-developer-12/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   },
