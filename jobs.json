@@ -1,12 +1,5 @@
 [
   {
-    "title": "Salesforce Industries Cloud Architect",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-industries-cloud-architect-3/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Full Stack Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-engineer-6/",
     "company": "Proposify",
@@ -199,6 +192,13 @@
     "title": "Azure Integration Developer",
     "link": "https://digitalnovascotia.com/job-posts/azure-integration-developer-2/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Systems Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/technical-systems-analyst-4/",
+    "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time"
   },
