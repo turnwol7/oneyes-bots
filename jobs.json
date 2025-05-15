@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-engineer-6/",
-    "company": "Proposify",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Development Engineer – Full Stack",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-full-stack/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Application Support Analyst, GFT",
     "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft/",
     "company": "RBC Technology & Operations",
@@ -199,6 +185,20 @@
     "title": "Technical Systems Analyst",
     "link": "https://digitalnovascotia.com/job-posts/technical-systems-analyst-4/",
     "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "E-Commerce & Webstore Manager",
+    "link": "https://digitalnovascotia.com/job-posts/e-commerce-webstore-manager-2/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "GE Application Support Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/ge-application-support-analyst-2/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
