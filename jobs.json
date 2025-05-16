@@ -1,19 +1,5 @@
 [
   {
-    "title": "Software Development Engineer – Full Stack",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-full-stack/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Application Support Analyst, GFT",
-    "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Software Developer – Frontend",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-frontend-5/",
     "company": "REDspace Inc",
@@ -201,6 +187,20 @@
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Network Data Comm Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/network-data-comm-analyst/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Fall Co-op – DevSecOps Developer – CSC",
+    "link": "https://digitalnovascotia.com/job-posts/fall-co-op-devsecops-developer-csc/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Co-op"
   },
   {
     "title": "Senior Site Reliability Engineer – DevOps – Halifax",
