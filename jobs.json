@@ -1,5 +1,19 @@
 [
   {
+    "title": "Software Development Engineer – Full Stack",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-full-stack/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Application Support Analyst, GFT",
+    "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Senior Software Developer – Frontend",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-frontend-5/",
     "company": "REDspace Inc",
@@ -49,13 +63,6 @@
     "jobType": "Full Time"
   },
   {
-    "title": "Manager, Cloud Applications",
-    "link": "https://digitalnovascotia.com/job-posts/manager-cloud-applications/",
-    "company": "NS Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "ETL Test Automator (Java/Python/SQL)",
     "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-4/",
     "company": "CGI",
@@ -66,13 +73,6 @@
     "title": "Network Security Engineer",
     "link": "https://digitalnovascotia.com/job-posts/network-security-engineer-5/",
     "company": "Admiral Insurance",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Software Developer – Big Data, GFT",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-big-data-gft-4/",
-    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
