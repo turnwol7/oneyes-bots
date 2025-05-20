@@ -1,26 +1,5 @@
 [
   {
-    "title": "Software Development Engineer – Full Stack",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-full-stack/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Application Support Analyst, GFT",
-    "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Software Developer – Frontend",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-frontend-5/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Software Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-25/",
     "company": "REDspace Inc",
@@ -201,6 +180,27 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op"
+  },
+  {
+    "title": "Manual QA Engineer – API & Cloud Testing",
+    "link": "https://digitalnovascotia.com/job-posts/manual-qa-engineer-api-cloud-testing/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Staff Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-staff-software-development-engineer-2/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/technical-account-manager-6/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
   },
   {
     "title": "Senior Site Reliability Engineer – DevOps – Halifax",
