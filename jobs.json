@@ -1,12 +1,5 @@
 [
   {
-    "title": "IT Services Manager",
-    "link": "https://digitalnovascotia.com/job-posts/it-services-manager/",
-    "company": "CyberClan",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Bilingual Data Protection Analyst",
     "link": "https://digitalnovascotia.com/job-posts/billingual-data-protection-analyst/",
     "company": "Compugen",
@@ -199,6 +192,13 @@
     "title": "Creative Producer",
     "link": "https://digitalnovascotia.com/job-posts/creative-producer/",
     "company": "threesixfive",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Regional Account Manager, Mid-Market",
+    "link": "https://digitalnovascotia.com/job-posts/regional-account-manager-mid-market/",
+    "company": "Fortinet",
     "location": "Halifax",
     "jobType": "Full Time"
   },
