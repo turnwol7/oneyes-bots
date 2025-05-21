@@ -1,12 +1,5 @@
 [
   {
-    "title": "Bilingual Data Protection Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/billingual-data-protection-analyst/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Fall Co-op – Software Developer",
     "link": "https://digitalnovascotia.com/job-posts/fall-co-op-software-developer/",
     "company": "Lockheed Martin Canada",
@@ -199,6 +192,13 @@
     "title": "Regional Account Manager, Mid-Market",
     "link": "https://digitalnovascotia.com/job-posts/regional-account-manager-mid-market/",
     "company": "Fortinet",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior RPA Developer – GFT",
+    "link": "https://digitalnovascotia.com/job-posts/senior-rpa-developer-gft-3/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
