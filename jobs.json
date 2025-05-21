@@ -1,12 +1,5 @@
 [
   {
-    "title": "Fall Co-op – Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/fall-co-op-software-developer/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Co-op"
-  },
-  {
     "title": "Fall Technical Co-op – Model-Based Test Engineer",
     "link": "https://digitalnovascotia.com/job-posts/fall-technical-co-op-model-based-test-engineer/",
     "company": "Lockheed Martin Canada",
@@ -136,6 +129,13 @@
     "title": "GE Application Support Analyst",
     "link": "https://digitalnovascotia.com/job-posts/ge-application-support-analyst-2/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Development Representative",
+    "link": "https://digitalnovascotia.com/job-posts/business-development-representative-25/",
+    "company": "Fortinet",
     "location": "Halifax",
     "jobType": "Full Time"
   },
