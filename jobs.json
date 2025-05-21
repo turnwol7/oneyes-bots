@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-25/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "IT Services Manager",
     "link": "https://digitalnovascotia.com/job-posts/it-services-manager/",
     "company": "CyberClan",
@@ -199,6 +192,13 @@
     "title": "Technical Account Manager",
     "link": "https://digitalnovascotia.com/job-posts/technical-account-manager-6/",
     "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Creative Producer",
+    "link": "https://digitalnovascotia.com/job-posts/creative-producer/",
+    "company": "threesixfive",
     "location": "Halifax",
     "jobType": "Full Time"
   },
