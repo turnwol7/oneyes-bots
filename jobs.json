@@ -1,5 +1,12 @@
 [
   {
+    "title": "Content Marketing Strategist",
+    "link": "https://digitalnovascotia.com/job-posts/content-marketing-strategist-6/",
+    "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "ETL Test Automator (Java/Python/SQL)",
     "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-4/",
     "company": "CGI",
@@ -201,12 +208,5 @@
     "company": "",
     "location": "Halifax",
     "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Site Reliability Engineer – DevOps – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-site-reliability-engineer-devops-halifax/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full TimeFeatured Job"
   }
 ]
