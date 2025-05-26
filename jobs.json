@@ -1,12 +1,5 @@
 [
   {
-    "title": "ETL Test Automator (Java/Python/SQL)",
-    "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-4/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Network Security Engineer",
     "link": "https://digitalnovascotia.com/job-posts/network-security-engineer-5/",
     "company": "Admiral Insurance",
@@ -206,6 +199,13 @@
     "title": "Databricks AI Engineer",
     "link": "https://digitalnovascotia.com/job-posts/databricks-ai-engineer-2/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Staff Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer-2/",
+    "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time"
   }
