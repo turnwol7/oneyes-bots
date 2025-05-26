@@ -1,12 +1,5 @@
 [
   {
-    "title": "Network Security Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/network-security-engineer-5/",
-    "company": "Admiral Insurance",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Manager of Broadcast Sales",
     "link": "https://digitalnovascotia.com/job-posts/manager-of-broadcast-sales/",
     "company": "Venor Search Group",
@@ -206,6 +199,13 @@
     "title": "Staff Software Development Engineer",
     "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer-2/",
     "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Administrative Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/senior-administrative-coordinator/",
+    "company": "EfficiencyOne",
     "location": "Halifax",
     "jobType": "Full Time"
   }
