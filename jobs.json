@@ -1,19 +1,5 @@
 [
   {
-    "title": "Creative Producer",
-    "link": "https://digitalnovascotia.com/job-posts/creative-producer/",
-    "company": "threesixfive",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Technical Product Manager",
-    "link": "https://digitalnovascotia.com/job-posts/technical-product-manager-24/",
-    "company": "Global Relay",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Marketing Cloud Solution Architect (Remote)",
     "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-remote-3/",
     "company": "Cloudkettle",
@@ -206,6 +192,20 @@
     "title": "Senior Administrative Coordinator",
     "link": "https://digitalnovascotia.com/job-posts/senior-administrative-coordinator/",
     "company": "EfficiencyOne",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Customer Insights & Innovation Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/customer-insights-innovation-analyst/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Site Reliability Engineer – DevOps – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-site-reliability-engineer-devops-halifax-2/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   }
