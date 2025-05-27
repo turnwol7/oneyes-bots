@@ -1,12 +1,5 @@
 [
   {
-    "title": "ServiceNow Technical Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/servicenow-technical-consultant/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Software Developer – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-halifax/",
     "company": "RBC Technology & Operations",
@@ -149,7 +142,14 @@
   {
     "title": "Senior Data Analyst – 12-Month Fixed-Term Contract",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-analyst-12-month-fixed-term-contract/",
-    "company": "",
+    "company": "Legend",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Staff Software Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/staff-software-engineer-9/",
+    "company": "VERB Interactive inc",
     "location": "Halifax",
     "jobType": "Full Time"
   },
