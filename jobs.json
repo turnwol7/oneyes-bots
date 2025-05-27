@@ -1,89 +1,5 @@
 [
   {
-    "title": "Senior Software Developer – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-halifax/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Cypress QA Automation Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/cypress-qa-automation-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "45Drives Mechanical Server Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/45drives-mechanical-server-engineer/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Security Technician",
-    "link": "https://digitalnovascotia.com/job-posts/senior-security-technician-3/",
-    "company": "Cabco Communications",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Communications Cabling Technician",
-    "link": "https://digitalnovascotia.com/job-posts/senior-communications-cabling-technician-3/",
-    "company": "Cabco Communications",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Salesforce Developer",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-developer-12/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Azure Integration Developer",
-    "link": "https://digitalnovascotia.com/job-posts/azure-integration-developer-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Security Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-security-analyst-2/",
-    "company": "Admiral Insurance",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Technical Systems Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/technical-systems-analyst-4/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "GE Application Support Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/ge-application-support-analyst-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Java Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-32/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Network Data Comm Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/network-data-comm-analyst/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Fall Co-op – DevSecOps Developer – CSC",
     "link": "https://digitalnovascotia.com/job-posts/fall-co-op-devsecops-developer-csc/",
     "company": "Lockheed Martin Canada",
@@ -133,6 +49,13 @@
     "jobType": "Full Time"
   },
   {
+    "title": "Director of Advanced Technology Solutions",
+    "link": "https://digitalnovascotia.com/job-posts/director-of-advanced-technology-solutions/",
+    "company": "Nortal",
+    "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Software Development Engineer in Test",
     "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-in-test-6/",
     "company": "BeyondTrust",
@@ -143,6 +66,83 @@
     "title": "Senior Data Analyst – 12-Month Fixed-Term Contract",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-analyst-12-month-fixed-term-contract/",
     "company": "Legend",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Lead, Corporate Initiatives (Maternity Leave Opportunity)",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-lead-corporate-initiatives-maternity-leave-opportunity/",
+    "company": "EfficiencyOne",
+    "location": "Nova Scotia",
+    "jobType": "Temporary"
+  },
+  {
+    "title": "Web Designer",
+    "link": "https://digitalnovascotia.com/job-posts/web-designer-3/",
+    "company": "WBC Designs",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Staff Software Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/staff-software-engineer-8/",
+    "company": "VERB Interactive inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Internship/Co-op",
+    "link": "https://digitalnovascotia.com/job-posts/internship-co-op/",
+    "company": "Protocase Inc",
+    "location": "Nova Scotia",
+    "jobType": "Co-op"
+  },
+  {
+    "title": "UX Designer",
+    "link": "https://digitalnovascotia.com/job-posts/ux-designer-16/",
+    "company": "VERB Interactive inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior DevOps Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-devops-developer/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Tech Support Services Analyst (Shift: 7:00 AM to 1:00 PM AST)",
+    "link": "https://digitalnovascotia.com/job-posts/tech-support-services-analyst-shift-700-am-to-100-pm-ast/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Part Time"
+  },
+  {
+    "title": "Tech Support Services Analyst (Shift: 1:00 PM – 7:00 PM AST)",
+    "link": "https://digitalnovascotia.com/job-posts/tech-support-services-analyst-shift-100-pm-700-pm-ast/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Part Time"
+  },
+  {
+    "title": "ServiceNow SPM Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/servicenow-spm-consultant/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Enterprise Architect",
+    "link": "https://digitalnovascotia.com/job-posts/senior-enterprise-architect-4/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Web Developer",
+    "link": "https://digitalnovascotia.com/job-posts/web-developer-21/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   },
