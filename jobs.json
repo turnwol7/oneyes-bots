@@ -1,40 +1,5 @@
 [
   {
-    "title": "Senior RPA Developer – GFT",
-    "link": "https://digitalnovascotia.com/job-posts/senior-rpa-developer-gft-3/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Service Desk Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/service-desk-analyst-13/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "ServiceNow Solution Architect – Service Portal, CoE",
-    "link": "https://digitalnovascotia.com/job-posts/servicenow-solution-architect-service-portal-coe-2/",
-    "company": "Cognizant",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Director of Advanced Technology Solutions",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-advanced-technology-solutions/",
-    "company": "Nortal",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Development Engineer in Test",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-in-test-6/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Data Analyst – 12-Month Fixed-Term Contract",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-analyst-12-month-fixed-term-contract/",
     "company": "Legend",
@@ -207,6 +172,41 @@
     "link": "https://digitalnovascotia.com/job-posts/media-associate/",
     "company": "Change Makers",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cloud Security Expert",
+    "link": "https://digitalnovascotia.com/job-posts/cloud-security-expert/",
+    "company": "Bulletproof Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Practice Lead, Cybersecurity – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/practice-lead-cybersecurity-halifax/",
+    "company": "Bulletproof Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Network Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-network-analyst-5/",
+    "company": "Bulletproof Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Performance & Automated Test Specialist – Remote",
+    "link": "https://digitalnovascotia.com/job-posts/performance-automated-test-specialist-remote/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Administrator Coordinator – Remote",
+    "link": "https://digitalnovascotia.com/job-posts/project-administrator-coordinator-remote/",
+    "company": "Compugen",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
