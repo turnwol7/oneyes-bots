@@ -1,12 +1,5 @@
 [
   {
-    "title": "Regional Account Manager, Mid-Market",
-    "link": "https://digitalnovascotia.com/job-posts/regional-account-manager-mid-market/",
-    "company": "Fortinet",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior RPA Developer – GFT",
     "link": "https://digitalnovascotia.com/job-posts/senior-rpa-developer-gft-3/",
     "company": "RBC Technology & Operations",
@@ -206,6 +199,13 @@
     "title": "Data Delivery Lead – Cloud Data Platforms",
     "link": "https://digitalnovascotia.com/job-posts/data-delivery-lead-cloud-data-platforms/",
     "company": "Axis Capital",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Media Associate",
+    "link": "https://digitalnovascotia.com/job-posts/media-associate/",
+    "company": "Change Makers",
     "location": "Halifax",
     "jobType": "Full Time"
   }
