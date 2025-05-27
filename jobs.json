@@ -1,40 +1,5 @@
 [
   {
-    "title": "Manager of Broadcast Sales",
-    "link": "https://digitalnovascotia.com/job-posts/manager-of-broadcast-sales/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Software Developer – Enterprise Architecture",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-enterprise-architecture/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "SQL Database Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/sql-database-administrator/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Azure Data Engineer with Snowflake",
-    "link": "https://digitalnovascotia.com/job-posts/azure-data-engineer-with-snowflake/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior AWS Engineer- Serverless Framework",
-    "link": "https://digitalnovascotia.com/job-posts/senior-aws-engineer-serverless-framework/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "ServiceNow Technical Consultant",
     "link": "https://digitalnovascotia.com/job-posts/servicenow-technical-consultant/",
     "company": "Cognizant",
@@ -189,11 +154,46 @@
     "jobType": "Full Time"
   },
   {
+    "title": "Director, Performance Marketing",
+    "link": "https://digitalnovascotia.com/job-posts/director-performance-marketing-2/",
+    "company": "Dash Social",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IT & Security Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/it-security-analyst-2/",
+    "company": "Cloudkettle",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cape Breton Operations & Events Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/cape-breton-operations-events-coordinator/",
+    "company": "Ignite Atlantic",
+    "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Databricks AI Engineer",
     "link": "https://digitalnovascotia.com/job-posts/databricks-ai-engineer-2/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Engineer, Software Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/senior-engineersoftware-engineering/",
+    "company": "Resmed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Data Architect – Kafka & PySpark",
+    "link": "https://digitalnovascotia.com/job-posts/lead-data-architect-kafka-pyspark/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Freelance"
   },
   {
     "title": "Staff Software Development Engineer",
