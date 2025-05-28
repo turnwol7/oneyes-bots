@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior DevOps Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-devops-developer/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Tech Support Services Analyst (Shift: 7:00 AM to 1:00 PM AST)",
-    "link": "https://digitalnovascotia.com/job-posts/tech-support-services-analyst-shift-700-am-to-100-pm-ast/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Part Time"
-  },
-  {
     "title": "Tech Support Services Analyst (Shift: 1:00 PM – 7:00 PM AST)",
     "link": "https://digitalnovascotia.com/job-posts/tech-support-services-analyst-shift-100-pm-700-pm-ast/",
     "company": "RBC Technology & Operations",
@@ -208,5 +194,19 @@
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Junior Workflow Content Creator",
+    "link": "https://digitalnovascotia.com/job-posts/junior-workflow-content-creator/",
+    "company": "QuickFacts",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Quality Engineer (6 Month Contract)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-quality-engineer-6-month-contract/",
+    "company": "Introhive",
+    "location": "Remote",
+    "jobType": "Temporary"
   }
 ]
