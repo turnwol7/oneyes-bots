@@ -1,12 +1,5 @@
 [
   {
-    "title": "Staff Software Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/staff-software-engineer-8/",
-    "company": "VERB Interactive inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Internship/Co-op",
     "link": "https://digitalnovascotia.com/job-posts/internship-co-op/",
     "company": "Protocase Inc",
@@ -206,6 +199,13 @@
     "title": "Sales and Marketing",
     "link": "https://digitalnovascotia.com/job-posts/sales-and-marketing/",
     "company": "WBC Designs",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Change Management Consultant (Future Opportunities)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-change-management-consultant-future-opportunities-3/",
+    "company": "Mariner Partners",
     "location": "Halifax",
     "jobType": "Full Time"
   }
