@@ -1,12 +1,5 @@
 [
   {
-    "title": "Tech Support Services Analyst (Shift: 1:00 PM – 7:00 PM AST)",
-    "link": "https://digitalnovascotia.com/job-posts/tech-support-services-analyst-shift-100-pm-700-pm-ast/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Part Time"
-  },
-  {
     "title": "ServiceNow SPM Consultant",
     "link": "https://digitalnovascotia.com/job-posts/servicenow-spm-consultant/",
     "company": "CGI",
@@ -208,5 +201,12 @@
     "company": "Introhive",
     "location": "Remote",
     "jobType": "Temporary"
+  },
+  {
+    "title": "QE Senior Manager",
+    "link": "https://digitalnovascotia.com/job-posts/qe-senior-manager/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
   }
 ]
