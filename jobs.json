@@ -1,19 +1,5 @@
 [
   {
-    "title": "ServiceNow SPM Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/servicenow-spm-consultant/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Enterprise Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-enterprise-architect-4/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Web Developer",
     "link": "https://digitalnovascotia.com/job-posts/web-developer-21/",
     "company": "CGI",
@@ -206,6 +192,20 @@
     "title": "QE Senior Manager",
     "link": "https://digitalnovascotia.com/job-posts/qe-senior-manager/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Okta Developer",
+    "link": "https://digitalnovascotia.com/job-posts/okta-developer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Automation Engineer with JavaScript – WebdriverIO/Playwright",
+    "link": "https://digitalnovascotia.com/job-posts/senior-automation-engineer-with-javascript-webdriverio-playwright/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   }
