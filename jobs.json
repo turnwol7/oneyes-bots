@@ -1,12 +1,5 @@
 [
   {
-    "title": "Marketing Lead, Corporate Initiatives (Maternity Leave Opportunity)",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-lead-corporate-initiatives-maternity-leave-opportunity/",
-    "company": "EfficiencyOne",
-    "location": "Nova Scotia",
-    "jobType": "Temporary"
-  },
-  {
     "title": "Web Designer",
     "link": "https://digitalnovascotia.com/job-posts/web-designer-3/",
     "company": "WBC Designs",
@@ -208,5 +201,12 @@
     "company": "Compugen",
     "location": "Provincial",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Scheduler/Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/3491117-2/",
+    "company": "Bulletproof Solutions",
+    "location": "Halifax",
+    "jobType": "Temporary"
   }
 ]
