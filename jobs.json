@@ -1,12 +1,5 @@
 [
   {
-    "title": "UX Designer",
-    "link": "https://digitalnovascotia.com/job-posts/ux-designer-16/",
-    "company": "VERB Interactive inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior DevOps Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-devops-developer/",
     "company": "RBC Technology & Operations",
@@ -207,6 +200,13 @@
     "link": "https://digitalnovascotia.com/job-posts/sr-manager-cloud-operations/",
     "company": "BeyondTrust",
     "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Customer Insights & Innovation Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/customer-insights-innovation-analyst-2/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
