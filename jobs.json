@@ -1,12 +1,5 @@
 [
   {
-    "title": "Web Designer",
-    "link": "https://digitalnovascotia.com/job-posts/web-designer-3/",
-    "company": "WBC Designs",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Staff Software Engineer",
     "link": "https://digitalnovascotia.com/job-posts/staff-software-engineer-8/",
     "company": "VERB Interactive inc",
@@ -208,5 +201,12 @@
     "company": "Bulletproof Solutions",
     "location": "Halifax",
     "jobType": "Temporary"
+  },
+  {
+    "title": "Sales and Marketing",
+    "link": "https://digitalnovascotia.com/job-posts/sales-and-marketing/",
+    "company": "WBC Designs",
+    "location": "Halifax",
+    "jobType": "Full Time"
   }
 ]
