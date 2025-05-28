@@ -1,12 +1,5 @@
 [
   {
-    "title": "Internship/Co-op",
-    "link": "https://digitalnovascotia.com/job-posts/internship-co-op/",
-    "company": "Protocase Inc",
-    "location": "Nova Scotia",
-    "jobType": "Co-op"
-  },
-  {
     "title": "UX Designer",
     "link": "https://digitalnovascotia.com/job-posts/ux-designer-16/",
     "company": "VERB Interactive inc",
@@ -207,6 +200,13 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-change-management-consultant-future-opportunities-3/",
     "company": "Mariner Partners",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Manager, Cloud Operations",
+    "link": "https://digitalnovascotia.com/job-posts/sr-manager-cloud-operations/",
+    "company": "BeyondTrust",
+    "location": "Remote",
     "jobType": "Full Time"
   }
 ]
