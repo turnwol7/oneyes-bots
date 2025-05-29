@@ -1,12 +1,5 @@
 [
   {
-    "title": "Web Developer",
-    "link": "https://digitalnovascotia.com/job-posts/web-developer-21/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Staff Software Engineer",
     "link": "https://digitalnovascotia.com/job-posts/staff-software-engineer-9/",
     "company": "VERB Interactive inc",
@@ -208,5 +201,12 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Creative Producer",
+    "link": "https://digitalnovascotia.com/job-posts/creative-producer/",
+    "company": "threesixfive",
+    "location": "Halifax",
+    "jobType": "Full TimeFeatured Job"
   }
 ]
