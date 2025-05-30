@@ -1,12 +1,5 @@
 [
   {
-    "title": "Customer Insights & Innovation Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/customer-insights-innovation-analyst/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Site Reliability Engineer – DevOps – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-site-reliability-engineer-devops-halifax-2/",
     "company": "RBC Technology & Operations",
@@ -201,6 +194,13 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Systems Engineer – Safety",
+    "link": "https://digitalnovascotia.com/job-posts/senior-systems-engineer-safety-3/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Co-op"
   },
   {
     "title": "Creative Producer",
