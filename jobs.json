@@ -1,12 +1,5 @@
 [
   {
-    "title": "Staff Software Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/staff-software-engineer-9/",
-    "company": "VERB Interactive inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Director, Performance Marketing",
     "link": "https://digitalnovascotia.com/job-posts/director-performance-marketing-2/",
     "company": "Dash Social",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-automation-engineer-with-javascript-webdriverio-playwright/",
     "company": "Cognizant",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SEO Expert",
+    "link": "https://digitalnovascotia.com/job-posts/seo-expert-2/",
+    "company": "WBC Designs",
+    "location": "Remote",
     "jobType": "Full Time"
   },
   {
