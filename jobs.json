@@ -1,26 +1,5 @@
 [
   {
-    "title": "IT & Security Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/it-security-analyst-2/",
-    "company": "Cloudkettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Cape Breton Operations & Events Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/cape-breton-operations-events-coordinator/",
-    "company": "Ignite Atlantic",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Databricks AI Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/databricks-ai-engineer-2/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Engineer, Software Engineering",
     "link": "https://digitalnovascotia.com/job-posts/senior-engineersoftware-engineering/",
     "company": "Resmed",
@@ -199,6 +178,27 @@
     "title": "Insurance Data Analyst",
     "link": "https://digitalnovascotia.com/job-posts/insurance-data-analyst/",
     "company": "Axis Capital",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Frontend Developer",
+    "link": "https://digitalnovascotia.com/job-posts/lead-frontend-developer-2/",
+    "company": "VERB Interactive inc",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/account-manager-20/",
+    "company": "VERB Interactive inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Desktop Support Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/desktop-support-specialist/",
+    "company": "HumanKind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time"
   },
