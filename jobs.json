@@ -1,12 +1,5 @@
 [
   {
-    "title": "Director, Performance Marketing",
-    "link": "https://digitalnovascotia.com/job-posts/director-performance-marketing-2/",
-    "company": "Dash Social",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "IT & Security Analyst",
     "link": "https://digitalnovascotia.com/job-posts/it-security-analyst-2/",
     "company": "Cloudkettle",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/seo-expert-2/",
     "company": "WBC Designs",
     "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Insurance Data Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/insurance-data-analyst/",
+    "company": "Axis Capital",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
