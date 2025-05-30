@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Site Reliability Engineer – DevOps – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-site-reliability-engineer-devops-halifax-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Data Delivery Lead – Cloud Data Platforms",
     "link": "https://digitalnovascotia.com/job-posts/data-delivery-lead-cloud-data-platforms/",
     "company": "Axis Capital",
@@ -201,6 +194,13 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op"
+  },
+  {
+    "title": "Security Specialist – ACSO/DO",
+    "link": "https://digitalnovascotia.com/job-posts/security-specialist-acso-do/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
   },
   {
     "title": "Creative Producer",
