@@ -1,19 +1,5 @@
 [
   {
-    "title": "Staff Software Development Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer-2/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Administrative Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/senior-administrative-coordinator/",
-    "company": "EfficiencyOne",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Customer Insights & Innovation Analyst",
     "link": "https://digitalnovascotia.com/job-posts/customer-insights-innovation-analyst/",
     "company": "Venor Search Group",
@@ -199,6 +185,20 @@
     "title": "Full-Stack Developer (Java + React)",
     "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-java-react/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Multi-Link-System Integration/Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/multi-link-system-integration-test-engineer/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Program Security Advisor",
+    "link": "https://digitalnovascotia.com/job-posts/program-security-advisor/",
+    "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time"
   },
