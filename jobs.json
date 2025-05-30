@@ -1,12 +1,5 @@
 [
   {
-    "title": "Practice Lead, Cybersecurity – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/practice-lead-cybersecurity-halifax/",
-    "company": "Bulletproof Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Network Analyst",
     "link": "https://digitalnovascotia.com/job-posts/senior-network-analyst-5/",
     "company": "Bulletproof Solutions",
@@ -199,6 +192,13 @@
     "title": "Carbide Work Term Opportunities",
     "link": "https://digitalnovascotia.com/job-posts/carbide-work-term-opportunities-3/",
     "company": "Carbide Secure Inc.",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SOC Lead – Remote",
+    "link": "https://digitalnovascotia.com/job-posts/soc-lead-remote/",
+    "company": "",
     "location": "Remote",
     "jobType": "Full Time"
   },
