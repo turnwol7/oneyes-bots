@@ -1,12 +1,5 @@
 [
   {
-    "title": "Cloud Security Expert",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-security-expert/",
-    "company": "Bulletproof Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Practice Lead, Cybersecurity – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/practice-lead-cybersecurity-halifax/",
     "company": "Bulletproof Solutions",
@@ -199,6 +192,13 @@
     "title": "SOC Lead – Remote",
     "link": "https://digitalnovascotia.com/job-posts/soc-lead-remote/",
     "company": "",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Marketing Cloud Consultant (Remote)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-cloud-consultant-remote-11/",
+    "company": "Cloudkettle",
     "location": "Remote",
     "jobType": "Full Time"
   },
