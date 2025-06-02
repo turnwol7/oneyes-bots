@@ -1,12 +1,5 @@
 [
   {
-    "title": "Technical Scheduler/Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/3491117-2/",
-    "company": "Bulletproof Solutions",
-    "location": "Halifax",
-    "jobType": "Temporary"
-  },
-  {
     "title": "Sales and Marketing",
     "link": "https://digitalnovascotia.com/job-posts/sales-and-marketing/",
     "company": "WBC Designs",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/regional-planner-2/",
     "company": "Nova Scotia Power",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Data and AI",
+    "link": "https://digitalnovascotia.com/job-posts/lead-data-and-ai/",
+    "company": "CGI",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
