@@ -1,19 +1,5 @@
 [
   {
-    "title": "Sales and Marketing",
-    "link": "https://digitalnovascotia.com/job-posts/sales-and-marketing/",
-    "company": "WBC Designs",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Change Management Consultant (Future Opportunities)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-change-management-consultant-future-opportunities-3/",
-    "company": "Mariner Partners",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Sr Manager, Cloud Operations",
     "link": "https://digitalnovascotia.com/job-posts/sr-manager-cloud-operations/",
     "company": "BeyondTrust",
@@ -199,6 +185,20 @@
     "title": "Lead Data and AI",
     "link": "https://digitalnovascotia.com/job-posts/lead-data-and-ai/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-86/",
+    "company": "Ateko",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-49/",
+    "company": "The Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time"
   },
