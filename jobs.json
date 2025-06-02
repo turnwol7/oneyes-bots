@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Network Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-network-analyst-5/",
-    "company": "Bulletproof Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Performance & Automated Test Specialist – Remote",
     "link": "https://digitalnovascotia.com/job-posts/performance-automated-test-specialist-remote/",
     "company": "Compugen",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-marketing-cloud-consultant-remote-11/",
     "company": "Cloudkettle",
     "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Application Developer",
+    "link": "https://digitalnovascotia.com/job-posts/application-developer-4/",
+    "company": "Dalhousie University",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
