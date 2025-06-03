@@ -1,26 +1,5 @@
 [
   {
-    "title": "Senior Automation Engineer with JavaScript – WebdriverIO/Playwright",
-    "link": "https://digitalnovascotia.com/job-posts/senior-automation-engineer-with-javascript-webdriverio-playwright/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "SEO Expert",
-    "link": "https://digitalnovascotia.com/job-posts/seo-expert-2/",
-    "company": "WBC Designs",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Insurance Data Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/insurance-data-analyst/",
-    "company": "Axis Capital",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Lead Frontend Developer",
     "link": "https://digitalnovascotia.com/job-posts/lead-frontend-developer-2/",
     "company": "VERB Interactive inc",
@@ -201,6 +180,27 @@
     "company": "BEResponsive Media",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Fall Co-op – Electrical Engineer – CSC IBNS Team",
+    "link": "https://digitalnovascotia.com/job-posts/fall-co-op-electrical-engineer-csc-ibns-team/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Co-op"
+  },
+  {
+    "title": "Senior Product Marketing Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-product-marketing-manager-3/",
+    "company": "Capintel",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing & Communications Intern",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-communications-intern-3/",
+    "company": "Tribe Network",
+    "location": "Halifax",
+    "jobType": "Internship"
   },
   {
     "title": "Creative Producer",
