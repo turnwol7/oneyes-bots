@@ -1,12 +1,5 @@
 [
   {
-    "title": "Junior Workflow Content Creator",
-    "link": "https://digitalnovascotia.com/job-posts/junior-workflow-content-creator/",
-    "company": "QuickFacts",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Software Quality Engineer (6 Month Contract)",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-quality-engineer-6-month-contract/",
     "company": "Introhive",
@@ -199,6 +192,13 @@
     "title": "Account Executive (Remote)",
     "link": "https://digitalnovascotia.com/job-posts/account-executive-remote-3/",
     "company": "GoSecure",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Application Support Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-application-support-analyst-4/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
