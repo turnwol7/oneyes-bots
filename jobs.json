@@ -1,19 +1,5 @@
 [
   {
-    "title": "QE Senior Manager",
-    "link": "https://digitalnovascotia.com/job-posts/qe-senior-manager/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Okta Developer",
-    "link": "https://digitalnovascotia.com/job-posts/okta-developer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Automation Engineer with JavaScript – WebdriverIO/Playwright",
     "link": "https://digitalnovascotia.com/job-posts/senior-automation-engineer-with-javascript-webdriverio-playwright/",
     "company": "Cognizant",
@@ -200,6 +186,20 @@
     "link": "https://digitalnovascotia.com/job-posts/microsoft-inside-sales-representative-isr-bilingual/",
     "company": "Compugen",
     "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Java Developer (Swift Payments) – Hybrid",
+    "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-swift-payments-hybrid/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Digital Sales Assistant",
+    "link": "https://digitalnovascotia.com/job-posts/digital-sales-assistant-2/",
+    "company": "BEResponsive Media",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
