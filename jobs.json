@@ -1,19 +1,5 @@
 [
   {
-    "title": "Program Security Advisor",
-    "link": "https://digitalnovascotia.com/job-posts/program-security-advisor/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Systems Engineer – Safety",
-    "link": "https://digitalnovascotia.com/job-posts/senior-systems-engineer-safety-3/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Co-op"
-  },
-  {
     "title": "Security Specialist – ACSO/DO",
     "link": "https://digitalnovascotia.com/job-posts/security-specialist-acso-do/",
     "company": "Lockheed Martin Canada",
@@ -199,6 +185,20 @@
     "title": "AI Engineer, Cons/ Sr Cons",
     "link": "https://digitalnovascotia.com/job-posts/ai-engineer-cons-sr-cons-2/",
     "company": "",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Marketing Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-specialist/",
+    "company": "Nova Scotia Power",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Automation Specialist Development Program (Onsite, 12-Week Contract)",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-automation-specialist-development-program-onsite-12-week-contract/",
+    "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time"
   },
