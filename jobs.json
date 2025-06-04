@@ -1,12 +1,5 @@
 [
   {
-    "title": "Carbide Work Term Opportunities",
-    "link": "https://digitalnovascotia.com/job-posts/carbide-work-term-opportunities-3/",
-    "company": "Carbide Secure Inc.",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "SOC Lead – Remote",
     "link": "https://digitalnovascotia.com/job-posts/soc-lead-remote/",
     "company": "",
@@ -199,6 +192,13 @@
     "title": "AS400 Mainframe Developer",
     "link": "https://digitalnovascotia.com/job-posts/as400-mainframe-developer/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Membership Engagement Manager",
+    "link": "https://digitalnovascotia.com/job-posts/membership-engagement-manager/",
+    "company": "Downtown Halifax Business Commission",
     "location": "Halifax",
     "jobType": "Full Time"
   },
