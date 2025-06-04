@@ -1,19 +1,5 @@
 [
   {
-    "title": "Marketing Operations Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-operations-specialist-3/",
-    "company": "HumanKind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Full-Stack Developer (Java + React)",
-    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-java-react/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Multi-Link-System Integration/Test Engineer",
     "link": "https://digitalnovascotia.com/job-posts/multi-link-system-integration-test-engineer/",
     "company": "Lockheed Martin Canada",
@@ -200,6 +186,20 @@
     "link": "https://digitalnovascotia.com/job-posts/digital-inclusion-facilitator-3/",
     "company": "Geo Nova Scotia",
     "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Client Services Manager, Atlantic – Asher",
+    "link": "https://digitalnovascotia.com/job-posts/client-services-manager-atlantic-asher/",
+    "company": "Facet",
+    "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Assistant",
+    "link": "https://digitalnovascotia.com/job-posts/project-assistant/",
+    "company": "Cape Breton Partnership",
+    "location": "Cape Breton",
     "jobType": "Full Time"
   },
   {
