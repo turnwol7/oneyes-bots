@@ -1,12 +1,5 @@
 [
   {
-    "title": "Junior Security Solutions Advisor",
-    "link": "https://digitalnovascotia.com/job-posts/junior-security-solutions-advisor/",
-    "company": "Carbide Secure Inc.",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Carbide Work Term Opportunities",
     "link": "https://digitalnovascotia.com/job-posts/carbide-work-term-opportunities-3/",
     "company": "Carbide Secure Inc.",
@@ -199,6 +192,13 @@
     "title": "Senior Quality Engineer – GFT",
     "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-gft-5/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "AS400 Mainframe Developer",
+    "link": "https://digitalnovascotia.com/job-posts/as400-mainframe-developer/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   },
