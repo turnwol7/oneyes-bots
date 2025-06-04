@@ -161,13 +161,6 @@
     "jobType": "Full Time"
   },
   {
-    "title": "Digital Sales Assistant",
-    "link": "https://digitalnovascotia.com/job-posts/digital-sales-assistant-2/",
-    "company": "BEResponsive Media",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Fall Co-op – Electrical Engineer – CSC IBNS Team",
     "link": "https://digitalnovascotia.com/job-posts/fall-co-op-electrical-engineer-csc-ibns-team/",
     "company": "Lockheed Martin Canada",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-big-data-gft-5/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Digital Inclusion Facilitator",
+    "link": "https://digitalnovascotia.com/job-posts/digital-inclusion-facilitator-3/",
+    "company": "Geo Nova Scotia",
+    "location": "Remote",
     "jobType": "Full Time"
   },
   {
