@@ -1,19 +1,5 @@
 [
   {
-    "title": "Field Project Lead, Transmission",
-    "link": "https://digitalnovascotia.com/job-posts/field-project-lead-transmission/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Regional Planner",
-    "link": "https://digitalnovascotia.com/job-posts/regional-planner-2/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Lead Data and AI",
     "link": "https://digitalnovascotia.com/job-posts/lead-data-and-ai/",
     "company": "CGI",
@@ -201,6 +187,20 @@
     "company": "Nortal",
     "location": "Remote",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Summer Design & Marketing Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/summer-design-marketing-coordinator/",
+    "company": "Business is Jammin’",
+    "location": "Remote",
+    "jobType": "Co-op"
+  },
+  {
+    "title": "Summer Youth Entrepreneurship Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/summer-youth-entrepreneurship-coordinator/",
+    "company": "Business is Jammin’",
+    "location": "Halifax",
+    "jobType": "Co-op"
   },
   {
     "title": "Dean, School of Technology and Environment",
