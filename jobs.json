@@ -1,19 +1,5 @@
 [
   {
-    "title": "Lead Data and AI",
-    "link": "https://digitalnovascotia.com/job-posts/lead-data-and-ai/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-86/",
-    "company": "Ateko",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Project Manager",
     "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-49/",
     "company": "The Barrington Consulting Group",
@@ -201,6 +187,20 @@
     "company": "Business is Jammin’",
     "location": "Halifax",
     "jobType": "Co-op"
+  },
+  {
+    "title": "Clinical Informatics Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/clinical-informatics-analyst/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marine Systems Engineer – Mechanical Lead-CSC Platform Delivery IPT",
+    "link": "https://digitalnovascotia.com/job-posts/marine-systems-engineer-mechanical-lead-csc-platform-delivery-ipt/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
   },
   {
     "title": "Dean, School of Technology and Environment",
