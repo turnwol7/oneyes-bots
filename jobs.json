@@ -1,12 +1,5 @@
 [
   {
-    "title": "SEO Expert",
-    "link": "https://digitalnovascotia.com/job-posts/seo-expert-3/",
-    "company": "WBC Designs",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Account Executive (Remote)",
     "link": "https://digitalnovascotia.com/job-posts/account-executive-remote-3/",
     "company": "GoSecure",
@@ -199,6 +192,13 @@
     "title": "Manager of Creative and Design",
     "link": "https://digitalnovascotia.com/job-posts/manager-of-creative-and-design/",
     "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Account Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/account-coordinator-15/",
+    "company": "VERB Interactive inc",
     "location": "Halifax",
     "jobType": "Full Time"
   },
