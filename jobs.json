@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-49/",
-    "company": "The Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "SEO Expert",
     "link": "https://digitalnovascotia.com/job-posts/seo-expert-3/",
     "company": "WBC Designs",
@@ -199,6 +192,13 @@
     "title": "Marine Systems Engineer – Mechanical Lead-CSC Platform Delivery IPT",
     "link": "https://digitalnovascotia.com/job-posts/marine-systems-engineer-mechanical-lead-csc-platform-delivery-ipt/",
     "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Manager of Creative and Design",
+    "link": "https://digitalnovascotia.com/job-posts/manager-of-creative-and-design/",
+    "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time"
   },
