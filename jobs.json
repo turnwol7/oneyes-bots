@@ -1,12 +1,5 @@
 [
   {
-    "title": "Account Executive (Remote)",
-    "link": "https://digitalnovascotia.com/job-posts/account-executive-remote-3/",
-    "company": "GoSecure",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Application Support Analyst",
     "link": "https://digitalnovascotia.com/job-posts/senior-application-support-analyst-4/",
     "company": "RBC Technology & Operations",
@@ -199,6 +192,13 @@
     "title": "Account Coordinator",
     "link": "https://digitalnovascotia.com/job-posts/account-coordinator-15/",
     "company": "VERB Interactive inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Consultant D365 F&SCM Solution Development",
+    "link": "https://digitalnovascotia.com/job-posts/consultant-d365-fscm-solution-development-2/",
+    "company": "Avanade",
     "location": "Halifax",
     "jobType": "Full Time"
   },
