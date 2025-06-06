@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Application Support Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-application-support-analyst-4/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Microsoft Inside Sales Representative (ISR) Bilingual",
-    "link": "https://digitalnovascotia.com/job-posts/microsoft-inside-sales-representative-isr-bilingual/",
-    "company": "Compugen",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Java Developer (Swift Payments) – Hybrid",
     "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-swift-payments-hybrid/",
     "company": "Cognizant",
@@ -199,6 +185,20 @@
     "title": "Consultant D365 F&SCM Solution Development",
     "link": "https://digitalnovascotia.com/job-posts/consultant-d365-fscm-solution-development-2/",
     "company": "Avanade",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "D365 Functional Consultant – Supply Chain/Manufacturing",
+    "link": "https://digitalnovascotia.com/job-posts/d365-functional-consultant-supply-chain-manufacturing/",
+    "company": "Avanade",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "UX/UI Designer",
+    "link": "https://digitalnovascotia.com/job-posts/ux-ui-designer-2/",
+    "company": "HumanKind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time"
   },
