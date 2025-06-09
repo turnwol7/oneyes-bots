@@ -1,26 +1,5 @@
 [
   {
-    "title": "Reddit Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/reddit-specialist-2/",
-    "company": "Foundation Marketing",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Software Developer – Big Data, GFT",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-big-data-gft-5/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Digital Inclusion Facilitator",
-    "link": "https://digitalnovascotia.com/job-posts/digital-inclusion-facilitator-3/",
-    "company": "Geo Nova Scotia",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Client Services Manager, Atlantic – Asher",
     "link": "https://digitalnovascotia.com/job-posts/client-services-manager-atlantic-asher/",
     "company": "Facet",
@@ -199,6 +178,27 @@
     "title": "Head of Halifax Delivery Centre",
     "link": "https://digitalnovascotia.com/job-posts/head-of-halifax-delivery-centre/",
     "company": "Axis Capital",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Director of Strategic Partnerships",
+    "link": "https://digitalnovascotia.com/job-posts/director-of-strategic-partnerships-2/",
+    "company": "MDR Strategy Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Big Data Automation Lead",
+    "link": "https://digitalnovascotia.com/job-posts/big-data-automation-lead/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "NET Solution Architect – Digital Banking",
+    "link": "https://digitalnovascotia.com/job-posts/net-solution-architect-digital-banking/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   },
