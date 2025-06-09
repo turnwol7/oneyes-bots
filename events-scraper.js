@@ -96,7 +96,7 @@ async function checkForNewEvents() {
                         embeds: chunk.map(event => ({
                             title: event.title,
                             url: event.link,
-                            color: 0x3498db,
+                            color: 0x00ff00,
                             description: `**Date & Time:** ${event.datetime}\n**Event Type:** ${event.isVirtual ? 'Virtual' : 'In Person'}${event.cost ? `\n**Cost:** ${event.cost}` : ''}`,
                             footer: {
                                 text: `Digital Nova Scotia Events (${i + 1}-${Math.min(i + chunkSize, newEvents.length)} of ${newEvents.length})`
