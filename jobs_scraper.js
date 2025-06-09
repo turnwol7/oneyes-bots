@@ -86,7 +86,7 @@ async function checkForNewJobs() {
         console.log(`\nSaved ${currentJobs.length} jobs to ${JOBS_FILE}`);
         
         // Send new jobs to Discord webhook
-        if (process.env.WEBHOOK_URL) {
+        if (process.env.JOBS_WEBHOOK_URL) {
             try {
                 console.log("\nSending to Discord webhook...");
                 
@@ -106,7 +106,7 @@ async function checkForNewJobs() {
                         }))
                     };
 
-                    const response = await axios.post(process.env.WEBHOOK_URL, discordMessage);
+                    const response = await axios.post(process.env.JOBS_WEBHOOK_URL, discordMessage);
                     if (response.status === 204) {
                         console.log(`Successfully posted chunk ${Math.floor(i/chunkSize) + 1} to Discord`);
                     }
@@ -120,7 +120,7 @@ async function checkForNewJobs() {
                 console.error('Error posting to Discord:', error.response?.data || error.message);
             }
         } else {
-            console.error("WEBHOOK_URL not defined in .env");
+            console.error("JOBS_WEBHOOK_URL not defined in .env");
         }
     } else {
         console.log("No new jobs found. All jobs are already in our database.");
@@ -128,8 +128,8 @@ async function checkForNewJobs() {
 }
 
 async function testDiscordWebhook() {
-    if (!process.env.WEBHOOK_URL) {
-        console.error("WEBHOOK_URL not defined in .env");
+    if (!process.env.JOBS_WEBHOOK_URL) {
+        console.error("JOBS_WEBHOOK_URL not defined in .env");
         return;
     }
 
@@ -154,7 +154,7 @@ async function testDiscordWebhook() {
             }]
         };
 
-        const response = await axios.post(process.env.WEBHOOK_URL, discordMessage);
+        const response = await axios.post(process.env.JOBS_WEBHOOK_URL, discordMessage);
         if (response.status === 204) {
             console.log('Successfully sent test message to Discord');
         }
