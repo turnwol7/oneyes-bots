@@ -1,19 +1,5 @@
 [
   {
-    "title": "Project Assistant",
-    "link": "https://digitalnovascotia.com/job-posts/project-assistant/",
-    "company": "Cape Breton Partnership",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "AI Engineer, Cons/ Sr Cons",
-    "link": "https://digitalnovascotia.com/job-posts/ai-engineer-cons-sr-cons-2/",
-    "company": "",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Marketing Specialist",
     "link": "https://digitalnovascotia.com/job-posts/senior-marketing-specialist/",
     "company": "Nova Scotia Power",
@@ -201,6 +187,20 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op"
+  },
+  {
+    "title": "Senior Engineer,Platform Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/senior-engineerplatform-engineering-2/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Capital Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/capital-engineer-2/",
+    "company": "Nova Scotia Power",
+    "location": "Provincial",
+    "jobType": "Full Time"
   },
   {
     "title": "Dean, School of Technology and Environment",
