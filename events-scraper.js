@@ -67,7 +67,7 @@ async function checkForNewEvents() {
     const previousEvents = loadPreviousEvents();
     
     // Reverse the order so new events appear at the bottom
-    currentEvents.reverse();
+    //currentEvents.reverse();
     
     console.log("\nComparing events:");
     console.log(`Current events: ${currentEvents.length}`);
