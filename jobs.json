@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Marketing Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-specialist/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Marketing Automation Specialist Development Program (Onsite, 12-Week Contract)",
     "link": "https://digitalnovascotia.com/job-posts/marketing-automation-specialist-development-program-onsite-12-week-contract/",
     "company": "CloudKettle",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/capital-engineer-2/",
     "company": "Nova Scotia Power",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/data-analyst-21/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
