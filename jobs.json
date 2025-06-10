@@ -1,12 +1,5 @@
 [
   {
-    "title": "Marketing Automation Specialist Development Program (Onsite, 12-Week Contract)",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-automation-specialist-development-program-onsite-12-week-contract/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Quality Engineer – GFT",
     "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-gft-5/",
     "company": "RBC Technology & Operations",
@@ -198,6 +191,13 @@
   {
     "title": "Data Analyst",
     "link": "https://digitalnovascotia.com/job-posts/data-analyst-21/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Quality Engineering Automation Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineering-automation-developer/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
