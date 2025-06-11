@@ -1,19 +1,5 @@
 [
   {
-    "title": "Account Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/account-coordinator-15/",
-    "company": "VERB Interactive inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Consultant D365 F&SCM Solution Development",
-    "link": "https://digitalnovascotia.com/job-posts/consultant-d365-fscm-solution-development-2/",
-    "company": "Avanade",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "D365 Functional Consultant – Supply Chain/Manufacturing",
     "link": "https://digitalnovascotia.com/job-posts/d365-functional-consultant-supply-chain-manufacturing/",
     "company": "Avanade",
@@ -199,6 +185,20 @@
     "title": "Project Coordinator (Youth Support and Academic Pathways)",
     "link": "https://digitalnovascotia.com/job-posts/project-coordinator-youth-support-and-academic-pathways/",
     "company": "Business is Jammin’",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Faculty, IT Programming – eCampus",
+    "link": "https://digitalnovascotia.com/job-posts/faculty-it-programming-ecampus/",
+    "company": "NSCC",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Programmer",
+    "link": "https://digitalnovascotia.com/job-posts/programmer/",
+    "company": "Dalhousie University",
     "location": "Halifax",
     "jobType": "Full Time"
   },
