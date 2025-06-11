@@ -1,19 +1,5 @@
 [
   {
-    "title": "UX/UI Designer",
-    "link": "https://digitalnovascotia.com/job-posts/ux-ui-designer-2/",
-    "company": "HumanKind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Securities Data Analyst (12-months contract)",
-    "link": "https://digitalnovascotia.com/job-posts/securities-data-analyst-12-months-contract/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Product Analyst",
     "link": "https://digitalnovascotia.com/job-posts/product-analyst-8/",
     "company": "Maplewave",
@@ -198,6 +184,20 @@
   {
     "title": "Senior Systems Analyst – Information Management & Technology",
     "link": "https://digitalnovascotia.com/job-posts/senior-systems-analyst-information-management-technology-2/",
+    "company": "Nova Scotia Health Authority",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IMIT Manager, YourHealthNS Design and Support",
+    "link": "https://digitalnovascotia.com/job-posts/imit-manager-yourhealthns-design-and-support/",
+    "company": "Nova Scotia Health Authority",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Simulation Specialist – QEII Simulation Program",
+    "link": "https://digitalnovascotia.com/job-posts/simulation-specialist-qeii-simulation-program/",
     "company": "Nova Scotia Health Authority",
     "location": "Halifax",
     "jobType": "Full Time"
