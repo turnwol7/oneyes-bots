@@ -1,19 +1,5 @@
 [
   {
-    "title": "Summer Design & Marketing Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/summer-design-marketing-coordinator/",
-    "company": "Business is Jammin’",
-    "location": "Remote",
-    "jobType": "Co-op"
-  },
-  {
-    "title": "Summer Youth Entrepreneurship Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/summer-youth-entrepreneurship-coordinator/",
-    "company": "Business is Jammin’",
-    "location": "Halifax",
-    "jobType": "Co-op"
-  },
-  {
     "title": "Clinical Informatics Analyst",
     "link": "https://digitalnovascotia.com/job-posts/clinical-informatics-analyst/",
     "company": "Mariner Partners Inc.",
@@ -199,6 +185,20 @@
     "title": "Project Manager",
     "link": "https://digitalnovascotia.com/job-posts/project-manager-68/",
     "company": "Bulletproof Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-60/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full Stack Developer – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-halifax-2/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
