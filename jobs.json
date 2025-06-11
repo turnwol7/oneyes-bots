@@ -1,26 +1,5 @@
 [
   {
-    "title": "Clinical Informatics Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/clinical-informatics-analyst/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Marine Systems Engineer – Mechanical Lead-CSC Platform Delivery IPT",
-    "link": "https://digitalnovascotia.com/job-posts/marine-systems-engineer-mechanical-lead-csc-platform-delivery-ipt/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Manager of Creative and Design",
-    "link": "https://digitalnovascotia.com/job-posts/manager-of-creative-and-design/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Account Coordinator",
     "link": "https://digitalnovascotia.com/job-posts/account-coordinator-15/",
     "company": "VERB Interactive inc",
@@ -199,6 +178,27 @@
     "title": "Senior Full Stack Developer – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-halifax-2/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Engineer (Contract)",
+    "link": "https://digitalnovascotia.com/job-posts/data-engineer-contract/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Global Product Marketing Manager, Consumer Digital",
+    "link": "https://digitalnovascotia.com/job-posts/global-product-marketing-manager-consumer-digital-2/",
+    "company": "Resmed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Coordinator (Youth Support and Academic Pathways)",
+    "link": "https://digitalnovascotia.com/job-posts/project-coordinator-youth-support-and-academic-pathways/",
+    "company": "Business is Jammin’",
     "location": "Halifax",
     "jobType": "Full Time"
   },
