@@ -1,12 +1,5 @@
 [
   {
-    "title": "D365 Functional Consultant – Supply Chain/Manufacturing",
-    "link": "https://digitalnovascotia.com/job-posts/d365-functional-consultant-supply-chain-manufacturing/",
-    "company": "Avanade",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "UX/UI Designer",
     "link": "https://digitalnovascotia.com/job-posts/ux-ui-designer-2/",
     "company": "HumanKind Global Recruitment",
@@ -199,6 +192,13 @@
     "title": "Programmer",
     "link": "https://digitalnovascotia.com/job-posts/programmer/",
     "company": "Dalhousie University",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Systems Analyst – Information Management & Technology",
+    "link": "https://digitalnovascotia.com/job-posts/senior-systems-analyst-information-management-technology-2/",
+    "company": "Nova Scotia Health Authority",
     "location": "Halifax",
     "jobType": "Full Time"
   },
