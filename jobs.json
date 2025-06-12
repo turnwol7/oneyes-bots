@@ -1,19 +1,5 @@
 [
   {
-    "title": "Product Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/product-analyst-8/",
-    "company": "Maplewave",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Project Coordinator -12 M Contract",
-    "link": "https://digitalnovascotia.com/job-posts/project-coordinator-12-m-contract/",
-    "company": "Compugen",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Head of Halifax Delivery Centre",
     "link": "https://digitalnovascotia.com/job-posts/head-of-halifax-delivery-centre/",
     "company": "Axis Capital",
@@ -200,6 +186,20 @@
     "link": "https://digitalnovascotia.com/job-posts/simulation-specialist-qeii-simulation-program/",
     "company": "Nova Scotia Health Authority",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Analyst, eHealth and Clinical Information Systems",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-ehealth-and-clinical-information-systems/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "data scientist",
+    "link": "https://digitalnovascotia.com/job-posts/data-scientist-21/",
+    "company": "Sparrow Acoustics",
+    "location": "Nova Scotia",
     "jobType": "Full Time"
   },
   {
