@@ -189,6 +189,13 @@
     "cost": ""
   },
   {
+    "title": "Spring into Summer Social",
+    "link": "https://digitalnovascotia.com/event/spring-into-summer-social/",
+    "datetime": "June 12 @ 4:30 pm - 6:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "London Tech Week",
     "link": "https://digitalnovascotia.com/event/london-tech-week/",
     "datetime": "June 9 @ 8:00 am - June 13 @ 5:00 pm  ADT",
@@ -213,6 +220,13 @@
     "title": "Pride in Business | A Day of Workshops for 2SLGBTQI+ Entrepreneurs",
     "link": "https://digitalnovascotia.com/event/pride-in-business-a-day-of-workshops-for-2slgbtqi-entrepreneurs/",
     "datetime": "June 17 @ 12:00 pm - 6:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Government Innovation Showcase Atlantic",
+    "link": "https://digitalnovascotia.com/event/government-innovation-showcase-atlantic/",
+    "datetime": "June 18 @ 7:30 am - 5:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
