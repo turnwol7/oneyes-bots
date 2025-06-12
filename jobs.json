@@ -1,33 +1,5 @@
 [
   {
-    "title": "Head of Halifax Delivery Centre",
-    "link": "https://digitalnovascotia.com/job-posts/head-of-halifax-delivery-centre/",
-    "company": "Axis Capital",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Director of Strategic Partnerships",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-strategic-partnerships-2/",
-    "company": "MDR Strategy Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Big Data Automation Lead",
-    "link": "https://digitalnovascotia.com/job-posts/big-data-automation-lead/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "NET Solution Architect – Digital Banking",
-    "link": "https://digitalnovascotia.com/job-posts/net-solution-architect-digital-banking/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Fall Co-op – Ship Integration and Test Engineer",
     "link": "https://digitalnovascotia.com/job-posts/fall-co-op-ship-integration-and-test-engineer/",
     "company": "Lockheed Martin Canada",
@@ -199,6 +171,34 @@
     "title": "data scientist",
     "link": "https://digitalnovascotia.com/job-posts/data-scientist-21/",
     "company": "Sparrow Acoustics",
+    "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Co-op Content Creator",
+    "link": "https://digitalnovascotia.com/job-posts/co-op-content-creator/",
+    "company": "QuickFacts",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Sales Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-sales-consultant-8/",
+    "company": "Acadia Broadcasting Corporation",
+    "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Oracle Licensing Specialist – Part Time",
+    "link": "https://digitalnovascotia.com/job-posts/oracle-licensing-specialist-part-time/",
+    "company": "Compugen",
+    "location": "Halifax",
+    "jobType": "Part Time"
+  },
+  {
+    "title": "Functional Analyst – Central Office/IT Campus",
+    "link": "https://digitalnovascotia.com/job-posts/functional-analyst-central-office-it-campus/",
+    "company": "NSCC",
     "location": "Nova Scotia",
     "jobType": "Full Time"
   },
