@@ -1,12 +1,5 @@
 [
   {
-    "title": "Capital Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/capital-engineer-2/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Data Analyst",
     "link": "https://digitalnovascotia.com/job-posts/data-analyst-21/",
     "company": "RBC Technology & Operations",
@@ -199,6 +192,13 @@
     "title": "Atlassian Administrator (IT Applications)",
     "link": "https://digitalnovascotia.com/job-posts/atlassian-administrator-it-applications/",
     "company": "Resmed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "UI/UX Designer – YourHealthNS, Information Management & Technology",
+    "link": "https://digitalnovascotia.com/job-posts/ui-ux-designer-yourhealthns-information-management-technology/",
+    "company": "Nova Scotia Health Authority",
     "location": "Halifax",
     "jobType": "Full Time"
   },
