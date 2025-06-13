@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Engineer,Platform Engineering",
-    "link": "https://digitalnovascotia.com/job-posts/senior-engineerplatform-engineering-2/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Capital Engineer",
     "link": "https://digitalnovascotia.com/job-posts/capital-engineer-2/",
     "company": "Nova Scotia Power",
@@ -199,6 +192,13 @@
     "title": "Senior Full Stack Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-61/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Atlassian Administrator (IT Applications)",
+    "link": "https://digitalnovascotia.com/job-posts/atlassian-administrator-it-applications/",
+    "company": "Resmed",
     "location": "Halifax",
     "jobType": "Full Time"
   },
