@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Quality Engineering Automation Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineering-automation-developer/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Portfolio Manager",
     "link": "https://digitalnovascotia.com/job-posts/portfolio-manager/",
     "company": "HumanKind Global Recruitment",
@@ -199,6 +192,13 @@
     "title": "Asset Informatics Analyst",
     "link": "https://digitalnovascotia.com/job-posts/asset-informatics-analyst/",
     "company": "IWK",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Azure Systems Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/azure-systems-administrator/",
+    "company": "GBS Technologies",
     "location": "Halifax",
     "jobType": "Full Time"
   },
