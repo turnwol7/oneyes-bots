@@ -1,12 +1,5 @@
 [
   {
-    "title": "Data Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/data-analyst-21/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Quality Engineering Automation Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineering-automation-developer/",
     "company": "RBC Technology & Operations",
@@ -199,6 +192,13 @@
     "title": "UI/UX Designer – YourHealthNS, Information Management & Technology",
     "link": "https://digitalnovascotia.com/job-posts/ui-ux-designer-yourhealthns-information-management-technology/",
     "company": "Nova Scotia Health Authority",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Asset Informatics Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/asset-informatics-analyst/",
+    "company": "IWK",
     "location": "Halifax",
     "jobType": "Full Time"
   },
