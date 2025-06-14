@@ -231,6 +231,13 @@
     "cost": ""
   },
   {
+    "title": "Recent Trends in Immigration Workshop",
+    "link": "https://digitalnovascotia.com/event/recent-trends-in-immigration-workshop/",
+    "datetime": "June 18 @ 10:00 am - 12:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Third Wednesday",
     "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-06-18/",
     "datetime": "June 18 @ 5:00 pm - 7:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\tVirtual Event",
@@ -259,6 +266,13 @@
     "cost": ""
   },
   {
+    "title": "Sydney AI Mixer",
+    "link": "https://digitalnovascotia.com/event/sydney-ai-mixer/",
+    "datetime": "June 24 @ 4:00 pm - 6:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Life Sciences On TAP",
     "link": "https://digitalnovascotia.com/event/life-sciences-on-tap/",
     "datetime": "June 25 @ 4:30 pm - 6:00 pm  ADT",
@@ -278,5 +292,12 @@
     "datetime": "Virtual Event\n\t\n\n\n\n\tFeatured\n\t\t\t\n\t\t\tJune 26 @ 10:00 am - 11:00 am  ADT",
     "isVirtual": true,
     "cost": "Free – $15"
+  },
+  {
+    "title": "Finding Jobs in UX: What I Learned from Five Months of Unemployment",
+    "link": "https://digitalnovascotia.com/event/finding-jobs-in-ux-what-i-learned-from-five-months-of-unemployment/",
+    "datetime": "June 26 @ 7:00 pm - 9:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
