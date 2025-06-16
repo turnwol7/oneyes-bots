@@ -1,26 +1,5 @@
 [
   {
-    "title": "HP Partner Marketing Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/hp-partner-marketing-coordinator/",
-    "company": "Compugen",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Content Creator",
-    "link": "https://digitalnovascotia.com/job-posts/content-creator-7/",
-    "company": "Foundation Marketing",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Fall Co-op – Software Engineer (ISS Team)",
-    "link": "https://digitalnovascotia.com/job-posts/fall-co-op-software-engineer-iss-team/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Co-op"
-  },
-  {
     "title": "Customer Experience Program Specialist",
     "link": "https://digitalnovascotia.com/job-posts/customer-experience-program-specialist/",
     "company": "Nova Scotia Power",
@@ -201,6 +180,27 @@
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Business Development Representative (BDR), 1 Year Contract",
+    "link": "https://digitalnovascotia.com/job-posts/business-development-representative-bdr-1-year-contract/",
+    "company": "Compugen",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Co-op Python Developer – Fall 2025",
+    "link": "https://digitalnovascotia.com/job-posts/co-op-python-developer-fall-2025/",
+    "company": "Global Relay",
+    "location": "Halifax",
+    "jobType": "Co-op"
+  },
+  {
+    "title": "Co-op Software Development Engineer in Test (SDET) – Fall 2025",
+    "link": "https://digitalnovascotia.com/job-posts/co-op-software-development-engineer-in-test-sdet-fall-2025/",
+    "company": "Global Relay",
+    "location": "Halifax",
+    "jobType": "Co-op"
   },
   {
     "title": "Dean, School of Technology and Environment",
