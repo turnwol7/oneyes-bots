@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-60/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Full Stack Developer – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-halifax-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Data Engineer (Contract)",
     "link": "https://digitalnovascotia.com/job-posts/data-engineer-contract/",
     "company": "Venor Search Group",
@@ -198,6 +184,20 @@
   {
     "title": "Python & DevOps Developer",
     "link": "https://digitalnovascotia.com/job-posts/python-devops-developer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Mainframe Developer- Hybrid",
+    "link": "https://digitalnovascotia.com/job-posts/senior-mainframe-developer-hybrid/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior QA Automation Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-qa-automation-engineer-2/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
