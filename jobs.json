@@ -1,19 +1,5 @@
 [
   {
-    "title": "Portfolio Manager",
-    "link": "https://digitalnovascotia.com/job-posts/portfolio-manager/",
-    "company": "HumanKind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Data Scientist – AI Developer",
-    "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-developer-3/",
-    "company": "Sparrow Acoustics",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
     "title": "IT User Support Specialist",
     "link": "https://digitalnovascotia.com/job-posts/it-user-support-specialist/",
     "company": "Resulta",
@@ -168,6 +154,13 @@
     "jobType": "Full Time"
   },
   {
+    "title": "45Drives Network Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/45drives-network-engineer-2/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Atlassian Administrator (IT Applications)",
     "link": "https://digitalnovascotia.com/job-posts/atlassian-administrator-it-applications/",
     "company": "Resmed",
@@ -199,6 +192,13 @@
     "title": "Solutions Architect",
     "link": "https://digitalnovascotia.com/job-posts/solutions-architect-12/",
     "company": "Maplewave",
+    "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software developers",
+    "link": "https://digitalnovascotia.com/job-posts/software-developers-11/",
+    "company": "Compusult",
     "location": "Nova Scotia",
     "jobType": "Full Time"
   },
