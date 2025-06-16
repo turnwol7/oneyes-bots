@@ -1,19 +1,5 @@
 [
   {
-    "title": "Customer Experience Program Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/customer-experience-program-specialist/",
-    "company": "Nova Scotia Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/project-manager-68/",
-    "company": "Bulletproof Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Full Stack Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-60/",
     "company": "RBC Technology & Operations",
@@ -201,6 +187,20 @@
     "company": "Global Relay",
     "location": "Halifax",
     "jobType": "Co-op"
+  },
+  {
+    "title": "Educational Technologies Analyst- Central Office",
+    "link": "https://digitalnovascotia.com/job-posts/educational-technologies-analyst-central-office/",
+    "company": "NSCC",
+    "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Python & DevOps Developer",
+    "link": "https://digitalnovascotia.com/job-posts/python-devops-developer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
   },
   {
     "title": "Dean, School of Technology and Environment",
