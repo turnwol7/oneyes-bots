@@ -1,12 +1,5 @@
 [
   {
-    "title": "IT User Support Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/it-user-support-specialist/",
-    "company": "Resulta",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "HP Partner Marketing Coordinator",
     "link": "https://digitalnovascotia.com/job-posts/hp-partner-marketing-coordinator/",
     "company": "Compugen",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/software-developers-11/",
     "company": "Compusult",
     "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Consultant – Cloud and Data Strategy",
+    "link": "https://digitalnovascotia.com/job-posts/senior-consultant-cloud-and-data-strategy/",
+    "company": "CGI",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
