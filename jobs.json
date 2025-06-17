@@ -1,19 +1,5 @@
 [
   {
-    "title": "IMIT Manager, YourHealthNS Design and Support",
-    "link": "https://digitalnovascotia.com/job-posts/imit-manager-yourhealthns-design-and-support/",
-    "company": "Nova Scotia Health Authority",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Simulation Specialist – QEII Simulation Program",
-    "link": "https://digitalnovascotia.com/job-posts/simulation-specialist-qeii-simulation-program/",
-    "company": "Nova Scotia Health Authority",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Business Analyst, eHealth and Clinical Information Systems",
     "link": "https://digitalnovascotia.com/job-posts/business-analyst-ehealth-and-clinical-information-systems/",
     "company": "CGI",
@@ -200,6 +186,20 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-security-technician-4/",
     "company": "Cabco Communications",
     "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-13/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Architect",
+    "link": "https://digitalnovascotia.com/job-posts/technical-architect-3/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
