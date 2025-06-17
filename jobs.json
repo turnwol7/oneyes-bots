@@ -1,12 +1,5 @@
 [
   {
-    "title": "Faculty, IT Programming – eCampus",
-    "link": "https://digitalnovascotia.com/job-posts/faculty-it-programming-ecampus/",
-    "company": "NSCC",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Systems Analyst – Information Management & Technology",
     "link": "https://digitalnovascotia.com/job-posts/senior-systems-analyst-information-management-technology-2/",
     "company": "Nova Scotia Health Authority",
@@ -199,6 +192,13 @@
     "title": "Manager, Media",
     "link": "https://digitalnovascotia.com/job-posts/manager-media/",
     "company": "M5",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Asset Management Technology Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/asset-management-technology-analyst/",
+    "company": "Nova Scotia Power",
     "location": "Halifax",
     "jobType": "Full Time"
   },
