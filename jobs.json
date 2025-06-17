@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Systems Analyst – Information Management & Technology",
-    "link": "https://digitalnovascotia.com/job-posts/senior-systems-analyst-information-management-technology-2/",
-    "company": "Nova Scotia Health Authority",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "IMIT Manager, YourHealthNS Design and Support",
     "link": "https://digitalnovascotia.com/job-posts/imit-manager-yourhealthns-design-and-support/",
     "company": "Nova Scotia Health Authority",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/asset-management-technology-analyst/",
     "company": "Nova Scotia Power",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Security Technician",
+    "link": "https://digitalnovascotia.com/job-posts/senior-security-technician-4/",
+    "company": "Cabco Communications",
+    "location": "Nova Scotia",
     "jobType": "Full Time"
   },
   {
