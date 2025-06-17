@@ -1,12 +1,5 @@
 [
   {
-    "title": "Global Product Marketing Manager, Consumer Digital",
-    "link": "https://digitalnovascotia.com/job-posts/global-product-marketing-manager-consumer-digital-2/",
-    "company": "Resmed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Project Coordinator (Youth Support and Academic Pathways)",
     "link": "https://digitalnovascotia.com/job-posts/project-coordinator-youth-support-and-academic-pathways/",
     "company": "Business is Jammin’",
@@ -199,6 +192,13 @@
     "title": "Senior Analyst, Reporting Shared Services",
     "link": "https://digitalnovascotia.com/job-posts/senior-analyst-reporting-shared-services/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IT Infrastructure Architect",
+    "link": "https://digitalnovascotia.com/job-posts/it-infrastructure-architect/",
+    "company": "Protocase Inc",
     "location": "Halifax",
     "jobType": "Full Time"
   },
