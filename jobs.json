@@ -1,12 +1,5 @@
 [
   {
-    "title": "Business Analyst, eHealth and Clinical Information Systems",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-ehealth-and-clinical-information-systems/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "data scientist",
     "link": "https://digitalnovascotia.com/job-posts/data-scientist-21/",
     "company": "Sparrow Acoustics",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/technical-architect-3/",
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SAP Functional Consultant – Remote",
+    "link": "https://digitalnovascotia.com/job-posts/sap-functional-consultant-remote/",
+    "company": "Compugen",
+    "location": "Provincial",
     "jobType": "Full Time"
   },
   {
