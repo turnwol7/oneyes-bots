@@ -1,12 +1,5 @@
 [
   {
-    "title": "Data Engineer (Contract)",
-    "link": "https://digitalnovascotia.com/job-posts/data-engineer-contract/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Global Product Marketing Manager, Consumer Digital",
     "link": "https://digitalnovascotia.com/job-posts/global-product-marketing-manager-consumer-digital-2/",
     "company": "Resmed",
@@ -199,6 +192,13 @@
     "title": "Senior QA Automation Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-qa-automation-engineer-2/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Analyst, Reporting Shared Services",
+    "link": "https://digitalnovascotia.com/job-posts/senior-analyst-reporting-shared-services/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
