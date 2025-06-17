@@ -1,12 +1,5 @@
 [
   {
-    "title": "Project Coordinator (Youth Support and Academic Pathways)",
-    "link": "https://digitalnovascotia.com/job-posts/project-coordinator-youth-support-and-academic-pathways/",
-    "company": "Business is Jammin’",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Faculty, IT Programming – eCampus",
     "link": "https://digitalnovascotia.com/job-posts/faculty-it-programming-ecampus/",
     "company": "NSCC",
@@ -199,6 +192,13 @@
     "title": "IT Infrastructure Architect",
     "link": "https://digitalnovascotia.com/job-posts/it-infrastructure-architect/",
     "company": "Protocase Inc",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Manager, Media",
+    "link": "https://digitalnovascotia.com/job-posts/manager-media/",
+    "company": "M5",
     "location": "Halifax",
     "jobType": "Full Time"
   },
