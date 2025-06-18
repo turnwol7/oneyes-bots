@@ -1,19 +1,5 @@
 [
   {
-    "title": "Atlassian Administrator (IT Applications)",
-    "link": "https://digitalnovascotia.com/job-posts/atlassian-administrator-it-applications/",
-    "company": "Resmed",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "UI/UX Designer – YourHealthNS, Information Management & Technology",
-    "link": "https://digitalnovascotia.com/job-posts/ui-ux-designer-yourhealthns-information-management-technology/",
-    "company": "Nova Scotia Health Authority",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Asset Informatics Analyst",
     "link": "https://digitalnovascotia.com/job-posts/asset-informatics-analyst/",
     "company": "IWK",
@@ -206,6 +192,20 @@
     "title": "Institutional Data Steward",
     "link": "https://digitalnovascotia.com/job-posts/institutional-data-steward/",
     "company": "Dalhousie University",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "SEO Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/seo-specialist-9/",
+    "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "CSC Supportability CPT (Cross Product Team) Lead",
+    "link": "https://digitalnovascotia.com/job-posts/csc-supportability-cpt-cross-product-team-lead/",
+    "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time"
   }
