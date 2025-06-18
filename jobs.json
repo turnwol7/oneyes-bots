@@ -1,12 +1,5 @@
 [
   {
-    "title": "Oracle Licensing Specialist – Part Time",
-    "link": "https://digitalnovascotia.com/job-posts/oracle-licensing-specialist-part-time/",
-    "company": "Compugen",
-    "location": "Halifax",
-    "jobType": "Part Time"
-  },
-  {
     "title": "Functional Analyst – Central Office/IT Campus",
     "link": "https://digitalnovascotia.com/job-posts/functional-analyst-central-office-it-campus/",
     "company": "NSCC",
@@ -206,6 +199,13 @@
     "title": "Data Delivery Lead – Cloud Data Platforms",
     "link": "https://digitalnovascotia.com/job-posts/data-delivery-lead-cloud-data-platforms-2/",
     "company": "Axis Capital",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Java Lead Developer",
+    "link": "https://digitalnovascotia.com/job-posts/java-lead-developer/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   }
