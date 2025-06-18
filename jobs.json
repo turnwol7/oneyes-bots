@@ -1,12 +1,5 @@
 [
   {
-    "title": "Marketing Sales Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-sales-consultant-8/",
-    "company": "Acadia Broadcasting Corporation",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Oracle Licensing Specialist – Part Time",
     "link": "https://digitalnovascotia.com/job-posts/oracle-licensing-specialist-part-time/",
     "company": "Compugen",
@@ -206,6 +199,13 @@
     "title": "Application Support Analyst",
     "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-3/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Delivery Lead – Cloud Data Platforms",
+    "link": "https://digitalnovascotia.com/job-posts/data-delivery-lead-cloud-data-platforms-2/",
+    "company": "Axis Capital",
     "location": "Halifax",
     "jobType": "Full Time"
   }
