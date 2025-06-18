@@ -1,12 +1,5 @@
 [
   {
-    "title": "Business Analyst, eHealth and Clinical Information Systems",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-ehealth-and-clinical-information-systems/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "data scientist",
     "link": "https://digitalnovascotia.com/job-posts/data-scientist-21/",
     "company": "Sparrow Acoustics",
@@ -208,5 +201,12 @@
     "company": "Compugen",
     "location": "Provincial",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Fall Interns",
+    "link": "https://digitalnovascotia.com/job-posts/fall-interns/",
+    "company": "DeepSense",
+    "location": "Nova Scotia",
+    "jobType": "Internship"
   }
 ]
