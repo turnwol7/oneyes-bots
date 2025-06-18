@@ -1,12 +1,5 @@
 [
   {
-    "title": "Functional Analyst – Central Office/IT Campus",
-    "link": "https://digitalnovascotia.com/job-posts/functional-analyst-central-office-it-campus/",
-    "company": "NSCC",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Full Stack Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-61/",
     "company": "RBC Technology & Operations",
@@ -206,6 +199,13 @@
     "title": "Java Lead Developer",
     "link": "https://digitalnovascotia.com/job-posts/java-lead-developer/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Content Marketing Strategist",
+    "link": "https://digitalnovascotia.com/job-posts/content-marketing-strategist-7/",
+    "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time"
   }
