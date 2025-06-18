@@ -1,5 +1,12 @@
 [
   {
+    "title": "Business Analyst, eHealth and Clinical Information Systems",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-ehealth-and-clinical-information-systems/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "data scientist",
     "link": "https://digitalnovascotia.com/job-posts/data-scientist-21/",
     "company": "Sparrow Acoustics",
@@ -201,12 +208,5 @@
     "company": "Compugen",
     "location": "Provincial",
     "jobType": "Full Time"
-  },
-  {
-    "title": "Dean, School of Technology and Environment",
-    "link": "https://digitalnovascotia.com/job-posts/dean-school-of-technology-and-environment/",
-    "company": "Nova Scotia Community College (NSCC)",
-    "location": "Provincial",
-    "jobType": "Full TimeFeatured Job"
   }
 ]
