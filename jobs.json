@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-61/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "45Drives Network Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/45drives-network-engineer-2/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Atlassian Administrator (IT Applications)",
     "link": "https://digitalnovascotia.com/job-posts/atlassian-administrator-it-applications/",
     "company": "Resmed",
@@ -206,6 +192,20 @@
     "title": "Content Marketing Strategist",
     "link": "https://digitalnovascotia.com/job-posts/content-marketing-strategist-7/",
     "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Functional Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/functional-analyst-8/",
+    "company": "Dalhousie University",
+    "location": "Halifax",
+    "jobType": "Temporary"
+  },
+  {
+    "title": "Institutional Data Steward",
+    "link": "https://digitalnovascotia.com/job-posts/institutional-data-steward/",
+    "company": "Dalhousie University",
     "location": "Halifax",
     "jobType": "Full Time"
   }
