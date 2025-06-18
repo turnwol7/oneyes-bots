@@ -1,19 +1,5 @@
 [
   {
-    "title": "data scientist",
-    "link": "https://digitalnovascotia.com/job-posts/data-scientist-21/",
-    "company": "Sparrow Acoustics",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Co-op Content Creator",
-    "link": "https://digitalnovascotia.com/job-posts/co-op-content-creator/",
-    "company": "QuickFacts",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Marketing Sales Consultant",
     "link": "https://digitalnovascotia.com/job-posts/marketing-sales-consultant-8/",
     "company": "Acadia Broadcasting Corporation",
@@ -208,5 +194,19 @@
     "company": "DeepSense",
     "location": "Nova Scotia",
     "jobType": "Internship"
+  },
+  {
+    "title": "Senior QE Lead",
+    "link": "https://digitalnovascotia.com/job-posts/senior-qe-lead/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Application Support Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-3/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
   }
 ]
