@@ -1,19 +1,5 @@
 [
   {
-    "title": "Software developers",
-    "link": "https://digitalnovascotia.com/job-posts/software-developers-11/",
-    "company": "Compusult",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Consultant – Cloud and Data Strategy",
-    "link": "https://digitalnovascotia.com/job-posts/senior-consultant-cloud-and-data-strategy/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Business Development Representative (BDR), 1 Year Contract",
     "link": "https://digitalnovascotia.com/job-posts/business-development-representative-bdr-1-year-contract/",
     "company": "Compugen",
@@ -206,6 +192,20 @@
     "title": "Lead Mainframe DevOps Developer",
     "link": "https://digitalnovascotia.com/job-posts/lead-mainframe-devops-developer/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr UI/UX Designer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-ui-ux-designer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Data Steward",
+    "link": "https://digitalnovascotia.com/job-posts/sr-data-steward/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   }
