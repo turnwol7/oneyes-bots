@@ -1,12 +1,5 @@
 [
   {
-    "title": "Business Development Representative (BDR), 1 Year Contract",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-representative-bdr-1-year-contract/",
-    "company": "Compugen",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Co-op Python Developer – Fall 2025",
     "link": "https://digitalnovascotia.com/job-posts/co-op-python-developer-fall-2025/",
     "company": "Global Relay",
@@ -205,6 +198,13 @@
   {
     "title": "Sr Data Steward",
     "link": "https://digitalnovascotia.com/job-posts/sr-data-steward/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full-Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-62/",
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
