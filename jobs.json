@@ -1,12 +1,5 @@
 [
   {
-    "title": "Co-op Python Developer – Fall 2025",
-    "link": "https://digitalnovascotia.com/job-posts/co-op-python-developer-fall-2025/",
-    "company": "Global Relay",
-    "location": "Halifax",
-    "jobType": "Co-op"
-  },
-  {
     "title": "Co-op Software Development Engineer in Test (SDET) – Fall 2025",
     "link": "https://digitalnovascotia.com/job-posts/co-op-software-development-engineer-in-test-sdet-fall-2025/",
     "company": "Global Relay",
@@ -207,6 +200,13 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-62/",
     "company": "CGI",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Leading Power Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/leading-power-engineer/",
+    "company": "Nova Scotia Power",
+    "location": "Provincial",
     "jobType": "Full Time"
   }
 ]
