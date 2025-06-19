@@ -1,12 +1,5 @@
 [
   {
-    "title": "Asset Informatics Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/asset-informatics-analyst/",
-    "company": "IWK",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Azure Systems Administrator",
     "link": "https://digitalnovascotia.com/job-posts/azure-systems-administrator/",
     "company": "GBS Technologies",
@@ -207,6 +200,13 @@
     "link": "https://digitalnovascotia.com/job-posts/csc-supportability-cpt-cross-product-team-lead/",
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/account-manager-21/",
+    "company": "SolutionInc",
+    "location": "Nova Scotia",
     "jobType": "Full Time"
   }
 ]
