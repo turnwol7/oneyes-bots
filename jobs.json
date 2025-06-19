@@ -1,19 +1,5 @@
 [
   {
-    "title": "Co-op Software Development Engineer in Test (SDET) – Fall 2025",
-    "link": "https://digitalnovascotia.com/job-posts/co-op-software-development-engineer-in-test-sdet-fall-2025/",
-    "company": "Global Relay",
-    "location": "Halifax",
-    "jobType": "Co-op"
-  },
-  {
-    "title": "Educational Technologies Analyst- Central Office",
-    "link": "https://digitalnovascotia.com/job-posts/educational-technologies-analyst-central-office/",
-    "company": "NSCC",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Python & DevOps Developer",
     "link": "https://digitalnovascotia.com/job-posts/python-devops-developer/",
     "company": "Cognizant",
@@ -207,6 +193,20 @@
     "link": "https://digitalnovascotia.com/job-posts/leading-power-engineer/",
     "company": "Nova Scotia Power",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Backend Developer – ASP.NET Core / Azure | ESB Integration Platform",
+    "link": "https://digitalnovascotia.com/job-posts/senior-backend-developer-asp-net-core-azure-esb-integration-platform/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "KOFAX Developer",
+    "link": "https://digitalnovascotia.com/job-posts/kofax-developer-3/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
