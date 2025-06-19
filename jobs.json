@@ -1,19 +1,5 @@
 [
   {
-    "title": "Azure Systems Administrator",
-    "link": "https://digitalnovascotia.com/job-posts/azure-systems-administrator/",
-    "company": "GBS Technologies",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Solutions Architect",
-    "link": "https://digitalnovascotia.com/job-posts/solutions-architect-12/",
-    "company": "Maplewave",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Software developers",
     "link": "https://digitalnovascotia.com/job-posts/software-developers-11/",
     "company": "Compusult",
@@ -207,6 +193,20 @@
     "link": "https://digitalnovascotia.com/job-posts/account-manager-21/",
     "company": "SolutionInc",
     "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate Director, IT Data Governance and Automation",
+    "link": "https://digitalnovascotia.com/job-posts/associate-director-it-data-governance-and-automation/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Mainframe DevOps Developer",
+    "link": "https://digitalnovascotia.com/job-posts/lead-mainframe-devops-developer/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
