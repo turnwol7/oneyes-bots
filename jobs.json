@@ -1,33 +1,5 @@
 [
   {
-    "title": "Asset Management Technology Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/asset-management-technology-analyst/",
-    "company": "Nova Scotia Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Security Technician",
-    "link": "https://digitalnovascotia.com/job-posts/senior-security-technician-4/",
-    "company": "Cabco Communications",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Development Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-13/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Technical Architect",
-    "link": "https://digitalnovascotia.com/job-posts/technical-architect-3/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "SAP Functional Consultant – Remote",
     "link": "https://digitalnovascotia.com/job-posts/sap-functional-consultant-remote/",
     "company": "Compugen",
@@ -206,6 +178,34 @@
     "title": "Data Analyst (Contract)",
     "link": "https://digitalnovascotia.com/job-posts/data-analyst-contract/",
     "company": "Compugen",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "DevSecOps Developer",
+    "link": "https://digitalnovascotia.com/job-posts/devsecops-developer/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Junior Software Developer – CSC C2 Team",
+    "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-csc-c2-team/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Developer – CSC C2 Team",
+    "link": "https://digitalnovascotia.com/job-posts/software-developer-csc-c2-team/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Research Data Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/research-data-engineer/",
+    "company": "IWK",
     "location": "Halifax",
     "jobType": "Full Time"
   }
