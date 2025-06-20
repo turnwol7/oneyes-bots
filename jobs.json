@@ -1,19 +1,5 @@
 [
   {
-    "title": "Python & DevOps Developer",
-    "link": "https://digitalnovascotia.com/job-posts/python-devops-developer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Mainframe Developer- Hybrid",
-    "link": "https://digitalnovascotia.com/job-posts/senior-mainframe-developer-hybrid/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior QA Automation Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-qa-automation-engineer-2/",
     "company": "Cognizant",
@@ -206,6 +192,20 @@
     "title": "KOFAX Developer",
     "link": "https://digitalnovascotia.com/job-posts/kofax-developer-3/",
     "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior .Net Developer (React, Azure, Devops) – Hybrid",
+    "link": "https://digitalnovascotia.com/job-posts/senior-net-developer-react-azure-devops-hybrid/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Infrastructure Architect – Linux Exadata DMA & Oracle",
+    "link": "https://digitalnovascotia.com/job-posts/infrastructure-architect-linux-exadata-dma-oracle/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   }
