@@ -1,26 +1,5 @@
 [
   {
-    "title": "Senior Analyst, Reporting Shared Services",
-    "link": "https://digitalnovascotia.com/job-posts/senior-analyst-reporting-shared-services/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "IT Infrastructure Architect",
-    "link": "https://digitalnovascotia.com/job-posts/it-infrastructure-architect/",
-    "company": "Protocase Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Manager, Media",
-    "link": "https://digitalnovascotia.com/job-posts/manager-media/",
-    "company": "M5",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Asset Management Technology Analyst",
     "link": "https://digitalnovascotia.com/job-posts/asset-management-technology-analyst/",
     "company": "Nova Scotia Power",
@@ -206,6 +185,27 @@
     "title": "POS Program Manager",
     "link": "https://digitalnovascotia.com/job-posts/pos-program-manager/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Director Consulting Delivery (Data Lead)",
+    "link": "https://digitalnovascotia.com/job-posts/director-consulting-delivery-data-lead/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior/Intermediate Developer – Java, Python & ETL",
+    "link": "https://digitalnovascotia.com/job-posts/senior-intermediate-developer-java-python-etl/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Analyst (Contract)",
+    "link": "https://digitalnovascotia.com/job-posts/data-analyst-contract/",
+    "company": "Compugen",
     "location": "Halifax",
     "jobType": "Full Time"
   }
