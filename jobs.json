@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior QA Automation Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-qa-automation-engineer-2/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Analyst, Reporting Shared Services",
     "link": "https://digitalnovascotia.com/job-posts/senior-analyst-reporting-shared-services/",
     "company": "RBC Technology & Operations",
@@ -205,6 +198,13 @@
   {
     "title": "Infrastructure Architect – Linux Exadata DMA & Oracle",
     "link": "https://digitalnovascotia.com/job-posts/infrastructure-architect-linux-exadata-dma-oracle/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "POS Program Manager",
+    "link": "https://digitalnovascotia.com/job-posts/pos-program-manager/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
