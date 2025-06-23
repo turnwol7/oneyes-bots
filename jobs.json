@@ -1,12 +1,5 @@
 [
   {
-    "title": "SEO Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/seo-specialist-9/",
-    "company": "Resulta",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "CSC Supportability CPT (Cross Product Team) Lead",
     "link": "https://digitalnovascotia.com/job-posts/csc-supportability-cpt-cross-product-team-lead/",
     "company": "Lockheed Martin Canada",
@@ -206,6 +199,13 @@
     "title": "Senior Clinical Informatics Analyst – One Person One Record",
     "link": "https://digitalnovascotia.com/job-posts/senior-clinical-informatics-analyst-one-person-one-record/",
     "company": "Nova Scotia Health Authority",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Manager, Continuous Improvement (2-year contract with possibility of extension)",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-continuous-improvement-2-year-contract-with-possibility-of-extension/",
+    "company": "EfficiencyOne",
     "location": "Halifax",
     "jobType": "Full Time"
   }
