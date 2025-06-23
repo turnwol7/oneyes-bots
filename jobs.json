@@ -1,19 +1,5 @@
 [
   {
-    "title": "Functional Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/functional-analyst-8/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Temporary"
-  },
-  {
-    "title": "Institutional Data Steward",
-    "link": "https://digitalnovascotia.com/job-posts/institutional-data-steward/",
-    "company": "Dalhousie University",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "SEO Specialist",
     "link": "https://digitalnovascotia.com/job-posts/seo-specialist-9/",
     "company": "Resulta",
@@ -206,6 +192,20 @@
     "title": "Senior Project Manager, eHealth and Clinical Information Systems",
     "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-ehealth-and-clinical-information-systems/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Network Data Comm Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/network-data-comm-analyst-2/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Clinical Informatics Analyst – One Person One Record",
+    "link": "https://digitalnovascotia.com/job-posts/senior-clinical-informatics-analyst-one-person-one-record/",
+    "company": "Nova Scotia Health Authority",
     "location": "Halifax",
     "jobType": "Full Time"
   }
