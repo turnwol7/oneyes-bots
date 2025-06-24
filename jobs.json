@@ -1,33 +1,5 @@
 [
   {
-    "title": "Account Manager",
-    "link": "https://digitalnovascotia.com/job-posts/account-manager-21/",
-    "company": "SolutionInc",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Associate Director, IT Data Governance and Automation",
-    "link": "https://digitalnovascotia.com/job-posts/associate-director-it-data-governance-and-automation/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Lead Mainframe DevOps Developer",
-    "link": "https://digitalnovascotia.com/job-posts/lead-mainframe-devops-developer/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr UI/UX Designer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-ui-ux-designer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Sr Data Steward",
     "link": "https://digitalnovascotia.com/job-posts/sr-data-steward/",
     "company": "CGI",
@@ -208,5 +180,33 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Analyst, Book Management",
+    "link": "https://digitalnovascotia.com/job-posts/analyst-book-management/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Quality Engineering Automation Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineering-automation-developer-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Research Project Coordinator Analyst – Hematuria",
+    "link": "https://digitalnovascotia.com/job-posts/research-project-coordinator-analyst-hematuria/",
+    "company": "Nova Scotia Health Authority",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Co-op, IT",
+    "link": "https://digitalnovascotia.com/job-posts/co-op-it-3/",
+    "company": "Nova Scotia Power",
+    "location": "Nova Scotia",
+    "jobType": "Co-op"
   }
 ]
