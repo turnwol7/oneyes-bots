@@ -306,5 +306,12 @@
     "datetime": "June 26 @ 7:00 pm - 9:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "DEFCON Halifax July Meet-Up",
+    "link": "https://digitalnovascotia.com/event/defcon-halifax-july-meet-up-2/",
+    "datetime": "July 3 @ 6:30 pm - 8:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
