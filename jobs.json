@@ -1,12 +1,5 @@
 [
   {
-    "title": "CSC Supportability CPT (Cross Product Team) Lead",
-    "link": "https://digitalnovascotia.com/job-posts/csc-supportability-cpt-cross-product-team-lead/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Account Manager",
     "link": "https://digitalnovascotia.com/job-posts/account-manager-21/",
     "company": "SolutionInc",
@@ -206,6 +199,13 @@
     "title": "Project Manager, Continuous Improvement (2-year contract with possibility of extension)",
     "link": "https://digitalnovascotia.com/job-posts/project-manager-continuous-improvement-2-year-contract-with-possibility-of-extension/",
     "company": "EfficiencyOne",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Application Support Analyst, GFT – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft-halifax-3/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   }
