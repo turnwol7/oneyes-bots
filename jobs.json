@@ -1,12 +1,5 @@
 [
   {
-    "title": "KOFAX Developer",
-    "link": "https://digitalnovascotia.com/job-posts/kofax-developer-3/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior .Net Developer (React, Azure, Devops) – Hybrid",
     "link": "https://digitalnovascotia.com/job-posts/senior-net-developer-react-azure-devops-hybrid/",
     "company": "Cognizant",
@@ -205,6 +198,13 @@
   {
     "title": "ECM Developer",
     "link": "https://digitalnovascotia.com/job-posts/ecm-developer-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Salesforce Business Systems Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-business-systems-analyst-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
