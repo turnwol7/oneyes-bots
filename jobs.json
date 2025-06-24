@@ -1,19 +1,5 @@
 [
   {
-    "title": "Leading Power Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/leading-power-engineer/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Backend Developer – ASP.NET Core / Azure | ESB Integration Platform",
-    "link": "https://digitalnovascotia.com/job-posts/senior-backend-developer-asp-net-core-azure-esb-integration-platform/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "KOFAX Developer",
     "link": "https://digitalnovascotia.com/job-posts/kofax-developer-3/",
     "company": "CGI Information Systems and Management Consultants Inc.",
@@ -207,6 +193,20 @@
     "link": "https://digitalnovascotia.com/job-posts/sales-manager-2/",
     "company": "Venor Search Group",
     "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Engineering Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/data-engineering-consultant-8/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ECM Developer",
+    "link": "https://digitalnovascotia.com/job-posts/ecm-developer-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
     "jobType": "Full Time"
   }
 ]
