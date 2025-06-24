@@ -1,19 +1,5 @@
 [
   {
-    "title": "Sr Data Steward",
-    "link": "https://digitalnovascotia.com/job-posts/sr-data-steward/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Full-Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-62/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Leading Power Engineer",
     "link": "https://digitalnovascotia.com/job-posts/leading-power-engineer/",
     "company": "Nova Scotia Power",
@@ -208,5 +194,19 @@
     "company": "Nova Scotia Power",
     "location": "Nova Scotia",
     "jobType": "Co-op"
+  },
+  {
+    "title": "Social Media Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/social-media-account-manager/",
+    "company": "HumanKind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sales Manager",
+    "link": "https://digitalnovascotia.com/job-posts/sales-manager-2/",
+    "company": "Venor Search Group",
+    "location": "Nova Scotia",
+    "jobType": "Full Time"
   }
 ]
