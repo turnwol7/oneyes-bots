@@ -1,26 +1,5 @@
 [
   {
-    "title": "DevSecOps Developer",
-    "link": "https://digitalnovascotia.com/job-posts/devsecops-developer/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Junior Software Developer – CSC C2 Team",
-    "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-csc-c2-team/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer – CSC C2 Team",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-csc-c2-team/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Research Data Engineer",
     "link": "https://digitalnovascotia.com/job-posts/research-data-engineer/",
     "company": "IWK",
@@ -199,6 +178,27 @@
     "title": "Account Executive, Valet Wireless",
     "link": "https://digitalnovascotia.com/job-posts/account-executive-valet-wireless/",
     "company": "Compugen",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Platform Developer",
+    "link": "https://digitalnovascotia.com/job-posts/platform-developer-2/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer – Enterprise Architecture",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-enterprise-architecture-2/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Avaya Aura Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/avaya-aura-specialist/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   },
