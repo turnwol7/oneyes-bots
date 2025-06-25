@@ -1,26 +1,5 @@
 [
   {
-    "title": "Director Consulting Delivery (Data Lead)",
-    "link": "https://digitalnovascotia.com/job-posts/director-consulting-delivery-data-lead/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior/Intermediate Developer – Java, Python & ETL",
-    "link": "https://digitalnovascotia.com/job-posts/senior-intermediate-developer-java-python-etl/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Data Analyst (Contract)",
-    "link": "https://digitalnovascotia.com/job-posts/data-analyst-contract/",
-    "company": "Compugen",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "DevSecOps Developer",
     "link": "https://digitalnovascotia.com/job-posts/devsecops-developer/",
     "company": "Lockheed Martin Canada",
@@ -208,5 +187,26 @@
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Azure DevOps Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-azure-devops-engineer-4/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Account Executive, Valet Wireless",
+    "link": "https://digitalnovascotia.com/job-posts/account-executive-valet-wireless/",
+    "company": "Compugen",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Skills for Hire Atlantic Teaching Assistant – Cybersecurity",
+    "link": "https://digitalnovascotia.com/job-posts/skills-for-hire-atlantic-teaching-assistant-cybersecurity-2/",
+    "company": "Digital Nova Scotia",
+    "location": "Provincial",
+    "jobType": "Part TimeFeatured Job"
   }
 ]
