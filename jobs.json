@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior .Net Developer (React, Azure, Devops) – Hybrid",
-    "link": "https://digitalnovascotia.com/job-posts/senior-net-developer-react-azure-devops-hybrid/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Infrastructure Architect – Linux Exadata DMA & Oracle",
     "link": "https://digitalnovascotia.com/job-posts/infrastructure-architect-linux-exadata-dma-oracle/",
     "company": "Cognizant",
@@ -18,6 +11,13 @@
     "link": "https://digitalnovascotia.com/job-posts/pos-program-manager/",
     "company": "Cognizant",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IT Infrastructure Architect",
+    "link": "https://digitalnovascotia.com/job-posts/it-infrastructure-architect-2/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
     "jobType": "Full Time"
   },
   {
