@@ -1,26 +1,5 @@
 [
   {
-    "title": "Infrastructure Architect – Linux Exadata DMA & Oracle",
-    "link": "https://digitalnovascotia.com/job-posts/infrastructure-architect-linux-exadata-dma-oracle/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "POS Program Manager",
-    "link": "https://digitalnovascotia.com/job-posts/pos-program-manager/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "IT Infrastructure Architect",
-    "link": "https://digitalnovascotia.com/job-posts/it-infrastructure-architect-2/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Director Consulting Delivery (Data Lead)",
     "link": "https://digitalnovascotia.com/job-posts/director-consulting-delivery-data-lead/",
     "company": "CGI",
@@ -206,6 +185,27 @@
     "title": "Salesforce Business Systems Analyst",
     "link": "https://digitalnovascotia.com/job-posts/salesforce-business-systems-analyst-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate, Capital Markets QTS Data Controls and Testing",
+    "link": "https://digitalnovascotia.com/job-posts/associate-capital-markets-qts-data-controls-and-testing/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Analyst, Enterprise Data Traceability & Controls",
+    "link": "https://digitalnovascotia.com/job-posts/senior-analyst-enterprise-data-traceability-controls/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Backend Software Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/backend-software-engineer/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   }
