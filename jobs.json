@@ -1,26 +1,5 @@
 [
   {
-    "title": "Manager IT Support – (Evenings)",
-    "link": "https://digitalnovascotia.com/job-posts/manager-it-support-evenings/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Consultant – Cloud & Data Strategy (Business Analyst Expertise)",
-    "link": "https://digitalnovascotia.com/job-posts/create-your-profile-sign-in-activate-career-alerts-x-sharing-link-facebook-sharing-link-linkedin-sharing-link-xing-sharing-link-email-sharing-link-find-similar-career-opportunities-senior-consultant/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Consultant – Cloud and Data Strategist",
-    "link": "https://digitalnovascotia.com/job-posts/senior-consultant-cloud-and-data-strategist/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Project Manager, eHealth and Clinical Information Systems",
     "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-ehealth-and-clinical-information-systems/",
     "company": "CGI",
@@ -199,6 +178,27 @@
     "title": "GCP DevOps Specialist",
     "link": "https://digitalnovascotia.com/job-posts/gcp-devops-specialist/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Programme d’apprentissage Cognizant – Technicien de support informatique (Canada)",
+    "link": "https://digitalnovascotia.com/job-posts/programme-dapprentissage-cognizant-technicien-de-support-informatique-canada/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Big Data Test Automation Lead",
+    "link": "https://digitalnovascotia.com/job-posts/big-data-test-automation-lead/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate Director, Production Support (Security Lending/Finance, Central Funding, Repo Trading Systems)",
+    "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-security-lending-finance-central-funding-repo-trading-systems/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
