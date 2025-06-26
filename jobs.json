@@ -1,19 +1,5 @@
 [
   {
-    "title": "QA Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/qa-engineer-7/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Development Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-14/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Manager IT Support – (Evenings)",
     "link": "https://digitalnovascotia.com/job-posts/manager-it-support-evenings/",
     "company": "RBC Technology & Operations",
@@ -200,6 +186,20 @@
     "link": "https://digitalnovascotia.com/job-posts/faculty-game-and-interactive-art-truro-campus/",
     "company": "NSCC",
     "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Database DBA/Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-database-dba-developer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "GCP DevOps Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/gcp-devops-specialist/",
+    "company": "Cognizant",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
