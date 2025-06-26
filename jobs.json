@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Project Manager, eHealth and Clinical Information Systems",
-    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-ehealth-and-clinical-information-systems/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Network Data Comm Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/network-data-comm-analyst-2/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Clinical Informatics Analyst – One Person One Record",
     "link": "https://digitalnovascotia.com/job-posts/senior-clinical-informatics-analyst-one-person-one-record/",
     "company": "Nova Scotia Health Authority",
@@ -199,6 +185,20 @@
     "title": "Associate Director, Production Support (Security Lending/Finance, Central Funding, Repo Trading Systems)",
     "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-security-lending-finance-central-funding-repo-trading-systems/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "System Integration/Test Engineer-ISS",
+    "link": "https://digitalnovascotia.com/job-posts/system-integration-test-engineer-iss/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Power Platform Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/power-platform-consultant-2/",
+    "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
   },
