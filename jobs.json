@@ -1,12 +1,5 @@
 [
   {
-    "title": "Research Data Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/research-data-engineer/",
-    "company": "IWK",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Manual QA Engineer – API & Cloud Testing",
     "link": "https://digitalnovascotia.com/job-posts/manual-qa-engineer-api-cloud-testing-2/",
     "company": "BeyondTrust",
@@ -199,6 +192,13 @@
     "title": "Avaya Aura Specialist",
     "link": "https://digitalnovascotia.com/job-posts/avaya-aura-specialist/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Production Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/production-coordinator/",
+    "company": "Trampoline Branding",
     "location": "Halifax",
     "jobType": "Full Time"
   },
