@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Clinical Informatics Analyst – One Person One Record",
-    "link": "https://digitalnovascotia.com/job-posts/senior-clinical-informatics-analyst-one-person-one-record/",
-    "company": "Nova Scotia Health Authority",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Project Manager, Continuous Improvement (2-year contract with possibility of extension)",
-    "link": "https://digitalnovascotia.com/job-posts/project-manager-continuous-improvement-2-year-contract-with-possibility-of-extension/",
-    "company": "EfficiencyOne",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Application Support Analyst, GFT – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft-halifax-3/",
     "company": "RBC Technology & Operations",
@@ -199,6 +185,20 @@
     "title": "Power Platform Consultant",
     "link": "https://digitalnovascotia.com/job-posts/power-platform-consultant-2/",
     "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Big Data Test Automation Lead",
+    "link": "https://digitalnovascotia.com/job-posts/big-data-test-automation-lead-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Manager Finance Application Operations and Enablement",
+    "link": "https://digitalnovascotia.com/job-posts/senior-manager-finance-application-operations-and-enablement/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
