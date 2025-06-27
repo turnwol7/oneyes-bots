@@ -1,12 +1,5 @@
 [
   {
-    "title": "Research Project Coordinator Analyst – Hematuria",
-    "link": "https://digitalnovascotia.com/job-posts/research-project-coordinator-analyst-hematuria/",
-    "company": "Nova Scotia Health Authority",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Co-op, IT",
     "link": "https://digitalnovascotia.com/job-posts/co-op-it-3/",
     "company": "Nova Scotia Power",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/ux-service-designer-2/",
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/machine-learning-engineer-14/",
+    "company": "Mobsquad",
+    "location": "Remote",
     "jobType": "Full Time"
   },
   {
