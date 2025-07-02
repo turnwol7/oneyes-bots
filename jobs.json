@@ -1,12 +1,5 @@
 [
   {
-    "title": "Salesforce Business Systems Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-business-systems-analyst-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Associate, Capital Markets QTS Data Controls and Testing",
     "link": "https://digitalnovascotia.com/job-posts/associate-capital-markets-qts-data-controls-and-testing/",
     "company": "RBC Technology & Operations",
@@ -199,6 +192,13 @@
     "title": "Senior IBM ITX Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-ibm-itx-developer/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Solutions Manager",
+    "link": "https://digitalnovascotia.com/job-posts/solutions-manager-3/",
+    "company": "Dash Social",
     "location": "Halifax",
     "jobType": "Full Time"
   },
