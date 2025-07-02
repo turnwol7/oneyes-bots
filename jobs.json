@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Analyst, Enterprise Data Traceability & Controls",
-    "link": "https://digitalnovascotia.com/job-posts/senior-analyst-enterprise-data-traceability-controls/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Backend Software Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/backend-software-engineer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Azure DevOps Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-azure-devops-engineer-4/",
     "company": "CGI",
@@ -198,6 +184,20 @@
   {
     "title": "Senior Software Developer – CSC C2 Team",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-csc-c2-team/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Security Representative Associate",
+    "link": "https://digitalnovascotia.com/job-posts/security-representative-associate/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Data Package Lead Engineer – Ship Integration",
+    "link": "https://digitalnovascotia.com/job-posts/technical-data-package-lead-engineer-ship-integration/",
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time"
