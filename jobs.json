@@ -1,12 +1,5 @@
 [
   {
-    "title": "ECM Developer",
-    "link": "https://digitalnovascotia.com/job-posts/ecm-developer-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Salesforce Business Systems Analyst",
     "link": "https://digitalnovascotia.com/job-posts/salesforce-business-systems-analyst-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
@@ -199,6 +192,13 @@
     "title": "Business Systems Analyst – Data and Financial Services",
     "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-data-and-financial-services-4/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior IBM ITX Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-ibm-itx-developer/",
+    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time"
   },
