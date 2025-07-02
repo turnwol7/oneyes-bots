@@ -1,12 +1,5 @@
 [
   {
-    "title": "Associate, Capital Markets QTS Data Controls and Testing",
-    "link": "https://digitalnovascotia.com/job-posts/associate-capital-markets-qts-data-controls-and-testing/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Analyst, Enterprise Data Traceability & Controls",
     "link": "https://digitalnovascotia.com/job-posts/senior-analyst-enterprise-data-traceability-controls/",
     "company": "RBC Technology & Operations",
@@ -199,6 +192,13 @@
     "title": "Solutions Manager",
     "link": "https://digitalnovascotia.com/job-posts/solutions-manager-3/",
     "company": "Dash Social",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer – CSC C2 Team",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-csc-c2-team/",
+    "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time"
   },
