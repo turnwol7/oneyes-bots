@@ -1,12 +1,5 @@
 [
   {
-    "title": "Co-op, IT",
-    "link": "https://digitalnovascotia.com/job-posts/co-op-it-3/",
-    "company": "Nova Scotia Power",
-    "location": "Nova Scotia",
-    "jobType": "Co-op"
-  },
-  {
     "title": "Social Media Account Manager",
     "link": "https://digitalnovascotia.com/job-posts/social-media-account-manager/",
     "company": "HumanKind Global Recruitment",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/machine-learning-engineer-14/",
     "company": "Mobsquad",
     "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Co-op, Digital Experience",
+    "link": "https://digitalnovascotia.com/job-posts/co-op-digital-experience-2/",
+    "company": "Nova Scotia Power",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
