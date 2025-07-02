@@ -1,26 +1,5 @@
 [
   {
-    "title": "Social Media Account Manager",
-    "link": "https://digitalnovascotia.com/job-posts/social-media-account-manager/",
-    "company": "HumanKind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sales Manager",
-    "link": "https://digitalnovascotia.com/job-posts/sales-manager-2/",
-    "company": "Venor Search Group",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Data Engineering Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/data-engineering-consultant-8/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "ECM Developer",
     "link": "https://digitalnovascotia.com/job-posts/ecm-developer-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
@@ -199,6 +178,27 @@
     "title": "Co-op, Digital Experience",
     "link": "https://digitalnovascotia.com/job-posts/co-op-digital-experience-2/",
     "company": "Nova Scotia Power",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data & Power BI Developer",
+    "link": "https://digitalnovascotia.com/job-posts/data-power-bi-developer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Information Systems Security Officer",
+    "link": "https://digitalnovascotia.com/job-posts/information-systems-security-officer/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Systems Analyst – Data and Financial Services",
+    "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-data-and-financial-services-4/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   },
