@@ -1,33 +1,5 @@
 [
   {
-    "title": "Account Executive, Valet Wireless",
-    "link": "https://digitalnovascotia.com/job-posts/account-executive-valet-wireless/",
-    "company": "Compugen",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Platform Developer",
-    "link": "https://digitalnovascotia.com/job-posts/platform-developer-2/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Software Developer – Enterprise Architecture",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-enterprise-architecture-2/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Avaya Aura Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/avaya-aura-specialist/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Production Coordinator",
     "link": "https://digitalnovascotia.com/job-posts/production-coordinator/",
     "company": "Trampoline Branding",
@@ -199,6 +171,34 @@
     "title": "Technical Data Package Lead Engineer – Ship Integration",
     "link": "https://digitalnovascotia.com/job-posts/technical-data-package-lead-engineer-ship-integration/",
     "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Duck Creek Technical Lead",
+    "link": "https://digitalnovascotia.com/job-posts/duck-creek-technical-lead/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Application Security Architect",
+    "link": "https://digitalnovascotia.com/job-posts/application-security-architect-3/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Archer Developer – GFT Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-archer-developer-gft-halifax/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Data Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-data-engineer-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
   },
