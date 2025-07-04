@@ -1,26 +1,5 @@
 [
   {
-    "title": "Production Coordinator",
-    "link": "https://digitalnovascotia.com/job-posts/production-coordinator/",
-    "company": "Trampoline Branding",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Faculty, Game and Interactive Art – Truro Campus",
-    "link": "https://digitalnovascotia.com/job-posts/faculty-game-and-interactive-art-truro-campus/",
-    "company": "NSCC",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Database DBA/Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-database-dba-developer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "GCP DevOps Specialist",
     "link": "https://digitalnovascotia.com/job-posts/gcp-devops-specialist/",
     "company": "Cognizant",
@@ -199,6 +178,20 @@
     "title": "Sr Data Engineer",
     "link": "https://digitalnovascotia.com/job-posts/sr-data-engineer-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Scientist, AI Model Risk",
+    "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-model-risk/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Data Scientist, AI Model Risk",
+    "link": "https://digitalnovascotia.com/job-posts/senior-data-scientist-ai-model-risk/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
