@@ -1,19 +1,5 @@
 [
   {
-    "title": "Power Platform Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/power-platform-consultant-2/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Big Data Test Automation Lead",
-    "link": "https://digitalnovascotia.com/job-posts/big-data-test-automation-lead-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Manager Finance Application Operations and Enablement",
     "link": "https://digitalnovascotia.com/job-posts/senior-manager-finance-application-operations-and-enablement/",
     "company": "RBC Technology & Operations",
@@ -193,6 +179,20 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-63/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Web Developer",
+    "link": "https://digitalnovascotia.com/job-posts/web-developer-22/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Partner Marketing Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/partner-marketing-coordinator-2/",
+    "company": "Compugen",
+    "location": "Remote",
     "jobType": "Full Time"
   },
   {
