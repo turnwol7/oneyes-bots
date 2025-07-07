@@ -1,12 +1,5 @@
 [
   {
-    "title": "Associate Director, Production Support (Security Lending/Finance, Central Funding, Repo Trading Systems)",
-    "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-security-lending-finance-central-funding-repo-trading-systems/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "System Integration/Test Engineer-ISS",
     "link": "https://digitalnovascotia.com/job-posts/system-integration-test-engineer-iss/",
     "company": "Lockheed Martin Canada",
@@ -192,6 +185,13 @@
     "title": "Software Development Engineer in Test",
     "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-in-test-7/",
     "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "AML IT Compliance Specialist, GFT – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/aml-it-compliance-specialist-gft-halifax/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
