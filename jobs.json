@@ -1,12 +1,5 @@
 [
   {
-    "title": "Programme d’apprentissage Cognizant – Technicien de support informatique (Canada)",
-    "link": "https://digitalnovascotia.com/job-posts/programme-dapprentissage-cognizant-technicien-de-support-informatique-canada/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Big Data Test Automation Lead",
     "link": "https://digitalnovascotia.com/job-posts/big-data-test-automation-lead/",
     "company": "RBC Technology & Operations",
@@ -193,6 +186,13 @@
     "link": "https://digitalnovascotia.com/job-posts/power-engineer-2/",
     "company": "Nova Scotia Power",
     "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Product Security Architect",
+    "link": "https://digitalnovascotia.com/job-posts/product-security-architect/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
