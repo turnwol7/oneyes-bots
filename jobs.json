@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Manager Finance Application Operations and Enablement",
-    "link": "https://digitalnovascotia.com/job-posts/senior-manager-finance-application-operations-and-enablement/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Staff Engineer, GFT – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-staff-engineer-gft-halifax/",
     "company": "RBC Technology & Operations",
@@ -192,6 +185,13 @@
     "title": "Partner Marketing Coordinator",
     "link": "https://digitalnovascotia.com/job-posts/partner-marketing-coordinator-2/",
     "company": "Compugen",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-87/",
+    "company": "CGI",
     "location": "Remote",
     "jobType": "Full Time"
   },
