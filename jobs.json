@@ -1,12 +1,5 @@
 [
   {
-    "title": "GCP DevOps Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/gcp-devops-specialist/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Programme d’apprentissage Cognizant – Technicien de support informatique (Canada)",
     "link": "https://digitalnovascotia.com/job-posts/programme-dapprentissage-cognizant-technicien-de-support-informatique-canada/",
     "company": "Cognizant",
@@ -193,6 +186,13 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-data-scientist-ai-model-risk/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Power Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/power-engineer-2/",
+    "company": "Nova Scotia Power",
+    "location": "Provincial",
     "jobType": "Full Time"
   },
   {
