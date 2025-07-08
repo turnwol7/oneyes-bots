@@ -1,26 +1,5 @@
 [
   {
-    "title": "Business Development Manager – Microsoft Solutions Business",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-manager-microsoft-solutions-business/",
-    "company": "Compugen",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "UX Service Designer",
-    "link": "https://digitalnovascotia.com/job-posts/ux-service-designer-2/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/machine-learning-engineer-14/",
-    "company": "Mobsquad",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Co-op, Digital Experience",
     "link": "https://digitalnovascotia.com/job-posts/co-op-digital-experience-2/",
     "company": "Nova Scotia Power",
@@ -196,10 +175,31 @@
     "jobType": "Full Time"
   },
   {
+    "title": "Senior Site Reliability Engineer – DevOps – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-site-reliability-engineer-devops-halifax-3/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Project Manager, Architecture – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-architecture-halifax/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Skills for Hire Atlantic Teaching Assistant – Cybersecurity",
     "link": "https://digitalnovascotia.com/job-posts/skills-for-hire-atlantic-teaching-assistant-cybersecurity-2/",
     "company": "Digital Nova Scotia",
     "location": "Provincial",
     "jobType": "Part TimeFeatured Job"
+  },
+  {
+    "title": "Senior Staff Engineer, GFT – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/3492362-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full TimeFeatured Job"
   }
 ]
