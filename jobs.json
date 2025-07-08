@@ -1,19 +1,5 @@
 [
   {
-    "title": "Business Systems Analyst – Data and Financial Services",
-    "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-data-and-financial-services-4/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior IBM ITX Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-ibm-itx-developer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "45Drives Mechanical Server Engineer",
     "link": "https://digitalnovascotia.com/job-posts/45drives-mechanical-server-engineer-2/",
     "company": "Protocase Inc.",
@@ -185,6 +171,20 @@
     "title": "Senior Software Engineer (Computer Services Officer 4)",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-engineer-computer-services-officer-4/",
     "company": "Province of Nova Scotia",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Engineer,Software Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/senior-engineersoftware-engineering-2/",
+    "company": "Resmed",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Advanced Specialist,Regional Regulatory Affairs & Operations",
+    "link": "https://digitalnovascotia.com/job-posts/advanced-specialistregional-regulatory-affairs-operations/",
+    "company": "Resmed",
     "location": "Halifax",
     "jobType": "Full Time"
   },
