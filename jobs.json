@@ -1,26 +1,5 @@
 [
   {
-    "title": "Co-op, Digital Experience",
-    "link": "https://digitalnovascotia.com/job-posts/co-op-digital-experience-2/",
-    "company": "Nova Scotia Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Data & Power BI Developer",
-    "link": "https://digitalnovascotia.com/job-posts/data-power-bi-developer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Information Systems Security Officer",
-    "link": "https://digitalnovascotia.com/job-posts/information-systems-security-officer/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Business Systems Analyst – Data and Financial Services",
     "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-data-and-financial-services-4/",
     "company": "CGI",
@@ -185,6 +164,27 @@
     "title": "Project Manager, Architecture – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/project-manager-architecture-halifax/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Quality Engineer – GFT",
+    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-gft-6/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "NET Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/net-solution-architect/",
+    "company": "CGI",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Engineer (Computer Services Officer 4)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-engineer-computer-services-officer-4/",
+    "company": "Province of Nova Scotia",
     "location": "Halifax",
     "jobType": "Full Time"
   },
