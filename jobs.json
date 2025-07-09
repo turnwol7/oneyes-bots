@@ -1,12 +1,5 @@
 [
   {
-    "title": "Solutions Manager",
-    "link": "https://digitalnovascotia.com/job-posts/solutions-manager-3/",
-    "company": "Dash Social",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Software Developer – CSC C2 Team",
     "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-csc-c2-team/",
     "company": "Lockheed Martin Canada",
@@ -186,6 +179,13 @@
     "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-developer-4/",
     "company": "Sparrow Acoustics",
     "location": "Nova Scotia",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Software Test Engineering Associate-New Grad",
+    "link": "https://digitalnovascotia.com/job-posts/software-test-engineering-associate-new-grad/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
