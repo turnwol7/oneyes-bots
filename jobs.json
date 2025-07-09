@@ -1,19 +1,5 @@
 [
   {
-    "title": "Security Representative Associate",
-    "link": "https://digitalnovascotia.com/job-posts/security-representative-associate/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Technical Data Package Lead Engineer – Ship Integration",
-    "link": "https://digitalnovascotia.com/job-posts/technical-data-package-lead-engineer-ship-integration/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Duck Creek Technical Lead",
     "link": "https://digitalnovascotia.com/job-posts/duck-creek-technical-lead/",
     "company": "Cognizant",
@@ -185,6 +171,20 @@
     "title": "Systems Engineer Staff",
     "link": "https://digitalnovascotia.com/job-posts/systems-engineer-staff/",
     "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Systems Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/systems-engineer-13/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Creative Account Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/creative-account-coordinator/",
+    "company": "VERB Interactive inc",
     "location": "Halifax",
     "jobType": "Full Time"
   },
