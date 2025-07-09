@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Software Developer – CSC C2 Team",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-csc-c2-team/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Security Representative Associate",
     "link": "https://digitalnovascotia.com/job-posts/security-representative-associate/",
     "company": "Lockheed Martin Canada",
@@ -184,6 +177,13 @@
   {
     "title": "Software Test Engineering Associate-New Grad",
     "link": "https://digitalnovascotia.com/job-posts/software-test-engineering-associate-new-grad/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Systems Engineer Staff",
+    "link": "https://digitalnovascotia.com/job-posts/systems-engineer-staff/",
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time"
