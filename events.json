@@ -16,7 +16,7 @@
   {
     "title": "New Connections Mixer",
     "link": "https://digitalnovascotia.com/event/dns-x-ignite-member-mixer/",
-    "datetime": "Virtual Event\n\t\n\n\n\n\tFeatured\n\t\t\t\n\t\t\tJuly 10 @ 5:00 pm - 7:00 pm  ADT",
+    "datetime": "Featured\n\t\t\t\n\t\t\tJuly 10 @ 5:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -30,14 +30,14 @@
   {
     "title": "Streamlining Automation and Coding with AI",
     "link": "https://digitalnovascotia.com/event/streamlining-automation-and-coding-with-ai/",
-    "datetime": "Virtual Event\n\t\n\n\n\n\tFeatured\n\t\t\t\n\t\t\tJuly 15 @ 10:00 am - 11:00 am  ADT",
+    "datetime": "Featured\n\t\t\t\n\t\t\tJuly 15 @ 10:00 am - 11:00 am  ADT",
     "isVirtual": false,
     "cost": "Free – $15"
   },
   {
     "title": "Summer Networking Mixer",
     "link": "https://digitalnovascotia.com/event/dns-x-ignite-member-mixer-2/",
-    "datetime": "Virtual Event\n\t\n\n\n\n\tFeatured\n\t\t\t\n\t\t\tJuly 15 @ 5:00 pm - 7:00 pm  ADT",
+    "datetime": "Featured\n\t\t\t\n\t\t\tJuly 15 @ 5:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": "Free"
   },
@@ -51,7 +51,7 @@
   {
     "title": "Third Wednesday",
     "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-07-16/",
-    "datetime": "July 16 @ 5:00 pm - 7:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\tVirtual Event",
+    "datetime": "July 16 @ 5:00 pm - 7:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
     "isVirtual": false,
     "cost": ""
   },
@@ -72,8 +72,15 @@
   {
     "title": "Choosing the Right Methodology",
     "link": "https://digitalnovascotia.com/event/choosing-the-right-methodology/",
-    "datetime": "Virtual Event\n\t\n\n\n\n\tFeatured\n\t\t\t\n\t\t\tJuly 24 @ 1:00 pm - 2:00 pm  ADT",
+    "datetime": "Featured\n\t\t\t\n\t\t\tJuly 24 @ 1:00 pm - 2:00 pm  ADT",
     "isVirtual": true,
     "cost": "Free – $15"
+  },
+  {
+    "title": "From COBOL to Co-Pilot: 70 Years of “Soon We Won’t Need Programmers Anymore",
+    "link": "https://digitalnovascotia.com/event/from-cobol-to-co-pilot-70-years-of-soon-we-wont-need-programmers-anymore/",
+    "datetime": "July 30 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
