@@ -1,12 +1,5 @@
 [
   {
-    "title": "Application Security Architect",
-    "link": "https://digitalnovascotia.com/job-posts/application-security-architect-3/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Archer Developer – GFT Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-archer-developer-gft-halifax/",
     "company": "RBC Technology & Operations",
@@ -185,6 +178,13 @@
     "title": "Programmatic Manager",
     "link": "https://digitalnovascotia.com/job-posts/programmatic-manager-4/",
     "company": "Trampoline Branding",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate, Capital Markets Data Controls and Testing",
+    "link": "https://digitalnovascotia.com/job-posts/associate-capital-markets-data-controls-and-testing/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
