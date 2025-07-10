@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Archer Developer – GFT Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-archer-developer-gft-halifax/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr Data Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-data-engineer-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Data Scientist, AI Model Risk",
     "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-model-risk/",
     "company": "RBC Technology & Operations",
@@ -185,6 +171,20 @@
     "title": "Associate, Capital Markets Data Controls and Testing",
     "link": "https://digitalnovascotia.com/job-posts/associate-capital-markets-data-controls-and-testing/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Business & Functional Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/business-functional-analyst/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Web Developer (React & Java)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-web-developer-react-java/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   },
