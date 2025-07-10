@@ -1,19 +1,5 @@
 [
   {
-    "title": "Data Scientist, AI Model Risk",
-    "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-model-risk/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Data Scientist, AI Model Risk",
-    "link": "https://digitalnovascotia.com/job-posts/senior-data-scientist-ai-model-risk/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Power Engineer",
     "link": "https://digitalnovascotia.com/job-posts/power-engineer-2/",
     "company": "Nova Scotia Power",
@@ -186,6 +172,27 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-web-developer-react-java/",
     "company": "CGI",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Power BI Developer",
+    "link": "https://digitalnovascotia.com/job-posts/power-bi-developer-9/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Cash Application Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/cash-application-specialist/",
+    "company": "Compugen",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "R&D Software Development Co-Op – Fall 2025",
+    "link": "https://digitalnovascotia.com/job-posts/rd-software-development-co-op-fall-2025/",
+    "company": "Protocase Inc",
+    "location": "Nova Scotia",
     "jobType": "Full Time"
   },
   {
