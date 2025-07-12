@@ -1,5 +1,12 @@
 [
   {
+    "title": "Senior Data Scientist, AI Model Risk",
+    "link": "https://digitalnovascotia.com/job-posts/senior-data-scientist-ai-model-risk/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Power Engineer",
     "link": "https://digitalnovascotia.com/job-posts/power-engineer-2/",
     "company": "Nova Scotia Power",
@@ -201,12 +208,5 @@
     "company": "Digital Nova Scotia",
     "location": "Provincial",
     "jobType": "Part TimeFeatured Job"
-  },
-  {
-    "title": "Director of Product",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-product/",
-    "company": "QuickFacts Inc",
-    "location": "Halifax",
-    "jobType": "Full TimeFeatured Job"
   }
 ]
