@@ -38,6 +38,11 @@ jobs:
         env:
           JOBS_WEBHOOK_URL: ${{ secrets.JOBS_WEBHOOK_URL }}
 
+      - name: Run NS jobs scraper
+        run: node ns-jobs-scraper.js
+        env:
+          NS_JOBS_WEBHOOK_URL: ${{ secrets.NS_JOBS_WEBHOOK_URL }}
+
       # Add these new steps to commit changes
       - name: Configure Git
         run: |
@@ -47,7 +52,7 @@ jobs:
       - name: Commit and push if changed
         run: |
           # Add both files
-          git add jobs.json package-lock.json
+          git add jobs.json NS-jobs.json package-lock.json
           # Check if there are changes and commit them
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update jobs and dependencies" && git push)
         env:
