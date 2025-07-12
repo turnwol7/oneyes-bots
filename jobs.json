@@ -1,5 +1,12 @@
 [
   {
+    "title": "Power Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/power-engineer-2/",
+    "company": "Nova Scotia Power",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Product Security Architect",
     "link": "https://digitalnovascotia.com/job-posts/product-security-architect/",
     "company": "BeyondTrust",
@@ -194,13 +201,6 @@
     "company": "Digital Nova Scotia",
     "location": "Provincial",
     "jobType": "Part TimeFeatured Job"
-  },
-  {
-    "title": "Senior Staff Engineer, GFT – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/3492362-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full TimeFeatured Job"
   },
   {
     "title": "Director of Product",
