@@ -1,19 +1,5 @@
 [
   {
-    "title": "Data Scientist, AI Model Risk",
-    "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-model-risk-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developer, Growth",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-growth/",
-    "company": "Dash Social",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Data Engineering Specialist",
     "link": "https://digitalnovascotia.com/job-posts/data-engineering-specialist-3/",
     "company": "Mariner Partners Inc.",
@@ -199,6 +185,20 @@
     "title": "Senior Associate, Data Services  BEDFORD, Nova Scotia, Canada",
     "link": "https://digitalnovascotia.com/job-posts/senior-associate-data-services-bedford-nova-scotia-canada/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Data Steward",
+    "link": "https://digitalnovascotia.com/job-posts/sr-data-steward-2/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Java Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-33/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   },
