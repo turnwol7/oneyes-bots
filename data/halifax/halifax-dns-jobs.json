@@ -1,12 +1,5 @@
 [
   {
-    "title": "Systems Engineer Associate-New Grad",
-    "link": "https://digitalnovascotia.com/job-posts/systems-engineer-associate-new-grad/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Systems Engineer",
     "link": "https://digitalnovascotia.com/job-posts/systems-engineer-14/",
     "company": "Lockheed Martin Canada",
@@ -201,6 +194,13 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Internship"
+  },
+  {
+    "title": "Senior ESB Developer – Azure Cloud Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-esb-developer-azure-cloud-specialist/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
   },
   {
     "title": "Senior QE Lead – Halifax",
