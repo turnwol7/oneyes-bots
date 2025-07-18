@@ -3,8 +3,9 @@ const axios = require("axios");
 const fs = require("fs");
 const cheerio = require("cheerio");
 
+const CITY = "halifax";
 const EVENTS_URL = "https://digitalnovascotia.com/events/";
-const EVENTS_FILE = "events.json";
+const EVENTS_FILE = `./data/${CITY}/${CITY}-dns-events.json`; // Updated path
 
 process.on('unhandledRejection', (error) => {
     console.error('Unhandled promise rejection:', error);
@@ -66,9 +67,6 @@ async function checkForNewEvents() {
     const currentEvents = await scrapeEvents();
     const previousEvents = loadPreviousEvents();
     
-    // Reverse the order so new events appear at the bottom
-    //currentEvents.reverse();
-    
     console.log("\nComparing events:");
     console.log(`Current events: ${currentEvents.length}`);
     console.log(`Previous events: ${previousEvents.length}`);
@@ -85,7 +83,9 @@ async function checkForNewEvents() {
 
         saveEvents(currentEvents);
         
-        if (process.env.EVENTS_WEBHOOK_URL) {
+        // Send new events to consolidated Halifax events webhook
+        const webhookUrl = process.env.HALIFAX_EVENTS_WEBHOOK_URL;
+        if (webhookUrl) {
             try {
                 console.log("\nSending to Discord webhook...");
                 
@@ -96,15 +96,15 @@ async function checkForNewEvents() {
                         embeds: chunk.map(event => ({
                             title: event.title,
                             url: event.link,
-                            color: 0x00ff00,
+                            color: 0x0066cc, // Ocean blue color for events
                             description: `**Date & Time:** ${event.datetime}\n**Event Type:** ${event.isVirtual ? 'Virtual' : 'In Person'}${event.cost ? `\n**Cost:** ${event.cost}` : ''}`,
                             footer: {
-                                text: `Digital Nova Scotia Events (${i + 1}-${Math.min(i + chunkSize, newEvents.length)} of ${newEvents.length})`
+                                text: `Halifax Events - Digital Nova Scotia (${i + 1}-${Math.min(i + chunkSize, newEvents.length)} of ${newEvents.length})`
                             }
                         }))
                     };
 
-                    const response = await axios.post(process.env.EVENTS_WEBHOOK_URL, discordMessage);
+                    const response = await axios.post(webhookUrl, discordMessage);
                     if (response.status === 204) {
                         console.log(`Successfully posted chunk ${Math.floor(i/chunkSize) + 1} to Discord`);
                     }
@@ -117,7 +117,7 @@ async function checkForNewEvents() {
                 console.error('Error posting to Discord:', error.response?.data || error.message);
             }
         } else {
-            console.error("EVENTS_WEBHOOK_URL not defined in .env");
+            console.error("HALIFAX_EVENTS_WEBHOOK_URL not defined in .env");
         }
     } else {
         console.log("No new events found. All events are already in our database.");

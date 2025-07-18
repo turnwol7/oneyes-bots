@@ -3,8 +3,9 @@ const axios = require("axios");
 const fs = require("fs");
 const cheerio = require("cheerio");
 
+const CITY = "halifax";
 const NS_JOBS_URL = "https://jobs.novascotia.ca/go/All-Opportunities/502817/?q=&q2=&alertId=&locationsearch=&title=&facility=cyber&location=&shifttype=";
-const NS_JOBS_FILE = "NS-jobs.json";
+const NS_JOBS_FILE = `./data/${CITY}/${CITY}-csds-jobs.json`; // Updated path
 
 process.on('unhandledRejection', (error) => {
     console.error('Unhandled promise rejection:', error);
@@ -90,8 +91,9 @@ async function checkForNewNSJobs() {
         saveNSJobs(currentJobs);
         console.log(`\nSaved ${currentJobs.length} Nova Scotia jobs to ${NS_JOBS_FILE}`);
         
-        // Send new jobs to Discord webhook
-        if (process.env.NS_JOBS_WEBHOOK_URL) {
+        // Send new jobs to consolidated Halifax jobs webhook
+        const webhookUrl = process.env.HALIFAX_JOBS_WEBHOOK_URL;
+        if (webhookUrl) {
             try {
                 console.log("\nSending to Discord webhook...");
                 
@@ -102,15 +104,15 @@ async function checkForNewNSJobs() {
                         embeds: chunk.map(job => ({
                             title: job.title,
                             url: job.link,
-                            color: 0x00ff00, // Green color for jobs
+                            color: 0x0066cc, // Ocean blue color for CSDS jobs
                             description: `**Department:** ${job.department}\n**Location:** ${job.location}\n**Closing Date:** ${job.closingDate}`,
                             footer: {
-                                text: `Nova Scotia Government Jobs - Cyber Department (${i + 1}-${Math.min(i + chunkSize, newJobs.length)} of ${newJobs.length})`
+                                text: `Halifax Jobs - NS Government Cyber (${i + 1}-${Math.min(i + chunkSize, newJobs.length)} of ${newJobs.length})`
                             }
                         }))
                     };
 
-                    const response = await axios.post(process.env.NS_JOBS_WEBHOOK_URL, discordMessage);
+                    const response = await axios.post(webhookUrl, discordMessage);
                     if (response.status === 204) {
                         console.log(`Successfully posted chunk ${Math.floor(i/chunkSize) + 1} to Discord`);
                     }
@@ -123,7 +125,7 @@ async function checkForNewNSJobs() {
                 console.error('Error posting to Discord:', error.response?.data || error.message);
             }
         } else {
-            console.error("NS_JOBS_WEBHOOK_URL not defined in .env");
+            console.error("HALIFAX_JOBS_WEBHOOK_URL not defined in .env");
         }
     } else {
         console.log("No new Nova Scotia government jobs found. All jobs are already in our database.");

@@ -3,8 +3,9 @@ const axios = require("axios");
 const fs = require("fs");
 const cheerio = require("cheerio");
 
+const CITY = "halifax";
 const JOBS_URL = "https://digitalnovascotia.com/job-posts/";
-const JOBS_FILE = "jobs.json";
+const JOBS_FILE = `./data/${CITY}/${CITY}-dns-jobs.json`; // Updated path
 
 process.on('unhandledRejection', (error) => {
     console.error('Unhandled promise rejection:', error);
@@ -75,7 +76,6 @@ async function checkForNewJobs() {
     
     const newJobs = currentJobs.filter(job => !previousJobs.some(prev => prev.link === job.link));
     
-    console.log("\nJob comparison details:");
     if (newJobs.length > 0) {
         console.log("New jobs found:");
         newJobs.forEach(job => {
@@ -85,12 +85,12 @@ async function checkForNewJobs() {
         saveJobs(currentJobs);
         console.log(`\nSaved ${currentJobs.length} jobs to ${JOBS_FILE}`);
         
-        // Send new jobs to Discord webhook
-        if (process.env.JOBS_WEBHOOK_URL) {
+        // Send new jobs to consolidated Halifax jobs webhook
+        const webhookUrl = process.env.HALIFAX_JOBS_WEBHOOK_URL;
+        if (webhookUrl) {
             try {
                 console.log("\nSending to Discord webhook...");
                 
-                // Split jobs into chunks of 10 for the initial run
                 const chunkSize = 10;
                 for (let i = 0; i < newJobs.length; i += chunkSize) {
                     const chunk = newJobs.slice(i, i + chunkSize);
@@ -98,20 +98,19 @@ async function checkForNewJobs() {
                         embeds: chunk.map(job => ({
                             title: job.title,
                             url: job.link,
-                            color: 0x00ff00, 
+                            color: 0x0066cc, // Ocean blue color for DNS jobs
                             description: `**Company:** ${job.company}\n**Location:** ${job.location}\n**Type:** ${job.jobType}`,
                             footer: {
-                                text: `Digital Nova Scotia Jobs (${i + 1}-${Math.min(i + chunkSize, newJobs.length)} of ${newJobs.length})`
+                                text: `Halifax Jobs - Digital Nova Scotia (${i + 1}-${Math.min(i + chunkSize, newJobs.length)} of ${newJobs.length})`
                             }
                         }))
                     };
 
-                    const response = await axios.post(process.env.JOBS_WEBHOOK_URL, discordMessage);
+                    const response = await axios.post(webhookUrl, discordMessage);
                     if (response.status === 204) {
                         console.log(`Successfully posted chunk ${Math.floor(i/chunkSize) + 1} to Discord`);
                     }
                     
-                    // Add a small delay between messages to avoid rate limiting
                     if (i + chunkSize < newJobs.length) {
                         await new Promise(resolve => setTimeout(resolve, 1000));
                     }
@@ -120,7 +119,7 @@ async function checkForNewJobs() {
                 console.error('Error posting to Discord:', error.response?.data || error.message);
             }
         } else {
-            console.error("JOBS_WEBHOOK_URL not defined in .env");
+            console.error("HALIFAX_JOBS_WEBHOOK_URL not defined in .env");
         }
     } else {
         console.log("No new jobs found. All jobs are already in our database.");

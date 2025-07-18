@@ -1,0 +1,47 @@
+# .github/workflows/halifax-scraper.yml
+name: Halifax Scraper
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes for jobs
+    - cron: '0 0 * * *'     # Daily at midnight for events
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Halifax scrapers
+        run: node halifax-main-scraper.js
+        env:
+          HALIFAX_JOBS_WEBHOOK_URL: ${{ secrets.HALIFAX_JOBS_WEBHOOK_URL }}
+          HALIFAX_EVENTS_WEBHOOK_URL: ${{ secrets.HALIFAX_EVENTS_WEBHOOK_URL }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name '${{ secrets.GIT_USER_NAME }}'
+          git config --global user.email '${{ secrets.GIT_USER_EMAIL }}'
+
+      - name: Commit and push if changed
+        run: |
+          git add data/halifax/*.json package-lock.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Halifax data" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

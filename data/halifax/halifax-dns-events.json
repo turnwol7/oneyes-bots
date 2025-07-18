@@ -77,9 +77,23 @@
     "cost": "Free – $15"
   },
   {
+    "title": "ISANS Immigrant Women Entrepreneurship Network Summer Market 2025",
+    "link": "https://digitalnovascotia.com/event/isans-immigrant-women-entrepreneurship-network-summer-market-2025/",
+    "datetime": "July 24 @ 4:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "From COBOL to Co-Pilot: 70 Years of “Soon We Won’t Need Programmers Anymore",
     "link": "https://digitalnovascotia.com/event/from-cobol-to-co-pilot-70-years-of-soon-we-wont-need-programmers-anymore/",
     "datetime": "July 30 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "IGNITE: STEM Networking Night – Halifax",
+    "link": "https://digitalnovascotia.com/event/ignite-stem-networking-night-halifax/",
+    "datetime": "July 31 @ 5:00 pm - 7:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
