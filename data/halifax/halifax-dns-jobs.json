@@ -1,19 +1,5 @@
 [
   {
-    "title": "Bilingual Service Desk Analyst- Fulltime",
-    "link": "https://digitalnovascotia.com/job-posts/bilingual-service-desk-analyst-fulltime/",
-    "company": "Compugen",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "FileNet Developer",
-    "link": "https://digitalnovascotia.com/job-posts/filenet-developer-6/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Full-Stack Developer (Java + React)",
     "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-java-react-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
@@ -199,6 +185,20 @@
     "title": "Sr Staff Frontend AI Transformation Engineer",
     "link": "https://digitalnovascotia.com/job-posts/sr-staff-frontend-ai-transformation-engineer/",
     "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate Director, Production Support (Security Lending/Finance, Central Funding, Repo Trading Systems)",
+    "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-security-lending-finance-central-funding-repo-trading-systems-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Full Stack Developer – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-halifax-3/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
