@@ -1,26 +1,5 @@
 [
   {
-    "title": "Full-Stack Developer (Java + React)",
-    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-java-react-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Lead Data and AI",
-    "link": "https://digitalnovascotia.com/job-posts/lead-data-and-ai-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Lead DevOps Platform Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/lead-devops-platform-engineer/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Solutions Architect – Contract",
     "link": "https://digitalnovascotia.com/job-posts/solutions-architect-contract/",
     "company": "Compugen",
@@ -199,6 +178,27 @@
     "title": "Senior Full Stack Developer – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-halifax-3/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Data Engineer – AWS (Apache Kafka and Snowflake)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-aws-apache-kafka-and-snowflake/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": ".NET Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/net-solution-architect-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Director Consulting Delivery (Data Lead)",
+    "link": "https://digitalnovascotia.com/job-posts/director-consulting-delivery-data-lead-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
   },
