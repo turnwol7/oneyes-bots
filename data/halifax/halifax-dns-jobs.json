@@ -1,12 +1,5 @@
 [
   {
-    "title": "Systems Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/systems-engineer-14/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Bilingual Service Desk Analyst- Fulltime",
     "link": "https://digitalnovascotia.com/job-posts/bilingual-service-desk-analyst-fulltime/",
     "company": "Compugen",
@@ -199,6 +192,13 @@
     "title": "Senior ESB Developer – Azure Cloud Specialist",
     "link": "https://digitalnovascotia.com/job-posts/senior-esb-developer-azure-cloud-specialist/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Sr Staff Frontend AI Transformation Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-staff-frontend-ai-transformation-engineer/",
+    "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time"
   },
