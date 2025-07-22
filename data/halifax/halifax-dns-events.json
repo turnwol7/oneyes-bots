@@ -63,6 +63,13 @@
     "cost": ""
   },
   {
+    "title": "SNMA Summer School: Your Content’s Off… Here’s Why (And How to Fix It)",
+    "link": "https://digitalnovascotia.com/event/snma-summer-school-your-contents-off-heres-why-and-how-to-fix-it/",
+    "datetime": "July 23 @ 1:00 pm - 1:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "QueerTech Connect Q2 Meetup Halifax",
     "link": "https://digitalnovascotia.com/event/queertech-connect-q2-meetup-halifax/",
     "datetime": "July 23 @ 4:30 pm - 7:00 pm  ADT",
@@ -86,9 +93,9 @@
   {
     "title": "Driving AI Accountability Through Robust Data Governance",
     "link": "https://digitalnovascotia.com/event/driving-ai-accountability-through-robust-data-governance/",
-    "datetime": "July 29 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": true,
-    "cost": ""
+    "datetime": "Featured\n\t\t\t\n\t\t\tJuly 29 @ 10:00 am - 11:00 am  ADT",
+    "isVirtual": false,
+    "cost": "Free"
   },
   {
     "title": "From COBOL to Co-Pilot: 70 Years of “Soon We Won’t Need Programmers Anymore",
