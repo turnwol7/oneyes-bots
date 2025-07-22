@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Account Executive",
-    "link": "https://digitalnovascotia.com/job-posts/senior-account-executive-3/",
-    "company": "Venor Search Group",
-    "location": "Nova Scotia",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Partner Support Lead",
     "link": "https://digitalnovascotia.com/job-posts/partner-support-lead/",
     "company": "Geo Nova Scotia",
@@ -198,6 +191,13 @@
   {
     "title": "Application Support Analyst, GFT – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft-halifax-4/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Security Automation Engineer (Global Security)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-security-automation-engineer-global-security/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
