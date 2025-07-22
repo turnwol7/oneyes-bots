@@ -1,26 +1,5 @@
 [
   {
-    "title": "Partner Support Lead",
-    "link": "https://digitalnovascotia.com/job-posts/partner-support-lead/",
-    "company": "Geo Nova Scotia",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Data Engineer -Apache Kafka, Apache Iceberg and Snowflake.",
-    "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-apache-kafka-apache-iceberg-and-snowflake/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "DevOps Engineering Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/devops-engineering-consultant-2/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Systems Integration/Test Engineer – Software Tester",
     "link": "https://digitalnovascotia.com/job-posts/systems-integration-test-engineer-software-tester/",
     "company": "Lockheed Martin Canada",
@@ -199,6 +178,27 @@
     "title": "Senior Security Automation Engineer (Global Security)",
     "link": "https://digitalnovascotia.com/job-posts/senior-security-automation-engineer-global-security/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Engineer,Software (App) Engineering-2",
+    "link": "https://digitalnovascotia.com/job-posts/engineersoftware-app-engineering-2-2/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Specialist Administrator, IT Applications Administration",
+    "link": "https://digitalnovascotia.com/job-posts/specialist-administrator-it-applications-administration/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Specialist Administrator,IT Applications Administration",
+    "link": "https://digitalnovascotia.com/job-posts/specialist-administratorit-applications-administration/",
+    "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time"
   },
