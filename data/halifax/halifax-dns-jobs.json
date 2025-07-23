@@ -1,12 +1,5 @@
 [
   {
-    "title": "Manager Audit Services – IT",
-    "link": "https://digitalnovascotia.com/job-posts/manager-audit-services-it/",
-    "company": "Nova Scotia Power",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "ETL and Data Transport Developer",
     "link": "https://digitalnovascotia.com/job-posts/etl-and-data-transport-developer/",
     "company": "RBC Technology & Operations",
@@ -199,6 +192,13 @@
     "title": "Software Engineer",
     "link": "https://digitalnovascotia.com/job-posts/software-engineer-30/",
     "company": "Bluedrop Training & Simulation",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing Communications Associate",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-communications-associate/",
+    "company": "East Coast Credit Union",
     "location": "Halifax",
     "jobType": "Full Time"
   },
