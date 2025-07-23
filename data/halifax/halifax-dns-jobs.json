@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Developer – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-halifax-3/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Data Engineer – AWS (Apache Kafka and Snowflake)",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-aws-apache-kafka-and-snowflake/",
     "company": "CGI Information Systems and Management Consultants Inc.",
@@ -198,6 +191,13 @@
   {
     "title": "ETL Datastage Developer",
     "link": "https://digitalnovascotia.com/job-posts/etl-datastage-developer/",
+    "company": "Cognizant",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "French Bilingual Service Desk Shift Lead",
+    "link": "https://digitalnovascotia.com/job-posts/french-bilingual-service-desk-shift-lead/",
     "company": "Cognizant",
     "location": "Remote",
     "jobType": "Full Time"
