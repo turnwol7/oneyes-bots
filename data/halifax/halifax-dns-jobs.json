@@ -1,12 +1,5 @@
 [
   {
-    "title": "Associate Director, Production Support (Security Lending/Finance, Central Funding, Repo Trading Systems)",
-    "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-security-lending-finance-central-funding-repo-trading-systems-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Full Stack Developer – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-halifax-3/",
     "company": "RBC Technology & Operations",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/technical-data-steward-4/",
     "company": "CGI",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "ETL Datastage Developer",
+    "link": "https://digitalnovascotia.com/job-posts/etl-datastage-developer/",
+    "company": "Cognizant",
+    "location": "Remote",
     "jobType": "Full Time"
   },
   {
