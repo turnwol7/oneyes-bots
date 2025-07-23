@@ -1,33 +1,5 @@
 [
   {
-    "title": "Senior Java Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-33/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Weapons Engineering Technician Junior Instructional Systems Designer",
-    "link": "https://digitalnovascotia.com/job-posts/weapons-engineering-technician-junior-instructional-systems-designer/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Internship"
-  },
-  {
-    "title": "Senior ESB Developer – Azure Cloud Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/senior-esb-developer-azure-cloud-specialist/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Sr Staff Frontend AI Transformation Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-staff-frontend-ai-transformation-engineer/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Associate Director, Production Support (Security Lending/Finance, Central Funding, Repo Trading Systems)",
     "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-security-lending-finance-central-funding-repo-trading-systems-2/",
     "company": "RBC Technology & Operations",
@@ -198,6 +170,34 @@
   {
     "title": "ETL Test Automator (Java/Python/SQL)",
     "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-5/",
+    "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Engineering Manager",
+    "link": "https://digitalnovascotia.com/job-posts/engineering-manager-7/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Engineer, Software Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/senior-engineersoftware-engineering-3/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Continuous Improvement Co-op",
+    "link": "https://digitalnovascotia.com/job-posts/continuous-improvement-co-op-2/",
+    "company": "Nova Scotia Power",
+    "location": "Provincial",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Data Steward",
+    "link": "https://digitalnovascotia.com/job-posts/technical-data-steward-4/",
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
