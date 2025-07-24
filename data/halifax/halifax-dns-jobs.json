@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Data Engineer – AWS (Apache Kafka and Snowflake)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-aws-apache-kafka-and-snowflake/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": ".NET Solution Architect",
     "link": "https://digitalnovascotia.com/job-posts/net-solution-architect-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/french-bilingual-service-desk-shift-lead/",
     "company": "Cognizant",
     "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Associate Director – Production Support – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-halifax/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
