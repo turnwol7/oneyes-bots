@@ -1,12 +1,5 @@
 [
   {
-    "title": "NICE CxOne Developer",
-    "link": "https://digitalnovascotia.com/job-posts/nice-cxone-developer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Application Support Analyst, GFT – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft-halifax-4/",
     "company": "RBC Technology & Operations",
@@ -199,6 +192,13 @@
     "title": "Art Director",
     "link": "https://digitalnovascotia.com/job-posts/art-director-3/",
     "company": "Trampoline Branding",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Manager Finance Application Operations and Enablement",
+    "link": "https://digitalnovascotia.com/job-posts/senior-manager-finance-application-operations-and-enablement-2/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
