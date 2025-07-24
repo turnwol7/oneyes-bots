@@ -1,12 +1,5 @@
 [
   {
-    "title": "Application Support Analyst, GFT – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-gft-halifax-4/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Security Automation Engineer (Global Security)",
     "link": "https://digitalnovascotia.com/job-posts/senior-security-automation-engineer-global-security/",
     "company": "RBC Technology & Operations",
@@ -200,6 +193,13 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-manager-finance-application-operations-and-enablement-2/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Performance & Automated Test Specialist – Remote",
+    "link": "https://digitalnovascotia.com/job-posts/performance-automated-test-specialist-remote-2/",
+    "company": "Compugen",
+    "location": "Remote",
     "jobType": "Full Time"
   },
   {
