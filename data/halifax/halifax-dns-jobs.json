@@ -1,19 +1,5 @@
 [
   {
-    "title": ".NET Solution Architect",
-    "link": "https://digitalnovascotia.com/job-posts/net-solution-architect-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Director Consulting Delivery (Data Lead)",
-    "link": "https://digitalnovascotia.com/job-posts/director-consulting-delivery-data-lead-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "NICE CxOne Developer",
     "link": "https://digitalnovascotia.com/job-posts/nice-cxone-developer/",
     "company": "Cognizant",
@@ -199,6 +185,20 @@
     "title": "Associate Director – Production Support – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-halifax/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Account Director",
+    "link": "https://digitalnovascotia.com/job-posts/account-director-10/",
+    "company": "Trampoline Branding",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Art Director",
+    "link": "https://digitalnovascotia.com/job-posts/art-director-3/",
+    "company": "Trampoline Branding",
     "location": "Halifax",
     "jobType": "Full Time"
   },
