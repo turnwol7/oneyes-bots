@@ -1,26 +1,5 @@
 [
   {
-    "title": "Senior Security Automation Engineer (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-security-automation-engineer-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Engineer,Software (App) Engineering-2",
-    "link": "https://digitalnovascotia.com/job-posts/engineersoftware-app-engineering-2-2/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Specialist Administrator, IT Applications Administration",
-    "link": "https://digitalnovascotia.com/job-posts/specialist-administrator-it-applications-administration/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Specialist Administrator,IT Applications Administration",
     "link": "https://digitalnovascotia.com/job-posts/specialist-administratorit-applications-administration/",
     "company": "Resmed Halifax",
@@ -200,6 +179,27 @@
     "link": "https://digitalnovascotia.com/job-posts/performance-automated-test-specialist-remote-2/",
     "company": "Compugen",
     "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Technical Systems Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-technical-systems-analyst-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Tech Support Services Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/tech-support-services-analyst/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "French Bilingual Service Desk Programmer Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/french-bilingual-service-desk-programmer-analyst/",
+    "company": "Cognizant",
+    "location": "Halifax",
     "jobType": "Full Time"
   },
   {
