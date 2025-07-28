@@ -1,26 +1,5 @@
 [
   {
-    "title": "Director of Sales Growth and Strategy",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-sales-growth-and-strategy-2/",
-    "company": "Protocase Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "45Drives Mechanical Server Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/45drives-mechanical-server-engineer-3/",
-    "company": "Protocase Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "IT Infrastructure Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/it-infrastructure-engineer/",
-    "company": "Protocase Inc",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "45Drives Solutions Specialist Co-Op",
     "link": "https://digitalnovascotia.com/job-posts/45drives-solutions-specialist-co-op/",
     "company": "Protocase Inc",
@@ -199,6 +178,27 @@
     "title": "Application Support Analyst",
     "link": "https://digitalnovascotia.com/job-posts/application-support-analyst-4/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Operations Analyst – Bilingual",
+    "link": "https://digitalnovascotia.com/job-posts/operations-analyst-bilingual/",
+    "company": "Compugen",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Hardware Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/hardware-test-engineer/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Model Based Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/model-based-test-engineer/",
+    "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time"
   },
