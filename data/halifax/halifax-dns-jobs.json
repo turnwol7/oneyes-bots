@@ -1,26 +1,5 @@
 [
   {
-    "title": "Marketing Communications Associate",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-communications-associate/",
-    "company": "East Coast Credit Union",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Senior Quality Engineering Automation Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineering-automation-developer-3/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Project / Program Manager – Digital Banking",
-    "link": "https://digitalnovascotia.com/job-posts/project-program-manager-digital-banking/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "ETL Test Automator (Java/Python/SQL)",
     "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-5/",
     "company": "CGI",
@@ -199,6 +178,27 @@
     "title": "Naval Sonar Operations Instructional Systems Designer",
     "link": "https://digitalnovascotia.com/job-posts/naval-sonar-operations-instructional-systems-designer/",
     "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Automation Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-automation-developer/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Power BI Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/senior-power-bi-consultant/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-28/",
+    "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time"
   },
