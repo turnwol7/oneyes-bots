@@ -1,19 +1,5 @@
 [
   {
-    "title": "ETL Test Automator (Java/Python/SQL)",
-    "link": "https://digitalnovascotia.com/job-posts/etl-test-automator-java-python-sql-5/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Engineering Manager",
-    "link": "https://digitalnovascotia.com/job-posts/engineering-manager-7/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Engineer, Software Engineering",
     "link": "https://digitalnovascotia.com/job-posts/senior-engineersoftware-engineering-3/",
     "company": "Resmed Halifax",
@@ -199,6 +185,20 @@
     "title": "Senior Guidewire Software Architect – Contract",
     "link": "https://digitalnovascotia.com/job-posts/senior-guidewire-software-architect-contract/",
     "company": "Compugen",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Marketing & Communications Manager",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-communications-manager-3/",
+    "company": "The Discovery Centre",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Product Manager/Senior Digital Business Analyst Full-time",
+    "link": "https://digitalnovascotia.com/job-posts/product-manager-senior-digital-business-analyst-full-time-2/",
+    "company": "The Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time"
   },
