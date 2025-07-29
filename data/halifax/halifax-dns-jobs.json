@@ -1,12 +1,5 @@
 [
   {
-    "title": "Technical Data Steward",
-    "link": "https://digitalnovascotia.com/job-posts/technical-data-steward-4/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "French Bilingual Service Desk Shift Lead",
     "link": "https://digitalnovascotia.com/job-posts/french-bilingual-service-desk-shift-lead/",
     "company": "Cognizant",
@@ -199,6 +192,13 @@
     "title": "Senior Change Management Consultant (Future Opportunities)",
     "link": "https://digitalnovascotia.com/job-posts/senior-change-management-consultant-future-opportunities-4/",
     "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Engineer, Metadata Management – GFT – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/lead-engineer-metadata-management-gft-halifax/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   },
