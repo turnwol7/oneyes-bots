@@ -1,12 +1,5 @@
 [
   {
-    "title": "Continuous Improvement Co-op",
-    "link": "https://digitalnovascotia.com/job-posts/continuous-improvement-co-op-2/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Technical Data Steward",
     "link": "https://digitalnovascotia.com/job-posts/technical-data-steward-4/",
     "company": "CGI",
@@ -198,6 +191,13 @@
   {
     "title": "Data Analyst",
     "link": "https://digitalnovascotia.com/job-posts/data-analyst-22/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Change Management Consultant (Future Opportunities)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-change-management-consultant-future-opportunities-4/",
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
