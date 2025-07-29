@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Engineer, Software Engineering",
-    "link": "https://digitalnovascotia.com/job-posts/senior-engineersoftware-engineering-3/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Continuous Improvement Co-op",
     "link": "https://digitalnovascotia.com/job-posts/continuous-improvement-co-op-2/",
     "company": "Nova Scotia Power",
@@ -199,6 +192,13 @@
     "title": "Product Manager/Senior Digital Business Analyst Full-time",
     "link": "https://digitalnovascotia.com/job-posts/product-manager-senior-digital-business-analyst-full-time-2/",
     "company": "The Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Data Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/data-analyst-22/",
+    "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time"
   },
