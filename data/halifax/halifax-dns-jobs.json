@@ -1,12 +1,5 @@
 [
   {
-    "title": "French Bilingual Service Desk Shift Lead",
-    "link": "https://digitalnovascotia.com/job-posts/french-bilingual-service-desk-shift-lead/",
-    "company": "Cognizant",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Associate Director – Production Support – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/associate-director-production-support-halifax/",
     "company": "RBC Technology & Operations",
@@ -199,6 +192,13 @@
     "title": "Lead Engineer, Metadata Management – GFT – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/lead-engineer-metadata-management-gft-halifax/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Analyst, Advertising",
+    "link": "https://digitalnovascotia.com/job-posts/senior-analyst-advertising-5/",
+    "company": "Outshine",
     "location": "Halifax",
     "jobType": "Full Time"
   },
