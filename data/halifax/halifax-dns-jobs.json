@@ -1,26 +1,5 @@
 [
   {
-    "title": "Senior Technical Systems Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-technical-systems-analyst-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "French Bilingual Service Desk Programmer Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/french-bilingual-service-desk-programmer-analyst/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Software Developers",
-    "link": "https://digitalnovascotia.com/job-posts/software-developers-12/",
-    "company": "Compusult",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Data Engineer – AWS",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-aws/",
     "company": "CGI",
@@ -199,6 +178,27 @@
     "title": "IT & Security Analyst",
     "link": "https://digitalnovascotia.com/job-posts/it-security-analyst-3/",
     "company": "Ateko",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Senior Guidewire Solution Architect – Contract",
+    "link": "https://digitalnovascotia.com/job-posts/senior-guidewire-solution-architect-contract/",
+    "company": "Compugen",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Programme d’apprentissage Cognizant – Technicien de support informatique (Canada)",
+    "link": "https://digitalnovascotia.com/job-posts/programme-dapprentissage-cognizant-technicien-de-support-informatique-canada-2/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Technical Program Manager-Healthcare",
+    "link": "https://digitalnovascotia.com/job-posts/technical-program-manager-healthcare/",
+    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
   },
