@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Manager Finance Application Operations and Enablement",
-    "link": "https://digitalnovascotia.com/job-posts/senior-manager-finance-application-operations-and-enablement-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
-    "title": "Performance & Automated Test Specialist – Remote",
-    "link": "https://digitalnovascotia.com/job-posts/performance-automated-test-specialist-remote-2/",
-    "company": "Compugen",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Technical Systems Analyst",
     "link": "https://digitalnovascotia.com/job-posts/senior-technical-systems-analyst-2/",
     "company": "RBC Technology & Operations",
@@ -199,6 +185,20 @@
     "title": "Senior Power Platform Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-power-platform-developer/",
     "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Engagement Director (Remote)",
+    "link": "https://digitalnovascotia.com/job-posts/engagement-director-remote/",
+    "company": "Ateko",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IT & Security Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/it-security-analyst-3/",
+    "company": "Ateko",
     "location": "Halifax",
     "jobType": "Full Time"
   },
