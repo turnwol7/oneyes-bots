@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Data Engineer – AWS",
-    "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-aws/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Project / Program Manager – Payment",
     "link": "https://digitalnovascotia.com/job-posts/project-program-manager-payment/",
     "company": "CGI",
@@ -206,6 +199,13 @@
     "title": "Lead Mainframe DevOps Developer",
     "link": "https://digitalnovascotia.com/job-posts/lead-mainframe-devops-developer-2/",
     "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Engineer II ,Software Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/3493204-2/",
+    "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time"
   }
