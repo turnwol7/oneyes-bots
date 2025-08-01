@@ -1,12 +1,5 @@
 [
   {
-    "title": "Project / Program Manager – Payment",
-    "link": "https://digitalnovascotia.com/job-posts/project-program-manager-payment/",
-    "company": "CGI",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Partner Marketing Coordinator, Microsoft",
     "link": "https://digitalnovascotia.com/job-posts/partner-marketing-coordinator-microsoft/",
     "company": "Compugen",
@@ -206,6 +199,13 @@
     "title": "Engineer II ,Software Engineering",
     "link": "https://digitalnovascotia.com/job-posts/3493204-2/",
     "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "IT & Security Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/it-security-analyst-4/",
+    "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time"
   }
