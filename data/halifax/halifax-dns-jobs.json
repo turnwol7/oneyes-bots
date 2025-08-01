@@ -1,5 +1,12 @@
 [
   {
+    "title": "Software Developers",
+    "link": "https://digitalnovascotia.com/job-posts/software-developers-12/",
+    "company": "Compusult",
+    "location": "Remote",
+    "jobType": "Full Time"
+  },
+  {
     "title": "Senior Data Engineer – AWS",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-aws/",
     "company": "CGI",
@@ -201,12 +208,5 @@
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time"
-  },
-  {
-    "title": "Senior QE Lead – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-qe-lead-halifax/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full TimeFeatured Job"
   }
 ]
