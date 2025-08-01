@@ -1,12 +1,5 @@
 [
   {
-    "title": "Software Developers",
-    "link": "https://digitalnovascotia.com/job-posts/software-developers-12/",
-    "company": "Compusult",
-    "location": "Remote",
-    "jobType": "Full Time"
-  },
-  {
     "title": "Senior Data Engineer – AWS",
     "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-aws/",
     "company": "CGI",
@@ -206,6 +199,13 @@
     "title": "Technical Program Manager-Healthcare",
     "link": "https://digitalnovascotia.com/job-posts/technical-program-manager-healthcare/",
     "company": "CGI",
+    "location": "Halifax",
+    "jobType": "Full Time"
+  },
+  {
+    "title": "Lead Mainframe DevOps Developer",
+    "link": "https://digitalnovascotia.com/job-posts/lead-mainframe-devops-developer-2/",
+    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time"
   }
