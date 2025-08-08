@@ -43,5 +43,23 @@
     "location": "Rotman School of Management in Desautels Hall, 105 St. George Street",
     "price": "$20 Early Bird | $10 for Members",
     "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "TechTO Student HackathonTechTO Student Hackathon",
+    "link": "https://www.techto.org/event/techto-studenthack-sep-27-2025",
+    "description": "Welcome to the Future of Interaction! Join us for the TechTO Student Hackathon!Welcome to the Future of Interaction! Join us for the TechTO Student Hackathon!",
+    "date": "September 27, 2025 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
+    "location": "NEXT Canada, 175 Bloor Street East #1800, South Tower, Toronto, ON M4W 3R8",
+    "price": "Individual $20 l Team $70",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "TechTO Road Trip to SAAS NORTHTechTO Road Trip to SAAS NORTH",
+    "link": "https://www.techto.org/event/techto-saasnorth-nov-2025",
+    "description": "Hop on the TechTO bus to SAAS NORTH with exclusive speakers, workshops, and 50+ startup peers by your sideHop on the TechTO bus to SAAS NORTH with exclusive speakers, workshops, and 50+ startup peers by your side",
+    "date": "November 4, 2025 10:00 am - 6:00 pm 10:00 am - 6:00 pm",
+    "location": "120 Front St W, Toronto, ON M5J 1R7, Canada",
+    "price": "Please refer to Luma page",
+    "status": "Sold OutUp NextSold Out"
   }
 ]
