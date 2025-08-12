@@ -90,66 +90,12 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Backend Engineer, Growth",
-    "link": "https://jobs.techto.org/jobs/145728753-backend-engineer-growth",
-    "company": "EvenUp",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Senior Research Engineer, Model Evaluation",
-    "link": "https://jobs.techto.org/jobs/146013458-senior-research-engineer-model-evaluation",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Applied AI Engineer",
-    "link": "https://jobs.techto.org/jobs/145660838-applied-ai-engineer",
-    "company": "BorderPass",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, AI"
-  },
-  {
-    "title": "Knowledge and Data Specialist",
-    "link": "https://jobs.techto.org/jobs/145691065-knowledge-and-data-specialist",
-    "company": "BorderPass",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, AI, Customer Support, product"
-  },
-  {
-    "title": "Automotive Production Manager",
-    "link": "https://jobs.techto.org/jobs/146599693-automotive-production-manager",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Senior Full-Stack Engineer, Endpoints",
-    "link": "https://jobs.techto.org/jobs/147039849-senior-full-stack-engineer-endpoints",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Senior Infrastructure Engineer",
     "link": "https://jobs.techto.org/jobs/147237385-senior-infrastructure-engineer",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -158,7 +104,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -167,7 +113,7 @@
     "company": "Koru",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, engineering, developer"
   },
   {
@@ -176,7 +122,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -185,7 +131,7 @@
     "company": "SuiteSpot Technology",
     "jobType": "Full-time",
     "location": "Remote (Toronto, ON)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -194,7 +140,106 @@
     "company": "Ideogram",
     "jobType": "Contract",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Backend Engineer",
+    "link": "https://jobs.techto.org/jobs/151641358-senior-backend-engineer",
+    "company": "Motion",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1w ago",
+    "tags": "Product & Engineering, AI, Startup, backend, Node, agile, software development, Typescript, Digital Marketing, Paid Ads, agentic AI testing framework, engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Full-Stack Engineer, Endpoints",
+    "link": "https://jobs.techto.org/jobs/152325358-full-stack-engineer-endpoints",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1w ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Engineering Manager, Cloud Infrastructure",
+    "link": "https://jobs.techto.org/jobs/151624561-engineering-manager-cloud-infrastructure",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, software development, Management, engineering"
+  },
+  {
+    "title": "Engineering Manager, Performance",
+    "link": "https://jobs.techto.org/jobs/153345873-engineering-manager-performance",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering, Management, engineering"
+  },
+  {
+    "title": "Senior Design Engineer, Performance",
+    "link": "https://jobs.techto.org/jobs/153345875-senior-design-engineer-performance",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering, design, engineering"
+  },
+  {
+    "title": "Senior Software Engineer (iOS), SDK",
+    "link": "https://jobs.techto.org/jobs/153345876-senior-software-engineer-ios-sdk",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Senior Software Engineer (JavaScript), SDK",
+    "link": "https://jobs.techto.org/jobs/153345993-senior-software-engineer-javascript-sdk",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Senior Software Engineer, Cloud Infrastructure",
+    "link": "https://jobs.techto.org/jobs/153346004-senior-software-engineer-cloud-infrastructure",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "22h ago",
+    "tags": "Product & Engineering, engineering"
+  },
+  {
+    "title": "Senior Software Engineer, Codecov",
+    "link": "https://jobs.techto.org/jobs/153346006-senior-software-engineer-codecov",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "22h ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Senior Software Engineer, Ingest",
+    "link": "https://jobs.techto.org/jobs/153346492-senior-software-engineer-ingest",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "22h ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Senior Software Engineer, Session Replay",
+    "link": "https://jobs.techto.org/jobs/153346741-senior-software-engineer-session-replay",
+    "company": "Sentry",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "22h ago",
+    "tags": "Product & Engineering"
   }
 ]
