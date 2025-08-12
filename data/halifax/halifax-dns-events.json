@@ -100,7 +100,7 @@
   {
     "title": "Executive Lounge: AI Infrastructure in Canada",
     "link": "https://digitalnovascotia.com/event/executive-lounge-ai-infrastructure-in-canada/",
-    "datetime": "August 18 @ 12:00 am  ADT",
+    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 18 @ 12:00 am  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -138,6 +138,13 @@
     "datetime": "All day",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "Networking Social",
+    "link": "https://digitalnovascotia.com/event/networking-social/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 26 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": "Free"
   },
   {
     "title": "DevOpsDays Halifax",
