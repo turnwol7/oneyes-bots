@@ -1,11 +1,27 @@
 [
   {
+    "title": "Technical Account Manager",
+    "link": "https://digitalnovascotia.com/job-posts/technical-account-manager-7/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "34 seconds ago"
+  },
+  {
+    "title": "Product Security Architect",
+    "link": "https://digitalnovascotia.com/job-posts/product-security-architect-2/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "14 minutes ago"
+  },
+  {
     "title": "Cloud Architect (AWS)",
     "link": "https://digitalnovascotia.com/job-posts/cloud-architect-aws/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "6 minutes ago"
+    "postedDate": "27 minutes ago"
   },
   {
     "title": "Go API Developer-(Temporary)",
@@ -13,7 +29,7 @@
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "10 minutes ago"
+    "postedDate": "32 minutes ago"
   },
   {
     "title": "SDET (UI-API Test Automation)",
@@ -21,7 +37,7 @@
     "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "13 minutes ago"
+    "postedDate": "35 minutes ago"
   },
   {
     "title": "Strategy Analyst- Capital Markets",
@@ -29,7 +45,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 minutes ago"
+    "postedDate": "45 minutes ago"
   },
   {
     "title": "Strategy Analyst – Capital Markets",
@@ -37,7 +53,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "27 minutes ago"
+    "postedDate": "49 minutes ago"
   },
   {
     "title": "Network Infrastructure & Cloud Engineer",
@@ -219,22 +235,6 @@
     "title": "Software Engineering Consultant-.Net/Python/Azure",
     "link": "https://digitalnovascotia.com/job-posts/software-engineering-consultant-net-python-azure/",
     "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Product Owner – Digital Banking Application (Canadian Credit Union Sector)",
-    "link": "https://digitalnovascotia.com/job-posts/product-owner-digital-banking-application-canadian-credit-union-sector/",
-    "company": "CGI",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Associate, Capital Markets Data Controls and Testing",
-    "link": "https://digitalnovascotia.com/job-posts/associate-capital-markets-data-controls-and-testing-2/",
-    "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "4 days ago"
