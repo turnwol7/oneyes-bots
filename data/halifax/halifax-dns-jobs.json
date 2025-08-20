@@ -1,11 +1,43 @@
 [
   {
+    "title": "SEO Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/seo-specialist-11/",
+    "company": "HumanKind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 minute ago"
+  },
+  {
+    "title": "Security Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/security-engineer-4/",
+    "company": "Axis Capital",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "7 minutes ago"
+  },
+  {
+    "title": "Cloud Security Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/cloud-security-engineer-4/",
+    "company": "Axis Capital",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "11 minutes ago"
+  },
+  {
+    "title": "Senior GCP Cloud Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-gcp-cloud-engineer-5/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "19 minutes ago"
+  },
+  {
     "title": "Senior Systems Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-systems-developer/",
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "29 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Full Stack Developer – AI Technologies",
@@ -13,7 +45,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "42 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Project Manager",
@@ -21,7 +53,7 @@
     "company": "Capstone Project Solutions",
     "location": "Dartmouth",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Principal Developer",
@@ -206,37 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "5 days ago"
-  },
-  {
-    "title": "Strategy Analyst – Capital Markets",
-    "link": "https://digitalnovascotia.com/job-posts/strategy-analyst-capital-markets-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Network Infrastructure & Cloud Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/network-infrastructure-cloud-engineer/",
-    "company": "Axis Capital",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Senior Specialist,UX Design",
-    "link": "https://digitalnovascotia.com/job-posts/senior-specialistux-design/",
-    "company": "Resmed",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Product Development & Communications Manager",
-    "link": "https://digitalnovascotia.com/job-posts/3493402-2/",
-    "company": "SolutionInc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
   }
 ]
