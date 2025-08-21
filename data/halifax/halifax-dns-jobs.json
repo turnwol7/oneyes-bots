@@ -1,11 +1,27 @@
 [
   {
+    "title": "Marketer",
+    "link": "https://digitalnovascotia.com/job-posts/marketer-3/",
+    "company": "Protocase Inc",
+    "location": "Sydney",
+    "jobType": "Full Time",
+    "postedDate": "35 seconds ago"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/full-stack-engineer-14/",
+    "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "4 minutes ago"
+  },
+  {
     "title": "Bilingual Operations Analyst",
     "link": "https://digitalnovascotia.com/job-posts/bilingual-operations-analyst-2/",
     "company": "Compugen",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "2 minutes ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "UX Designer",
@@ -13,7 +29,7 @@
     "company": "VERB Interactive inc",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "SEO Specialist",
@@ -21,7 +37,7 @@
     "company": "HumanKind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Security Engineer",
@@ -29,7 +45,7 @@
     "company": "Axis Capital",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Cloud Security Engineer",
@@ -37,7 +53,7 @@
     "company": "Axis Capital",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior GCP Cloud Engineer",
@@ -45,7 +61,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Systems Developer",
@@ -53,7 +69,7 @@
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Full Stack Developer – AI Technologies",
@@ -61,7 +77,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Project Manager",
@@ -69,7 +85,7 @@
     "company": "Capstone Project Solutions",
     "location": "Dartmouth",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Principal Developer",
@@ -219,22 +235,6 @@
     "title": "Product Security Architect",
     "link": "https://digitalnovascotia.com/job-posts/product-security-architect-2/",
     "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Cloud Architect (AWS)",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-architect-aws/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Go API Developer-(Temporary)",
-    "link": "https://digitalnovascotia.com/job-posts/go-api-developer-temporary/",
-    "company": "CGI",
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "6 days ago"
