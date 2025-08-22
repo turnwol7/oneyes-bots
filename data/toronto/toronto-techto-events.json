@@ -1,20 +1,11 @@
 [
   {
-    "title": "Sales TorontoSales Toronto",
-    "link": "https://www.techto.org/event/sales-toronto-aug-18-2025",
-    "description": "Join TechTO for engaging conversations with leaders in tech and salesJoin TechTO for engaging conversations with leaders in tech and sales",
-    "date": "August 18, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "OneEleven, 325 Front St W 4th Floor, Toronto",
-    "price": "$30 General Admission | $10 for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Together TorontoTogether Toronto",
     "link": "https://www.techto.org/event/together-toronto-sep-8-2025",
     "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
     "date": "September 8, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$30 Early Bird | Free for Members",
+    "price": "$40 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -42,6 +33,15 @@
     "date": "September 27, 2025 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
     "location": "NEXT Canada, 175 Bloor Street East #1800, South Tower, Toronto, ON M4W 3R8",
     "price": "$20 Individual l $70 Team",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Together Toronto Together Toronto",
+    "link": "https://www.techto.org/event/together-toronto-oct-6-2025",
+    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
+    "date": "October 6, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
+    "price": "$30 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
