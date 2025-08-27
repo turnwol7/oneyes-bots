@@ -63,15 +63,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Technical Support Specialist",
-    "link": "https://jobs.techto.org/jobs/136901968-technical-support-specialist",
-    "company": "SuiteSpot Technology",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, ON)",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Software Engineering Manager, PropTech",
     "link": "https://jobs.techto.org/jobs/127153137-software-engineering-manager-proptech",
     "company": "SuiteSpot Technology",
@@ -81,30 +72,12 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Engineer",
-    "link": "https://jobs.techto.org/jobs/148824123-principal-engineer",
-    "company": "Koru",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, engineering, developer"
-  },
-  {
-    "title": "Automotive Production Manager",
-    "link": "https://jobs.techto.org/jobs/126075964-automotive-production-manager",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Technical Solution and Implementation Consultant",
     "link": "https://jobs.techto.org/jobs/134268618-technical-solution-and-implementation-consultant",
     "company": "SuiteSpot Technology",
     "jobType": "Full-time",
     "location": "Remote (Toronto, ON)",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -122,7 +95,7 @@
     "company": "Motion",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, AI, Startup, backend, Node, agile, software development, Typescript, Digital Marketing, Paid Ads, agentic AI testing framework, engineering, TechTO Rocketships"
   },
   {
@@ -131,7 +104,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -140,7 +113,7 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, software development, Management, engineering"
   },
   {
@@ -149,7 +122,7 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, Management, engineering"
   },
   {
@@ -158,7 +131,7 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, design, engineering"
   },
   {
@@ -167,7 +140,7 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -176,17 +149,8 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Senior Software Engineer, Cloud Infrastructure",
-    "link": "https://jobs.techto.org/jobs/153346004-senior-software-engineer-cloud-infrastructure",
-    "company": "Sentry",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1w ago",
-    "tags": "Product & Engineering, engineering"
   },
   {
     "title": "Senior Software Engineer, Codecov",
@@ -194,7 +158,7 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -203,7 +167,7 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -212,7 +176,7 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -221,7 +185,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -230,7 +194,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +212,16 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "19h ago",
+    "postedDate": "5d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Director of Software Engineering",
+    "link": "https://jobs.techto.org/jobs/158354314-director-of-software-engineering",
+    "company": "Loopio Inc.",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
