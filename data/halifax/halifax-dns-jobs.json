@@ -1,11 +1,19 @@
 [
   {
+    "title": "Senior Manager, Product Marketing",
+    "link": "https://digitalnovascotia.com/job-posts/senior-manager-product-marketing/",
+    "company": "Dash Social",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "8 minutes ago"
+  },
+  {
     "title": "Senior Integration Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-integration-engineer-2/",
     "company": "VERB Interactive Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "9 minutes ago"
+    "postedDate": "29 minutes ago"
   },
   {
     "title": "Engineering Technologist",
@@ -13,7 +21,7 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "13 minutes ago"
+    "postedDate": "34 minutes ago"
   },
   {
     "title": "Senior Analyst, Advertising",
@@ -230,13 +238,5 @@
     "location": "Dartmouth",
     "jobType": "Full Time",
     "postedDate": "7 days ago"
-  },
-  {
-    "title": "Product Manager",
-    "link": "https://digitalnovascotia.com/job-posts/product-manager-36/",
-    "company": "Global Spatial Technology Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
   }
 ]
