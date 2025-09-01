@@ -1,184 +1,128 @@
 [
   {
-    "title": "Driving AI Accountability Through Robust Data Governance",
-    "link": "https://digitalnovascotia.com/event/driving-ai-accountability-through-robust-data-governance/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJuly 29 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": "Free"
-  },
-  {
-    "title": "SNMA Summer School: Igniting Marketing Magic: How Micro-Internships Power Innovation and Results",
-    "link": "https://digitalnovascotia.com/event/igniting-marketing-magic-how-micro-internships-power-innovation-and-results/",
-    "datetime": "July 30 @ 1:00 pm - 1:30 pm  ADT",
+    "title": "AI Safety Solution Project: Lessons Learned",
+    "link": "https://digitalnovascotia.com/event/ai-safety-solution-project-lessons-learned/",
+    "datetime": "September 5 @ 12:00 pm - 1:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "From COBOL to Co-Pilot: 70 Years of “Soon We Won’t Need Programmers Anymore”",
-    "link": "https://digitalnovascotia.com/event/from-cobol-to-co-pilot-70-years-of-soon-we-wont-need-programmers-anymore/",
-    "datetime": "July 30 @ 6:00 pm - 8:00 pm  ADT",
+    "title": "GoSec 2025",
+    "link": "https://digitalnovascotia.com/event/gosec-2025/",
+    "datetime": "September 10 @ 8:00 am - September 11 @ 5:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "IGNITE: STEM Networking Night – Halifax",
-    "link": "https://digitalnovascotia.com/event/ignite-stem-networking-night-halifax/",
-    "datetime": "July 31 @ 5:00 pm - 7:30 pm  ADT",
+    "title": "RBC Experienced Technologist Career Fair",
+    "link": "https://digitalnovascotia.com/event/rbc-experienced-technologist-career-fair-2/",
+    "datetime": "September 10 @ 4:00 pm - 6:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Small Group Networking Coaching",
-    "link": "https://digitalnovascotia.com/event/small-group-networking-coaching/",
-    "datetime": "August 4 @ 8:00 am - 5:00 pm  ADT",
-    "isVirtual": true,
-    "cost": ""
-  },
-  {
-    "title": "PEI Tech Week",
-    "link": "https://digitalnovascotia.com/event/pei-tech-week/",
-    "datetime": "All day",
+    "title": "Dal Business Networking Night",
+    "link": "https://digitalnovascotia.com/event/dal-business-networking-night-2/",
+    "datetime": "September 10 @ 4:00 pm - 7:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "PEI Tech Week",
-    "link": "https://digitalnovascotia.com/event/pei-tech-week/",
-    "datetime": "All day",
+    "title": "GoSec 2025",
+    "link": "https://digitalnovascotia.com/event/gosec-2025/",
+    "datetime": "September 10 @ 8:00 am - September 11 @ 5:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "SNMA Summer School: Branding & Storytelling",
-    "link": "https://digitalnovascotia.com/event/snma-summer-school-branding-storytelling/",
-    "datetime": "August 6 @ 1:00 pm - 1:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "PEI Tech Week",
-    "link": "https://digitalnovascotia.com/event/pei-tech-week/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "DEFCON Halifax August Meet-Up",
-    "link": "https://digitalnovascotia.com/event/defcon-halifax-august-meet-up-2/",
-    "datetime": "August 7 @ 6:30 pm - 8:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "PEI Tech Week",
-    "link": "https://digitalnovascotia.com/event/pei-tech-week/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "PEI Tech Week",
-    "link": "https://digitalnovascotia.com/event/pei-tech-week/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Essentials of AI for non-profits",
-    "link": "https://digitalnovascotia.com/event/essentials-of-ai-for-non-profits/",
-    "datetime": "August 12 @ 9:00 am - 3:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "SNMA Summer School: Bad Data Is Worse Than No Data: Common Tracking Mistakes That Quietly Kill Sales",
-    "link": "https://digitalnovascotia.com/event/snma-summer-school-bad-data-is-worse-than-no-data-common-tracking-mistakes-that-quietly-kill-sales/",
-    "datetime": "August 13 @ 1:00 pm - 1:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Executive Lounge: AI Infrastructure in Canada",
-    "link": "https://digitalnovascotia.com/event/executive-lounge-ai-infrastructure-in-canada/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 18 @ 12:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "SNMA Summer School: The Undying Importance of Understanding the Customer Journey",
-    "link": "https://digitalnovascotia.com/event/snma-summer-school-the-undying-importance-of-understanding-the-customer-journey/",
-    "datetime": "August 20 @ 1:00 pm - 1:30 pm  ADT",
+    "title": "Atlantic Immigrant Career Loan Fund (AICLF)",
+    "link": "https://digitalnovascotia.com/event/atlantic-immigrant-career-loan-fund-aiclf/",
+    "datetime": "September 11 @ 2:00 pm - 3:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
     "title": "Third Wednesday",
-    "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-08-20/",
-    "datetime": "August 20 @ 5:00 pm - 7:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
+    "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-09-17/",
+    "datetime": "September 17 @ 5:00 pm - 7:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "2nd Annual Check Point Golf Tournament",
-    "link": "https://digitalnovascotia.com/event/2nd-annual-check-point-golf-tournament/",
-    "datetime": "August 21 @ 10:00 am - 5:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Powering what’s next: 2025 business transformation through technology",
-    "link": "https://digitalnovascotia.com/event/powering-whats-next-2025-business-transformation-through-technology/",
-    "datetime": "August 21 @ 12:30 pm - 1:00 pm  ADT",
-    "isVirtual": true,
-    "cost": ""
-  },
-  {
-    "title": "Ocean Connector: Sociable!",
-    "link": "https://digitalnovascotia.com/event/ocean-connector-sociable-4/",
-    "datetime": "August 21 @ 4:00 pm - 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "REQUEST FOR INFORMATION – SOVEREIGN PUBLIC CLOUD CAPABILITY",
-    "link": "https://digitalnovascotia.com/event/request-for-information-sovereign-public-cloud-capability/",
-    "datetime": "August 22 @ 2:00 pm - 3:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "DevOpsDays Halifax",
-    "link": "https://digitalnovascotia.com/event/devopsdays-halifax/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Networking Social",
-    "link": "https://digitalnovascotia.com/event/networking-social/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 26 @ 6:00 pm - 8:00 pm  ADT",
+    "title": "2025 DNS Annual General Meeting",
+    "link": "https://digitalnovascotia.com/event/2025-dns-annual-general-meeting/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tSeptember 18 @ 4:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": "Free"
   },
   {
-    "title": "DevOpsDays Halifax",
-    "link": "https://digitalnovascotia.com/event/devopsdays-halifax/",
+    "title": "A Deep Dive Into The Atlantic Immigration Program",
+    "link": "https://digitalnovascotia.com/event/a-deep-dive-into-the-atlantic-immigration-program/",
+    "datetime": "September 18 @ 11:00 am - 12:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "The Rules of the Game: Competition Law and Procurement",
+    "link": "https://digitalnovascotia.com/event/the-rules-of-the-game-competition-law-and-procurement/",
+    "datetime": "September 18 @ 2:30 pm - 3:15 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Dal Business Society Showcase",
+    "link": "https://digitalnovascotia.com/event/dal-business-society-showcase-2/",
+    "datetime": "September 22 @ 1:00 pm - 2:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Leadership Lab: Lead Beyond Expertise",
+    "link": "https://digitalnovascotia.com/event/leadership-lab-lead-beyond-expertise/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tSeptember 23 @ 10:00 am - 12:00 pm  ADT",
+    "isVirtual": false,
+    "cost": "Free – $15"
+  },
+  {
+    "title": "QT Connect Q3 Meetup Halifax",
+    "link": "https://digitalnovascotia.com/event/qt-connect-q3-meetup-halifax/",
+    "datetime": "September 23 @ 5:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Social East 2025",
+    "link": "https://digitalnovascotia.com/event/social-east-2025/",
     "datetime": "All day",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Right Tool, Right Task: Navigating AI with Precision",
-    "link": "https://digitalnovascotia.com/event/right-tool-right-task-navigating-ai-with-precision/",
-    "datetime": "August 27 @ 6:00 pm - 8:00 pm  ADT",
+    "title": "Tech Career Fair",
+    "link": "https://digitalnovascotia.com/event/tech-career-fair-2/",
+    "datetime": "September 25 @ 10:00 am - 4:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Beyond the Surface: Fixing Real UX Problems",
-    "link": "https://digitalnovascotia.com/event/beyond-the-surface-fixing-real-ux-problems/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 28 @ 10:00 am - 1:00 pm  ADT",
+    "title": "Social East 2025",
+    "link": "https://digitalnovascotia.com/event/social-east-2025/",
+    "datetime": "All day",
     "isVirtual": false,
-    "cost": "Free – $40"
+    "cost": ""
+  },
+  {
+    "title": "Atlantic Executive Briefing",
+    "link": "https://digitalnovascotia.com/event/atlantic-executive-briefing/",
+    "datetime": "October 2 @ 9:30 am - 12:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "ISACA & Consortium Networking Event",
+    "link": "https://digitalnovascotia.com/event/isaca-consortium-networking-event-october-2-in-moncton/",
+    "datetime": "October 2 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
