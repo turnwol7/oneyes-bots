@@ -16,12 +16,20 @@
     "postedDate": "5 days ago"
   },
   {
+    "title": "Associate Security Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/associate-security-consultant/",
+    "company": "Bulletproof",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "5 minutes ago"
+  },
+  {
     "title": "Marketing Cloud Solution Architect (Remote)",
     "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-remote-4/",
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "6 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Salesforce Technical Architect (Remote)",
@@ -29,7 +37,7 @@
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "9 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Senior System Administrator",
@@ -230,13 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "7 days ago"
-  },
-  {
-    "title": "AI Productivity Lab Director",
-    "link": "https://digitalnovascotia.com/job-posts/ai-productivity-lab-director/",
-    "company": "Volta",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
   }
 ]
