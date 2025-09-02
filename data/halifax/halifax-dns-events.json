@@ -7,6 +7,13 @@
     "cost": ""
   },
   {
+    "title": "AI Mixer & Showcase | Sydney",
+    "link": "https://digitalnovascotia.com/event/ai-mixer-showcase-sydney/",
+    "datetime": "September 9 @ 4:00 pm - 6:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "GoSec 2025",
     "link": "https://digitalnovascotia.com/event/gosec-2025/",
     "datetime": "September 10 @ 8:00 am - September 11 @ 5:00 pm  ADT",
@@ -101,6 +108,13 @@
     "title": "Tech Career Fair",
     "link": "https://digitalnovascotia.com/event/tech-career-fair-2/",
     "datetime": "September 25 @ 10:00 am - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Pride in Business: Workshops for 2SLGBTQI+ Entrepreneurs",
+    "link": "https://digitalnovascotia.com/event/pride-in-business-workshops-for-2slgbtqi-entrepreneurs/",
+    "datetime": "September 25 @ 1:00 pm - 4:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
