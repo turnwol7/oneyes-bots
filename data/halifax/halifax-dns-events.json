@@ -1,12 +1,5 @@
 [
   {
-    "title": "Responding to Remote Work Ramifications",
-    "link": "https://digitalnovascotia.com/event/responding-to-remote-work-ramifications/",
-    "datetime": "September 3 @ 11:00 am - 12:00 pm  ADT",
-    "isVirtual": true,
-    "cost": ""
-  },
-  {
     "title": "AI Safety Solution Project: Lessons Learned",
     "link": "https://digitalnovascotia.com/event/ai-safety-solution-project-lessons-learned/",
     "datetime": "September 5 @ 12:00 pm - 1:00 pm  ADT",
@@ -21,16 +14,16 @@
     "cost": ""
   },
   {
-    "title": "GoSec 2025",
-    "link": "https://digitalnovascotia.com/event/gosec-2025/",
-    "datetime": "September 10 @ 8:00 am - September 11 @ 5:00 pm  ADT",
+    "title": "Fall Social at Taproom – New Scotland Brew Pub! (Dartmouth)",
+    "link": "https://digitalnovascotia.com/event/fall-social-at-taproom-new-scotland-brew-pub-dartmouth/",
+    "datetime": "September 9 @ 6:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "RBC Experienced Technologist Career Fair",
-    "link": "https://digitalnovascotia.com/event/rbc-experienced-technologist-career-fair-2/",
-    "datetime": "September 10 @ 4:00 pm - 6:30 pm  ADT",
+    "title": "GoSec 2025",
+    "link": "https://digitalnovascotia.com/event/gosec-2025/",
+    "datetime": "September 10 @ 8:00 am - September 11 @ 5:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -116,6 +109,13 @@
     "link": "https://digitalnovascotia.com/event/tech-career-fair-2/",
     "datetime": "September 25 @ 10:00 am - 4:00 pm  ADT",
     "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Responding to Remote Work Ramifications",
+    "link": "https://digitalnovascotia.com/event/responding-to-remote-work-ramifications/",
+    "datetime": "September 25 @ 11:00 am - 12:00 pm  ADT",
+    "isVirtual": true,
     "cost": ""
   },
   {
