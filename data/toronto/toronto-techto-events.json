@@ -50,7 +50,16 @@
     "description": "TechTO, Elevate and ElanTech are bringing Startup Open House back to Toronto!TechTO, Elevate and ElanTech are bringing Startup Open House back to Toronto!",
     "date": "October 9, 2025 3:00 pm - 7:00 pm 3:00 pm - 7:00 pm",
     "location": "Events will be all across Toronto",
-    "price": "N/A",
+    "price": "Free",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Elevate Festival & Startup Open House AfterpartyElevate Festival & Startup Open House Afterparty",
+    "link": "https://www.techto.org/event/soh-afterparty-oct-9-2025",
+    "description": "Elevate Festival & Startup Open House Afterparty: Where Big Ideas Meet Big Energy!Elevate Festival & Startup Open House Afterparty: Where Big Ideas Meet Big Energy!",
+    "date": "October 9, 2025 7:00 pm - 10:00 pm 7:00 pm - 10:00 pm",
+    "location": "Future, 570 Queen St W, Toronto, ON M5V 2B5, Canada",
+    "price": "$20 Early Bird for Elevate Pass Holders | $25 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
