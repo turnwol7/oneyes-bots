@@ -41,7 +41,7 @@
     "company": "Motion",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "4w ago",
+    "postedDate": "1m ago",
     "tags": "Product & Engineering, AI, Startup, backend, Node, agile, software development, Typescript, Digital Marketing, Paid Ads, agentic AI testing framework, engineering, TechTO Rocketships"
   },
   {
@@ -140,7 +140,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -167,7 +167,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -176,7 +176,16 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "22h ago",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Product Manager",
+    "link": "https://jobs.techto.org/jobs/160870790-senior-product-manager",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
