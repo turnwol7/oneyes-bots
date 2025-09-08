@@ -52,7 +52,7 @@
     "title": "Securing Applications with Check Point and AWS: A Unified WAF-as-a-Service Approach",
     "link": "https://digitalnovascotia.com/event/securing-applications-with-check-point-and-aws-a-unified-waf-as-a-service-approach/",
     "datetime": "September 16 @ 3:00 pm - 3:45 pm  ADT",
-    "isVirtual": true,
+    "isVirtual": false,
     "cost": ""
   },
   {
@@ -80,6 +80,13 @@
     "title": "The Rules of the Game: Competition Law and Procurement",
     "link": "https://digitalnovascotia.com/event/the-rules-of-the-game-competition-law-and-procurement/",
     "datetime": "September 18 @ 2:30 pm - 3:15 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "The Tribe Open House",
+    "link": "https://digitalnovascotia.com/event/the-tribe-open-house/",
+    "datetime": "September 19 @ 12:00 pm - 4:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -122,7 +129,7 @@
     "title": "Responding to Remote Work Ramifications",
     "link": "https://digitalnovascotia.com/event/responding-to-remote-work-ramifications/",
     "datetime": "September 25 @ 11:00 am - 12:00 pm  ADT",
-    "isVirtual": true,
+    "isVirtual": false,
     "cost": ""
   },
   {
