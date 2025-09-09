@@ -8,12 +8,44 @@
     "postedDate": "2 weeks ago"
   },
   {
+    "title": "DevOps Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/devops-engineer-47/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "10 minutes ago"
+  },
+  {
+    "title": "Product Manager/Senior Digital Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/product-manager-senior-digital-business-analyst-19/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "12 minutes ago"
+  },
+  {
+    "title": "Senior Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-43/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "15 minutes ago"
+  },
+  {
+    "title": "Senior Change Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-change-manager-6/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "21 minutes ago"
+  },
+  {
     "title": "Software Engineer",
     "link": "https://digitalnovascotia.com/job-posts/software-engineer-32/",
     "company": "",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Full Stack Developer",
@@ -21,7 +53,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "18 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Senior Solution Architect",
@@ -29,7 +61,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "18 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Support Analyst",
@@ -37,7 +69,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Power Platform Developer",
@@ -45,7 +77,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Affiliate Media Site Lead",
@@ -53,7 +85,7 @@
     "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Digital Marketing Lead",
@@ -61,7 +93,7 @@
     "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "SEO Specialist",
@@ -69,7 +101,7 @@
     "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Senior Software Developer – Frontend",
@@ -77,7 +109,7 @@
     "company": "REDspace Inc",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Senior Software Developer",
@@ -85,7 +117,7 @@
     "company": "REDspace Inc",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Senior Software Developer – Roku",
@@ -93,7 +125,7 @@
     "company": "REDspace Inc",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Scrum Master – Cloud Engineering Squads",
@@ -206,37 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "5 days ago"
-  },
-  {
-    "title": "Analyst, IT ICFR COE",
-    "link": "https://digitalnovascotia.com/job-posts/analyst-it-icfr-coe/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "GRC Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/grc-specialist/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Winter 2026 Technical Co-op – Cyber Security Architect",
-    "link": "https://digitalnovascotia.com/job-posts/winter-2026-technical-co-op-cyber-security-architect/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Co-op",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Manager, Market Development, & Strategic Growth",
-    "link": "https://digitalnovascotia.com/job-posts/senior-manager-market-development-strategic-growth/",
-    "company": "EfficiencyOne",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
   }
 ]
