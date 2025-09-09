@@ -5,7 +5,7 @@
     "company": "Digital Nova Scotia",
     "location": "Halifax",
     "jobType": "Full TimeFeatured Job",
-    "postedDate": "21 minutes ago"
+    "postedDate": "32 minutes ago"
   },
   {
     "title": "Senior DevOps Engineer – Halifax",
@@ -16,12 +16,36 @@
     "postedDate": "2 weeks ago"
   },
   {
+    "title": "UX Design Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/ux-design-specialist/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "4 minutes ago"
+  },
+  {
+    "title": "Engineering Manager",
+    "link": "https://digitalnovascotia.com/job-posts/engineering-manager-8/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "6 minutes ago"
+  },
+  {
+    "title": "Application Security Architect",
+    "link": "https://digitalnovascotia.com/job-posts/application-security-architect-5/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "8 minutes ago"
+  },
+  {
     "title": "Art Director",
     "link": "https://digitalnovascotia.com/job-posts/art-director-4/",
     "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "12 minutes ago"
+    "postedDate": "24 minutes ago"
   },
   {
     "title": "DevOps Engineer",
@@ -85,7 +109,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Power Platform Developer",
@@ -93,7 +117,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Affiliate Media Site Lead",
@@ -214,29 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "4 days ago"
-  },
-  {
-    "title": "Director of Digital Marketing",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-digital-marketing-4/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Junior Cloud Platform Engineer – Agile Delivery",
-    "link": "https://digitalnovascotia.com/job-posts/junior-cloud-platform-engineer-agile-delivery/",
-    "company": "DXC Technology Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Data Security Support Specialist – DLP (On site Halifax NS)",
-    "link": "https://digitalnovascotia.com/job-posts/data-security-support-specialist-dlp-on-site-halifax-ns/",
-    "company": "DXC Technology Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
