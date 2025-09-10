@@ -16,12 +16,20 @@
     "postedDate": "2 weeks ago"
   },
   {
+    "title": "Senior Software Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-engineer-38/",
+    "company": "MobSquad",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "7 minutes ago"
+  },
+  {
     "title": "Senior Full-Stack Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-66/",
     "company": "MobSquad",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "25 minutes ago"
+    "postedDate": "41 minutes ago"
   },
   {
     "title": "Senior Front-End Engineer",
@@ -29,7 +37,7 @@
     "company": "MobSquad",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "31 minutes ago"
+    "postedDate": "47 minutes ago"
   },
   {
     "title": "Machine Learning Engineer",
@@ -37,7 +45,7 @@
     "company": "MobSquad",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "33 minutes ago"
+    "postedDate": "49 minutes ago"
   },
   {
     "title": "Digital Designer",
@@ -45,7 +53,7 @@
     "company": "Dash Social",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "50 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Director, Performance Marketing",
@@ -53,7 +61,7 @@
     "company": "Dash Social",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "53 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Sr Staff Frontend AI Transformation Engineer",
@@ -61,7 +69,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "58 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Sr Engineering Program Manager",
@@ -230,13 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Identity and Access Management (IAM) Business Analyst (On Site Halifax)",
-    "link": "https://digitalnovascotia.com/job-posts/__trashed-7/",
-    "company": "DXC Technology Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
