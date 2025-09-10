@@ -147,6 +147,13 @@
     "cost": ""
   },
   {
+    "title": "Tech Fusion 2025",
+    "link": "https://digitalnovascotia.com/event/tech-fusion-2025/",
+    "datetime": "September 24 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Social East 2025",
     "link": "https://digitalnovascotia.com/event/social-east-2025/",
     "datetime": "All day",
@@ -178,6 +185,27 @@
     "title": "Social East 2025",
     "link": "https://digitalnovascotia.com/event/social-east-2025/",
     "datetime": "All day",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "CISM – Certification Prep Training – Bootcamp",
+    "link": "https://digitalnovascotia.com/event/cism-certification-prep-training-bootcamp/",
+    "datetime": "September 26 @ 9:00 am - September 28 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "CISM – Certification Prep Training – Bootcamp",
+    "link": "https://digitalnovascotia.com/event/cism-certification-prep-training-bootcamp/",
+    "datetime": "September 26 @ 9:00 am - September 28 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "CISM – Certification Prep Training – Bootcamp",
+    "link": "https://digitalnovascotia.com/event/cism-certification-prep-training-bootcamp/",
+    "datetime": "September 26 @ 9:00 am - September 28 @ 5:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
