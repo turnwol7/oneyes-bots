@@ -1,14 +1,5 @@
 [
   {
-    "title": "Together TorontoTogether Toronto",
-    "link": "https://www.techto.org/event/together-toronto-sep-8-2025",
-    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
-    "date": "September 8, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$40 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Health TorontoHealth Toronto",
     "link": "https://www.techto.org/event/health-toronto-sep-10-2025",
     "description": "Discover how tech is reshaping healthcare with insights from industry leadersDiscover how tech is reshaping healthcare with insights from industry leaders",
@@ -60,6 +51,15 @@
     "date": "October 9, 2025 7:00 pm - 10:00 pm 7:00 pm - 10:00 pm",
     "location": "Future, 570 Queen St W, Toronto, ON M5V 2B5, Canada",
     "price": "$20 Early Bird for Elevate Pass Holders | $25 Early Bird | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Market Overview - TravelMarket Overview - Travel",
+    "link": "https://www.techto.org/event/mtl-mo-travel-oct-22-2025",
+    "description": "Market Overview: Travel - Building the Future of Global JourneysMarket Overview: Travel - Building the Future of Global Journeys",
+    "date": "October 22, 2025 4:00 pm - 6:00 pm 4:00 pm - 6:00 pm",
+    "location": "HEC Montréal - Édifice Hélène-Desmarais, 501 Rue De la Gauchetière O, Montréal, QC H2Z 1Z5",
+    "price": "Free Event | Approval Process Required",
     "status": "Sold OutUp NextSold Out"
   },
   {
