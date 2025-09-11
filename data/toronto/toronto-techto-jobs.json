@@ -167,7 +167,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -194,7 +194,16 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "22h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Java Developer, Capital Markets",
+    "link": "https://jobs.techto.org/jobs/162350566-senior-java-developer-capital-markets",
+    "company": "Alithya",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "33min ago",
+    "tags": "Product & Engineering, Java, capital market"
   }
 ]
