@@ -50,7 +50,7 @@
     "company": "Sentry",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "4w ago",
+    "postedDate": "1m ago",
     "tags": "Product & Engineering, software development, Management, engineering"
   },
   {
@@ -115,15 +115,6 @@
     "location": "",
     "postedDate": "4w ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Staff Software Engineer",
-    "link": "https://jobs.techto.org/jobs/115286886-staff-software-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Back End Engineering Manager",
@@ -198,12 +189,21 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
+    "title": "Forward Deployed Engineer, Infrastructure Specialist",
+    "link": "https://jobs.techto.org/jobs/162407292-forward-deployed-engineer-infrastructure-specialist",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "21h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Senior Java Developer, Capital Markets",
     "link": "https://jobs.techto.org/jobs/162350566-senior-java-developer-capital-markets",
     "company": "Alithya",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "33min ago",
+    "postedDate": "5h ago",
     "tags": "Product & Engineering, Java, capital market"
   }
 ]
