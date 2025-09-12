@@ -1,14 +1,5 @@
 [
   {
-    "title": "Health TorontoHealth Toronto",
-    "link": "https://www.techto.org/event/health-toronto-sep-10-2025",
-    "description": "Discover how tech is reshaping healthcare with insights from industry leadersDiscover how tech is reshaping healthcare with insights from industry leaders",
-    "date": "September 10, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "OneEleven, 325 Front St W 4th Floor, Toronto",
-    "price": "$30 General Admission | $10 for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Commerce TorontoCommerce Toronto",
     "link": "https://www.techto.org/event/commerce-toronto-sep-15-2025",
     "description": "Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.",
@@ -51,6 +42,15 @@
     "date": "October 9, 2025 7:00 pm - 10:00 pm 7:00 pm - 10:00 pm",
     "location": "Future, 570 Queen St W, Toronto, ON M5V 2B5, Canada",
     "price": "$20 Early Bird for Elevate Pass Holders | $25 Early Bird | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Boast Funding StageBoast Funding Stage",
+    "link": "https://www.techto.org/event/mtl-funding-stage-oct-21-2025",
+    "description": "​Build, Scale, Expand: A Founder’s Guide to Funding the Journey​Build, Scale, Expand: A Founder’s Guide to Funding the Journey",
+    "date": "October 21, 2025 1:00 pm - 6:00 pm 1:00 pm - 6:00 pm",
+    "location": "HEC Montréal - Édifice Hélène-Desmarais, 501 Rue De la Gauchetière O, Montréal, QC H2Z 1Z5",
+    "price": "Free Event | Approval Process Required",
     "status": "Sold OutUp NextSold Out"
   },
   {
