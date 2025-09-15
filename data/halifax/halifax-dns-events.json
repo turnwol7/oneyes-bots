@@ -140,9 +140,23 @@
     "cost": "Free – $15"
   },
   {
+    "title": "Here We Code: Tech Industry Fair",
+    "link": "https://digitalnovascotia.com/event/tech-career-fair-2/",
+    "datetime": "September 23 @ 10:00 am - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "QT Connect Q3 Meetup Halifax",
     "link": "https://digitalnovascotia.com/event/qt-connect-q3-meetup-halifax/",
     "datetime": "September 23 @ 5:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Dal Demo Day",
+    "link": "https://digitalnovascotia.com/event/dal-demo-day-2/",
+    "datetime": "September 24 @ 12:00 pm - 5:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -175,16 +189,16 @@
     "cost": ""
   },
   {
-    "title": "Tech Career Fair",
-    "link": "https://digitalnovascotia.com/event/tech-career-fair-2/",
-    "datetime": "September 25 @ 10:00 am - 4:00 pm  ADT",
+    "title": "Responding to Remote Work Ramifications",
+    "link": "https://digitalnovascotia.com/event/responding-to-remote-work-ramifications/",
+    "datetime": "September 25 @ 11:00 am - 12:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Responding to Remote Work Ramifications",
-    "link": "https://digitalnovascotia.com/event/responding-to-remote-work-ramifications/",
-    "datetime": "September 25 @ 11:00 am - 12:00 pm  ADT",
+    "title": "Pride in Business: Workshops for 2SLGBTQI+ Entrepreneurs",
+    "link": "https://digitalnovascotia.com/event/pride-in-business-workshops-for-2slgbtqi-entrepreneurs/",
+    "datetime": "September 25 @ 1:00 pm - 4:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
