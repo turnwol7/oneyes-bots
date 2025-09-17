@@ -231,6 +231,20 @@
     "cost": ""
   },
   {
+    "title": "Sales Enablement Training Program: Leveraging Tools on a Budget",
+    "link": "https://digitalnovascotia.com/event/sales-enablement-training-program-leveraging-tools-on-a-budget/",
+    "datetime": "October 1 @ 9:00 am - 12:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI Powered Productivity Tools",
+    "link": "https://digitalnovascotia.com/event/ai-powered-productivity-tools/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 2 @ 10:00 am - 11:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Atlantic Executive Briefing",
     "link": "https://digitalnovascotia.com/event/atlantic-executive-briefing/",
     "datetime": "October 2 @ 9:30 am - 12:00 pm  ADT",
@@ -238,16 +252,9 @@
     "cost": ""
   },
   {
-    "title": "AI Powered Productivity Tools",
-    "link": "https://digitalnovascotia.com/event/ai-powered-productivity-tools/",
-    "datetime": "October 2 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "ISACA & Consortium Networking Event",
-    "link": "https://digitalnovascotia.com/event/isaca-consortium-networking-event-october-2-in-moncton/",
-    "datetime": "October 2 @ 6:00 pm - 8:00 pm  ADT",
+    "title": "Smart Pricing for Small Business",
+    "link": "https://digitalnovascotia.com/event/smart-pricing-for-small-business/",
+    "datetime": "October 2 @ 10:00 am - 12:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
