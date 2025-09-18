@@ -131,7 +131,7 @@
     "company": "Loopio Inc.",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -158,7 +158,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -167,7 +167,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -176,7 +176,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "5d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -185,7 +185,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -194,7 +194,7 @@
     "company": "Alithya",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "4d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, Java, capital market"
   },
   {
@@ -203,7 +203,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -212,7 +212,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -221,7 +221,16 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "21h ago",
+    "postedDate": "3d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Security Engineer (Purple Team)",
+    "link": "https://jobs.techto.org/jobs/163429415-senior-security-engineer-purple-team",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
