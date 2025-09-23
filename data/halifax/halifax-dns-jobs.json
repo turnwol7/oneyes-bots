@@ -13,7 +13,7 @@
     "company": "Trampoline",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "30 minutes ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Big Data QE – GFT",
@@ -21,7 +21,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "8 hours ago"
   },
   {
     "title": "Data Engineer, RBC Amplify 2026, Halifax",
@@ -29,7 +29,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Internship",
-    "postedDate": "3 hours ago"
+    "postedDate": "8 hours ago"
   },
   {
     "title": "Big Data QA Lead – GFT",
@@ -37,7 +37,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "8 hours ago"
   },
   {
     "title": "Hardware Test Engineer",
@@ -45,7 +45,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "9 hours ago"
   },
   {
     "title": "Software Quality Assurance Analyst",
@@ -53,7 +53,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "9 hours ago"
   },
   {
     "title": "Winter Co-op – Software Developer – Various Programs",
@@ -61,7 +61,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "4 hours ago"
+    "postedDate": "9 hours ago"
   },
   {
     "title": "Winter Co-op – Web Developer – IRAD Team",
@@ -69,7 +69,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "4 hours ago"
+    "postedDate": "9 hours ago"
   },
   {
     "title": "End User Systems Engineer – Operability Statements (OPSTATS)",
@@ -77,7 +77,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "9 hours ago"
   },
   {
     "title": "Production Leadership Team",
@@ -85,7 +85,7 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "6 hours ago"
+    "postedDate": "11 hours ago"
   },
   {
     "title": "Staff Security Researcher",
@@ -216,14 +216,6 @@
     "postedDate": "5 days ago"
   },
   {
-    "title": "Manager, Business Intelligence (BI)",
-    "link": "https://digitalnovascotia.com/job-posts/manager-business-intelligence-bi/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
     "title": "Senior IT Project Manager",
     "link": "https://digitalnovascotia.com/job-posts/senior-it-project-manager/",
     "company": "Nova Scotia Power",
@@ -234,6 +226,14 @@
   {
     "title": "Technical Account Manager (TAM) – MSSP SOC Services",
     "link": "https://digitalnovascotia.com/job-posts/technical-account-manager-tam-mssp-soc-services/",
+    "company": "DXC Technology Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "6 days ago"
+  },
+  {
+    "title": "End Point Protection EDR/MDR Engineer- On Site in Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/end-point-protection-edr-mdr-engineer-on-site-in-halifax/",
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
