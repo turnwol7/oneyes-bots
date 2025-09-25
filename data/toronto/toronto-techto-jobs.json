@@ -36,15 +36,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Senior Backend Engineer",
-    "link": "https://jobs.techto.org/jobs/151641358-senior-backend-engineer",
-    "company": "Motion",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering, AI, Startup, backend, Node, agile, software development, Typescript, Digital Marketing, Paid Ads, agentic AI testing framework, engineering, TechTO Rocketships"
-  },
-  {
     "title": "Engineering Manager, Cloud Infrastructure",
     "link": "https://jobs.techto.org/jobs/151624561-engineering-manager-cloud-infrastructure",
     "company": "Sentry",
@@ -117,30 +108,12 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Forward Deployed Engineer, Agentic Platform",
-    "link": "https://jobs.techto.org/jobs/157257791-forward-deployed-engineer-agentic-platform",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Director of Software Engineering",
-    "link": "https://jobs.techto.org/jobs/158354314-director-of-software-engineering",
-    "company": "Loopio Inc.",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Analytics Engineer",
     "link": "https://jobs.techto.org/jobs/135845452-analytics-engineer",
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -149,7 +122,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -158,7 +131,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -167,7 +140,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -176,7 +149,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -185,7 +158,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -194,7 +167,7 @@
     "company": "Alithya",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, Java, capital market"
   },
   {
@@ -203,7 +176,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -212,7 +185,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -221,12 +194,21 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Senior Security Engineer (Purple Team)",
     "link": "https://jobs.techto.org/jobs/163429415-senior-security-engineer-purple-team",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1w ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Staff Product Manager",
+    "link": "https://jobs.techto.org/jobs/164715434-staff-product-manager",
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
