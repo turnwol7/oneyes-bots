@@ -49,6 +49,13 @@
     "cost": ""
   },
   {
+    "title": "AI Mixer Showcase",
+    "link": "https://digitalnovascotia.com/event/ai-mixer-showcase/",
+    "datetime": "October 6 @ 4:00 pm - 6:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Business & Breakfast: The Path to Succession Planning",
     "link": "https://digitalnovascotia.com/event/business-breakfast-the-path-to-succession-planning/",
     "datetime": "October 7 @ 8:00 am - 10:00 am  ADT",
@@ -87,6 +94,13 @@
     "title": "Third Wednesday",
     "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-10-15/",
     "datetime": "October 15 @ 5:00 pm - 7:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "IGNITING Women in Business Speaker Series w/ Rashmi Prakash",
+    "link": "https://digitalnovascotia.com/event/igniting-women-in-business-speaker-series-w-rashmi-prakash/",
+    "datetime": "October 16 @ 6:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
