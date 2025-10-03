@@ -8,12 +8,36 @@
     "postedDate": "3 weeks ago"
   },
   {
+    "title": "Senior Analyst, Advertising",
+    "link": "https://digitalnovascotia.com/job-posts/senior-analyst-advertising-7/",
+    "company": "Outshine",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "11 minutes ago"
+  },
+  {
+    "title": "Analyst, Advertising",
+    "link": "https://digitalnovascotia.com/job-posts/analyst-advertising-8/",
+    "company": "Outshine",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "13 minutes ago"
+  },
+  {
+    "title": "Senior Quality Engineer (Power BI Reporting)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-power-bi-reporting/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "22 minutes ago"
+  },
+  {
     "title": "Senior Playwright Automation Test Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-playwright-automation-test-engineer/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "34 seconds ago"
+    "postedDate": "47 minutes ago"
   },
   {
     "title": "AWS Cloud Network Architect",
@@ -21,7 +45,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 minutes ago"
+    "postedDate": "49 minutes ago"
   },
   {
     "title": "Salesforce Omni Studio Lead (Remote)",
@@ -29,7 +53,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 minutes ago"
+    "postedDate": "50 minutes ago"
   },
   {
     "title": "AWS Cloud Network Architect",
@@ -37,7 +61,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "10 minutes ago"
+    "postedDate": "57 minutes ago"
   },
   {
     "title": "Senior Automation Quality Engineer (JavaScript & Playwright)",
@@ -45,7 +69,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "11 minutes ago"
+    "postedDate": "58 minutes ago"
   },
   {
     "title": "Sr. Business Systems Analyst",
@@ -53,7 +77,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "12 minutes ago"
+    "postedDate": "59 minutes ago"
   },
   {
     "title": "ETL Test Automator (Java/SQL)",
@@ -214,29 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Salesforce Revenue Cloud Architect (Remote)",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-revenue-cloud-architect-remote/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Analyst, Loan Servicing New York",
-    "link": "https://digitalnovascotia.com/job-posts/analyst-loan-servicing-new-york/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Senior Quality Engineer – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-halifax/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
   }
 ]
