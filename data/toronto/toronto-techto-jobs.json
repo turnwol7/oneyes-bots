@@ -36,15 +36,6 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Forward Deployed Engineer, Infrastructure Specialist",
-    "link": "https://jobs.techto.org/jobs/162407292-forward-deployed-engineer-infrastructure-specialist",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Senior Java Developer, Capital Markets",
     "link": "https://jobs.techto.org/jobs/162350566-senior-java-developer-capital-markets",
     "company": "Alithya",
@@ -69,15 +60,6 @@
     "jobType": "Full-time",
     "location": "",
     "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Senior Software Engineer, Secure Agents",
-    "link": "https://jobs.techto.org/jobs/134100540-senior-software-engineer-secure-agents",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -126,30 +108,21 @@
     "tags": "Product & Engineering, full-stack, engineering, developer"
   },
   {
-    "title": "Senior Manager of Engineering",
-    "link": "https://jobs.techto.org/jobs/165230661-senior-manager-of-engineering",
-    "company": "Loopio Inc.",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "5d ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Senior Cloud Engineer",
-    "link": "https://jobs.techto.org/jobs/165230660-senior-cloud-engineer",
-    "company": "Loopio Inc.",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "5d ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Member of Technical Staff (Staff Engineer)",
     "link": "https://jobs.techto.org/jobs/165779016-member-of-technical-staff-staff-engineer",
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "[Wattpad] Senior Engineer, Core Platforms",
+    "link": "https://jobs.techto.org/jobs/166163288-wattpad-senior-engineer-core-platforms",
+    "company": "WEBTOON Entertainment Inc. (Wattpad & WEBTOON Family of Brands)",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "10min ago",
+    "tags": "Product & Engineering"
   }
 ]
