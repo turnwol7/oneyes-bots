@@ -112,6 +112,13 @@
     "cost": ""
   },
   {
+    "title": "Designing in Agile: Lessons from the field",
+    "link": "https://digitalnovascotia.com/event/designing-in-agile-lessons-from-the-field/",
+    "datetime": "October 21 @ 7:00 pm - 9:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Lunch & Learn with Futurpreneur",
     "link": "https://digitalnovascotia.com/event/lunch-learn-with-futurpreneur/",
     "datetime": "October 23 @ 12:00 pm - 1:00 pm  ADT",
@@ -171,6 +178,13 @@
     "title": "Employee Showcase – Welcome Home to Canada",
     "link": "https://digitalnovascotia.com/event/employee-showcase-welcome-home-to-canada/",
     "datetime": "October 29 @ 8:30 am - 10:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Startup Huddle Halifax @ Tribe Network",
+    "link": "https://digitalnovascotia.com/event/startup-huddle-halifax-tribe-network/",
+    "datetime": "October 30 @ 6:00 pm - 8:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
