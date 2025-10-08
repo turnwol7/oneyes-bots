@@ -84,13 +84,6 @@
     "cost": ""
   },
   {
-    "title": "Craft a 360 Customer Journey using the 5E method",
-    "link": "https://digitalnovascotia.com/event/craft-a-360-customer-journey-using-the-5e-method/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 14 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": "Free"
-  },
-  {
     "title": "Third Wednesday",
     "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-10-15/",
     "datetime": "October 15 @ 5:00 pm - 7:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
@@ -101,6 +94,20 @@
     "title": "IGNITING Women in Business Speaker Series w/ Rashmi Prakash",
     "link": "https://digitalnovascotia.com/event/igniting-women-in-business-speaker-series-w-rashmi-prakash/",
     "datetime": "October 16 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "VibeCoding @ CBU",
+    "link": "https://digitalnovascotia.com/event/vibecoding-cbu/",
+    "datetime": "October 17 @ 5:00 am - October 18 @ 3:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "VibeCoding @ CBU",
+    "link": "https://digitalnovascotia.com/event/vibecoding-cbu/",
+    "datetime": "October 17 @ 5:00 am - October 18 @ 3:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
