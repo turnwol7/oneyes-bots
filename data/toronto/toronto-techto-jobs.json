@@ -68,7 +68,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -77,7 +77,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -122,7 +122,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "5d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -131,12 +131,21 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Automotive Production Associate",
     "link": "https://jobs.techto.org/jobs/115286865-automotive-production-associate",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "2d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Analytics Engineer",
+    "link": "https://jobs.techto.org/jobs/166395391-senior-analytics-engineer",
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
@@ -149,7 +158,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "10min ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
