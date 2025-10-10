@@ -100,14 +100,14 @@
   {
     "title": "VibeCoding @ CBU",
     "link": "https://digitalnovascotia.com/event/vibecoding-cbu/",
-    "datetime": "October 17 @ 5:00 am - October 18 @ 3:00 pm  ADT",
+    "datetime": "October 17 @ 10:30 am - October 18 @ 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
     "title": "VibeCoding @ CBU",
     "link": "https://digitalnovascotia.com/event/vibecoding-cbu/",
-    "datetime": "October 17 @ 5:00 am - October 18 @ 3:00 pm  ADT",
+    "datetime": "October 17 @ 10:30 am - October 18 @ 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -199,6 +199,13 @@
     "title": "Employee Showcase – Welcome Home to Canada",
     "link": "https://digitalnovascotia.com/event/employee-showcase-welcome-home-to-canada/",
     "datetime": "October 29 @ 8:30 am - 10:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI in Cyber Warfare: The Double-Edged Sword",
+    "link": "https://digitalnovascotia.com/event/ai-in-cyber-warfare-the-double-edged-sword/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 30 @ 10:00 am - 11:00 am  ADT",
     "isVirtual": false,
     "cost": ""
   },
