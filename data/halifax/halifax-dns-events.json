@@ -140,9 +140,9 @@
     "cost": ""
   },
   {
-    "title": "Finclusiv Edge Community Launch",
-    "link": "https://digitalnovascotia.com/event/finclusiv-edge-community-launch/",
-    "datetime": "October 23 @ 5:30 pm - 8:00 pm  ADT",
+    "title": "Tribe Social : Celebrate and Connect",
+    "link": "https://digitalnovascotia.com/event/tribe-social-celebrate-and-connect/",
+    "datetime": "October 23 @ 5:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -206,6 +206,13 @@
     "title": "Perseverance & Prosperity: Imagining a Vibrant Future for Our Island",
     "link": "https://digitalnovascotia.com/event/perseverance-prosperity-imagining-a-vibrant-future-for-our-island/",
     "datetime": "October 29 @ 11:30 am - 1:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Paper to Pixels",
+    "link": "https://digitalnovascotia.com/event/paper-to-pixels/",
+    "datetime": "October 29 @ 6:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
