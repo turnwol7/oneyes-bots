@@ -1,41 +1,5 @@
 [
   {
-    "title": "TechTO HackathonTechTO Hackathon",
-    "link": "https://www.techto.org/event/techto-studenthack-sep-27-2025",
-    "description": "Welcome to the Future of Interaction! Join us for the TechTO Hackathon!Welcome to the Future of Interaction! Join us for the TechTO Hackathon!",
-    "date": "September 27, 2025 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
-    "location": "NEXT Canada, 175 Bloor Street East #1800, South Tower, Toronto, ON M4W 3R8",
-    "price": "$20 Individual l $70 Team",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Together Toronto Together Toronto",
-    "link": "https://www.techto.org/event/together-toronto-oct-6-2025",
-    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
-    "date": "October 6, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$40 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Startup Open House Toronto @ Elevate FestivalStartup Open House Toronto @ Elevate Festival",
-    "link": "https://www.techto.org/event/soh-toronto-elevate-festival-oct-9-2025",
-    "description": "TechTO, Elevate and ElanTech are bringing Startup Open House back to Toronto!TechTO, Elevate and ElanTech are bringing Startup Open House back to Toronto!",
-    "date": "October 9, 2025 3:00 pm - 7:00 pm 3:00 pm - 7:00 pm",
-    "location": "Events will be all across Toronto",
-    "price": "Free",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Elevate Festival & Startup Open House AfterpartyElevate Festival & Startup Open House Afterparty",
-    "link": "https://www.techto.org/event/soh-afterparty-oct-9-2025",
-    "description": "Elevate Festival & Startup Open House Afterparty: Where Big Ideas Meet Big Energy!Elevate Festival & Startup Open House Afterparty: Where Big Ideas Meet Big Energy!",
-    "date": "October 9, 2025 7:00 pm - 10:00 pm 7:00 pm - 10:00 pm",
-    "location": "Future, 570 Queen St W, Toronto, ON M5V 2B5, Canada",
-    "price": "Free for Elevate Pass Holders | $35 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Made In Montreal: From Bagels to Billion-Dollar IdeasMade In Montreal: From Bagels to Billion-Dollar Ideas",
     "link": "https://www.techto.org/event/made-in-montreal-from-bagels-to-billion-dollar-ideas",
     "description": "Join us for a special fireside conversation with two of Montreal’s most iconic entrepreneurs; Harley Finkelstein and David SegalJoin us for a special fireside conversation with two of Montreal’s most iconic entrepreneurs; Harley Finkelstein and David Segal",
@@ -132,6 +96,15 @@
     "date": "November 19, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "OneEleven, 325 Front St W 4th Floor, Toronto",
     "price": "$20 Early Bird | $10 for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "TechTO Canadian Rocketships 2025TechTO Canadian Rocketships 2025",
+    "link": "https://www.techto.org/event/techto-rocketships-dec-1",
+    "description": "Spotlighting and celebrating the Canadian startups propelling our tech ecosystem to new heights!Spotlighting and celebrating the Canadian startups propelling our tech ecosystem to new heights!",
+    "date": "December 1, 2025 6:00 pm - 8:30 pm 6:00 pm - 8:30 pm",
+    "location": "Toronto City Hall, 100 Queen St W, Toronto, ON M5H 2N2, Canada",
+    "price": "Early Bird $35 | $10 for Members",
     "status": "Sold OutUp NextSold Out"
   }
 ]
