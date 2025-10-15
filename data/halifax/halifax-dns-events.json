@@ -119,6 +119,13 @@
     "cost": ""
   },
   {
+    "title": "Halihax Data Science Meetup",
+    "link": "https://digitalnovascotia.com/event/halihax-data-science-meetup-3/",
+    "datetime": "October 20 @ 6:30 pm - 9:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Funnels, Filters & the Future of Sales",
     "link": "https://digitalnovascotia.com/event/funnels-filters-the-future-of-sales/",
     "datetime": "Featured\n\t\t\t\n\t\t\tOctober 21 @ 12:00 pm - 1:00 pm  ADT",
@@ -154,9 +161,9 @@
     "cost": ""
   },
   {
-    "title": "DNS Community Mixer",
+    "title": "DNS Breakfast Mixer",
     "link": "https://digitalnovascotia.com/event/dns-community-mixer/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 24 @ 8:00 am - 9:30 am  ADT",
+    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 24 @ 8:30 am - 10:00 am  ADT",
     "isVirtual": false,
     "cost": ""
   },
