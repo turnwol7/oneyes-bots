@@ -91,6 +91,20 @@
     "cost": ""
   },
   {
+    "title": "Halifax 2SLGBTQI+ Business Symposium: Empowering Our Community, Together",
+    "link": "https://digitalnovascotia.com/event/halifax-2slgbtqi-business-symposium-empowering-our-community-together/",
+    "datetime": "October 16 @ 8:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Women in Machine Learning/Data Science Meetup",
+    "link": "https://digitalnovascotia.com/event/women-in-machine-learning-data-science-meetup-4/",
+    "datetime": "October 16 @ 8:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "IGNITING Women in Business Speaker Series w/ Rashmi Prakash",
     "link": "https://digitalnovascotia.com/event/igniting-women-in-business-speaker-series-w-rashmi-prakash/",
     "datetime": "October 16 @ 6:00 pm - 8:00 pm  ADT",
@@ -101,6 +115,13 @@
     "title": "VibeCoding @ CBU",
     "link": "https://digitalnovascotia.com/event/vibecoding-cbu/",
     "datetime": "October 17 @ 10:30 am - October 18 @ 7:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "BUSINESS AFTER HOURS & ASK AN EXPERT LOUNGE: Small Business Big Growth",
+    "link": "https://digitalnovascotia.com/event/business-after-hours-ask-an-expert-lounge-small-business-big-growth/",
+    "datetime": "October 17 @ 4:00 pm - 6:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -136,6 +157,20 @@
     "title": "Designing in Agile: Lessons from the field",
     "link": "https://digitalnovascotia.com/event/designing-in-agile-lessons-from-the-field/",
     "datetime": "October 21 @ 7:00 pm - 9:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "LUNCHEON: Canada’s Pension Advantage: A Conversation with John Graham",
+    "link": "https://digitalnovascotia.com/event/luncheon-canadas-pension-advantage-a-conversation-with-john-graham/",
+    "datetime": "October 22 @ 11:30 am - 1:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Powering Cleantech Scale-Ups: IP, Innovation & Investment",
+    "link": "https://digitalnovascotia.com/event/powering-cleantech-scale-ups-ip-innovation-investment/",
+    "datetime": "October 22 @ 12:30 pm - 5:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -234,6 +269,13 @@
     "title": "AI in Cyber Warfare: The Double-Edged Sword",
     "link": "https://digitalnovascotia.com/event/ai-in-cyber-warfare-the-double-edged-sword/",
     "datetime": "Featured\n\t\t\t\n\t\t\tOctober 30 @ 10:00 am - 11:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "LUNCHEON: Building a Strong Economy for the Next Generation: A Conversation with Sean Fraser",
+    "link": "https://digitalnovascotia.com/event/luncheon-building-a-strong-economy-for-the-next-generation-a-conversation-with-sean-fraser/",
+    "datetime": "October 30 @ 11:30 am - 1:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
