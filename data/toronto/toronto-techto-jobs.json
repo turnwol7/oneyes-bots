@@ -41,7 +41,7 @@
     "company": "Certn",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -77,7 +77,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -126,21 +126,30 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Technical Support Specialist",
-    "link": "https://jobs.techto.org/jobs/136901968-technical-support-specialist",
-    "company": "SuiteSpot Technology",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, ON)",
-    "postedDate": "1d ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Security Engineer",
     "link": "https://jobs.techto.org/jobs/167244591-senior-security-engineer",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Technical Support Specialist",
+    "link": "https://jobs.techto.org/jobs/136901968-technical-support-specialist",
+    "company": "SuiteSpot Technology",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, ON)",
+    "postedDate": "2d ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Staff Security Engineer",
+    "link": "https://jobs.techto.org/jobs/167244590-staff-security-engineer",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -149,15 +158,15 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Staff Security Engineer",
-    "link": "https://jobs.techto.org/jobs/167244590-staff-security-engineer",
-    "company": "EvenUp",
+    "title": "Senior Application Security Engineer",
+    "link": "https://jobs.techto.org/jobs/167405625-senior-application-security-engineer",
+    "company": "Relay",
     "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontairo, Canada)",
+    "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
