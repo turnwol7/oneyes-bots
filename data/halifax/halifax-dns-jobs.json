@@ -5,7 +5,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "17 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Database Developer",
@@ -13,7 +13,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "26 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Senior Application Security Engineer",
@@ -21,7 +21,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "28 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Social Media Channel Lead",
@@ -29,7 +29,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "30 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Software (App) Engineering, Engineer",
@@ -37,7 +37,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "33 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Contract Project and Product Manager",
@@ -45,7 +45,7 @@
     "company": "SolutionInc",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "49 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Director of IT & Security – Nova Leap Health Corp.",
@@ -53,7 +53,7 @@
     "company": "Facet",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "54 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Technical Specialist (Computer Services Off 3) – Enterprise Database",
@@ -69,7 +69,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Network Analyst (Computer Services Off 3)",
@@ -77,7 +77,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Application Security Architect",
@@ -85,7 +85,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "UX Manager, Design System",
@@ -93,7 +93,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Staff Software Development Engineer – Frontend/UI",
@@ -101,7 +101,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Staff Security Researcher",
@@ -109,7 +109,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Sr Software Development Engineer",
@@ -117,7 +117,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Sr Security Researcher",
@@ -125,7 +125,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Sr Product Manager, Password Safe",
@@ -133,7 +133,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Software Development Manager",
@@ -141,7 +141,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Compliance Analyst, Contractor",
@@ -158,6 +158,30 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "1 day ago"
+  },
+  {
+    "title": "Contract Project and Product Manager",
+    "link": "https://digitalnovascotia.com/job-posts/contract-project-and-product-manager-2/",
+    "company": "SolutionInc",
+    "location": "Halifax",
+    "jobType": "Temporary",
+    "postedDate": "4 days ago"
+  },
+  {
+    "title": "PHP Lead",
+    "link": "https://digitalnovascotia.com/job-posts/php-lead/",
+    "company": "Torq IT",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "5 days ago"
+  },
+  {
+    "title": "PHP Developer",
+    "link": "https://digitalnovascotia.com/job-posts/php-developer-2/",
+    "company": "Torq IT",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "5 days ago"
   },
   {
     "title": "Graphic Designer",
@@ -213,30 +237,6 @@
     "company": "",
     "location": "Antigonish",
     "jobType": "Temporary",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Senior Identity Access Management IAM Specialist – CyberArk",
-    "link": "https://digitalnovascotia.com/job-posts/senior-identity-access-management-iam-specialist-cyberark/",
-    "company": "",
-    "location": "Antigonish",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Team Lead, Digitization (18 Month Contract)",
-    "link": "https://digitalnovascotia.com/job-posts/team-lead-digitization-18-month-contract/",
-    "company": "",
-    "location": "Antigonish",
-    "jobType": "Temporary",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "IAM Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/iam-analyst-4/",
-    "company": "",
-    "location": "Antigonish",
-    "jobType": "Full Time",
     "postedDate": "6 days ago"
   }
 ]
