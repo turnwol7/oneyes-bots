@@ -1,11 +1,19 @@
 [
   {
+    "title": "Senior Quality Engineer – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-halifax/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full TimeFeatured Job",
+    "postedDate": "4 weeks ago"
+  },
+  {
     "title": "Marketing and Events Manager",
     "link": "https://digitalnovascotia.com/job-posts/marketing-and-events-manager-2/",
     "company": "Bulletproof",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Associate Security Consultant",
@@ -13,7 +21,7 @@
     "company": "Bulletproof",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "33 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Business Systems Analyst (Earnix Rating)",
@@ -21,7 +29,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "38 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Senior Data Steward",
@@ -29,7 +37,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "42 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Senior AI and Data Expert",
@@ -37,7 +45,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "46 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Lead Data Scientist: AgentOps Control Plane (GCP) – Hybrid",
@@ -45,7 +53,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "52 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Senior Data Architect",
@@ -53,7 +61,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "54 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Django Developer",
@@ -61,7 +69,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "57 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Salesforce Developer – Agentic AI",
@@ -69,7 +77,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "59 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Data Specialist/Consultant",
@@ -77,7 +85,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Data Scientist",
@@ -85,7 +93,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Python Developer (on-site)",
@@ -93,7 +101,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Senior Angular Developer (on-site)",
@@ -101,7 +109,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Senior Oracle PL/SQL Data Developer",
@@ -109,7 +117,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Product Implementation Manager",
@@ -117,7 +125,7 @@
     "company": "",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Senior Software Developer, Reliability",
@@ -125,7 +133,7 @@
     "company": "",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Business Intelligence Consultant Development Program (16-Week Contract) (Onsite in Halifax, NS)",
@@ -133,7 +141,7 @@
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Salesforce Consultant Development Program (16-Week Contract) (Onsite in Halifax, NS)",
@@ -141,7 +149,7 @@
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Marketing Automation Specialist Development Program (Onsite, 16-Week Contract)",
@@ -149,7 +157,7 @@
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Technical Account Manager (TAM) – MSSP SOC Services",
@@ -230,13 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "NERC CIP Compliance Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/nerc-cip-compliance-analyst/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
   }
 ]
