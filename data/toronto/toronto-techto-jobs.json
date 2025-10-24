@@ -18,15 +18,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Staff Product Manager",
-    "link": "https://jobs.techto.org/jobs/164715434-staff-product-manager",
-    "company": "Relay",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Technical Support Specialist",
     "link": "https://jobs.techto.org/jobs/164829437-technical-support-specialist",
     "company": "Certn",
@@ -176,7 +167,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -185,7 +176,16 @@
     "company": "Motion",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2min ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, AI, Startup, backend, Node, agile, software development, Typescript, Digital Marketing, Paid Ads, agentic AI testing framework, engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Manager, Software Engineering",
+    "link": "https://jobs.techto.org/jobs/168644649-manager-software-engineering",
+    "company": "StickerYou",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "12min ago",
+    "tags": "Product & Engineering"
   }
 ]
