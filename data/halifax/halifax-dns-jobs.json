@@ -1,11 +1,99 @@
 [
   {
+    "title": "Lead Data Scientist: AgentOps Control Plane (GCP) – Hybrid",
+    "link": "https://digitalnovascotia.com/job-posts/lead-data-scientist-agentops-control-plane-gcp-hybrid/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 minutes ago"
+  },
+  {
+    "title": "Senior Data Architect",
+    "link": "https://digitalnovascotia.com/job-posts/senior-data-architect/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "5 minutes ago"
+  },
+  {
+    "title": "Django Developer",
+    "link": "https://digitalnovascotia.com/job-posts/django-developer/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "8 minutes ago"
+  },
+  {
+    "title": "Salesforce Developer – Agentic AI",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-developer-agentic-ai/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "10 minutes ago"
+  },
+  {
+    "title": "Data Specialist/Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/data-specialist-consultant/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "17 minutes ago"
+  },
+  {
+    "title": "Data Scientist",
+    "link": "https://digitalnovascotia.com/job-posts/data-scientist-22/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "19 minutes ago"
+  },
+  {
+    "title": "Python Developer (on-site)",
+    "link": "https://digitalnovascotia.com/job-posts/python-developer-on-site/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "21 minutes ago"
+  },
+  {
+    "title": "Senior Angular Developer (on-site)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-angular-developer-on-site/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "23 minutes ago"
+  },
+  {
+    "title": "Senior Oracle PL/SQL Data Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-oracle-pl-sql-data-developer/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "27 minutes ago"
+  },
+  {
+    "title": "Product Implementation Manager",
+    "link": "https://digitalnovascotia.com/job-posts/product-implementation-manager/",
+    "company": "",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "33 minutes ago"
+  },
+  {
+    "title": "Senior Software Developer, Reliability",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-reliability/",
+    "company": "",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "42 minutes ago"
+  },
+  {
     "title": "Business Intelligence Consultant Development Program (16-Week Contract) (Onsite in Halifax, NS)",
     "link": "https://digitalnovascotia.com/job-posts/business-intelligence-consultant-development-program-16-week-contract-onsite-in-halifax-ns/",
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "7 hours ago"
+    "postedDate": "18 hours ago"
   },
   {
     "title": "Salesforce Consultant Development Program (16-Week Contract) (Onsite in Halifax, NS)",
@@ -13,7 +101,7 @@
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "7 hours ago"
+    "postedDate": "18 hours ago"
   },
   {
     "title": "Marketing Automation Specialist Development Program (Onsite, 16-Week Contract)",
@@ -21,7 +109,7 @@
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "7 hours ago"
+    "postedDate": "18 hours ago"
   },
   {
     "title": "Technical Account Manager (TAM) – MSSP SOC Services",
@@ -29,7 +117,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Major incident manager (IT services) Onsite in Halifax",
@@ -37,7 +125,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Data Security Support Specialist – DLP (On site Halifax NS)",
@@ -45,7 +133,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Vanatage/wmA Developer (Hybrid)",
@@ -53,7 +141,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Sr. End Point Protection EDR/MDR Engineer- On Site in Halifax- NS",
@@ -61,7 +149,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Lead Business Systems Analyst – GFT Halifax",
@@ -69,7 +157,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Senior Android Developer- RBCx Ventures (Dr. Bill)",
@@ -77,7 +165,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Senior Software Engineer – Halifax",
@@ -85,7 +173,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "PHP Lead",
@@ -93,7 +181,7 @@
     "company": "Torq IT",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "PHP Developer",
@@ -101,7 +189,7 @@
     "company": "Torq IT",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "NERC CIP Compliance Analyst",
@@ -109,7 +197,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Database Developer",
@@ -117,7 +205,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Application Security Engineer",
@@ -125,7 +213,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Social Media Channel Lead",
@@ -133,7 +221,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Software (App) Engineering, Engineer",
@@ -141,100 +229,12 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Contract Project and Product Manager",
     "link": "https://digitalnovascotia.com/job-posts/contract-project-and-product-manager/",
     "company": "SolutionInc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Director of IT & Security – Nova Leap Health Corp.",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-it-security-nova-leap-health-corp/",
-    "company": "Facet",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Technical Specialist (Computer Services Off 3) – Enterprise Database",
-    "link": "https://digitalnovascotia.com/job-posts/technical-specialist-computer-services-off-3-enterprise-database/",
-    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Network Analyst (Computer Services Off 3)",
-    "link": "https://digitalnovascotia.com/job-posts/network-analyst-computer-services-off-3/",
-    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Application Security Architect",
-    "link": "https://digitalnovascotia.com/job-posts/analyst-associate/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "UX Manager, Design System",
-    "link": "https://digitalnovascotia.com/job-posts/ux-manager-design-system/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Staff Software Development Engineer – Frontend/UI",
-    "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer-frontend-ui/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Staff Security Researcher",
-    "link": "https://digitalnovascotia.com/job-posts/staff-security-researcher-2/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Sr Software Development Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/sr-software-development-engineer-5/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Sr Security Researcher",
-    "link": "https://digitalnovascotia.com/job-posts/sr-security-researcher-3/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Sr Product Manager, Password Safe",
-    "link": "https://digitalnovascotia.com/job-posts/sr-product-manager-password-safe/",
-    "company": "BeyondTrust",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Software Development Manager",
-    "link": "https://digitalnovascotia.com/job-posts/software-development-manager-7/",
-    "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "3 days ago"
