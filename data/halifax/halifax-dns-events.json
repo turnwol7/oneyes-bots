@@ -1,208 +1,5 @@
 [
   {
-    "title": "Sales Enablement Training Program: Leveraging Tools on a Budget",
-    "link": "https://digitalnovascotia.com/event/sales-enablement-training-program-leveraging-tools-on-a-budget/",
-    "datetime": "October 1 @ 9:00 am - 12:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Powered Productivity Tools",
-    "link": "https://digitalnovascotia.com/event/ai-powered-productivity-tools/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 2 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Atlantic Executive Briefing",
-    "link": "https://digitalnovascotia.com/event/atlantic-executive-briefing/",
-    "datetime": "October 2 @ 9:30 am - 12:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Smart Pricing for Small Business",
-    "link": "https://digitalnovascotia.com/event/smart-pricing-for-small-business/",
-    "datetime": "October 2 @ 10:00 am - 12:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "WOMEN FOUNDERS IN Halifax!",
-    "link": "https://digitalnovascotia.com/event/women-founders-in-halifax/",
-    "datetime": "October 3 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "NASA Space Apps Challenge 2025 – Halifax",
-    "link": "https://digitalnovascotia.com/event/nasa-space-apps-challenge-2025-halifax/",
-    "datetime": "October 4 @ 9:00 am - October 5 @ 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "NASA Space Apps Challenge 2025 – Halifax",
-    "link": "https://digitalnovascotia.com/event/nasa-space-apps-challenge-2025-halifax/",
-    "datetime": "October 4 @ 9:00 am - October 5 @ 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Mixer Showcase",
-    "link": "https://digitalnovascotia.com/event/ai-mixer-showcase/",
-    "datetime": "October 6 @ 4:00 pm - 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Business & Breakfast: The Path to Succession Planning",
-    "link": "https://digitalnovascotia.com/event/business-breakfast-the-path-to-succession-planning/",
-    "datetime": "October 7 @ 8:00 am - 10:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Leadership Lab: Lead Beyond Expertise",
-    "link": "https://digitalnovascotia.com/event/leadership-lab-lead-beyond-expertise/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 8 @ 10:00 am - 12:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "GEO Forum 2025",
-    "link": "https://digitalnovascotia.com/event/geo-forum-2025/",
-    "datetime": "October 8 @ 9:00 am - 4:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "POWER LUNCH: Business Interrupted: How to Prevent the Cyber Attack That Stops You Cold",
-    "link": "https://digitalnovascotia.com/event/power-lunch-business-interrupted-how-to-prevent-the-cyber-attack-that-stops-you-cold/",
-    "datetime": "October 8 @ 12:00 pm - 1:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Third Wednesday",
-    "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-10-15/",
-    "datetime": "October 15 @ 5:00 pm - 7:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Halifax 2SLGBTQI+ Business Symposium: Empowering Our Community, Together",
-    "link": "https://digitalnovascotia.com/event/halifax-2slgbtqi-business-symposium-empowering-our-community-together/",
-    "datetime": "October 16 @ 8:00 am - 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Women in Machine Learning/Data Science Meetup",
-    "link": "https://digitalnovascotia.com/event/women-in-machine-learning-data-science-meetup-4/",
-    "datetime": "October 16 @ 8:00 am - 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "IGNITING Women in Business Speaker Series w/ Rashmi Prakash",
-    "link": "https://digitalnovascotia.com/event/igniting-women-in-business-speaker-series-w-rashmi-prakash/",
-    "datetime": "October 16 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "VibeCoding @ CBU",
-    "link": "https://digitalnovascotia.com/event/vibecoding-cbu/",
-    "datetime": "October 17 @ 10:30 am - October 18 @ 7:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "BUSINESS AFTER HOURS & ASK AN EXPERT LOUNGE: Small Business Big Growth",
-    "link": "https://digitalnovascotia.com/event/business-after-hours-ask-an-expert-lounge-small-business-big-growth/",
-    "datetime": "October 17 @ 4:00 pm - 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "VibeCoding @ CBU",
-    "link": "https://digitalnovascotia.com/event/vibecoding-cbu/",
-    "datetime": "October 17 @ 10:30 am - October 18 @ 7:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Marketing that Connects – A Workshop for Rural Business PARRSBORO",
-    "link": "https://digitalnovascotia.com/event/marketing-that-connects-a-workshop-for-rural-business-parrsboro/",
-    "datetime": "October 20 @ 9:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Halihax Data Science Meetup",
-    "link": "https://digitalnovascotia.com/event/halihax-data-science-meetup-3/",
-    "datetime": "October 20 @ 6:30 pm - 9:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Funnels, Filters & the Future of Sales",
-    "link": "https://digitalnovascotia.com/event/funnels-filters-the-future-of-sales/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 21 @ 12:00 pm - 1:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Designing in Agile: Lessons from the field",
-    "link": "https://digitalnovascotia.com/event/designing-in-agile-lessons-from-the-field/",
-    "datetime": "October 21 @ 7:00 pm - 9:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "LUNCHEON: Canada’s Pension Advantage: A Conversation with John Graham",
-    "link": "https://digitalnovascotia.com/event/luncheon-canadas-pension-advantage-a-conversation-with-john-graham/",
-    "datetime": "October 22 @ 11:30 am - 1:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Powering Cleantech Scale-Ups: IP, Innovation & Investment",
-    "link": "https://digitalnovascotia.com/event/powering-cleantech-scale-ups-ip-innovation-investment/",
-    "datetime": "October 22 @ 12:30 pm - 5:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Lunch & Learn with Futurpreneur",
-    "link": "https://digitalnovascotia.com/event/lunch-learn-with-futurpreneur/",
-    "datetime": "October 23 @ 12:00 pm - 1:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Better Safe than Sorry, Eh: Competition Law 101 for Small Business Week",
-    "link": "https://digitalnovascotia.com/event/better-safe-than-sorry-eh-competition-law-101-for-small-business-week/",
-    "datetime": "October 23 @ 2:30 pm - 3:15 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Tribe Social : Celebrate and Connect",
-    "link": "https://digitalnovascotia.com/event/tribe-social-celebrate-and-connect/",
-    "datetime": "October 23 @ 5:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "DNS Breakfast Mixer",
-    "link": "https://digitalnovascotia.com/event/dns-community-mixer/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tOctober 24 @ 8:30 am - 10:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
     "title": "Tech NL: Innovation Week 2025",
     "link": "https://digitalnovascotia.com/event/tech-nl-innovation-week-2025/",
     "datetime": "October 27 @ 8:00 am - October 29 @ 5:00 pm  ADT",
@@ -283,6 +80,146 @@
     "title": "Startup Huddle Halifax @ Tribe Network",
     "link": "https://digitalnovascotia.com/event/startup-huddle-halifax-tribe-network/",
     "datetime": "October 30 @ 6:00 pm - 8:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "The Rise of the Humans: Learning to Thrive in a Generative AI World",
+    "link": "https://digitalnovascotia.com/event/the-rise-of-the-humans-learning-to-thrive-in-a-generative-ai-world/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tNovember 4 @ 10:00 am - 11:00 am  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI vs TA: Who’s Driving the Future of Hiring in Tech? (In-Person Calgary)",
+    "link": "https://digitalnovascotia.com/event/ai-vs-ta-whos-driving-the-future-of-hiring-in-tech-in-person-calgary/",
+    "datetime": "November 4 @ 11:30 am - 1:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Pitch to Renewal: Product Partnership Cycle",
+    "link": "https://digitalnovascotia.com/event/pitch-to-renewal-product-partnership-cycle/",
+    "datetime": "November 5 @ 6:00 pm - 7:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "PMI Nova Scotia Project Management Conference",
+    "link": "https://digitalnovascotia.com/event/pmi-nova-scotia-project-management-conference/",
+    "datetime": "November 6 @ 9:00 am - 5:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "DEFCON Halifax November Meet-Up",
+    "link": "https://digitalnovascotia.com/event/defcon-halifax-november-meet-up-2/",
+    "datetime": "November 6 @ 6:30 pm - 8:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "2025 ANNUAL FALL DINNER: Higher Learning, Stronger Economy: Shaping Tomorrow Together",
+    "link": "https://digitalnovascotia.com/event/2025-annual-fall-dinner-higher-learning-stronger-economy-shaping-tomorrow-together/",
+    "datetime": "November 12 @ 5:00 pm - 9:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "FITTskills | International Sales and Marketing",
+    "link": "https://digitalnovascotia.com/event/fittskills-international-sales-and-marketing/",
+    "datetime": "November 13 @ 9:00 am - 12:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Check Point Engage",
+    "link": "https://digitalnovascotia.com/event/check-point-engage/",
+    "datetime": "November 13 @ 9:00 am - 5:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Craft a 360 Customer Journey using the 5E method",
+    "link": "https://digitalnovascotia.com/event/craft-a-360-customer-journey-using-the-5e-method/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tNovember 18 @ 10:00 am - 11:00 am  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Privacy and Your Business – An Introduction to PIPEDA",
+    "link": "https://digitalnovascotia.com/event/privacy-and-your-business-an-introduction-to-pipeda/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tNovember 18 @ 12:00 pm - 1:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI-Driven Security for the Modern Maritime Domain",
+    "link": "https://digitalnovascotia.com/event/ai-driven-security-for-the-modern-maritime-domain/",
+    "datetime": "November 18 @ 11:00 am - 2:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "QueerTech Qonference (QTQ) 2025!",
+    "link": "https://digitalnovascotia.com/event/queertech-qonference-qtq-2025/",
+    "datetime": "November 19 @ 9:00 am - November 20 @ 5:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "The 2025 Atlantic Technology Summit",
+    "link": "https://digitalnovascotia.com/event/the-2025-atlantic-technology-summit/",
+    "datetime": "November 19 @ 8:00 am - 5:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Third Wednesday",
+    "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-11-19/",
+    "datetime": "November 19 @ 5:00 pm - 7:30 pm  AST \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "QueerTech Qonference (QTQ) 2025!",
+    "link": "https://digitalnovascotia.com/event/queertech-qonference-qtq-2025/",
+    "datetime": "November 19 @ 9:00 am - November 20 @ 5:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "2025 Tech Forward Awards",
+    "link": "https://digitalnovascotia.com/event/tech-forward-awards/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tNovember 20 @ 5:00 pm - 9:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Sales Truths: What I Wish I Knew Early in My Career (and What to Do Instead)…Oh Yeah, and Now AI",
+    "link": "https://digitalnovascotia.com/event/sales-truths-what-i-wish-i-knew-early-in-my-career-and-what-to-do-insteadoh-yeah-and-now-ai/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tNovember 24 @ 9:00 am - 12:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "QT Connect Meetup Halifax",
+    "link": "https://digitalnovascotia.com/event/qt-connect-meetup-halifax-2/",
+    "datetime": "November 25 @ 5:00 pm - 8:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Executive Lounge: AgTech and Digital Transformation",
+    "link": "https://digitalnovascotia.com/event/executive-lounge-agtech-and-digital-transformation/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tNovember 26 @ 11:30 am - 1:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Small and Medium Enterprise (SME) Procurement Fair",
+    "link": "https://digitalnovascotia.com/event/small-and-medium-enterprise-sme-procurement-fair/",
+    "datetime": "November 27 @ 10:00 am - 4:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   }
