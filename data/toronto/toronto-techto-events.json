@@ -23,7 +23,7 @@
     "description": "Join TechTO for engaging conversations with leaders in tech and salesJoin TechTO for engaging conversations with leaders in tech and sales",
     "date": "November 12, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "BrainStation, 482 Front St W 2nd floor, Toronto, ON M5V 0W1, Canada",
-    "price": "$20 Early Bird | Free for Members",
+    "price": "$30 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -51,6 +51,15 @@
     "date": "December 3, 2025 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
     "location": "TBC",
     "price": "Invite-only for YC founders",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Together TorontoTogether Toronto",
+    "link": "https://www.techto.org/event/together-toronto-jan-12-2026",
+    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
+    "date": "January 12, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
+    "price": "$30 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   }
 ]
