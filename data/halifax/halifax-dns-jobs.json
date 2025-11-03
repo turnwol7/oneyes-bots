@@ -1,11 +1,67 @@
 [
   {
+    "title": "Senior Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-51/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "24 minutes ago"
+  },
+  {
+    "title": "Senior Power Apps Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-power-apps-developer/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "28 minutes ago"
+  },
+  {
+    "title": "Senior Databricks Data Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-databricks-data-specialist/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "30 minutes ago"
+  },
+  {
+    "title": "Full Stack Developer (Java + Angular) on-site",
+    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-java-angular-on-site/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "34 minutes ago"
+  },
+  {
+    "title": "Technical Data Steward",
+    "link": "https://digitalnovascotia.com/job-posts/technical-data-steward-6/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "36 minutes ago"
+  },
+  {
+    "title": "Technical Business Analyst (Data)",
+    "link": "https://digitalnovascotia.com/job-posts/technical-business-analyst-data/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "38 minutes ago"
+  },
+  {
+    "title": "Vulnerability & Customer Experience Manager – MSSP SOC Services",
+    "link": "https://digitalnovascotia.com/job-posts/vulnerability-customer-experience-manager-mssp-soc-services/",
+    "company": "DXC Technology Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "42 minutes ago"
+  },
+  {
     "title": "IMAC Coordinator (6 months contract)",
     "link": "https://digitalnovascotia.com/job-posts/imac-coordinator-6-months-contract/",
     "company": "",
     "location": "Halifax",
     "jobType": "Temporary",
-    "postedDate": "3 minutes ago"
+    "postedDate": "49 minutes ago"
   },
   {
     "title": "Application Developer",
@@ -13,7 +69,7 @@
     "company": "",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "7 minutes ago"
+    "postedDate": "53 minutes ago"
   },
   {
     "title": "Financial Analyst",
@@ -21,7 +77,7 @@
     "company": "",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "11 minutes ago"
+    "postedDate": "57 minutes ago"
   },
   {
     "title": "Senior Infrastructure Support Analyst – GFT – Halifax",
@@ -182,61 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "4 days ago"
-  },
-  {
-    "title": "Systems Engineer Staff-Safety",
-    "link": "https://digitalnovascotia.com/job-posts/systems-engineer-staff-safety-2/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "End User Systems Engineer – Operability Statements (OPSTATS)",
-    "link": "https://digitalnovascotia.com/job-posts/end-user-systems-engineer-operability-statements-opstats-2/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Learning Architect",
-    "link": "https://digitalnovascotia.com/job-posts/learning-architect/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Software Quality Assurance Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/software-quality-assurance-analyst-3/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Software Test Automation Lead",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-test-automation-lead/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Ship Test and Trials Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/ship-test-and-trials-specialist/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Junior Software Developer – ISS Team – 100% onsite Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/junior-software-developer-iss-team-100-onsite-halifax/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
