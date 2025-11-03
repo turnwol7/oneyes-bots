@@ -133,6 +133,13 @@
     "cost": ""
   },
   {
+    "title": "BSides Halifax 2025",
+    "link": "https://digitalnovascotia.com/event/bsides-halifax-2025/",
+    "datetime": "November 13 @ 9:00 am - 5:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Check Point Engage",
     "link": "https://digitalnovascotia.com/event/check-point-engage/",
     "datetime": "November 13 @ 9:00 am - 5:00 pm  AST",
@@ -213,6 +220,13 @@
     "title": "Executive Lounge: AgTech and Digital Transformation",
     "link": "https://digitalnovascotia.com/event/executive-lounge-agtech-and-digital-transformation/",
     "datetime": "Featured\n\t\t\t\n\t\t\tNovember 26 @ 11:30 am - 1:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Crypto, Blockchain, AI, and the Changing Landscape of Financial Markets",
+    "link": "https://digitalnovascotia.com/event/crypto-blockchain-ai-and-the-changing-landscape-of-financial-markets/",
+    "datetime": "November 26 @ 6:00 pm - 8:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
