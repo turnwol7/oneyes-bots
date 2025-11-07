@@ -9,15 +9,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Software Engineer, Internal Infrastructure (North America)",
-    "link": "https://jobs.techto.org/jobs/166510451-software-engineer-internal-infrastructure-north-america",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Senior Security Engineer",
     "link": "https://jobs.techto.org/jobs/167244591-senior-security-engineer",
     "company": "EvenUp",
@@ -185,7 +176,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -203,7 +194,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -212,7 +203,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -221,7 +212,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -230,7 +221,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -239,7 +230,7 @@
     "company": "Loopio Inc.",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +239,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -257,7 +248,25 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Forward Deployed Engineering, Tech Lead",
+    "link": "https://jobs.techto.org/jobs/173816239-forward-deployed-engineering-tech-lead",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "13h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Forward Deployed Engineer, Prompt Specialist",
+    "link": "https://jobs.techto.org/jobs/173816240-forward-deployed-engineer-prompt-specialist",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "13h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
