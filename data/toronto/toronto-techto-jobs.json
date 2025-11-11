@@ -1,14 +1,5 @@
 [
   {
-    "title": "Staff Infrastructure Engineer",
-    "link": "https://jobs.techto.org/jobs/167244589-staff-infrastructure-engineer",
-    "company": "EvenUp",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Senior Application Security Engineer",
     "link": "https://jobs.techto.org/jobs/167405625-senior-application-security-engineer",
     "company": "Relay",
@@ -243,6 +234,15 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
+    "title": "Product Manager",
+    "link": "https://jobs.techto.org/jobs/175583619-product-manager",
+    "company": "Klue",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Software Engineer, Atlas",
     "link": "https://jobs.techto.org/jobs/171007696-software-engineer-atlas",
     "company": "Cohere",
@@ -257,7 +257,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "17h ago",
+    "postedDate": "21h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -266,7 +266,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "8h ago",
+    "postedDate": "12h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
