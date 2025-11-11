@@ -1,14 +1,5 @@
 [
   {
-    "title": "Staff Security Engineer",
-    "link": "https://jobs.techto.org/jobs/167244590-staff-security-engineer",
-    "company": "EvenUp",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Staff Infrastructure Engineer",
     "link": "https://jobs.techto.org/jobs/167244589-staff-infrastructure-engineer",
     "company": "EvenUp",
@@ -266,7 +257,16 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "14h ago",
+    "postedDate": "17h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Industrial Engineer",
+    "link": "https://jobs.techto.org/jobs/175532921-industrial-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "8h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
