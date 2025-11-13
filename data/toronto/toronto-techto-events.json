@@ -1,38 +1,11 @@
 [
   {
-    "title": "Together Toronto Together Toronto",
-    "link": "https://www.techto.org/event/together-toronto-nov-3-2025",
-    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
-    "date": "November 3, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$40 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "TechTO Road Trip to SAAS NORTHTechTO Road Trip to SAAS NORTH",
-    "link": "https://www.techto.org/event/techto-saasnorth-nov-2025",
-    "description": "Hop on the TechTO bus to SAAS NORTH with exclusive speakers, workshops, and 50+ startup peers by your sideHop on the TechTO bus to SAAS NORTH with exclusive speakers, workshops, and 50+ startup peers by your side",
-    "date": "November 4, 2025 10:00 am - 6:00 pm 10:00 am - 6:00 pm",
-    "location": "120 Front St W, Toronto, ON M5J 1R7, Canada",
-    "price": "Please refer to Luma page",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Sales TorontoSales Toronto",
-    "link": "https://www.techto.org/event/sales-toronto-nov-12-2025",
-    "description": "Join TechTO for engaging conversations with leaders in tech and salesJoin TechTO for engaging conversations with leaders in tech and sales",
-    "date": "November 12, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "BrainStation, 482 Front St W 2nd floor, Toronto, ON M5V 0W1, Canada",
-    "price": "$30 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Health TorontoHealth Toronto",
     "link": "https://www.techto.org/event/health-toronto-nov-19-2025",
     "description": "Discover how tech is reshaping healthcare with insights from industry leadersDiscover how tech is reshaping healthcare with insights from industry leaders",
     "date": "November 19, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "OneEleven, 325 Front St W 4th Floor, Toronto",
-    "price": "$20 Early Bird | Free for Members",
+    "price": "$30 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -49,7 +22,7 @@
     "link": "https://www.techto.org/event/yc-alumni-holiday-party-2025",
     "description": "Celebrate the season with Y Combinator alumni, entrepreneurs, and investors.Celebrate the season with Y Combinator alumni, entrepreneurs, and investors.",
     "date": "December 3, 2025 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
-    "location": "TBC",
+    "location": "Location will be revealed at the secret link",
     "price": "Invite-only for YC founders",
     "status": "Sold OutUp NextSold Out"
   },
@@ -60,6 +33,24 @@
     "date": "January 12, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
     "price": "$30 Early Bird | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Commerce TorontoCommerce Toronto",
+    "link": "https://www.techto.org/event/commerce-toronto-jan-21-2026",
+    "description": "Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.",
+    "date": "January 21, 2026 5:30 pm - 8:30 pm 5:30 pm - 8:30 pm",
+    "location": "Rotman School of Management in Desautels Hall, 105 St. George Street",
+    "price": "$20 Early Bird | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Sales TorontoSales Toronto",
+    "link": "https://www.techto.org/event/sales-toronto-mar-24-2026",
+    "description": "Join TechTO for engaging conversations with leaders in tech and salesJoin TechTO for engaging conversations with leaders in tech and sales",
+    "date": "March 24, 2026 5:30 pm - 8:30 pm 5:30 pm - 8:30 pm",
+    "location": "Rotman School of Management in Desautels Hall, 105 St. George Street",
+    "price": "$20 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   }
 ]
