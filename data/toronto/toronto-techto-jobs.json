@@ -1,14 +1,5 @@
 [
   {
-    "title": "Project Manager",
-    "link": "https://jobs.techto.org/jobs/168365986-project-manager",
-    "company": "Mansueto Ventures",
-    "jobType": "Contract",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, product, Project management"
-  },
-  {
     "title": "Production Associate",
     "link": "https://jobs.techto.org/jobs/133035147-production-associate",
     "company": "Clutch Technologies Inc.",
@@ -36,8 +27,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Senior/Staff Frontend Engineer",
-    "link": "https://jobs.techto.org/jobs/168897756-senior-staff-frontend-engineer",
+    "title": "Senior/Staff Full-Stack Engineer",
+    "link": "https://jobs.techto.org/jobs/168897755-senior-staff-full-stack-engineer",
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -45,8 +36,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior/Staff Full-Stack Engineer",
-    "link": "https://jobs.techto.org/jobs/168897755-senior-staff-full-stack-engineer",
+    "title": "Senior/Staff Frontend Engineer",
+    "link": "https://jobs.techto.org/jobs/168897756-senior-staff-frontend-engineer",
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -267,6 +258,15 @@
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Engineering Program Manager, Public Sector & Defence",
+    "link": "https://jobs.techto.org/jobs/177737587-engineering-program-manager-public-sector-defence",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "14h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
