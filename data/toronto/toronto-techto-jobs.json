@@ -1,14 +1,5 @@
 [
   {
-    "title": "Production Manager",
-    "link": "https://jobs.techto.org/jobs/172153478-production-manager",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "2w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Senior Software Engineer Backend Engineer, Growth & Agents",
     "link": "https://jobs.techto.org/jobs/172607689-senior-software-engineer-backend-engineer-growth-agents",
     "company": "EvenUp",
@@ -268,5 +259,14 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Technical Support Manager",
+    "link": "https://jobs.techto.org/jobs/179947243-technical-support-manager",
+    "company": "commonsku",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "10h ago",
+    "tags": "Product & Engineering"
   }
 ]
