@@ -8,12 +8,44 @@
     "postedDate": "4 days ago"
   },
   {
+    "title": "Marketing Funding Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-funding-coordinator/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "8 minutes ago"
+  },
+  {
+    "title": "AI & Automation Technical Lead",
+    "link": "https://digitalnovascotia.com/job-posts/ai-automation-technical-lead/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "11 minutes ago"
+  },
+  {
+    "title": "Senior Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-46/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "17 minutes ago"
+  },
+  {
+    "title": "Product Manager/Senior Digital Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/product-manager-senior-digital-business-analyst-21/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "29 minutes ago"
+  },
+  {
     "title": "DevOps Engineer",
     "link": "https://digitalnovascotia.com/job-posts/devops-engineer-49/",
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 minutes ago"
+    "postedDate": "32 minutes ago"
   },
   {
     "title": "Quality Engineering Analyst",
@@ -21,7 +53,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "6 minutes ago"
+    "postedDate": "36 minutes ago"
   },
   {
     "title": "Senior Quality Engineer – Automation(Halifax)",
@@ -203,38 +235,6 @@
     "title": "Java Backend Developer – Scalable Systems & API Development",
     "link": "https://digitalnovascotia.com/job-posts/java-backend-developer-scalable-systems-api-development/",
     "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Test Automation Specialist (Playwright)",
-    "link": "https://digitalnovascotia.com/job-posts/test-automation-specialist-playwright-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Program Director",
-    "link": "https://digitalnovascotia.com/job-posts/program-director/",
-    "company": "Acadia Broadcasting Ltd.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "DBA lead",
-    "link": "https://digitalnovascotia.com/job-posts/dba-lead/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "AWS Cloud Network Architect",
-    "link": "https://digitalnovascotia.com/job-posts/aws-cloud-network-architect-3/",
-    "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "1 week ago"
