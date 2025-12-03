@@ -61,5 +61,12 @@
     "datetime": "December 17 @ 5:00 pm - 7:30 pm  AST \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "AI Showcase and Mixer",
+    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-4/",
+    "datetime": "December 20 @ 6:00 pm - 8:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
