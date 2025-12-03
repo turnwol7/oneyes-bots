@@ -1,5 +1,21 @@
 [
   {
+    "title": "Senior Applications/Systems Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/senior-applications-systems-analyst/",
+    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
+    "location": "Halifax",
+    "jobType": "Full TimeFeatured Job",
+    "postedDate": "5 days ago"
+  },
+  {
+    "title": "DevSecOps Architect",
+    "link": "https://digitalnovascotia.com/job-posts/devsecops-architect-2/",
+    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
+    "location": "Halifax",
+    "jobType": "Full TimeFeatured Job",
+    "postedDate": "5 days ago"
+  },
+  {
     "title": "Cyber Security Risk Advisor (Program Manager)",
     "link": "https://digitalnovascotia.com/job-posts/cyber-security-risk-advisor-program-manager/",
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
@@ -29,7 +45,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Change Manager",
@@ -37,7 +53,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Sr. Manager, Inclusion, Diversity, Equity, & Accessibility",
@@ -45,7 +61,7 @@
     "company": "McInnes Cooper",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Principal Architect (Future Opportunities)",
@@ -222,21 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Executive Marketing & Outreach Assistant",
-    "link": "https://digitalnovascotia.com/job-posts/executive-marketing-outreach-assistant/",
-    "company": "Foundation Marketing",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Database Developer",
-    "link": "https://digitalnovascotia.com/job-posts/database-developer-11/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
