@@ -1,23 +1,5 @@
 [
   {
-    "title": "Industrial Engineer",
-    "link": "https://jobs.techto.org/jobs/175532921-industrial-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Full Stack Developer",
-    "link": "https://jobs.techto.org/jobs/175584544-full-stack-developer",
-    "company": "Nova",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, JavaScript, Typescript, python, DevOps / CI/CD, terraform, GCP, MySQL, Clickhouse, Redis, Kubernetes, Docker"
-  },
-  {
     "title": "Lead Software Engineer, iOS",
     "link": "https://jobs.techto.org/jobs/179870385-lead-software-engineer-ios",
     "company": "GuruLink",
@@ -257,7 +239,25 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Forward Deployed Engineer, Agentic Platform (Public Sector)",
+    "link": "https://jobs.techto.org/jobs/182408094-forward-deployed-engineer-agentic-platform-public-sector",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "17h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Forward Deployed Engineer, Infrastructure Specialist (Public Sector)",
+    "link": "https://jobs.techto.org/jobs/182408093-forward-deployed-engineer-infrastructure-specialist-public-sector",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "17h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -266,7 +266,7 @@
     "company": "Bridge",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "42min ago",
+    "postedDate": "5h ago",
     "tags": "Product & Engineering"
   }
 ]
