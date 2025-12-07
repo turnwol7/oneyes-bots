@@ -1,32 +1,5 @@
 [
   {
-    "title": "Health TorontoHealth Toronto",
-    "link": "https://www.techto.org/event/health-toronto-nov-19-2025",
-    "description": "Discover how tech is reshaping healthcare with insights from industry leadersDiscover how tech is reshaping healthcare with insights from industry leaders",
-    "date": "November 19, 2025 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "OneEleven, 325 Front St W 4th Floor, Toronto",
-    "price": "$30 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "TechTO Canadian Rocketships 2025TechTO Canadian Rocketships 2025",
-    "link": "https://www.techto.org/event/techto-rocketships-dec-1",
-    "description": "Spotlighting and celebrating the Canadian startups propelling our tech ecosystem to new heights!Spotlighting and celebrating the Canadian startups propelling our tech ecosystem to new heights!",
-    "date": "December 1, 2025 6:00 pm - 8:30 pm 6:00 pm - 8:30 pm",
-    "location": "Toronto City Hall, 100 Queen St W, Toronto, ON M5H 2N2, Canada",
-    "price": "Early Bird $35 | $10 for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "YC Alumni Holiday Party 2025YC Alumni Holiday Party 2025",
-    "link": "https://www.techto.org/event/yc-alumni-holiday-party-2025",
-    "description": "Celebrate the season with Y Combinator alumni, entrepreneurs, and investors.Celebrate the season with Y Combinator alumni, entrepreneurs, and investors.",
-    "date": "December 3, 2025 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
-    "location": "Location will be revealed at the secret link",
-    "price": "Invite-only for YC founders",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Together TorontoTogether Toronto",
     "link": "https://www.techto.org/event/together-toronto-jan-12-2026",
     "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
@@ -55,10 +28,10 @@
   },
   {
     "title": "Health TorontoHealth Toronto",
-    "link": "https://www.techto.org/event/health-toronto-feb-25-2026",
+    "link": "https://www.techto.org/event/health-toronto-feb-24-2026",
     "description": "Discover how tech is reshaping healthcare with insights from industry leadersDiscover how tech is reshaping healthcare with insights from industry leaders",
-    "date": "February 25, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "TBC",
+    "date": "February 24, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "OneEleven, 325 Front St W 4th Floor, Toronto, ON M5V 3S9, Canada",
     "price": "$20 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
