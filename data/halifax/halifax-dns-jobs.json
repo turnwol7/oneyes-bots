@@ -1,13 +1,5 @@
 [
   {
-    "title": "Senior Applications/Systems Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-applications-systems-analyst/",
-    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
-    "location": "Halifax",
-    "jobType": "Full TimeFeatured Job",
-    "postedDate": "2 weeks ago"
-  },
-  {
     "title": "DevSecOps Architect",
     "link": "https://digitalnovascotia.com/job-posts/devsecops-architect-2/",
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
@@ -189,7 +181,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Data Architect",
@@ -197,7 +189,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Systems Engineer – Citrix & Red Hat",
@@ -205,7 +197,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "ETL Test Automator (Java/SQL)",
@@ -213,7 +205,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Power Apps Developer",
@@ -221,7 +213,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Technical Business Analyst (Data)",
@@ -229,7 +221,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Big Data Developer, GFT",
@@ -237,6 +229,14 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
+  },
+  {
+    "title": "Account Manager/Senior Account Manager, Special Accounts",
+    "link": "https://digitalnovascotia.com/job-posts/account-manager-senior-account-manager-special-accounts/",
+    "company": "BDC",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 days ago"
   }
 ]
