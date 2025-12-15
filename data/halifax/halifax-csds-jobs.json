@@ -1,19 +1,5 @@
 [
   {
-    "title": "Senior Applications/Systems Analyst (Computer Services Officer 3)Senior Applications/Systems Analyst (Computer Services Officer 3)",
-    "link": "https://jobs.novascotia.ca/job/HALIFAX-Senior-ApplicationsSystems-Analyst-%28Computer-Services-Officer-3%29-NS-B3J-1M7/597703117/",
-    "department": "Cyber Security & Digital Solutions",
-    "location": "HALIFAX, NS, CA, B3J 1M7",
-    "closingDate": "Nov 27, 2025"
-  },
-  {
-    "title": "DevSecOps Architect (Computer Services Officer 4)DevSecOps Architect (Computer Services Officer 4)",
-    "link": "https://jobs.novascotia.ca/job/HALIFAX-DevSecOps-Architect-%28Computer-Services-Officer-4%29-NS-B3K-2A6/597735717/",
-    "department": "Cyber Security & Digital Solutions",
-    "location": "HALIFAX, NS, CA, B3K 2A6",
-    "closingDate": "Nov 28, 2025"
-  },
-  {
     "title": "Cyber Security Risk Advisor (Program Manager)Cyber Security Risk Advisor (Program Manager)",
     "link": "https://jobs.novascotia.ca/job/HALIFAX-Cyber-Security-Risk-Advisor-%28Program-Manager%29-NS-B3K-2A6/597038917/",
     "department": "Cyber Security & Digital Solutions",
@@ -40,5 +26,12 @@
     "department": "Cyber Security & Digital Solutions",
     "location": "HALIFAX, NS, CA, B3J 1M7",
     "closingDate": "Dec 11, 2025"
+  },
+  {
+    "title": "Application Support Engineer (Computer Services Officer 3)Application Support Engineer (Computer Services Officer 3)",
+    "link": "https://jobs.novascotia.ca/job/HALIFAX-Application-Support-Engineer-%28Computer-Services-Officer-3%29-NS-B3J1M7/598149717/",
+    "department": "Cyber Security & Digital Solutions",
+    "location": "HALIFAX, NS, CA, B3J1M7",
+    "closingDate": "Dec 15, 2025"
   }
 ]
