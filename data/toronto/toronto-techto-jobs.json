@@ -90,42 +90,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Analytics Engineer",
-    "link": "https://jobs.techto.org/jobs/135845452-analytics-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Copy of Senior Analytics Engineer",
-    "link": "https://jobs.techto.org/jobs/180137076-copy-of-senior-analytics-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Technical Program Manager, North Platform",
-    "link": "https://jobs.techto.org/jobs/180273492-technical-program-manager-north-platform",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Intermediate Engineer",
-    "link": "https://jobs.techto.org/jobs/180176766-intermediate-engineer",
-    "company": "Certn",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Senior Backend Developer",
     "link": "https://jobs.techto.org/jobs/180594060-senior-backend-developer",
     "company": "Certn",
@@ -203,7 +167,7 @@
     "company": "Bridge",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -230,7 +194,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "4d ago",
+    "postedDate": "5d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -239,7 +203,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "5d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +212,7 @@
     "company": "Able Innovations",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -257,7 +221,16 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Founding Engineer",
+    "link": "https://jobs.techto.org/jobs/184112478-founding-engineer",
+    "company": "Strello Health",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "5min ago",
+    "tags": "Product & Engineering, AI, backend, software development, JavaScript, Typescript, python, context engineering"
   }
 ]
