@@ -185,7 +185,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -214,5 +214,41 @@
     "location": "",
     "postedDate": "1w ago",
     "tags": "Product & Engineering, AI, backend, software development, JavaScript, Typescript, python, context engineering"
+  },
+  {
+    "title": "Senior Frontend Engineer, Growth & Agents",
+    "link": "https://jobs.techto.org/jobs/186895157-senior-frontend-engineer-growth-agents",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "19h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Backend Engineer, DocGen",
+    "link": "https://jobs.techto.org/jobs/186895161-senior-backend-engineer-docgen",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "19h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Backend Engineer, Entities & Platform",
+    "link": "https://jobs.techto.org/jobs/186895156-senior-backend-engineer-entities-platform",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "19h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Backend Engineer, Growth & Agents",
+    "link": "https://jobs.techto.org/jobs/186895159-senior-backend-engineer-growth-agents",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "19h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
