@@ -158,7 +158,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -167,7 +167,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -194,7 +194,7 @@
     "company": "Able Innovations",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -203,7 +203,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -221,7 +221,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "19h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -230,7 +230,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "19h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -239,12 +239,30 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "19h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Senior Backend Engineer, Growth & Agents",
     "link": "https://jobs.techto.org/jobs/186895159-senior-backend-engineer-growth-agents",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Frontend Engineer, Growth & Agents",
+    "link": "https://jobs.techto.org/jobs/187177013-frontend-engineer-growth-agents",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "19h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Staff Software Engineer, Platform",
+    "link": "https://jobs.techto.org/jobs/187177007-staff-software-engineer-platform",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
