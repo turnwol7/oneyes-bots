@@ -1,78 +1,57 @@
 [
   {
-    "title": "Holiday Social",
-    "link": "https://digitalnovascotia.com/event/holiday-social/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tDecember 2 @ 4:00 pm - 6:00 pm  AST",
+    "title": "Collect Demo Day",
+    "link": "https://digitalnovascotia.com/event/collect-demo-day/",
+    "datetime": "January 15 @ 6:00 pm - 9:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Employer Essentials: Hiring and Retaining Temporary Foreign Workers",
-    "link": "https://digitalnovascotia.com/event/hiring-and-retaining-temporary-foreign-workers/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tDecember 3 @ 10:00 am - 11:00 am  AST",
+    "title": "Moving from Theory to Practice",
+    "link": "https://digitalnovascotia.com/event/moving-from-theory-to-practice/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tJanuary 20 @ 10:00 am - 11:00 am  AST",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "#87: Plugin Palooza!",
-    "link": "https://digitalnovascotia.com/event/87-plugin-palooza/",
-    "datetime": "December 3 @ 7:00 pm - 9:00 pm  AST",
+    "title": "AI Showcase and Mixer",
+    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-4/",
+    "datetime": "January 20 @ 6:00 pm - 8:30 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "DEFCON Halifax December Meet-Up",
-    "link": "https://digitalnovascotia.com/event/defcon-halifax-december-meet-up/",
-    "datetime": "December 4 @ 6:30 pm - 8:30 pm  AST",
+    "title": "Make Your Business Branding",
+    "link": "https://digitalnovascotia.com/event/make-your-business-branding/",
+    "datetime": "January 22 @ 8:00 am - 5:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "28th Annual Techsploration Launch",
-    "link": "https://digitalnovascotia.com/event/28th-annual-techsploration-launch/",
-    "datetime": "December 5 @ 10:30 am - 12:30 pm  AST",
+    "title": "2026 Halifax Business Awards!",
+    "link": "https://digitalnovascotia.com/event/2026-halifax-business-awards/",
+    "datetime": "January 22 @ 4:30 pm - 9:30 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "A New Shield for a New Era",
-    "link": "https://digitalnovascotia.com/event/a-new-shield-for-a-new-era/",
-    "datetime": "December 8 @ 1:30 pm - 2:00 pm  AST",
+    "title": "Vibe Coding Meetup",
+    "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-3/",
+    "datetime": "January 26 @ 6:00 pm - 8:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Reconciliation Through Innovation: Building Digital Pathways to Indigenous Economic Empowerment",
-    "link": "https://digitalnovascotia.com/event/reconciliation-through-innovation-building-digital-pathways-to-indigenous-economic-empowerment/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tDecember 9 @ 10:00 am - 11:00 am  AST",
+    "title": "Tourism Networking Event",
+    "link": "https://digitalnovascotia.com/event/tourism-networking-event/",
+    "datetime": "January 27 @ 5:00 pm - 7:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "PIER Member Day 2025",
-    "link": "https://digitalnovascotia.com/event/pier-member-day-2025/",
-    "datetime": "December 9 @ 1:00 pm - 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "WEBINAR | Employer Compliance With Immigration Obligations",
-    "link": "https://digitalnovascotia.com/event/webinar-employer-compliance-with-immigration-obligations/",
-    "datetime": "December 11 @ 11:00 am - 12:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Holiday Social & Open House | Sydney",
-    "link": "https://digitalnovascotia.com/event/holiday-social-open-house-sydney/",
-    "datetime": "December 11 @ 2:00 pm - 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Third Wednesday",
-    "link": "https://digitalnovascotia.com/event/third-wednesday-12/2025-12-17/",
-    "datetime": "December 17 @ 5:00 pm - 7:30 pm  AST \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
+    "title": "Startup Huddle Halifax Session 3 @ Tribe Network",
+    "link": "https://digitalnovascotia.com/event/startup-huddle-halifax-session-3-tribe-network/",
+    "datetime": "January 29 @ 6:00 pm - 8:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   }
