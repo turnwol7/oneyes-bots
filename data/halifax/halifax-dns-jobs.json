@@ -5,7 +5,7 @@
     "company": "CAA Atlantic",
     "location": "Halifax",
     "jobType": "TemporaryFeatured Job",
-    "postedDate": "2 hours ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Senior Cloud Enterprise Director",
@@ -22,6 +22,54 @@
     "location": "Halifax",
     "jobType": "Full TimeFeatured Job",
     "postedDate": "1 month ago"
+  },
+  {
+    "title": "Data Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/3498432-2/",
+    "company": "Global Spatial Technology Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "25 minutes ago"
+  },
+  {
+    "title": "Senior Unified Communications Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-unified-communications-specialist-2/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "27 minutes ago"
+  },
+  {
+    "title": "Senior Application Security Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-application-security-engineer-4/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "28 minutes ago"
+  },
+  {
+    "title": "Solution Architect – MS Dynamics 365",
+    "link": "https://digitalnovascotia.com/job-posts/solution-architect-ms-dynamics-365-2/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "30 minutes ago"
+  },
+  {
+    "title": "Application Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/application-specialist-3/",
+    "company": "Nova Scotia Power",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "31 minutes ago"
+  },
+  {
+    "title": "System Integration/Test Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/system-integration-test-engineer-9/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "33 minutes ago"
   },
   {
     "title": "Senior Salesforce Business Analyst (Remote) (Bilingual)",
@@ -188,54 +236,6 @@
     "link": "https://digitalnovascotia.com/job-posts/ad-ops-specialist-2/",
     "company": "Sobeys",
     "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Frontend Developer (Contract)",
-    "link": "https://digitalnovascotia.com/job-posts/frontend-developer-contract/",
-    "company": "AG Business Advisory",
-    "location": "Provincial",
-    "jobType": "Temporary",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Data & BI Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/data-bi-analyst/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Storage Admin",
-    "link": "https://digitalnovascotia.com/job-posts/storage-admin/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Contact center Fullstack DBA",
-    "link": "https://digitalnovascotia.com/job-posts/contact-center-fullstack-dba/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Cloud Application Architect",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-application-architect/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Senior Automation Engineer – API Testing",
-    "link": "https://digitalnovascotia.com/job-posts/senior-automation-engineer-api-testing-2/",
-    "company": "Cognizant",
-    "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "3 weeks ago"
   }
