@@ -1,21 +1,5 @@
 [
   {
-    "title": "Senior PHP Technical Lead",
-    "link": "https://digitalnovascotia.com/job-posts/senior-php-technical-lead/",
-    "company": "Torq IT",
-    "location": "Halifax",
-    "jobType": "Full TimeFeatured Job",
-    "postedDate": "2 weeks ago"
-  },
-  {
-    "title": "Cloud Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-full-stack-developer/",
-    "company": "Foci Solutions",
-    "location": "Halifax",
-    "jobType": "Full TimeFeatured Job",
-    "postedDate": "2 weeks ago"
-  },
-  {
     "title": "Senior Cloud Enterprise Director",
     "link": "https://digitalnovascotia.com/job-posts/senior-cloud-enterprise-business-relationship-director/",
     "company": "Marinus Services ULC",
@@ -235,6 +219,22 @@
     "title": "Cloud Application Architect",
     "link": "https://digitalnovascotia.com/job-posts/cloud-application-architect/",
     "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 weeks ago"
+  },
+  {
+    "title": "Senior Automation Engineer – API Testing",
+    "link": "https://digitalnovascotia.com/job-posts/senior-automation-engineer-api-testing-2/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 weeks ago"
+  },
+  {
+    "title": "AWS Python Developer",
+    "link": "https://digitalnovascotia.com/job-posts/aws-python-developer/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "3 weeks ago"
