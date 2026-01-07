@@ -16,12 +16,52 @@
     "postedDate": "1 month ago"
   },
   {
+    "title": "Full Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-38/",
+    "company": "Global Spatial Technology Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "15 minutes ago"
+  },
+  {
+    "title": "Product/Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/product-project-manager/",
+    "company": "Global Spatial Technology Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "24 minutes ago"
+  },
+  {
+    "title": "Salesforce Data Cloud Consultant (Remote)",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-data-cloud-consultant-remote-10/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "31 minutes ago"
+  },
+  {
+    "title": "Salesforce Technical Architect (Remote)",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-technical-architect-remote-4/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "34 minutes ago"
+  },
+  {
+    "title": "Marketing Cloud Solution Architect (remote)",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-cloud-solution-architect-remote-7/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "39 minutes ago"
+  },
+  {
     "title": "Incident Manager",
     "link": "https://digitalnovascotia.com/job-posts/incident-manager/",
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Application Architect & Production Support Coordinator (Computer Services Officer 4)",
@@ -29,7 +69,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "23 hours ago"
   },
   {
     "title": "Data Engineer",
@@ -37,7 +77,7 @@
     "company": "Global Spatial Technology Solutions",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Senior Unified Communications Specialist",
@@ -45,7 +85,7 @@
     "company": "Compugen",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Senior Application Security Engineer",
@@ -53,7 +93,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Solution Architect – MS Dynamics 365",
@@ -61,7 +101,7 @@
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Application Specialist",
@@ -69,7 +109,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "System Integration/Test Engineer",
@@ -77,7 +117,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Senior Salesforce Business Analyst (Remote) (Bilingual)",
@@ -196,46 +236,6 @@
     "link": "https://digitalnovascotia.com/job-posts/customer-experience-representative-5/",
     "company": "Dash Social",
     "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Service Centre Analyst (1 year contract)",
-    "link": "https://digitalnovascotia.com/job-posts/service-centre-analyst-1-year-contract/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Temporary",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Retail Media Network Manager",
-    "link": "https://digitalnovascotia.com/job-posts/retail-media-network-manager/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Application Developer",
-    "link": "https://digitalnovascotia.com/job-posts/application-developer-6/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Solutions Architect",
-    "link": "https://digitalnovascotia.com/job-posts/solutions-architect-14/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
-  },
-  {
-    "title": "Analyst IT Support Retail//Pharmacy",
-    "link": "https://digitalnovascotia.com/job-posts/analyst-it-support-retail-pharmacy/",
-    "company": "Sobeys",
-    "location": "Pictou",
     "jobType": "Full Time",
     "postedDate": "3 weeks ago"
   }
