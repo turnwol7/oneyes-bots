@@ -8,12 +8,36 @@
     "postedDate": "1 month ago"
   },
   {
+    "title": "SME Systems Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sme-systems-engineer/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "31 minutes ago"
+  },
+  {
+    "title": "Microsoft Dynamics 365 F&O Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/microsoft-dynamics-365-fo-solution-architect-3/",
+    "company": "BDO Canada LLP",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "38 minutes ago"
+  },
+  {
+    "title": "Dayforce Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/dayforce-solution-architect/",
+    "company": "BDO Canada LLP",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "40 minutes ago"
+  },
+  {
     "title": "Marketing Sales Consultant",
     "link": "https://digitalnovascotia.com/job-posts/marketing-sales-consultant-10/",
     "company": "Acadia Broadcasting Ltd.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 seconds ago"
+    "postedDate": "56 minutes ago"
   },
   {
     "title": "NCR POS Functional Consultant",
@@ -21,7 +45,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "SR Guidewire Functional Analyst- Remote",
@@ -29,7 +53,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "9 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Guidewire PolicyCenter Developer",
@@ -37,7 +61,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "10 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Customer Success Account Manager",
@@ -45,7 +69,7 @@
     "company": "Bulletproof",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "15 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Evergreen Editor",
@@ -53,7 +77,7 @@
     "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "37 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Manager, Marketing Strategy & Brand",
@@ -61,7 +85,7 @@
     "company": "Efficiency Nova Scotia",
     "location": "West Hants",
     "jobType": "Full Time",
-    "postedDate": "45 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Digital Project Manager",
@@ -69,7 +93,7 @@
     "company": "VERB Interactive Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "50 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Application Architect & Production Support Coordinator (Computer Services Officer 4)",
@@ -77,7 +101,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Senior Change Management Specialist",
@@ -85,7 +109,7 @@
     "company": "CAA Atlantic",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Senior Software Developer – Full Stack, GFT",
@@ -93,7 +117,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "23 hours ago"
   },
   {
     "title": "Senior Big Data Developer, GFT",
@@ -101,7 +125,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "23 hours ago"
   },
   {
     "title": "Specialist Cyber Security",
@@ -109,7 +133,7 @@
     "company": "Sobeys",
     "location": "Dartmouth",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "23 hours ago"
   },
   {
     "title": "SEO Specialist",
@@ -125,7 +149,7 @@
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Full Stack Developer",
@@ -214,29 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "3 days ago"
-  },
-  {
-    "title": "Application Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/application-specialist-3/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "System Integration/Test Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/system-integration-test-engineer-9/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Salesforce Business Analyst (Remote) (Bilingual)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-salesforce-business-analyst-remote-bilingual-2/",
-    "company": "CloudKettle",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 weeks ago"
   }
 ]
