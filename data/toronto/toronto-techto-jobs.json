@@ -1,23 +1,5 @@
 [
   {
-    "title": "Lead Software Engineer, iOS",
-    "link": "https://jobs.techto.org/jobs/179870385-lead-software-engineer-ios",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
-    "title": "Principal Engineer - Apps",
-    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Product Manager",
     "link": "https://jobs.techto.org/jobs/179870387-senior-product-manager",
     "company": "GuruLink",
@@ -162,8 +144,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Backend Engineer, Growth & Agents",
-    "link": "https://jobs.techto.org/jobs/186895159-senior-backend-engineer-growth-agents",
+    "title": "Senior Backend Engineer, Entities & Platform",
+    "link": "https://jobs.techto.org/jobs/186895156-senior-backend-engineer-entities-platform",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
@@ -171,8 +153,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Backend Engineer, Entities & Platform",
-    "link": "https://jobs.techto.org/jobs/186895156-senior-backend-engineer-entities-platform",
+    "title": "Senior Backend Engineer, Growth & Agents",
+    "link": "https://jobs.techto.org/jobs/186895159-senior-backend-engineer-growth-agents",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
@@ -203,7 +185,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -212,7 +194,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -221,7 +203,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -230,7 +212,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -239,7 +221,7 @@
     "company": "Klue",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -248,7 +230,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -257,7 +239,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -266,7 +248,25 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Engineering Manager, Revenue",
+    "link": "https://jobs.techto.org/jobs/193209301-engineering-manager-revenue",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Engineering Manager, Risk Engineering",
+    "link": "https://jobs.techto.org/jobs/193209300-engineering-manager-risk-engineering",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
