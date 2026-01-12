@@ -8,12 +8,68 @@
     "postedDate": "1 month ago"
   },
   {
+    "title": "Business Analyst, eHealth and Clinical Information Systems",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-ehealth-and-clinical-information-systems-4/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "9 minutes ago"
+  },
+  {
+    "title": "Go-To-Market (GTM) Associate",
+    "link": "https://digitalnovascotia.com/job-posts/go-to-market-gtm-associate/",
+    "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "15 minutes ago"
+  },
+  {
+    "title": "Senior Golang Developer (GCP and BigQuery )",
+    "link": "https://digitalnovascotia.com/job-posts/senior-golang-developer-gcp-and-bigquery/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "18 minutes ago"
+  },
+  {
+    "title": "Senior Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-34/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "20 minutes ago"
+  },
+  {
+    "title": "Dynatrace Architect",
+    "link": "https://digitalnovascotia.com/job-posts/dynatrace-architect/",
+    "company": "DXC Technology Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "30 minutes ago"
+  },
+  {
+    "title": "Dynatrace Implementation Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/dynatrace-implementation-engineer/",
+    "company": "DXC Technology Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "31 minutes ago"
+  },
+  {
+    "title": "L2 Deskside Support – Contract",
+    "link": "https://digitalnovascotia.com/job-posts/l2-deskside-support-contract-2/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "42 minutes ago"
+  },
+  {
     "title": "Support and Training Specialist",
     "link": "https://digitalnovascotia.com/job-posts/support-and-training-specialist-2/",
     "company": "CarteNav",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 minutes ago"
+    "postedDate": "50 minutes ago"
   },
   {
     "title": "Senior Software Developer",
@@ -21,7 +77,7 @@
     "company": "CarteNav",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 minutes ago"
+    "postedDate": "51 minutes ago"
   },
   {
     "title": "Intermediate Software Developer",
@@ -29,7 +85,7 @@
     "company": "CarteNav",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 minutes ago"
+    "postedDate": "52 minutes ago"
   },
   {
     "title": "DevOps Team Lead",
@@ -37,7 +93,7 @@
     "company": "Maplewave",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "11 minutes ago"
+    "postedDate": "59 minutes ago"
   },
   {
     "title": "DevOps Engineer",
@@ -182,61 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "4 days ago"
-  },
-  {
-    "title": "Guidewire PolicyCenter Developer",
-    "link": "https://digitalnovascotia.com/job-posts/guidewire-policycenter-developer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Customer Success Account Manager",
-    "link": "https://digitalnovascotia.com/job-posts/customer-success-account-manager-2/",
-    "company": "Bulletproof",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Evergreen Editor",
-    "link": "https://digitalnovascotia.com/job-posts/evergreen-editor-2/",
-    "company": "Resulta",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Manager, Marketing Strategy & Brand",
-    "link": "https://digitalnovascotia.com/job-posts/manager-marketing-strategy-brand-2/",
-    "company": "Efficiency Nova Scotia",
-    "location": "West Hants",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Digital Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/digital-project-manager-3/",
-    "company": "VERB Interactive Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Application Architect & Production Support Coordinator (Computer Services Officer 4)",
-    "link": "https://digitalnovascotia.com/job-posts/application-architect-production-support-coordinator-computer-services-officer-4-2/",
-    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Change Management Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/senior-change-management-specialist/",
-    "company": "CAA Atlantic",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
