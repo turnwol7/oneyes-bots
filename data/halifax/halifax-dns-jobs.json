@@ -1,11 +1,35 @@
 [
   {
+    "title": "Senior Software Engineer – Software Assurance Lead",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-engineer-software-assurance-lead/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "9 seconds ago"
+  },
+  {
+    "title": "Senior Software Engineer – Agile Coach",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-engineer-agile-coach-2/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 minutes ago"
+  },
+  {
+    "title": "DevSecOps Developer",
+    "link": "https://digitalnovascotia.com/job-posts/devsecops-developer-2/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "4 minutes ago"
+  },
+  {
     "title": "Client Technical Support Manager",
     "link": "https://digitalnovascotia.com/job-posts/3498716-2/",
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Project Manager",
@@ -13,7 +37,7 @@
     "company": "Meridia Recruitment Solutions & KBRS",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "9 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Sr Director Enterprise Efficiency",
@@ -21,7 +45,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "26 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Revenue Specialist",
@@ -29,7 +53,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "29 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Marketing Specialist",
@@ -37,7 +61,7 @@
     "company": "Steele Auto Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Creative Content Specialist",
@@ -45,7 +69,7 @@
     "company": "QEII Foundation",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Application Support Engineer",
@@ -53,7 +77,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Communications Specialist, Communications, Engagement and Change",
@@ -61,7 +85,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Application Developer",
@@ -69,7 +93,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Data Engineer – GFT Halifax",
@@ -77,7 +101,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Lead Engineer, Metadata Management – GFT – Halifax",
@@ -85,7 +109,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Lead Software Developer – GFT",
@@ -93,7 +117,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Software Developer (Python), GFT",
@@ -101,7 +125,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Software Developer – GFT",
@@ -109,7 +133,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Power Platform Consultant",
@@ -214,29 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Business Systems Analyst (Computer Services Officer 4)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-business-systems-analyst-computer-services-officer-4-2/",
-    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "DevOps Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/devops-engineer-51/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Solution Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-30/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
