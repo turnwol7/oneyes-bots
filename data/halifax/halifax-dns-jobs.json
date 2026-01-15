@@ -1,11 +1,75 @@
 [
   {
+    "title": "Process Improvement Manager",
+    "link": "https://digitalnovascotia.com/job-posts/process-improvement-manager/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time",
+    "postedDate": "2 minutes ago"
+  },
+  {
+    "title": "Sr Backend Developer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-backend-developer-2/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "5 minutes ago"
+  },
+  {
+    "title": "Marketing & Communications Associate",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-communications-associate-2/",
+    "company": "East Coast Credit Union",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "8 minutes ago"
+  },
+  {
+    "title": "Content Writer (Freelance) – Talent Pool",
+    "link": "https://digitalnovascotia.com/job-posts/content-writer-freelance-talent-pool-3/",
+    "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Freelance",
+    "postedDate": "11 minutes ago"
+  },
+  {
+    "title": "Office Manager",
+    "link": "https://digitalnovascotia.com/job-posts/office-manager-7/",
+    "company": "CloudKettle",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "13 minutes ago"
+  },
+  {
+    "title": "Senior Agile Project / Delivery Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-agile-project-delivery-manager-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "16 minutes ago"
+  },
+  {
+    "title": "Senior Jira Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/senior-jira-administrator/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "18 minutes ago"
+  },
+  {
+    "title": "Product Owner",
+    "link": "https://digitalnovascotia.com/job-posts/3498783-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "20 minutes ago"
+  },
+  {
     "title": "Senior Quality Automation Specialist",
     "link": "https://digitalnovascotia.com/job-posts/senior-quality-automation-specialist/",
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 seconds ago"
+    "postedDate": "22 minutes ago"
   },
   {
     "title": "Co-op or Intern, Data & Analytics (May 2026)",
@@ -174,69 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Software Developer – GFT",
-    "link": "https://digitalnovascotia.com/job-posts/software-developer-gft/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Power Platform Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/power-platform-consultant-4/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Digital Marketing Technology Lead (9 Month Term)",
-    "link": "https://digitalnovascotia.com/job-posts/digital-marketing-technology-lead-9-month-term-3/",
-    "company": "CAA Atlantic",
-    "location": "Halifax",
-    "jobType": "Temporary",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Business Analyst, eHealth and Clinical Information Systems",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-ehealth-and-clinical-information-systems-4/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Go-To-Market (GTM) Associate",
-    "link": "https://digitalnovascotia.com/job-posts/go-to-market-gtm-associate/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Golang Developer (GCP and BigQuery )",
-    "link": "https://digitalnovascotia.com/job-posts/senior-golang-developer-gcp-and-bigquery/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-34/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Dynatrace Architect",
-    "link": "https://digitalnovascotia.com/job-posts/dynatrace-architect/",
-    "company": "DXC Technology Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
   }
 ]
