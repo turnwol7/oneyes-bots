@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior Product Manager",
-    "link": "https://jobs.techto.org/jobs/179870387-senior-product-manager",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Software Engineer (Java/Spring Boot/Kubernetes)",
     "link": "https://jobs.techto.org/jobs/179870392-software-engineer-java-spring-boot-kubernetes",
     "company": "GuruLink",
@@ -153,15 +144,6 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Product Manager",
-    "link": "https://jobs.techto.org/jobs/175583619-product-manager",
-    "company": "Klue",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "VP Product Engineering",
     "link": "https://jobs.techto.org/jobs/191317702-vp-product-engineering",
     "company": "Cohere",
@@ -169,6 +151,15 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Product Manager",
+    "link": "https://jobs.techto.org/jobs/175583619-product-manager",
+    "company": "Klue",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1w ago",
+    "tags": "Product & Engineering"
   },
   {
     "title": "Senior Software Engineer",
@@ -268,5 +259,14 @@
     "location": "",
     "postedDate": "1d ago",
     "tags": "Product & Engineering, software development, healthtech"
+  },
+  {
+    "title": "Production Associate",
+    "link": "https://jobs.techto.org/jobs/133035147-production-associate",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "6h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
