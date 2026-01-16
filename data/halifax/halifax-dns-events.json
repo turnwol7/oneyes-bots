@@ -14,13 +14,6 @@
     "cost": ""
   },
   {
-    "title": "Moving from Theory to Practice",
-    "link": "https://digitalnovascotia.com/event/moving-from-theory-to-practice/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJanuary 20 @ 10:00 am - 11:00 am  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
     "title": "SASE’s Role in Securing AI Adoption",
     "link": "https://digitalnovascotia.com/event/sases-role-in-securing-ai-adoption/",
     "datetime": "January 20 @ 3:00 pm - 4:00 pm  AST",
@@ -80,6 +73,13 @@
     "title": "Education in the Age of AI: Turning the “Why?” into an Interactive Learning Adventure",
     "link": "https://digitalnovascotia.com/event/education-in-the-age-of-ai-turning-the-why-into-an-interactive-learning-adventure/",
     "datetime": "January 28 @ 6:00 pm - 8:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "UX Research on Mobile Games: What works, what doesn’t",
+    "link": "https://digitalnovascotia.com/event/ux-research-on-mobile-games-what-works-what-doesnt/",
+    "datetime": "January 28 @ 7:00 pm - 9:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
