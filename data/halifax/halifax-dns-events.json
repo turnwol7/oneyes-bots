@@ -42,6 +42,13 @@
     "cost": ""
   },
   {
+    "title": "Lunch & Learn:  MITACS Information Session",
+    "link": "https://digitalnovascotia.com/event/lunch-learn-mitacs-information-session/",
+    "datetime": "January 22 @ 11:30 am - 1:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "2026 Halifax Business Awards!",
     "link": "https://digitalnovascotia.com/event/2026-halifax-business-awards/",
     "datetime": "January 22 @ 4:30 pm - 9:30 pm  AST",
@@ -66,6 +73,13 @@
     "title": "Tourism Networking Event",
     "link": "https://digitalnovascotia.com/event/tourism-networking-event/",
     "datetime": "January 27 @ 5:00 pm - 7:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Speed Mentoring",
+    "link": "https://digitalnovascotia.com/event/speed-mentoring/",
+    "datetime": "January 28 @ 9:00 am - 11:00 am  AST",
     "isVirtual": false,
     "cost": ""
   },
@@ -105,9 +119,23 @@
     "cost": ""
   },
   {
+    "title": "Cape Breton – Startup Smarter Bootcamp",
+    "link": "https://digitalnovascotia.com/event/cape-breton-startup-smarter-bootcamp/",
+    "datetime": "January 30 @ 6:00 pm - January 31 @ 4:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Global Game Jam 2026",
     "link": "https://digitalnovascotia.com/event/global-game-jam-2026/",
     "datetime": "January 30 @ 5:30 pm - February 1 @ 4:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Cape Breton – Startup Smarter Bootcamp",
+    "link": "https://digitalnovascotia.com/event/cape-breton-startup-smarter-bootcamp/",
+    "datetime": "January 30 @ 6:00 pm - January 31 @ 4:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
