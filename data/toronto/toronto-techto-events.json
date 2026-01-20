@@ -1,29 +1,20 @@
 [
   {
-    "title": "Together TorontoTogether Toronto",
-    "link": "https://www.techto.org/event/together-toronto-jan-12-2026",
-    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
-    "date": "January 12, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$30 Early Bird | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Commerce TorontoCommerce Toronto",
     "link": "https://www.techto.org/event/commerce-toronto-jan-21-2026",
     "description": "Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.",
     "date": "January 21, 2026 5:30 pm - 8:30 pm 5:30 pm - 8:30 pm",
     "location": "Rotman School of Management in Desautels Hall, 105 St. George Street",
-    "price": "$20 Early Bird | Free for Members",
+    "price": "$30 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
-    "title": "Together TorontoTogether Toronto",
+    "title": "Together Toronto (Y Combinator Special Edition)Together Toronto (Y Combinator Special Edition)",
     "link": "https://www.techto.org/event/together-toronto-feb-2-2026",
-    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
+    "description": "Join TechTO for in-depth conversations with tech leaders and founders at our Y Combinator Special Edition.Join TechTO for in-depth conversations with tech leaders and founders at our Y Combinator Special Edition.",
     "date": "February 2, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$30 Early Bird | Free for Members",
+    "price": "$45 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -42,6 +33,15 @@
     "date": "February 24, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "OneEleven, 325 Front St W 4th Floor, Toronto, ON M5V 3S9, Canada",
     "price": "$20 Early Bird | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "NuSession: Engineering at Scale for 127M+ CustomersNuSession: Engineering at Scale for 127M+ Customers",
+    "link": "https://www.techto.org/event/nusession-engineering-at-scale-for-127m-customers",
+    "description": "An exclusive, senior-level discussion on how Nubank engineers resilient platforms and teams serving 127M+ customers.An exclusive, senior-level discussion on how Nubank engineers resilient platforms and teams serving 127M+ customers.",
+    "date": "February 24, 2026 6:00 pm - 9:30 pm 6:00 pm - 9:30 pm",
+    "location": "Startwell, 786 King St W, Toronto, ON M5V 1N6",
+    "price": "Approval Required",
     "status": "Sold OutUp NextSold Out"
   },
   {
