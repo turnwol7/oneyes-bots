@@ -1,11 +1,27 @@
 [
   {
+    "title": "Senior Change Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-change-manager-9/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "18 seconds ago"
+  },
+  {
+    "title": "Senior Product Manager",
+    "link": "https://digitalnovascotia.com/job-posts/senior-product-manager-18/",
+    "company": "Barrington Consulting Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 minutes ago"
+  },
+  {
     "title": "Senior Onboarding Integration Engineer",
     "link": "https://digitalnovascotia.com/job-posts/senior-onboarding-integration-engineer/",
     "company": "ESO",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 minutes ago"
+    "postedDate": "52 minutes ago"
   },
   {
     "title": "Sales Advisor",
@@ -13,7 +29,7 @@
     "company": "GBS Technologies",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "7 minutes ago"
+    "postedDate": "54 minutes ago"
   },
   {
     "title": "ITSM Administrator",
@@ -21,7 +37,7 @@
     "company": "Bulletproof",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Microsoft Dynamics 365 F&O Technical / Development Team Lead",
@@ -29,7 +45,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "25 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Data Analyst – National Assurance team",
@@ -37,7 +53,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "28 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Business Analyst, Data & Analytics – New Grad (May 2026)",
@@ -45,7 +61,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "30 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Digital Designer",
@@ -53,7 +69,7 @@
     "company": "Dash Social",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "17 hours ago"
+    "postedDate": "18 hours ago"
   },
   {
     "title": "Summer Technical Co-op – Model-Based Test Engineer",
@@ -222,21 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "4 days ago"
-  },
-  {
-    "title": "Quality Assurance Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/quality-assurance-specialist-6/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior OpenShift Virtualization Specialist (Contract)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-openshift-virtualization-specialist-contract/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Temporary",
-    "postedDate": "5 days ago"
   }
 ]
