@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior Distributed Systems Engineer",
-    "link": "https://jobs.techto.org/jobs/186627447-senior-distributed-systems-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Frontend Engineer, Growth & Agents",
     "link": "https://jobs.techto.org/jobs/186895157-senior-frontend-engineer-growth-agents",
     "company": "EvenUp",
@@ -261,12 +252,21 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
+    "title": "Director, Product",
+    "link": "https://jobs.techto.org/jobs/214151808-director-product",
+    "company": "Borrowell",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Production Manager",
     "link": "https://jobs.techto.org/jobs/172153478-production-manager",
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "11h ago",
+    "postedDate": "13h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
