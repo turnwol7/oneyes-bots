@@ -9,15 +9,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Founding Engineer",
-    "link": "https://jobs.techto.org/jobs/184112478-founding-engineer",
-    "company": "Strello Health",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, AI, backend, software development, JavaScript, Typescript, python, context engineering"
-  },
-  {
     "title": "Senior Frontend Engineer, Growth & Agents",
     "link": "https://jobs.techto.org/jobs/186895157-senior-frontend-engineer-growth-agents",
     "company": "EvenUp",
@@ -59,7 +50,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -113,6 +104,15 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
+    "postedDate": "2w ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "VP Product Engineering",
+    "link": "https://jobs.techto.org/jobs/191317702-vp-product-engineering",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
@@ -124,15 +124,6 @@
     "location": "",
     "postedDate": "1w ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "VP Product Engineering",
-    "link": "https://jobs.techto.org/jobs/191317702-vp-product-engineering",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Senior Software Engineer",
@@ -230,7 +221,7 @@
     "company": "OCA Aspire Canada Inc",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "4d ago",
+    "postedDate": "5d ago",
     "tags": "Product & Engineering, software development, healthtech"
   },
   {
@@ -239,7 +230,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -267,6 +258,15 @@
     "jobType": "Full-time",
     "location": "",
     "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Production Manager",
+    "link": "https://jobs.techto.org/jobs/172153478-production-manager",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "11h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
