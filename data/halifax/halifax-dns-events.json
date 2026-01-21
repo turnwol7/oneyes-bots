@@ -28,7 +28,7 @@
     "cost": ""
   },
   {
-    "title": "Third Wednesdays Networking Night",
+    "title": "Third Wednesday Networking Night",
     "link": "https://digitalnovascotia.com/event/third-wednesdays-networking-night/",
     "datetime": "January 21 @ 5:00 pm - 7:00 pm  AST",
     "isVirtual": false,
@@ -73,6 +73,13 @@
     "title": "Tourism Networking Event",
     "link": "https://digitalnovascotia.com/event/tourism-networking-event/",
     "datetime": "January 27 @ 5:00 pm - 7:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Computer Science Networking Event",
+    "link": "https://digitalnovascotia.com/event/computer-science-networking-event/",
+    "datetime": "January 27 @ 7:00 pm - 8:30 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
