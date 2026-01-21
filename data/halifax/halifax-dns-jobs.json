@@ -1,11 +1,59 @@
 [
   {
+    "title": "AI Enablement Specialist, Digital Employee Experience",
+    "link": "https://digitalnovascotia.com/job-posts/ai-enablement-specialist-digital-employee-experience-2/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "10 minutes ago"
+  },
+  {
+    "title": "Senior Data Governance and Data Steward",
+    "link": "https://digitalnovascotia.com/job-posts/senior-data-governance-and-data-steward/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "23 minutes ago"
+  },
+  {
+    "title": "Manager Quality Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/manager-quality-engineer/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "27 minutes ago"
+  },
+  {
+    "title": "Associate Director, Technology Risk Advisory – Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/associate-director-technology-risk-advisory-halifax/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "29 minutes ago"
+  },
+  {
+    "title": "Quality Engineering Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/quality-engineering-analyst-4/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "33 minutes ago"
+  },
+  {
+    "title": "Insolvency Analyst, Personal Debt Solutions",
+    "link": "https://digitalnovascotia.com/job-posts/insolvency-analyst-personal-debt-solutions/",
+    "company": "BDO Canada LLP",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "38 minutes ago"
+  },
+  {
     "title": "Summer 2026 Co-op – Software Developer – OE (ISS Program)",
     "link": "https://digitalnovascotia.com/job-posts/summer-2026-co-op-software-developer-oe-iss-program/",
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "20 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Summer 2026 Co-op – Automated Test Engineer (ISS Team)",
@@ -13,7 +61,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "22 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Technical Writer",
@@ -21,7 +69,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "27 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "SailPoint IdentityIQ/IdentityNow Developer (Onsite, Halifax – NS)",
@@ -29,7 +77,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "30 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Quality Automation Specialist with Python and LLM Knowledge",
@@ -190,53 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior SDET",
-    "link": "https://digitalnovascotia.com/job-posts/senior-sdet-5/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Full Stack Developer, GFT – Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-gft-halifax-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Team Leader, Agile Flex",
-    "link": "https://digitalnovascotia.com/job-posts/team-leader-agile-flex/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Full Stack Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-engineer-11/",
-    "company": "Proposify",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Sales Advisor",
-    "link": "https://digitalnovascotia.com/job-posts/sales-advisor-6/",
-    "company": "GBS Technologies",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Privacy & AI Governance Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/privacy-ai-governance-consultant-2/",
-    "company": "Mara Consulting Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
