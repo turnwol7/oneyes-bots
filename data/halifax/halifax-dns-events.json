@@ -70,6 +70,13 @@
     "cost": ""
   },
   {
+    "title": "Export Café Series: Estonia",
+    "link": "https://digitalnovascotia.com/event/export-cafe-series-estonia/",
+    "datetime": "January 27 @ 10:00 am - 11:30 am  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Cybersecurity in Gaming, Keeping Your Players Safe!",
     "link": "https://digitalnovascotia.com/event/cybersecurity-in-gaming-keeping-your-players-safe/",
     "datetime": "January 27 @ 4:00 pm - 6:00 pm  AST",
@@ -80,13 +87,6 @@
     "title": "Tourism Networking Event",
     "link": "https://digitalnovascotia.com/event/tourism-networking-event/",
     "datetime": "January 27 @ 5:00 pm - 7:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Computer Science Networking Event",
-    "link": "https://digitalnovascotia.com/event/computer-science-networking-event/",
-    "datetime": "January 27 @ 7:00 pm - 8:30 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
