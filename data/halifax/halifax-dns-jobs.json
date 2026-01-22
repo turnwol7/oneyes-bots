@@ -1,11 +1,19 @@
 [
   {
+    "title": "Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-70/",
+    "company": "Forward Creative",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "41 seconds ago"
+  },
+  {
     "title": "Manager Tech Solutions – Web Operations",
     "link": "https://digitalnovascotia.com/job-posts/manager-tech-solutions-web-operations/",
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "20 minutes ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Senior Cyber Security Specialist",
@@ -13,7 +21,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "22 minutes ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Solutions Architect",
@@ -21,7 +29,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "24 minutes ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "WiSE Summer 2026 Co-op: Business and Technology Consultant (Undergraduate Co-op)",
@@ -29,7 +37,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "34 minutes ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Senior Enterprise Architect",
@@ -37,7 +45,7 @@
     "company": "CAA Atlantic",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "43 minutes ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "AI Enablement Specialist, Digital Employee Experience",
@@ -45,7 +53,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Data Governance and Data Steward",
@@ -53,7 +61,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Manager Quality Engineer",
@@ -61,7 +69,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Associate Director, Technology Risk Advisory – Halifax",
@@ -69,7 +77,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Quality Engineering Analyst",
@@ -77,7 +85,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Insolvency Analyst, Personal Debt Solutions",
@@ -85,7 +93,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Summer 2026 Co-op – Software Developer – OE (ISS Program)",
@@ -93,7 +101,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "21 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Summer 2026 Co-op – Automated Test Engineer (ISS Team)",
@@ -101,7 +109,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "21 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Technical Writer",
@@ -109,7 +117,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "SailPoint IdentityIQ/IdentityNow Developer (Onsite, Halifax – NS)",
@@ -117,7 +125,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Quality Automation Specialist with Python and LLM Knowledge",
@@ -229,14 +237,6 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Business Development Representative (Base + Commission)",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-representative-base-commission/",
-    "company": "Maplewave",
-    "location": "Halifax",
-    "jobType": "Full Time",
     "postedDate": "3 days ago"
   }
 ]
