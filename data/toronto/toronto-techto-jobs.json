@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior Backend Engineer, DocGen",
-    "link": "https://jobs.techto.org/jobs/186895161-senior-backend-engineer-docgen",
-    "company": "EvenUp",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Senior Backend Engineer, Growth & Agents",
     "link": "https://jobs.techto.org/jobs/186895159-senior-backend-engineer-growth-agents",
     "company": "EvenUp",
@@ -257,8 +248,17 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "GCCX QA Lead / Senior Tester",
+    "link": "https://jobs.techto.org/jobs/220439771-gccx-qa-lead-senior-tester",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
   },
   {
     "title": "Scaled Programs Manager",
