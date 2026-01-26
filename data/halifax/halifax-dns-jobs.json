@@ -1,11 +1,51 @@
 [
   {
+    "title": "Senior Quality Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-5/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 minutes ago"
+  },
+  {
+    "title": "Data Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/data-engineer-42/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "16 minutes ago"
+  },
+  {
+    "title": ".NET Developer- Azure/ ADF/API",
+    "link": "https://digitalnovascotia.com/job-posts/net-developer-azure-adf-api/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "18 minutes ago"
+  },
+  {
+    "title": "Firewall Operations Technical Architect (Computer Services Officer 4)",
+    "link": "https://digitalnovascotia.com/job-posts/firewall-operations-technical-architect-computer-services-officer-4/",
+    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "26 minutes ago"
+  },
+  {
+    "title": "Technical Support Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/technical-support-consultant/",
+    "company": "Nova Scotia Health & IWK",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "30 minutes ago"
+  },
+  {
     "title": "Documentation Engineer Associate",
     "link": "https://digitalnovascotia.com/job-posts/documentation-engineer-associate/",
     "company": "Locke & Green Marketing Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "26 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Big Data Developer",
@@ -13,7 +53,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "29 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Data Engineer",
@@ -21,7 +61,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "31 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Systems Analyst – Information Management & Technology",
@@ -29,7 +69,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Integrated Program Planner",
@@ -37,7 +77,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Quality Engineer – Halifax",
@@ -45,7 +85,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Databricks Data Engineer",
@@ -53,7 +93,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Sales Development Representative",
@@ -61,7 +101,7 @@
     "company": "Dash Social",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Junior Software Developer – ISS Team – 100% onsite Halifax",
@@ -69,7 +109,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Director, Software Development, Java",
@@ -77,7 +117,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Oracle SOA Technology Architect – Manager",
@@ -85,7 +125,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Duck Creek Tech Lead role",
@@ -93,7 +133,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "DataOps Engineer / Azure Data Engineer (L2/L3 Support)",
@@ -101,7 +141,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "ServiceNow Technical Project Manager",
@@ -109,7 +149,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Project Director",
@@ -117,7 +157,7 @@
     "company": "Forward Creative",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Project Manager",
@@ -125,7 +165,7 @@
     "company": "Forward Creative",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Manager Tech Solutions – Web Operations",
@@ -133,7 +173,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Cyber Security Specialist",
@@ -141,7 +181,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Solutions Architect",
@@ -149,7 +189,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "WiSE Summer 2026 Co-op: Business and Technology Consultant (Undergraduate Co-op)",
@@ -157,7 +197,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Enterprise Architect",
@@ -165,7 +205,7 @@
     "company": "CAA Atlantic",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "AI Enablement Specialist, Digital Employee Experience",
@@ -173,7 +213,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Senior Data Governance and Data Steward",
@@ -181,7 +221,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Manager Quality Engineer",
@@ -189,7 +229,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Associate Director, Technology Risk Advisory – Halifax",
@@ -197,46 +237,6 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Quality Engineering Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/quality-engineering-analyst-4/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Insolvency Analyst, Personal Debt Solutions",
-    "link": "https://digitalnovascotia.com/job-posts/insolvency-analyst-personal-debt-solutions/",
-    "company": "BDO Canada LLP",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Summer 2026 Co-op – Software Developer – OE (ISS Program)",
-    "link": "https://digitalnovascotia.com/job-posts/summer-2026-co-op-software-developer-oe-iss-program/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Co-op",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Summer 2026 Co-op – Automated Test Engineer (ISS Team)",
-    "link": "https://digitalnovascotia.com/job-posts/summer-2026-co-op-automated-test-engineer-iss-team/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Co-op",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Technical Writer",
-    "link": "https://digitalnovascotia.com/job-posts/technical-writer-5/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "5 days ago"
   }
 ]
