@@ -1,17 +1,8 @@
 [
   {
-    "title": "Commerce TorontoCommerce Toronto",
-    "link": "https://www.techto.org/event/commerce-toronto-jan-21-2026",
-    "description": "Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.",
-    "date": "January 21, 2026 5:30 pm - 8:30 pm 5:30 pm - 8:30 pm",
-    "location": "Rotman School of Management in Desautels Hall, 105 St. George Street",
-    "price": "$30 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Together Toronto (Y Combinator Special Edition)Together Toronto (Y Combinator Special Edition)",
+    "title": "Together YCTogether YC",
     "link": "https://www.techto.org/event/together-toronto-feb-2-2026",
-    "description": "Join TechTO for in-depth conversations with tech leaders and founders at our Y Combinator Special Edition.Join TechTO for in-depth conversations with tech leaders and founders at our Y Combinator Special Edition.",
+    "description": "Together YC brings the Canadian tech community together to learn from Y Combinator alumni, with a pre-session for founders actively working on their Spring 2026 (X26) applications.Together YC brings the Canadian tech community together to learn from Y Combinator alumni, with a pre-session for founders actively working on their Spring 2026 (X26) applications.",
     "date": "February 2, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
     "price": "$45 General Admission | Free for Members",
@@ -42,6 +33,15 @@
     "date": "February 24, 2026 6:00 pm - 9:30 pm 6:00 pm - 9:30 pm",
     "location": "Startwell, 786 King St W, Toronto, ON M5V 1N6",
     "price": "Approval Required",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Together TorontoTogether Toronto",
+    "link": "https://www.techto.org/event/together-toronto-mar-2-2026",
+    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
+    "date": "March 2, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
+    "price": "$30 Early-Bird Tickets | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
