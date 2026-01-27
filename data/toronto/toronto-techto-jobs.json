@@ -1,14 +1,5 @@
 [
   {
-    "title": "Staff Software Engineer, Platform",
-    "link": "https://jobs.techto.org/jobs/187177007-staff-software-engineer-platform",
-    "company": "EvenUp",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Analytics Engineer",
     "link": "https://jobs.techto.org/jobs/140851860-analytics-engineer",
     "company": "Clutch Technologies Inc.",
@@ -45,15 +36,6 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Product Manager",
-    "link": "https://jobs.techto.org/jobs/175583619-product-manager",
-    "company": "Klue",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "VP Product Engineering",
     "link": "https://jobs.techto.org/jobs/191317702-vp-product-engineering",
     "company": "Cohere",
@@ -61,6 +43,15 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Product Manager",
+    "link": "https://jobs.techto.org/jobs/175583619-product-manager",
+    "company": "Klue",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2w ago",
+    "tags": "Product & Engineering"
   },
   {
     "title": "Senior Software Engineer",
@@ -261,12 +252,21 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
+    "title": "Software Engineer, Security",
+    "link": "https://jobs.techto.org/jobs/134100539-software-engineer-security",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "21h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Senior Python Developer",
     "link": "https://jobs.techto.org/jobs/229671904-senior-python-developer",
     "company": "Hillsdale Investment Management Inc.",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "11min ago",
+    "postedDate": "30min ago",
     "tags": "Product & Engineering, software development, MySQL, Python Developer, Computer Science"
   }
 ]
