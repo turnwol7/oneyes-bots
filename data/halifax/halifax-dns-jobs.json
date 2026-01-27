@@ -1,11 +1,19 @@
 [
   {
+    "title": "Payroll Administrator",
+    "link": "https://digitalnovascotia.com/job-posts/payroll-administrator-2/",
+    "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "25 minutes ago"
+  },
+  {
     "title": "Manager, People Operations & Systems",
     "link": "https://digitalnovascotia.com/job-posts/manager-people-operations-systems/",
     "company": "ChangeMakers",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "7 hours ago"
+    "postedDate": "19 hours ago"
   },
   {
     "title": "Customer Success Manager",
@@ -13,7 +21,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "7 hours ago"
+    "postedDate": "19 hours ago"
   },
   {
     "title": "Co-Op Content Creator",
@@ -21,7 +29,7 @@
     "company": "QuickFacts Inc",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "7 hours ago"
+    "postedDate": "19 hours ago"
   },
   {
     "title": "Senior Systems Analyst – One Person One Record",
@@ -29,7 +37,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "9 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Senior Business Analyst",
@@ -37,7 +45,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "10 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Senior Full Stack Developer",
@@ -45,7 +53,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "10 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Senior Quality Engineer",
@@ -53,7 +61,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "12 hours ago"
+    "postedDate": "23 hours ago"
   },
   {
     "title": "Data Engineer",
@@ -61,7 +69,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "12 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": ".NET Developer- Azure/ ADF/API",
@@ -69,7 +77,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "12 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Firewall Operations Technical Architect (Computer Services Officer 4)",
@@ -77,7 +85,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "12 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Technical Support Consultant",
@@ -85,7 +93,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "12 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Documentation Engineer Associate",
@@ -93,7 +101,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Big Data Developer",
@@ -101,7 +109,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Data Engineer",
@@ -109,7 +117,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Systems Analyst – Information Management & Technology",
@@ -117,7 +125,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Integrated Program Planner",
@@ -173,7 +181,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "DataOps Engineer / Azure Data Engineer (L2/L3 Support)",
@@ -181,7 +189,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "ServiceNow Technical Project Manager",
@@ -189,7 +197,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Project Director",
@@ -197,7 +205,7 @@
     "company": "Forward Creative",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Project Manager",
@@ -205,7 +213,7 @@
     "company": "Forward Creative",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Manager Tech Solutions – Web Operations",
@@ -229,14 +237,6 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "WiSE Summer 2026 Co-op: Business and Technology Consultant (Undergraduate Co-op)",
-    "link": "https://digitalnovascotia.com/job-posts/wise-summer-2026-co-op-business-and-technology-consultant-undergraduate-co-op/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Co-op",
     "postedDate": "5 days ago"
   }
 ]
