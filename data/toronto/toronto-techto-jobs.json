@@ -1,14 +1,5 @@
 [
   {
-    "title": "Staff Software Engineer",
-    "link": "https://jobs.techto.org/jobs/190909494-staff-software-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Product Manager",
     "link": "https://jobs.techto.org/jobs/175583619-product-manager",
     "company": "Klue",
@@ -16,15 +7,6 @@
     "location": "",
     "postedDate": "3w ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "VP Product Engineering",
-    "link": "https://jobs.techto.org/jobs/191317702-vp-product-engineering",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Senior Software Engineer",
@@ -122,7 +104,7 @@
     "company": "OCA Aspire Canada Inc",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, software development, healthtech"
   },
   {
@@ -248,7 +230,7 @@
     "company": "Hillsdale Investment Management Inc.",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, software development, MySQL, Python Developer, Computer Science"
   },
   {
@@ -257,7 +239,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "19h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -266,7 +248,25 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "19h ago",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Security Engineer",
+    "link": "https://jobs.techto.org/jobs/167244591-senior-security-engineer",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "22h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Staff Security Engineer",
+    "link": "https://jobs.techto.org/jobs/167244590-staff-security-engineer",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "22h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
