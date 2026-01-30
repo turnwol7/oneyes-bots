@@ -1,14 +1,5 @@
 [
   {
-    "title": "VP Product Engineering",
-    "link": "https://jobs.techto.org/jobs/191317702-vp-product-engineering",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Senior Software Engineer",
     "link": "https://jobs.techto.org/jobs/191697310-senior-software-engineer",
     "company": "Ideogram",
@@ -234,12 +225,21 @@
     "tags": "Product & Engineering, software development, MySQL, Python Developer, Computer Science"
   },
   {
+    "title": "Full Stack Engineer (Senior/Staff)",
+    "link": "https://jobs.techto.org/jobs/232467229-full-stack-engineer-senior-staff",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2d ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Staff Software Engineer",
     "link": "https://jobs.techto.org/jobs/230982795-staff-software-engineer",
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +248,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
