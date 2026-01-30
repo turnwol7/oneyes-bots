@@ -14,7 +14,16 @@
     "description": "Join TechTO for engaging conversations with leaders in tech and salesJoin TechTO for engaging conversations with leaders in tech and sales",
     "date": "February 9, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "BrainStation, 482 Front St W 2nd floor, Toronto, ON M5V 0W1",
-    "price": "$20 Early Bird | Free for Members",
+    "price": "$30 General Admission | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Together VancouverTogether Vancouver",
+    "link": "https://www.techto.org/event/together-vancouver-feb-19-2026",
+    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
+    "date": "February 19, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "SFU VentureLabs, Harbour Centre, 555 W Hastings St, Vancouver, BC",
+    "price": "$30 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -41,25 +50,7 @@
     "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
     "date": "March 2, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$30 Early-Bird Tickets | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Marketing TorontoMarketing Toronto",
-    "link": "https://www.techto.org/event/marketing-toronto-mar-24-2026",
-    "description": "Where tech meets marketing. Where ideas turn into growth.Where tech meets marketing. Where ideas turn into growth.",
-    "date": "March 24, 2026 5:30 pm - 8:30 pm 5:30 pm - 8:30 pm",
-    "location": "Rotman School of Management",
-    "price": "$20 Early Bird | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "TechTO HackathonTechTO Hackathon",
-    "link": "https://www.techto.org/event/techto-hackaton-mar-28-2026",
-    "description": "Welcome to the Future of Interaction! Join us for the TechTO Hackathon!Welcome to the Future of Interaction! Join us for the TechTO Hackathon!",
-    "date": "March 28, 2026 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
-    "location": "NEXT Canada, 175 Bloor Street East #1800, South Tower, Toronto, ON M4W 3R8",
-    "price": "$20 Individual l $70 Team",
+    "price": "$30 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
