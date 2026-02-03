@@ -1,14 +1,5 @@
 [
   {
-    "title": "Full-Stack Software Engineer, Inference",
-    "link": "https://jobs.techto.org/jobs/196263086-full-stack-software-engineer-inference",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Site Reliability Engineer, Inference Infrastructure",
     "link": "https://jobs.techto.org/jobs/196263088-site-reliability-engineer-inference-infrastructure",
     "company": "Cohere",
@@ -268,5 +259,14 @@
     "location": "",
     "postedDate": "4d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Engineering Manager, Site Reliability",
+    "link": "https://jobs.techto.org/jobs/240871517-engineering-manager-site-reliability",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
