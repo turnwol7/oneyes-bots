@@ -1,14 +1,5 @@
 [
   {
-    "title": "Together YCTogether YC",
-    "link": "https://www.techto.org/event/together-toronto-feb-2-2026",
-    "description": "Together YC brings the Canadian tech community together to learn from Y Combinator alumni, with a pre-session for founders actively working on their Spring 2026 (X26) applications.Together YC brings the Canadian tech community together to learn from Y Combinator alumni, with a pre-session for founders actively working on their Spring 2026 (X26) applications.",
-    "date": "February 2, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$45 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Sales TorontoSales Toronto",
     "link": "https://www.techto.org/event/sales-toronto-feb-9-2026",
     "description": "Join TechTO for engaging conversations with leaders in tech and salesJoin TechTO for engaging conversations with leaders in tech and sales",
@@ -51,6 +42,15 @@
     "date": "March 2, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
     "price": "$30 Early Bird | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Growth Table: CIX SummitGrowth Table: CIX Summit",
+    "link": "https://www.techto.org/event/growth-table-cix-summit",
+    "description": "This curated dinner connects growth-stage executives with $3M+ revenue or funding for candid peer conversations.This curated dinner connects growth-stage executives with $3M+ revenue or funding for candid peer conversations.",
+    "date": "March 24, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Private dining room (details shared with confirmed guests)",
+    "price": "Approval Required",
     "status": "Sold OutUp NextSold Out"
   },
   {
