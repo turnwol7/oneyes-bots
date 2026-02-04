@@ -196,6 +196,13 @@
     "cost": ""
   },
   {
+    "title": "AI Showcase and Mixer",
+    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-5/",
+    "datetime": "February 17 @ 6:00 pm - 8:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "AI Discovery Series – Wolfville",
     "link": "https://digitalnovascotia.com/event/ai-discovery-series-wolfville/",
     "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 18 @ 8:30 am - 3:30 pm  AST",
@@ -220,6 +227,20 @@
     "title": "Executive Lounge: Dual-Use Technologies",
     "link": "https://digitalnovascotia.com/event/executive-lounge-dual-use-echnologies/",
     "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 19 @ 9:00 am - 10:30 am  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Build with v0 (by Vercel) – Halifax Edition!",
+    "link": "https://digitalnovascotia.com/event/build-with-v0-by-vercel-halifax-edition/",
+    "datetime": "February 19 @ 6:00 pm - 8:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "SR&ED 101 Masterclass & Workshop",
+    "link": "https://digitalnovascotia.com/event/sred-101-masterclass-workshop/",
+    "datetime": "February 20 @ 12:00 pm - 2:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
