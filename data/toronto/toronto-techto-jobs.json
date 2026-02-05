@@ -1,20 +1,11 @@
 [
   {
-    "title": "Senior Full-Stack Developer",
-    "link": "https://jobs.techto.org/jobs/202639139-senior-full-stack-developer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Staff/Principal Software Engineer",
     "link": "https://jobs.techto.org/jobs/201249627-staff-principal-software-engineer",
     "company": "OCA Aspire Canada Inc",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, software development, healthtech"
   },
   {
@@ -267,6 +258,15 @@
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Platform Engineer",
+    "link": "https://jobs.techto.org/jobs/247317325-senior-platform-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "5h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
