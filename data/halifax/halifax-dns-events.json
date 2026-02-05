@@ -154,6 +154,20 @@
     "cost": ""
   },
   {
+    "title": "Collect. @ ShiftKey",
+    "link": "https://digitalnovascotia.com/event/collect-shiftkey/",
+    "datetime": "February 8 @ 1:00 pm - 4:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Industry Showcase: Global Relay",
+    "link": "https://digitalnovascotia.com/event/industry-showcase-global-relay/",
+    "datetime": "February 9 @ 4:00 pm - 5:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Rural Mentor Network Social | Yarmouth",
     "link": "https://digitalnovascotia.com/event/rural-mentor-network-social-yarmouth/",
     "datetime": "February 10 @ 10:00 am - 12:00 pm  AST",
@@ -241,6 +255,13 @@
     "title": "SR&ED 101 Masterclass & Workshop",
     "link": "https://digitalnovascotia.com/event/sred-101-masterclass-workshop/",
     "datetime": "February 20 @ 12:00 pm - 2:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Industry Showcase: Trihedral Engineering Limited",
+    "link": "https://digitalnovascotia.com/event/industry-showcase-trihedral-engineering-limited/",
+    "datetime": "February 24 @ 5:30 pm - 7:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
