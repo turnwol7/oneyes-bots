@@ -13,7 +13,7 @@
     "company": "Digital Nova Scotia",
     "location": "Halifax",
     "jobType": "Part TimeFeatured Job",
-    "postedDate": "19 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Corporate Graphic Designer (Adhoc)",
@@ -32,12 +32,28 @@
     "postedDate": "1 week ago"
   },
   {
+    "title": "Social Media Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/social-media-specialist-4/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "10 minutes ago"
+  },
+  {
+    "title": "Protection Plan Program Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/protection-plan-program-specialist/",
+    "company": "Steele Auto Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "15 minutes ago"
+  },
+  {
     "title": "Business Analyst – Sales and Operations",
     "link": "https://digitalnovascotia.com/job-posts/business-analyst-sales-and-operations/",
     "company": "CloudKettle",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "10 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Senior Fullstack Developer – Node.js and React",
@@ -45,7 +61,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "HRIS Implementation & Support Specialist (11-Month Contract)",
@@ -53,7 +69,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Temporary",
-    "postedDate": "28 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Solution Architect E-Commerce",
@@ -61,7 +77,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "30 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Senior Manager, Regional Marketing (Atlantic)",
@@ -69,7 +85,7 @@
     "company": "Grant Thornton LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "36 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Software Developer – Core Banking Application Development",
@@ -77,7 +93,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "39 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Program Manager – Data",
@@ -85,7 +101,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "41 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior TIBCO EBX Analyst",
@@ -93,7 +109,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "42 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Systems Engineer Associate",
@@ -101,7 +117,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "45 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "IT Audit Manager, Centralized Testing Group (CTG)",
@@ -109,7 +125,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "47 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Manager, Cyber and Risk",
@@ -117,7 +133,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Senior Data Engineer",
@@ -125,7 +141,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "SAP CPI Integration Lead – SAP BTP",
@@ -133,7 +149,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "AI/ML Cloud Engineer",
@@ -141,7 +157,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Package Specialist – Pay Confirmation Support",
@@ -221,22 +237,6 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
-  },
-  {
-    "title": "Advanced Database Developer",
-    "link": "https://digitalnovascotia.com/job-posts/advanced-database-developer/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 day ago"
-  },
-  {
-    "title": "Software Engineer Intern (GoScripts)",
-    "link": "https://digitalnovascotia.com/job-posts/software-engineer-intern-goscripts/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Co-op",
     "postedDate": "1 day ago"
   }
 ]
