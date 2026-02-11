@@ -40,12 +40,60 @@
     "postedDate": "2 weeks ago"
   },
   {
+    "title": "Engineering Manager",
+    "link": "https://digitalnovascotia.com/job-posts/engineering-manager-9/",
+    "company": "Legends",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "53 minutes ago"
+  },
+  {
+    "title": "Senior Software Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-36/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "55 minutes ago"
+  },
+  {
+    "title": "Digital Marketing Lead",
+    "link": "https://digitalnovascotia.com/job-posts/digital-marketing-lead-4/",
+    "company": "Resulta",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Salesforce Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-project-manager-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Salesforce Architect – Financial Services",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-architect-financial-services/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Salesforce Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-business-analyst/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Senior Quality Assurance Analyst",
     "link": "https://digitalnovascotia.com/job-posts/senior-quality-assurance-analyst-5/",
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Associate Workplace Technology Analyst",
@@ -53,7 +101,7 @@
     "company": "Legends",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Digital PR Specialist",
@@ -61,7 +109,7 @@
     "company": "Legends",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "20 hours ago"
   },
   {
     "title": "Technical Systems Analyst",
@@ -69,7 +117,7 @@
     "company": "Humankind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Senior ETL Developer (Snowflake/Python)",
@@ -77,7 +125,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Application Support Analyst- GFT",
@@ -85,7 +133,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Student Analyst – One Person One Record/Information Management & Technology",
@@ -93,7 +141,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Nova Scotia",
     "jobType": "Co-op",
-    "postedDate": "21 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "X-Force Senior Incident Response Consultant North America",
@@ -101,7 +149,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "RR-0322083-Associate Manager Software Engineering",
@@ -109,7 +157,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Data Engineer",
@@ -117,7 +165,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Dynamics 365 Solutions Developer (CRM & Power Platform)",
@@ -125,7 +173,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Senior Manager, IT Services",
@@ -133,7 +181,7 @@
     "company": "Invest Nova Scotia",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Data Architect (15 months contract)",
@@ -141,7 +189,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Advanced Database Developer",
@@ -189,54 +237,6 @@
     "company": "Compugen",
     "location": "Provincial",
     "jobType": "Co-op",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Master Data Specialist Intern",
-    "link": "https://digitalnovascotia.com/job-posts/master-data-specialist-intern/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Co-op",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Technical Cloud Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-technical-cloud-architect-4/",
-    "company": "Mara Consulting Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-49/",
-    "company": "Mara Consulting Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Controller",
-    "link": "https://digitalnovascotia.com/job-posts/controller-4/",
-    "company": "Roswall Development",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Web Developer",
-    "link": "https://digitalnovascotia.com/job-posts/web-developer-25/",
-    "company": "Antimatter Creative Labs",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Data Centre Capacity & Delivery Lead",
-    "link": "https://digitalnovascotia.com/job-posts/data-centre-capacity-delivery-lead/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
     "postedDate": "2 days ago"
   }
 ]
