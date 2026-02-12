@@ -210,6 +210,13 @@
     "cost": ""
   },
   {
+    "title": "IGNITE Lunch & Learn with Volta",
+    "link": "https://digitalnovascotia.com/event/ignite-lunch-learn-with-volta/",
+    "datetime": "February 17 @ 12:00 pm - 1:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "AI Showcase and Mixer",
     "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-5/",
     "datetime": "February 17 @ 6:00 pm - 8:30 pm  AST",
@@ -269,6 +276,13 @@
     "title": "Women in Machine Learning/Data Science Meetup",
     "link": "https://digitalnovascotia.com/event/women-in-machine-learning-data-science-meetup-5/",
     "datetime": "February 23 @ 8:00 pm - 10:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Self-Employment Benefit Program | Lunch & Learn",
+    "link": "https://digitalnovascotia.com/event/self-employment-benefit-program-lunch-learn/",
+    "datetime": "February 24 @ 12:00 pm - 1:30 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
