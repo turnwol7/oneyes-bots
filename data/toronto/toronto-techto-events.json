@@ -47,10 +47,19 @@
   {
     "title": "CIX Summit AfterpartyCIX Summit Afterparty",
     "link": "https://www.techto.org/event/cix-after-party-hosted-by-techto-mar-25-2026",
-    "description": "Join us at the CIX AFTER PARTY hosted by TechTOJoin us at the CIX AFTER PARTY hosted by TechTO",
+    "description": "Join us at the CIX Summit Afterparty hosted by TechTOJoin us at the CIX Summit Afterparty hosted by TechTO",
     "date": "March 25, 2026 5:30 pm - 9:00 pm 5:30 pm - 9:00 pm",
     "location": "Scotland Yard Pub, 56 The Esplanade, Toronto, ON M5E 1A6",
     "price": "Free for CIX Summit badge holder | Early Bird $20 | Free for TechTO Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Best OfBest Of",
+    "link": "https://www.techto.org/event/bestof-apr-13-2026",
+    "description": "Join us at Best Of to celebrate the amazing accomplishments of the Canadian tech communityJoin us at Best Of to celebrate the amazing accomplishments of the Canadian tech community",
+    "date": "April 13, 2026 6:00 pm - 8:30 pm 6:00 pm - 8:30 pm",
+    "location": "Toronto City Hall - 100 Queen St W, Toronto, ON M5H 2N2",
+    "price": "$35 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
