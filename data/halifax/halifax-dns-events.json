@@ -210,13 +210,6 @@
     "cost": ""
   },
   {
-    "title": "Doing Work That Matters – UX NS Meetup",
-    "link": "https://digitalnovascotia.com/event/doing-work-that-matters-ux-ns-meetup/",
-    "datetime": "February 17 @ 8:00 am - 5:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
     "title": "IGNITE Lunch & Learn with Volta",
     "link": "https://digitalnovascotia.com/event/ignite-lunch-learn-with-volta/",
     "datetime": "February 17 @ 12:00 pm - 1:30 pm  AST",
@@ -245,8 +238,8 @@
     "cost": ""
   },
   {
-    "title": "AI Readiness 2026: THE HUMAN ADVANTAGE",
-    "link": "https://digitalnovascotia.com/event/ai-readiness-2026-the-human-advantage/",
+    "title": "POWER LUNCH: AI Readiness 2026 – The Human Advantage",
+    "link": "https://digitalnovascotia.com/event/power-lunch-ai-readiness-2026-the-human-advantage/",
     "datetime": "February 18 @ 12:00 pm - 1:30 pm  AST",
     "isVirtual": false,
     "cost": ""
@@ -311,6 +304,13 @@
     "title": "AI Discovery Series – South Shore",
     "link": "https://digitalnovascotia.com/event/ai-discovery-series-south-shore/",
     "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 25 @ 9:00 am - 4:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Doing Work That Matters – UX NS Meetup",
+    "link": "https://digitalnovascotia.com/event/doing-work-that-matters-ux-ns-meetup/",
+    "datetime": "February 25 @ 7:00 pm - 9:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   }
