@@ -1,14 +1,5 @@
 [
   {
-    "title": "Founding Platform Engineer",
-    "link": "https://jobs.techto.org/jobs/240417504-founding-platform-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Software Developer",
     "link": "https://jobs.techto.org/jobs/229017545-software-developer",
     "company": "Loopio Inc.",
@@ -239,7 +230,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4d ago",
+    "postedDate": "5d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +239,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -257,7 +248,16 @@
     "company": "Baseline",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Technical Lead",
+    "link": "https://jobs.techto.org/jobs/294148451-technical-lead",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -266,7 +266,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "18h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
