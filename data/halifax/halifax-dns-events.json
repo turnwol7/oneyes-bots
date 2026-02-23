@@ -238,8 +238,8 @@
     "cost": ""
   },
   {
-    "title": "POWER LUNCH: AI Readiness 2026 – The Human Advantage",
-    "link": "https://digitalnovascotia.com/event/power-lunch-ai-readiness-2026-the-human-advantage/",
+    "title": "AI Readiness 2026: THE HUMAN ADVANTAGE",
+    "link": "https://digitalnovascotia.com/event/ai-readiness-2026-the-human-advantage/",
     "datetime": "February 18 @ 12:00 pm - 1:30 pm  AST",
     "isVirtual": false,
     "cost": ""
@@ -282,7 +282,7 @@
   {
     "title": "Women in Machine Learning/Data Science Meetup",
     "link": "https://digitalnovascotia.com/event/women-in-machine-learning-data-science-meetup-5/",
-    "datetime": "February 23 @ 8:00 pm - 10:00 pm  AST",
+    "datetime": "February 23 @ 6:00 pm - 8:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
@@ -304,6 +304,13 @@
     "title": "AI Discovery Series – South Shore",
     "link": "https://digitalnovascotia.com/event/ai-discovery-series-south-shore/",
     "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 25 @ 9:00 am - 4:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Navigating the Atlantic Job Market: Strategies for Career Success",
+    "link": "https://digitalnovascotia.com/event/navigating-the-atlantic-job-market-strategies-for-career-success/",
+    "datetime": "February 25 @ 6:00 pm - 8:00 pm  AST",
     "isVirtual": false,
     "cost": ""
   },
