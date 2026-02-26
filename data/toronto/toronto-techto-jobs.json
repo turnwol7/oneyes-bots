@@ -1,14 +1,5 @@
 [
   {
-    "title": "Software Engineer (Product & Platform)",
-    "link": "https://jobs.techto.org/jobs/294148448-software-engineer-product-platform",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "GCCX QA Lead / Senior Tester",
     "link": "https://jobs.techto.org/jobs/220439771-gccx-qa-lead-senior-tester",
     "company": "GuruLink",
@@ -81,8 +72,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Frontend Engineer, Cases Product Engineering",
-    "link": "https://jobs.techto.org/jobs/232839742-senior-frontend-engineer-cases-product-engineering",
+    "title": "Senior Frontend Engineer, Client Portal Engineering",
+    "link": "https://jobs.techto.org/jobs/232839739-senior-frontend-engineer-client-portal-engineering",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
@@ -90,8 +81,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Frontend Engineer, Client Portal Engineering",
-    "link": "https://jobs.techto.org/jobs/232839739-senior-frontend-engineer-client-portal-engineering",
+    "title": "Senior Frontend Engineer, Cases Product Engineering",
+    "link": "https://jobs.techto.org/jobs/232839742-senior-frontend-engineer-cases-product-engineering",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
@@ -167,7 +158,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -212,7 +203,7 @@
     "company": "commonsku",
     "jobType": "Full-time",
     "location": "Remote (Toronto, CA)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -268,5 +259,14 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "6d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Senior Solutions Engineering (12 Month Contract)",
+    "link": "https://jobs.techto.org/jobs/312302512-senior-solutions-engineering-12-month-contract",
+    "company": "Geotab",
+    "jobType": "",
+    "location": "Burnaby, British Columbia - Canada; Oakville, Ontario - Canada; Toronto, Ontario - Canada",
+    "postedDate": "8h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
