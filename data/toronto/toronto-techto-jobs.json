@@ -1,5 +1,14 @@
 [
   {
+    "title": "Software Engineer (Product & Platform)",
+    "link": "https://jobs.techto.org/jobs/294148448-software-engineer-product-platform",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "GCCX QA Lead / Senior Tester",
     "link": "https://jobs.techto.org/jobs/220439771-gccx-qa-lead-senior-tester",
     "company": "GuruLink",
@@ -16,15 +25,6 @@
     "location": "",
     "postedDate": "1m ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Senior Python Developer",
-    "link": "https://jobs.techto.org/jobs/229671904-senior-python-developer",
-    "company": "Hillsdale Investment Management Inc.",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, software development, MySQL, Python Developer, Computer Science"
   },
   {
     "title": "Full Stack Engineer (Senior/Staff)",
@@ -266,7 +266,7 @@
     "company": "Geotab",
     "jobType": "",
     "location": "Burnaby, British Columbia - Canada; Oakville, Ontario - Canada; Toronto, Ontario - Canada",
-    "postedDate": "8h ago",
+    "postedDate": "12h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
