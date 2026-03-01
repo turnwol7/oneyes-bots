@@ -1,271 +1,5 @@
 [
   {
-    "title": "Vibe Coding Meetup",
-    "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-3/",
-    "datetime": "January 26 @ 6:00 pm - 8:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Export Café Series: Estonia",
-    "link": "https://digitalnovascotia.com/event/export-cafe-series-estonia/",
-    "datetime": "January 27 @ 10:00 am - 11:30 am  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Cybersecurity in Gaming, Keeping Your Players Safe!",
-    "link": "https://digitalnovascotia.com/event/cybersecurity-in-gaming-keeping-your-players-safe/",
-    "datetime": "January 27 @ 4:00 pm - 6:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Tourism Networking Event",
-    "link": "https://digitalnovascotia.com/event/tourism-networking-event/",
-    "datetime": "January 27 @ 5:00 pm - 7:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Workshop: AI in the Workplace – A Practical Guide for Business Leaders",
-    "link": "https://digitalnovascotia.com/event/workshop-ai-in-the-workplace-a-practical-guide-for-business-leaders-3/",
-    "datetime": "January 28 @ 8:30 am - 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Speed Mentoring",
-    "link": "https://digitalnovascotia.com/event/speed-mentoring/",
-    "datetime": "January 28 @ 9:00 am - 11:00 am  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Education in the Age of AI: Turning the “Why?” into an Interactive Learning Adventure",
-    "link": "https://digitalnovascotia.com/event/education-in-the-age-of-ai-turning-the-why-into-an-interactive-learning-adventure/",
-    "datetime": "January 28 @ 6:00 pm - 8:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "2026 Tech Forecast: AI, Upskilling, and Future-Readiness",
-    "link": "https://digitalnovascotia.com/event/2026-tech-forecast-ai-upskilling-and-future-readiness/",
-    "datetime": "January 29 @ 11:00 am - 1:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Startup Huddle Halifax Session 3 @ Tribe Network",
-    "link": "https://digitalnovascotia.com/event/startup-huddle-halifax-session-3-tribe-network/",
-    "datetime": "January 29 @ 6:00 pm - 8:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Global Game Jam 2026",
-    "link": "https://digitalnovascotia.com/event/global-game-jam-2026/",
-    "datetime": "January 30 @ 5:30 pm - February 1 @ 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Cape Breton – Startup Smarter Bootcamp",
-    "link": "https://digitalnovascotia.com/event/cape-breton-startup-smarter-bootcamp/",
-    "datetime": "January 30 @ 6:00 pm - January 31 @ 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Global Game Jam 2026",
-    "link": "https://digitalnovascotia.com/event/global-game-jam-2026/",
-    "datetime": "January 30 @ 5:30 pm - February 1 @ 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Cape Breton – Startup Smarter Bootcamp",
-    "link": "https://digitalnovascotia.com/event/cape-breton-startup-smarter-bootcamp/",
-    "datetime": "January 30 @ 6:00 pm - January 31 @ 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Global Game Jam 2026",
-    "link": "https://digitalnovascotia.com/event/global-game-jam-2026/",
-    "datetime": "January 30 @ 5:30 pm - February 1 @ 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Content That Connects: Social Strategy & Short-Form Videos",
-    "link": "https://digitalnovascotia.com/event/content-that-connects-social-strategy-short-form-videos/",
-    "datetime": "February 3 @ 12:00 pm - 1:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Fortinet Cybersecurity Talk",
-    "link": "https://digitalnovascotia.com/event/fortinet-cybersecurity-talk/",
-    "datetime": "February 3 @ 12:00 pm - 3:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Exclusive Masterclass: Power Your Snapchat Strategy",
-    "link": "https://digitalnovascotia.com/event/exclusive-masterclass-power-your-snapchat-strategy/",
-    "datetime": "February 4 @ 2:00 pm - 4:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Building with ML: Meetup & Shares",
-    "link": "https://digitalnovascotia.com/event/building-with-ml-meetup-shares/",
-    "datetime": "February 4 @ 5:00 pm - 7:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Moving from Theory to Practice",
-    "link": "https://digitalnovascotia.com/event/moving-from-theory-to-practice/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 5 @ 10:00 am - 11:00 am  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Science & Sustainability Speed Networking Event",
-    "link": "https://digitalnovascotia.com/event/science-sustainability-speed-networking-event/",
-    "datetime": "February 5 @ 5:00 pm - 7:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "DEFCON Halifax February Meet-Up",
-    "link": "https://digitalnovascotia.com/event/defcon-halifax-february-meet-up-2/",
-    "datetime": "February 5 @ 6:30 pm - 8:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Cape Breton Business Innovation Centre Builders Hours",
-    "link": "https://digitalnovascotia.com/event/cape-breton-business-innovation-centre-builders-hours/",
-    "datetime": "February 6 @ 2:00 pm - 4:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Collect. @ ShiftKey",
-    "link": "https://digitalnovascotia.com/event/collect-shiftkey/",
-    "datetime": "February 8 @ 1:00 pm - 4:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Industry Showcase: Global Relay",
-    "link": "https://digitalnovascotia.com/event/industry-showcase-global-relay/",
-    "datetime": "February 9 @ 4:00 pm - 5:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Rural Mentor Network Social | Yarmouth",
-    "link": "https://digitalnovascotia.com/event/rural-mentor-network-social-yarmouth/",
-    "datetime": "February 10 @ 10:00 am - 12:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Export Development Program | Lunch & Learn",
-    "link": "https://digitalnovascotia.com/event/export-development-program-lunch-learn/",
-    "datetime": "February 10 @ 12:00 pm - 1:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Show me the money! Competition Law 101 & SME Financing Market Study",
-    "link": "https://digitalnovascotia.com/event/show-me-the-money-competition-law-101-sme-financing-market-study/",
-    "datetime": "February 10 @ 1:30 pm - 2:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Discovery Series: Halifax",
-    "link": "https://digitalnovascotia.com/event/ai-discovery-series-halifax/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 11 @ 9:00 am - 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Creating Memorable Experiences",
-    "link": "https://digitalnovascotia.com/event/creating-memorable-experiences/",
-    "datetime": "February 11 @ 12:00 pm - 1:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Discovery Series: Halifax",
-    "link": "https://digitalnovascotia.com/event/ai-discovery-series-halifax-2/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 12 @ 9:00 am - 4:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "IGNITE Lunch & Learn with Volta",
-    "link": "https://digitalnovascotia.com/event/ignite-lunch-learn-with-volta/",
-    "datetime": "February 17 @ 12:00 pm - 1:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Showcase and Mixer",
-    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-5/",
-    "datetime": "February 17 @ 6:00 pm - 8:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Discovery Series – Wolfville",
-    "link": "https://digitalnovascotia.com/event/ai-discovery-series-wolfville/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 18 @ 8:30 am - 3:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Lunch & Learn – PSSP/NS Pension",
-    "link": "https://digitalnovascotia.com/event/lunch-learn/",
-    "datetime": "February 18 @ 12:00 pm - 1:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Readiness 2026: THE HUMAN ADVANTAGE",
-    "link": "https://digitalnovascotia.com/event/ai-readiness-2026-the-human-advantage/",
-    "datetime": "February 18 @ 12:00 pm - 1:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Executive Lounge: Dual-Use Technologies",
-    "link": "https://digitalnovascotia.com/event/executive-lounge-dual-use-echnologies/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tFebruary 19 @ 9:00 am - 10:30 am  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Build with v0 (by Vercel) – Halifax Edition!",
-    "link": "https://digitalnovascotia.com/event/build-with-v0-by-vercel-halifax-edition/",
-    "datetime": "February 19 @ 6:00 pm - 8:30 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "SR&ED 101 Masterclass & Workshop",
-    "link": "https://digitalnovascotia.com/event/sred-101-masterclass-workshop/",
-    "datetime": "February 20 @ 12:00 pm - 2:00 pm  AST",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
     "title": "Workshop: Using ChatGPT in Predictive and Agile Projects",
     "link": "https://digitalnovascotia.com/event/workshop-using-chatgpt-in-predictive-and-agile-projects/",
     "datetime": "February 23 @ 12:30 pm - 4:00 pm  AST",
@@ -304,6 +38,160 @@
     "title": "AI Collective Halifax: AI After Hours",
     "link": "https://digitalnovascotia.com/event/ai-collective-halifax-ai-after-hours/",
     "datetime": "February 25 @ 6:00 pm - 8:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI Readiness for Leaders",
+    "link": "https://digitalnovascotia.com/event/ai-readiness-for-leaders/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMarch 3 @ 10:00 am - 11:00 am  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Economic Engine: Nation Building",
+    "link": "https://digitalnovascotia.com/event/economic-engine-nation-building/",
+    "datetime": "March 5 @ 11:30 am - 5:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Setting Sail : Women In Tech Canada – Maritimes Chapter Launch",
+    "link": "https://digitalnovascotia.com/event/setting-sail-women-in-tech-canada-maritimes-chapter-launch/",
+    "datetime": "March 5 @ 4:30 pm - 6:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "DEFCON Halifax March Meet-Up",
+    "link": "https://digitalnovascotia.com/event/defcon-halifax-march-meet-up-2/",
+    "datetime": "March 5 @ 6:30 pm - 8:30 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Vibe Coding Meetup",
+    "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-4/",
+    "datetime": "March 9 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Make Your Social Media Shine [Tuesdays – March 10th – April 14th]",
+    "link": "https://digitalnovascotia.com/event/make-your-social-media-shine-tuesdays-march-10th-april-14th/",
+    "datetime": "March 10 @ 8:00 am - March 11 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Decode Behaviour. Lead Better. | Lunch & Learn",
+    "link": "https://digitalnovascotia.com/event/decode-behaviour-lead-better-lunch-learn/",
+    "datetime": "March 10 @ 12:00 pm - 1:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Make Your Social Media Shine [Tuesdays – March 10th – April 14th]",
+    "link": "https://digitalnovascotia.com/event/make-your-social-media-shine-tuesdays-march-10th-april-14th/",
+    "datetime": "March 10 @ 8:00 am - March 11 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI Discovery Series – North Shore",
+    "link": "https://digitalnovascotia.com/event/ai-discovery-series-north-shore/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMarch 11 @ 9:00 am - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Women in Machine Learning/Data Science Meetup",
+    "link": "https://digitalnovascotia.com/event/women-in-machine-learning-data-science-meetup-5/",
+    "datetime": "March 11 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "From First Click to Commitment: UX Strategies for Websites That Grow Real Relationships",
+    "link": "https://digitalnovascotia.com/event/would-you-date-your-website-how-to-create-a-website-that-will-grow-lasting-relationships-and-your-business/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMarch 12 @ 9:00 am - 11:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Make What You Need (Collateral)- [Thursdays- March 12th – April 16th]",
+    "link": "https://digitalnovascotia.com/event/make-what-you-need-collateral-thursdays-march-12th-april-16th/",
+    "datetime": "March 12 @ 8:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Through the Students’ Lens: Data-Driven Insights on Recruiting Technology and AI",
+    "link": "https://digitalnovascotia.com/event/through-the-students-lens-data-driven-insights-on-recruiting-technology-and-ai/",
+    "datetime": "March 12 @ 2:00 pm - 3:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Power Automate for Business Users: Streamline Your Everyday Processes",
+    "link": "https://digitalnovascotia.com/event/power-automate-for-business-users-streamline-your-everyday-processes/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMarch 17 @ 10:00 am - 11:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Game Jam Next | IGNITE Southern, Yarmouth",
+    "link": "https://digitalnovascotia.com/event/game-jam-next-ignite-southern-yarmouth/",
+    "datetime": "March 17 @ 10:00 am - 3:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Game Jam Next | IGNITE Northern, New Glasgow",
+    "link": "https://digitalnovascotia.com/event/game-jam-next-ignite-northern-new-glasgow/",
+    "datetime": "March 18 @ 10:00 am - 3:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Black Business Summit – Innovation in Motion",
+    "link": "https://digitalnovascotia.com/event/black-business-summit-innovation-in-motion/",
+    "datetime": "March 19 @ 8:00 am - March 20 @ 10:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Game Jam Next | IGNITE Cape Breton",
+    "link": "https://digitalnovascotia.com/event/game-jam-next-ignite-cape-breton/",
+    "datetime": "March 19 @ 10:00 am - 3:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Black Business Summit – Innovation in Motion",
+    "link": "https://digitalnovascotia.com/event/black-business-summit-innovation-in-motion/",
+    "datetime": "March 19 @ 8:00 am - March 20 @ 10:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI Discovery Series – Cape Breton",
+    "link": "https://digitalnovascotia.com/event/ai-discovery-series-cape-breton/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMarch 24 @ 9:00 am - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Give to Gain: How Women in Tech Are Building Each Other Up",
+    "link": "https://digitalnovascotia.com/event/give-to-gain-how-women-in-tech-are-building-each-other-up/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMarch 24 @ 10:00 am - 11:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI Showcase and Mixer",
+    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-6/",
+    "datetime": "March 24 @ 6:00 pm - 8:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
