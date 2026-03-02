@@ -194,5 +194,12 @@
     "datetime": "March 24 @ 6:00 pm - 8:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "Coffee, Community, and Co-work",
+    "link": "https://digitalnovascotia.com/event/coffee-community-and-co-work-2/",
+    "datetime": "March 25 @ 9:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
