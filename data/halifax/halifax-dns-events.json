@@ -49,6 +49,13 @@
     "cost": ""
   },
   {
+    "title": "Canadian Medical Datathon: From Zero to Data-Ready",
+    "link": "https://digitalnovascotia.com/event/canadian-medical-datathon-from-zero-to-data-ready/",
+    "datetime": "March 4 @ 6:00 pm - 8:00 pm  AST",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Economic Engine: Nation Building",
     "link": "https://digitalnovascotia.com/event/economic-engine-nation-building/",
     "datetime": "March 5 @ 11:30 am - 5:00 pm  AST",
@@ -133,6 +140,13 @@
     "cost": ""
   },
   {
+    "title": "From Proofs to Programs: How Abstract Math Becomes Real Software",
+    "link": "https://digitalnovascotia.com/event/from-proofs-to-programs-how-abstract-math-becomes-real-software/",
+    "datetime": "March 16 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Power Automate for Business Users: Streamline Your Everyday Processes",
     "link": "https://digitalnovascotia.com/event/power-automate-for-business-users-streamline-your-everyday-processes/",
     "datetime": "Featured\n\t\t\t\n\t\t\tMarch 17 @ 10:00 am - 11:00 am  ADT",
@@ -199,6 +213,20 @@
     "title": "Coffee, Community, and Co-work",
     "link": "https://digitalnovascotia.com/event/coffee-community-and-co-work-2/",
     "datetime": "March 25 @ 9:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Industry Showcase: Avanade",
+    "link": "https://digitalnovascotia.com/event/industry-showcase-avanade/",
+    "datetime": "March 25 @ 5:30 pm - 7:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "ML Model Debugging: Visualization is the Key!",
+    "link": "https://digitalnovascotia.com/event/ml-model-debugging-visualization-is-the-key/",
+    "datetime": "March 26 @ 6:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
