@@ -1,11 +1,51 @@
 [
   {
+    "title": "Industry Data Analyst – Insurance",
+    "link": "https://digitalnovascotia.com/job-posts/industry-data-analyst-insurance/",
+    "company": "IBM Canada",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "1 minute ago"
+  },
+  {
+    "title": "Manager Quality Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/manager-quality-engineer-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "4 minutes ago"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/3500353-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "8 minutes ago"
+  },
+  {
+    "title": "Data Architect (15 months contract)",
+    "link": "https://digitalnovascotia.com/job-posts/data-architect-15-months-contract-2/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "9 minutes ago"
+  },
+  {
+    "title": "Systems Analyst – One Person One Record",
+    "link": "https://digitalnovascotia.com/job-posts/systems-analyst-one-person-one-record-2/",
+    "company": "Nova Scotia Health & IWK",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "12 minutes ago"
+  },
+  {
     "title": "Associate SAP Technical – Entry level",
     "link": "https://digitalnovascotia.com/job-posts/associate-sap-technical-entry-level-2/",
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "34 minutes ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Software Development Co-Op – Summer 2026",
@@ -13,7 +53,7 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Co-op",
-    "postedDate": "40 minutes ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Software Development Engineer – Escalations",
@@ -21,7 +61,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "43 minutes ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Business Analyst – Workday HCM HR",
@@ -29,7 +69,7 @@
     "company": "Compugen",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Solution Architect E-Commerce",
@@ -37,7 +77,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Director, PIAM Product Management (Global Security)",
@@ -45,7 +85,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Multimedia Marketing Strategist",
@@ -53,7 +93,7 @@
     "company": "Steele Auto Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Associate SAP Technical – Entry level",
@@ -61,7 +101,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Entry Level Associate Web Developer",
@@ -69,7 +109,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Entry Level Associate Data Engineer",
@@ -77,7 +117,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Quality Assurance / Tester with Python and LLM Knowledge",
@@ -85,7 +125,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Business Analyst – Utilities (Operational Technology Focus)",
@@ -93,7 +133,7 @@
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Manager – One Person One Record (OPOR), Adult Oncology and Power Trials",
@@ -101,7 +141,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Business Analyst, eHealth and Clinical Information Systems",
@@ -109,7 +149,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Enterprise Architect",
@@ -117,7 +157,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": ".Net Solution Architect",
@@ -125,7 +165,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Azure .NET Developer",
@@ -133,7 +173,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Full Stack Developer (Nodejs + Angular)",
@@ -141,7 +181,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Application Specialist",
@@ -149,7 +189,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Project Manager",
@@ -157,7 +197,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Senior IAM Systems Support Analyst (Global Security)",
@@ -165,7 +205,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Software Developer (Intern)",
@@ -173,7 +213,7 @@
     "company": "REDspace Inc",
     "location": "Halifax",
     "jobType": "Internship",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Senior Jira Administrator",
@@ -181,7 +221,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Senior Software Developer (Python), GFT",
@@ -189,7 +229,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Payment Systems – Senior Consultant",
@@ -197,46 +237,6 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Solution Architect",
-    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-31/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Director EIAM Strategy and Product Management (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-director-eiam-strategy-and-product-management-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Lead Technical Security Analyst (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/lead-technical-security-analyst-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Systems Engineer Senior",
-    "link": "https://digitalnovascotia.com/job-posts/systems-engineer-senior-5/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior IAM Systems Engineer, Automation & Platform Enablement (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-iam-systems-engineer-automation-platform-enablement-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
+    "postedDate": "6 days ago"
   }
 ]
