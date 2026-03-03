@@ -1,11 +1,19 @@
 [
   {
+    "title": "Senior Cyber Security Lead",
+    "link": "https://digitalnovascotia.com/job-posts/senior-cyber-security-lead/",
+    "company": "Property Valuation Services Corporation",
+    "location": "Provincial",
+    "jobType": "Full TimeFeatured Job",
+    "postedDate": "15 minutes ago"
+  },
+  {
     "title": "Project Manager, Microsoft Dynamics 365 F&O / AX",
     "link": "https://digitalnovascotia.com/job-posts/project-manager-microsoft-dynamics-365-fo-ax-5/",
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "ServiceNow Solution Architect",
@@ -13,7 +21,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Java + Angular Developer – Cloud Native (AWS/Kubernetes)",
@@ -21,7 +29,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Senior Java + Angular Developer – Enterprise & Messaging (JMS/Kafka)",
@@ -29,7 +37,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Front-End Developer",
@@ -37,7 +45,7 @@
     "company": "Venor Search Group",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Systems Integration-Test Engineer Senior-Communications Sys",
@@ -45,7 +53,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Senior Big Data Developer",
@@ -69,7 +77,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Senior Business Analyst – Halifax, Nova Scotia",
@@ -77,7 +85,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "UX Designer",
@@ -85,7 +93,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Dynamics 365 Business Central Operations Manager",
@@ -93,7 +101,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Data Quality Analyst – Insurance",
@@ -101,7 +109,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Industry Data Analyst – Insurance",
@@ -109,7 +117,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Manager Quality Engineer",
@@ -117,7 +125,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Senior Data Engineer",
@@ -125,7 +133,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Data Architect (15 months contract)",
@@ -133,7 +141,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Systems Analyst – One Person One Record",
@@ -141,7 +149,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Associate SAP Technical – Entry level",
@@ -230,13 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "1 day ago"
-  },
-  {
-    "title": "Business Analyst – Utilities (Operational Technology Focus)",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-utilities-operational-technology-focus/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
   }
 ]
