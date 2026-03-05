@@ -5,7 +5,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full TimeFeatured Job",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Engineering and Design Team Member (CNC)",
@@ -24,12 +24,60 @@
     "postedDate": "2 days ago"
   },
   {
+    "title": "Performance Media Strategist",
+    "link": "https://digitalnovascotia.com/job-posts/performance-media-strategist-6/",
+    "company": "VERB Interactive Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "6 minutes ago"
+  },
+  {
+    "title": "Senior Site Reliability Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-site-reliability-engineer-3/",
+    "company": "Venor Search Group",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "11 minutes ago"
+  },
+  {
+    "title": "Marketing Manager",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-manager-16/",
+    "company": "Trampoline",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "15 minutes ago"
+  },
+  {
+    "title": "Staff Accountant",
+    "link": "https://digitalnovascotia.com/job-posts/staff-accountant-3/",
+    "company": "Marinus Services ULC",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "17 minutes ago"
+  },
+  {
+    "title": "Oracle Cloud Infrastructure Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/3500554-2/",
+    "company": "TribalScale",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "24 minutes ago"
+  },
+  {
+    "title": "Full Stack Developer – Entry Level",
+    "link": "https://digitalnovascotia.com/job-posts/full-stack-developer-entry-level/",
+    "company": "IBM Canada",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "32 minutes ago"
+  },
+  {
     "title": "Senior Kubernetes Platform Engineer – Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-kubernetes-platform-engineer-halifax/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "27 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Senior Manager IAM Metric Insights (Global Security)",
@@ -37,7 +85,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Entry Level Associate Data Engineer",
@@ -45,7 +93,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Product Manager",
@@ -53,7 +101,7 @@
     "company": "Dash Social",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Project Manager",
@@ -61,7 +109,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Salesforce Consultant",
@@ -69,7 +117,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Senior Clinical Informatics Analyst – One Person One Record",
@@ -77,7 +125,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "45Drives Technical Service Team Lead",
@@ -186,54 +234,6 @@
   {
     "title": "ServiceNow Solution Architect",
     "link": "https://digitalnovascotia.com/job-posts/servicenow-solution-architect/",
-    "company": "BDO Canada LLP",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Java + Angular Developer – Cloud Native (AWS/Kubernetes)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-java-angular-developer-cloud-native-aws-kubernetes/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Java + Angular Developer – Enterprise & Messaging (JMS/Kafka)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-java-angular-developer-enterprise-messaging-jms-kafka/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Front-End Developer",
-    "link": "https://digitalnovascotia.com/job-posts/front-end-developer-20/",
-    "company": "Venor Search Group",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Systems Integration-Test Engineer Senior-Communications Sys",
-    "link": "https://digitalnovascotia.com/job-posts/systems-integration-test-engineer-senior-communications-sys/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Big Data Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-big-data-developer-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Data Quality Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-data-quality-analyst/",
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
