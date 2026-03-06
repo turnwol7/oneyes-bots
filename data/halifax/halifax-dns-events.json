@@ -210,6 +210,13 @@
     "cost": ""
   },
   {
+    "title": "Third Wednesdays Networking Night",
+    "link": "https://digitalnovascotia.com/event/third-wednesdays-networking-night-2/",
+    "datetime": "March 18 @ 5:00 pm - 7:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Black Business Summit – Innovation in Motion",
     "link": "https://digitalnovascotia.com/event/black-business-summit-innovation-in-motion/",
     "datetime": "March 19 @ 8:00 am - March 20 @ 10:00 pm  ADT",
@@ -220,6 +227,13 @@
     "title": "Game Jam Next | IGNITE Cape Breton",
     "link": "https://digitalnovascotia.com/event/game-jam-next-ignite-cape-breton/",
     "datetime": "March 19 @ 10:00 am - 3:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Red Bull Basement: AI Networking Night at Volta",
+    "link": "https://digitalnovascotia.com/event/red-bull-basement-ai-networking-night-at-volta/",
+    "datetime": "March 19 @ 6:00 pm - 8:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
