@@ -24,12 +24,20 @@
     "postedDate": "6 days ago"
   },
   {
+    "title": "Site Reliability Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/site-reliability-engineer-6/",
+    "company": "Humankind Global Recruitment",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "29 minutes ago"
+  },
+  {
     "title": "Senior Quality Engineer Halifax",
     "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-halifax-2/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Senior Systems Analyst – SQL – Information Management & Technology",
@@ -37,7 +45,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "MAS9 Developer (Maximo for Aviation)",
@@ -45,7 +53,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Associate Director, Software Development Lead",
@@ -53,7 +61,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Workday Product Manager, HR",
@@ -230,13 +238,5 @@
     "location": "Pictou",
     "jobType": "Full Time",
     "postedDate": "4 days ago"
-  },
-  {
-    "title": "45Drives Technical Service Team Lead",
-    "link": "https://digitalnovascotia.com/job-posts/45drives-technical-service-team-lead-2/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
