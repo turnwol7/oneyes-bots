@@ -210,8 +210,15 @@
     "cost": ""
   },
   {
-    "title": "Third Wednesdays Networking Night",
+    "title": "Third Wednesday Networking Night",
     "link": "https://digitalnovascotia.com/event/third-wednesdays-networking-night-2/",
+    "datetime": "March 18 @ 5:00 pm - 7:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Fintech Social Halifax",
+    "link": "https://digitalnovascotia.com/event/fintech-social-halifax/",
     "datetime": "March 18 @ 5:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
