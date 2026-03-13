@@ -29,7 +29,7 @@
     "company": "Foundation Marketing",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "46 minutes ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Software Engineer – Naval Systems – Halifax",
@@ -37,7 +37,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Director, Data Fabric Operations & Support – Halifax",
@@ -45,7 +45,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Senior Manager, Quality Engineering (Global Security)",
@@ -53,7 +53,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Microsoft Fabric Data Engineering Specialist",
@@ -61,15 +61,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
-  },
-  {
-    "title": "Digital Marketing Technology Lead (12 Month Term)",
-    "link": "https://digitalnovascotia.com/job-posts/digital-marketing-technology-lead-12-month-term/",
-    "company": "CAA Atlantic",
-    "location": "Halifax",
-    "jobType": "Temporary",
-    "postedDate": "21 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Senior Data Analyst",
@@ -77,7 +69,7 @@
     "company": "Nova Scotia Power",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Change and Innovation Consultant (Hybrid — Halifax Based)",
@@ -236,6 +228,14 @@
     "link": "https://digitalnovascotia.com/job-posts/senior-netsuite-developer/",
     "company": "BDO Canada LLP",
     "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 days ago"
+  },
+  {
+    "title": "SAP ABAP S4/HANA Developer Lead",
+    "link": "https://digitalnovascotia.com/job-posts/sap-abap-s4-hana-developer-lead/",
+    "company": "IBM Canada",
+    "location": "Provincial",
     "jobType": "Full Time",
     "postedDate": "3 days ago"
   }
