@@ -1,5 +1,14 @@
 [
   {
+    "title": "Forward Deployed Engineer",
+    "link": "https://jobs.techto.org/jobs/201449336-forward-deployed-engineer",
+    "company": "SuiteSpot Technology",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Senior Software Engineer Capital",
     "link": "https://jobs.techto.org/jobs/198838417-senior-software-engineer-capital",
     "company": "SuiteSpot Technology",
@@ -70,15 +79,6 @@
     "location": "",
     "postedDate": "1m ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Senior Analytics Engineer",
-    "link": "https://jobs.techto.org/jobs/264644909-senior-analytics-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Staff Engineer",
@@ -162,15 +162,6 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Support Automation Engineer I",
-    "link": "https://jobs.techto.org/jobs/331158960-support-automation-engineer-i",
-    "company": "Certn",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Amazon Connect Solution Engineer",
     "link": "https://jobs.techto.org/jobs/331598465-amazon-connect-solution-engineer",
     "company": "GuruLink",
@@ -178,6 +169,15 @@
     "location": "",
     "postedDate": "1w ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Support Automation Engineer I",
+    "link": "https://jobs.techto.org/jobs/331158960-support-automation-engineer-i",
+    "company": "Certn",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1w ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Senior Platform Engineer",
