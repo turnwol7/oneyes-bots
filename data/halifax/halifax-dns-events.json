@@ -210,15 +210,15 @@
     "cost": ""
   },
   {
-    "title": "Third Wednesday Networking Night",
-    "link": "https://digitalnovascotia.com/event/third-wednesdays-networking-night-2/",
+    "title": "Fintech Social Halifax",
+    "link": "https://digitalnovascotia.com/event/fintech-social-halifax/",
     "datetime": "March 18 @ 5:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Fintech Social Halifax",
-    "link": "https://digitalnovascotia.com/event/fintech-social-halifax/",
+    "title": "Third Wednesday Networking Night",
+    "link": "https://digitalnovascotia.com/event/third-wednesdays-networking-night-2/",
     "datetime": "March 18 @ 5:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
@@ -315,6 +315,13 @@
     "cost": ""
   },
   {
+    "title": "The AI Advantage – How Small Teams Are Outpacing Entire Industries",
+    "link": "https://digitalnovascotia.com/event/the-ai-advantage-how-small-teams-are-outpacing-entire-industries/",
+    "datetime": "March 25 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Trade Days 2026: Building a Resilient Future Through Export Diversification",
     "link": "https://digitalnovascotia.com/event/trade-days-2026-building-a-resilient-future-through-export-diversification/",
     "datetime": "All day",
@@ -339,6 +346,13 @@
     "title": "ML Model Debugging: Visualization is the Key!",
     "link": "https://digitalnovascotia.com/event/ml-model-debugging-visualization-is-the-key/",
     "datetime": "March 26 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Summit for Women in Future Technologies (SWIFT)",
+    "link": "https://digitalnovascotia.com/event/summit-for-women-in-future-technologies-swift/",
+    "datetime": "March 28 @ 10:00 am - 6:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
