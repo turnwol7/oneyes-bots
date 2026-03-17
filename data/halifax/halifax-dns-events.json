@@ -355,5 +355,12 @@
     "datetime": "March 28 @ 10:00 am - 6:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "POWER LUNCH: Weathering the Digital Storm: Cyber Readiness for Halifax Businesses",
+    "link": "https://digitalnovascotia.com/event/power-lunch-weathering-the-digital-storm-cyber-readiness-for-halifax-businesses/",
+    "datetime": "March 31 @ 12:00 pm - 1:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
