@@ -238,7 +238,7 @@
     "cost": ""
   },
   {
-    "title": "Webinar: AI Governance",
+    "title": "AI Governance: Establishing the Principles and Frameworks that Enable Trustworthy AI",
     "link": "https://digitalnovascotia.com/event/webinar-ai-governance/",
     "datetime": "March 19 @ 12:30 pm - 2:00 pm  ADT",
     "isVirtual": false,
@@ -318,6 +318,13 @@
     "title": "Trade Days 2026: Building a Resilient Future Through Export Diversification",
     "link": "https://digitalnovascotia.com/event/trade-days-2026-building-a-resilient-future-through-export-diversification/",
     "datetime": "All day",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI Discovery Series – Virtual Session",
+    "link": "https://digitalnovascotia.com/event/ai-discovery-series-virtual-session/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMarch 26 @ 9:00 am - 12:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
