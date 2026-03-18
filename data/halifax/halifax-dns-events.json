@@ -301,6 +301,13 @@
     "cost": ""
   },
   {
+    "title": "INMC Nova Scotia  – Virtual Info Session",
+    "link": "https://digitalnovascotia.com/event/inmc-nova-scotia-virtual-info-session/",
+    "datetime": "March 25 @ 9:00 am - 10:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Coffee, Community, and Co-work",
     "link": "https://digitalnovascotia.com/event/coffee-community-and-co-work-2/",
     "datetime": "March 25 @ 9:00 am - 5:00 pm  ADT",
@@ -311,13 +318,6 @@
     "title": "Industry Showcase: Avanade",
     "link": "https://digitalnovascotia.com/event/industry-showcase-avanade/",
     "datetime": "March 25 @ 5:30 pm - 7:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "The AI Advantage – How Small Teams Are Outpacing Entire Industries",
-    "link": "https://digitalnovascotia.com/event/the-ai-advantage-how-small-teams-are-outpacing-entire-industries/",
-    "datetime": "March 25 @ 6:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
