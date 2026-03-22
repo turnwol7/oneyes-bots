@@ -1,5 +1,14 @@
 [
   {
+    "title": "Amazon Connect Developer",
+    "link": "https://jobs.techto.org/jobs/179870376-amazon-connect-developer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "3m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Sports Platform Engineering Lead",
     "link": "https://jobs.techto.org/jobs/192438138-sports-platform-engineering-lead",
     "company": "GuruLink",
@@ -50,7 +59,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
+    "postedDate": "2m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -59,7 +68,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
+    "postedDate": "2m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -108,15 +117,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Product Manager",
-    "link": "https://jobs.techto.org/jobs/291433746-product-manager",
-    "company": "Relay",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Technical Lead",
     "link": "https://jobs.techto.org/jobs/294148451-technical-lead",
     "company": "GuruLink",
@@ -144,15 +144,6 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Amazon Connect Solution Engineer",
-    "link": "https://jobs.techto.org/jobs/331598465-amazon-connect-solution-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Support Automation Engineer I",
     "link": "https://jobs.techto.org/jobs/331158960-support-automation-engineer-i",
     "company": "Certn",
@@ -160,6 +151,15 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Amazon Connect Solution Engineer",
+    "link": "https://jobs.techto.org/jobs/331598465-amazon-connect-solution-engineer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2w ago",
+    "tags": "Product & Engineering"
   },
   {
     "title": "Senior Platform Engineer",
@@ -266,7 +266,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
