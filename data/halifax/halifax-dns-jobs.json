@@ -24,12 +24,92 @@
     "postedDate": "3 weeks ago"
   },
   {
+    "title": "Data Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/data-analyst-26/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "45 minutes ago"
+  },
+  {
+    "title": "Job Details: Bilingual Service Desk Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/job-details-bilingual-service-desk-analyst/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "50 minutes ago"
+  },
+  {
+    "title": "Integration Test and Evaluation (IT&E) Subsystem Acceptance Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/integration-test-and-evaluation-ite-subsystem-acceptance-engineer/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "57 minutes ago"
+  },
+  {
+    "title": "Payment Systems – Senior Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/payment-systems-senior-consultant-2/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "SAP EAM/PM Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/sap-eam-pm-consultant/",
+    "company": "IBM Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Systems Engineer Sr – Halifax Class Frigate In Service Support",
+    "link": "https://digitalnovascotia.com/job-posts/systems-engineer-sr-halifax-class-frigate-in-service-support-2/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Data Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/data-solution-architect/",
+    "company": "Davis Pier Consulting",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Package Consultant – SAP HANA Application Security",
+    "link": "https://digitalnovascotia.com/job-posts/package-consultant-sap-hana-application-security/",
+    "company": "IBM Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Package Consultant-SAP HANA Security",
+    "link": "https://digitalnovascotia.com/job-posts/package-consultant-sap-hana-security/",
+    "company": "IBM Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Software Development Engineering in Test",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-engineering-in-test/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "(RMV Mod Team (RMVMT) – Service Lead (Program Admin Officer 4)",
     "link": "https://digitalnovascotia.com/job-posts/rmv-mod-team-rmvmt-service-lead-program-admin-officer-4/",
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Dynamics 365 CRM Solution Architect",
@@ -158,85 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "5 days ago"
-  },
-  {
-    "title": "Package Consultant – SAP Basis",
-    "link": "https://digitalnovascotia.com/job-posts/package-consultant-sap-basis/",
-    "company": "IBM Canada",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior UI Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-ui-developer/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Chief Data Scientist",
-    "link": "https://digitalnovascotia.com/job-posts/chief-data-scientist/",
-    "company": "SyncraSys Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Application Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-application-developer-3/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Systems Engineer Associate -Model Based Systems Engineering (MBSE)",
-    "link": "https://digitalnovascotia.com/job-posts/systems-engineer-associate-model-based-systems-engineering-mbse/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Associate Director, Lead Quality Assurance",
-    "link": "https://digitalnovascotia.com/job-posts/associate-director-lead-quality-assurance/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Salesforce QA Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-qa-analyst/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Sales – Modernization & Transformation – GrowthX",
-    "link": "https://digitalnovascotia.com/job-posts/sales-modernization-transformation-growthx/",
-    "company": "DXC Technology Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "iOS Developer-Testing & QA- Temporary 6-month contract",
-    "link": "https://digitalnovascotia.com/job-posts/ios-developer-testing-qa-temporary-6-month-contract/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Product Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/product-consultant/",
-    "company": "Davis Pier Consulting",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "7 days ago"
   }
 ]
