@@ -1,14 +1,5 @@
 [
   {
-    "title": "Sports Platform Engineering Lead",
-    "link": "https://jobs.techto.org/jobs/192438138-sports-platform-engineering-lead",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Forward Deployed Engineer",
     "link": "https://jobs.techto.org/jobs/201449336-forward-deployed-engineer",
     "company": "SuiteSpot Technology",
@@ -167,7 +158,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -230,6 +221,15 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "2w ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Principal Engineer - Apps",
+    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
     "postedDate": "1w ago",
     "tags": "Product & Engineering"
   },
@@ -241,15 +241,6 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Principal Engineer - Apps",
-    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1w ago",
-    "tags": "Product & Engineering"
   },
   {
     "title": "Product Manager,  Platform Experience & Developer Product",
@@ -266,7 +257,16 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Full-Stack Engineer",
+    "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "16h ago",
+    "tags": "Product & Engineering"
   }
 ]
