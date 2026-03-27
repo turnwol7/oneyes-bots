@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior Software Engineer Capital",
-    "link": "https://jobs.techto.org/jobs/198838417-senior-software-engineer-capital",
-    "company": "SuiteSpot Technology",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Software Engineer",
     "link": "https://jobs.techto.org/jobs/201449337-senior-software-engineer",
     "company": "SuiteSpot Technology",
@@ -216,15 +207,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Engineer - Apps",
-    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Software Engineer, Agent Infrastructure",
     "link": "https://jobs.techto.org/jobs/358232809-senior-software-engineer-agent-infrastructure",
     "company": "Cohere",
@@ -232,6 +214,15 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Principal Engineer - Apps",
+    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2w ago",
+    "tags": "Product & Engineering"
   },
   {
     "title": "Product Manager,  Platform Experience & Developer Product",
@@ -261,12 +252,21 @@
     "tags": "Product & Engineering"
   },
   {
+    "title": "Frontend Engineer, Cases Product",
+    "link": "https://jobs.techto.org/jobs/403900858-frontend-engineer-cases-product",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Product Manager",
     "link": "https://jobs.techto.org/jobs/398989893-product-manager",
     "company": "Baseline",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1h ago",
+    "postedDate": "3h ago",
     "tags": "Product & Engineering, fintech, B2B SaaS, product manager"
   }
 ]
