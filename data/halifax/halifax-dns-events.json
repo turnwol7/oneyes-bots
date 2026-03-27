@@ -362,5 +362,12 @@
     "datetime": "March 31 @ 12:00 pm - 1:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "DEFCON Halifax Meetup",
+    "link": "https://digitalnovascotia.com/event/defcon-halifax-meetup/",
+    "datetime": "April 2 @ 6:30 pm - 8:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
