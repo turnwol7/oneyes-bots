@@ -1,23 +1,5 @@
 [
   {
-    "title": "Growth Table: CIX SummitGrowth Table: CIX Summit",
-    "link": "https://www.techto.org/event/growth-table-cix-summit",
-    "description": "This curated dinner connects growth-stage executives with $3M+ revenue or funding for candid peer conversations.This curated dinner connects growth-stage executives with $3M+ revenue or funding for candid peer conversations.",
-    "date": "March 24, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Private dining room (details shared with confirmed guests)",
-    "price": "Approval Required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "CIX Summit AfterpartyCIX Summit Afterparty",
-    "link": "https://www.techto.org/event/cix-after-party-hosted-by-techto-mar-25-2026",
-    "description": "Join us at the CIX Summit Afterparty hosted by TechTOJoin us at the CIX Summit Afterparty hosted by TechTO",
-    "date": "March 25, 2026 5:30 pm - 9:00 pm 5:30 pm - 9:00 pm",
-    "location": "Scotland Yard Pub, 56 The Esplanade, Toronto, ON M5E 1A6",
-    "price": "Free for CIX Summit badge holder (limited to 150 spots) | General Admission $30 | Free for TechTO Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Best OfBest Of",
     "link": "https://www.techto.org/event/bestof-apr-13-2026",
     "description": "Join us at Best Of to celebrate the amazing accomplishments of the Canadian tech communityJoin us at Best Of to celebrate the amazing accomplishments of the Canadian tech community",
@@ -56,10 +38,19 @@
   {
     "title": "TechTO HackathonTechTO Hackathon",
     "link": "https://www.techto.org/event/techto-hackaton-may-24-2026",
-    "description": "Welcome to the Future of Interaction! Join us for the TechTO Hackathon!Welcome to the Future of Interaction! Join us for the TechTO Hackathon!",
+    "description": "Join us for the TechTO Hackathon!Join us for the TechTO Hackathon!",
     "date": "May 24, 2026 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
     "location": "Rootly HQ, 366 Adelaide St W unit 701, 7th floor",
     "price": "$20 Individual l $70 Team",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "TiEQuest Summit 2026TiEQuest Summit 2026",
+    "link": "https://www.techto.org/event/tiequest-summit-2026",
+    "description": "Join us at TiEQuest Summit, where founders, investors, and industry leaders connect.Join us at TiEQuest Summit, where founders, investors, and industry leaders connect.",
+    "date": "May 25, 2026 8:30 am - 12:30 pm 8:30 am - 12:30 pm",
+    "location": "U of T: Schwartz Reisman Innovation Campus - 108 College St",
+    "price": "Super Early Bird $35 | TechTO Members $10 off",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -67,7 +58,7 @@
     "link": "https://www.techto.org/event/techto-summer-social-may-27-2026",
     "description": "Join the Toronto tech community for a Patio Dinner. Come meet other community members and expand your professional tech network!Join the Toronto tech community for a Patio Dinner. Come meet other community members and expand your professional tech network!",
     "date": "May 27, 2026 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
-    "location": "Bobby Bermuda's Sunset Bar (formerly The Slip), 235 Queens Quay W, Toronto, ON M5J 2G6",
+    "location": "Bobby Bermuda's Sunset Bar (formerly The Slip), 235 Queens Quay W",
     "price": "Super Early Bird $40 | TechTO Members $10 off",
     "status": "Sold OutUp NextSold Out"
   }
