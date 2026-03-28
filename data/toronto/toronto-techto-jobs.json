@@ -1,5 +1,14 @@
 [
   {
+    "title": "Forward Deployed Engineer",
+    "link": "https://jobs.techto.org/jobs/201449336-forward-deployed-engineer",
+    "company": "SuiteSpot Technology",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Senior Software Engineer Capital",
     "link": "https://jobs.techto.org/jobs/198838417-senior-software-engineer-capital",
     "company": "SuiteSpot Technology",
@@ -97,15 +106,6 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1m ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Senior Solutions Engineering (12 Month Contract)",
-    "link": "https://jobs.techto.org/jobs/312302512-senior-solutions-engineering-12-month-contract",
-    "company": "Geotab",
-    "jobType": "",
-    "location": "Burnaby, British Columbia - Canada; Oakville, Ontario - Canada; Toronto, Ontario - Canada",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Technical Program Manager, Incident Management",
@@ -207,15 +207,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Engineer - Apps",
-    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Software Engineer, Agent Infrastructure",
     "link": "https://jobs.techto.org/jobs/358232809-senior-software-engineer-agent-infrastructure",
     "company": "Cohere",
@@ -223,6 +214,15 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Principal Engineer - Apps",
+    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2w ago",
+    "tags": "Product & Engineering"
   },
   {
     "title": "Product Manager,  Platform Experience & Developer Product",
