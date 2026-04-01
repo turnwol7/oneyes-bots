@@ -24,12 +24,36 @@
     "postedDate": "4 weeks ago"
   },
   {
+    "title": "Lesson Creator",
+    "link": "https://digitalnovascotia.com/job-posts/lesson-creator/",
+    "company": "Modest Tree Media Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "37 minutes ago"
+  },
+  {
+    "title": "Digital Technology Analyst (CS12) – Ivany Campus",
+    "link": "https://digitalnovascotia.com/job-posts/digital-technology-analyst-cs12-ivany-campus/",
+    "company": "Nova Scotia Community College (NSCC)",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "44 minutes ago"
+  },
+  {
+    "title": "Sr. Automation Test Engineer : Cypress or Playwright",
+    "link": "https://digitalnovascotia.com/job-posts/sr-automation-test-engineer-cypress-or-playwright-2/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "52 minutes ago"
+  },
+  {
     "title": "Operational Leadership Team",
     "link": "https://digitalnovascotia.com/job-posts/operational-leadership-team/",
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "7 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "AI Systems Team (Developer, Architect, Infrastructure)",
@@ -37,7 +61,7 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Senior Data Scientist, ASR",
@@ -45,7 +69,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Faculty, IT programming – Annapolis Valley Campus",
@@ -53,7 +77,7 @@
     "company": "Nova Scotia Community College (NSCC)",
     "location": "Annapolis",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Senior Software Development Engineer in Testing (SDET)",
@@ -61,7 +85,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Data Engineer-Business Intelligence",
@@ -214,29 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Field Sales Representative, Public Sector, Google Cloud",
-    "link": "https://digitalnovascotia.com/job-posts/field-sales-representative-public-sector-google-cloud/",
-    "company": "Google Cloud",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Backend Developer – Python, Databricks and Azure Data Factory",
-    "link": "https://digitalnovascotia.com/job-posts/backend-developer-python-databricks-and-azure-data-factory/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Front End Developer – React",
-    "link": "https://digitalnovascotia.com/job-posts/front-end-developer-react/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
