@@ -166,5 +166,12 @@
     "datetime": "April 28 @ 12:00 pm - 1:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "Startup Canada Tour – Halifax",
+    "link": "https://digitalnovascotia.com/event/startup-canada-tour-halifax-2/",
+    "datetime": "April 29 @ 8:30 am - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
