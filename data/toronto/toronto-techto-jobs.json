@@ -1,5 +1,14 @@
 [
   {
+    "title": "Software Engineer (Product & Platform)",
+    "link": "https://jobs.techto.org/jobs/294148448-software-engineer-product-platform",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "2m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "GCCX QA Lead / Senior Tester",
     "link": "https://jobs.techto.org/jobs/220439771-gccx-qa-lead-senior-tester",
     "company": "GuruLink",
@@ -81,15 +90,6 @@
     "tags": "Product & Engineering, Python Developer"
   },
   {
-    "title": "Industrial Engineer",
-    "link": "https://jobs.techto.org/jobs/175532921-industrial-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Lead Frontend Engineer",
     "link": "https://jobs.techto.org/jobs/335565494-lead-frontend-engineer",
     "company": "Fulfil",
@@ -104,7 +104,7 @@
     "company": "Spellbook",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -135,15 +135,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Engineer - Apps",
-    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Software Engineer, Agent Infrastructure",
     "link": "https://jobs.techto.org/jobs/358232809-senior-software-engineer-agent-infrastructure",
     "company": "Cohere",
@@ -151,6 +142,15 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Principal Engineer - Apps",
+    "link": "https://jobs.techto.org/jobs/179870381-principal-engineer-apps",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "3w ago",
+    "tags": "Product & Engineering"
   },
   {
     "title": "Product Manager,  Platform Experience & Developer Product",
@@ -221,7 +221,7 @@
     "company": "myabode",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, AI, Startup, software development, proptech, full-stack, senior engineer, ai engineering, RAG"
   },
   {
@@ -230,7 +230,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Mississauga, Ontario, Canada)",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -239,7 +239,7 @@
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "33min ago",
+    "postedDate": "16h ago",
     "tags": "Product & Engineering"
   },
   {
@@ -248,7 +248,7 @@
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "32min ago",
+    "postedDate": "16h ago",
     "tags": "Product & Engineering"
   },
   {
@@ -266,7 +266,7 @@
     "company": "Questrade Financial Group",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "23h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, software development, angular, fintech, full-stack, Node.js, Principal Engineer"
   }
 ]
