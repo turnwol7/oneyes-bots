@@ -5,7 +5,7 @@
     "description": "Join us at Best Of to celebrate the amazing accomplishments of the Canadian tech communityJoin us at Best Of to celebrate the amazing accomplishments of the Canadian tech community",
     "date": "April 13, 2026 6:00 pm - 8:30 pm 6:00 pm - 8:30 pm",
     "location": "Toronto City Hall - 100 Queen St W, Toronto, ON M5H 2N2",
-    "price": "$35 Early Bird | Free for Members",
+    "price": "$45 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -31,7 +31,7 @@
     "link": "https://www.techto.org/event/scale-secure-peer-table-for-cios-ctos-cfos",
     "description": "A curated dinner for senior technology and finance leaders.A curated dinner for senior technology and finance leaders.",
     "date": "April 23, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "The Joneses - 33 Yonge St #100",
+    "location": "Convivium Dining Community - 83 Yonge St",
     "price": "Approval Required",
     "status": "Sold OutUp NextSold Out"
   },
@@ -45,9 +45,18 @@
     "status": "Sold OutUp NextSold Out"
   },
   {
+    "title": "YC Toronto Spring SocialYC Toronto Spring Social",
+    "link": "https://www.techto.org/event/yc-toronto-spring-social",
+    "description": "An invite-only evening for Toronto's YC founders and alumni to connect and catch up.An invite-only evening for Toronto's YC founders and alumni to connect and catch up.",
+    "date": "May 6, 2026 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
+    "location": "The Dorset, 457 Wellington St W",
+    "price": "Invite Only",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
     "title": "TechTO HackathonTechTO Hackathon",
     "link": "https://www.techto.org/event/techto-hackaton-may-24-2026",
-    "description": "Join us for the TechTO Hackathon!Join us for the TechTO Hackathon!",
+    "description": "Join us for the TechTO Hackathon: The Rise of Personal Assistants!Join us for the TechTO Hackathon: The Rise of Personal Assistants!",
     "date": "May 24, 2026 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
     "location": "Rootly HQ, 366 Adelaide St W unit 701, 7th floor",
     "price": "$20 Individual l $70 Team",
@@ -59,7 +68,7 @@
     "description": "Join us at TiEQuest Summit, where founders, investors, and industry leaders connect.Join us at TiEQuest Summit, where founders, investors, and industry leaders connect.",
     "date": "May 25, 2026 8:30 am - 12:30 pm 8:30 am - 12:30 pm",
     "location": "U of T: Schwartz Reisman Innovation Campus - 108 College St",
-    "price": "Super Early Bird $35 | TechTO Members $10 off",
+    "price": "Early Bird $40 | TechTO Members $10 off",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -68,7 +77,7 @@
     "description": "Join the Toronto tech community for a Patio Dinner. Come meet other community members and expand your professional tech network!Join the Toronto tech community for a Patio Dinner. Come meet other community members and expand your professional tech network!",
     "date": "May 27, 2026 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
     "location": "Bobby Bermuda's Sunset Bar (formerly The Slip), 235 Queens Quay W",
-    "price": "Super Early Bird $40 | TechTO Members $10 off",
+    "price": "Early Bird $50 | TechTO Members $10 off",
     "status": "Sold OutUp NextSold Out"
   }
 ]
