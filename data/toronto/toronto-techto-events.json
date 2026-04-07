@@ -9,12 +9,21 @@
     "status": "Sold OutUp NextSold Out"
   },
   {
+    "title": "Past Zero: For Founders in the 1-to-10 StagePast Zero: For Founders in the 1-to-10 Stage",
+    "link": "https://www.techto.org/event/past-zero-for-founders-in-the-1-to-10-stage",
+    "description": "A breakfast series for tech startup founders with early tractionA breakfast series for tech startup founders with early traction",
+    "date": "April 15, 2026 8:00 am - 10:00 am 8:00 am - 10:00 am",
+    "location": "Fasken, 333 Bay St. #2400",
+    "price": "Approval Required",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
     "title": "Commerce TorontoCommerce Toronto",
     "link": "https://www.techto.org/event/commerce-toronto-apr-21-2026",
     "description": "Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.Join TechTO for engaging conversations with leaders in tech, retail/commerce, and branding.",
     "date": "April 21, 2026 5:30 pm - 8:30 pm 5:30 pm - 8:30 pm",
     "location": "Rotman School of Management in Desautels Hall, 105 St. George Street",
-    "price": "$20 Early Bird | Free for Members",
+    "price": "$30 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -45,9 +54,9 @@
     "status": "Sold OutUp NextSold Out"
   },
   {
-    "title": "YC Toronto Spring SocialYC Toronto Spring Social",
+    "title": "YC Canada Spring SocialYC Canada Spring Social",
     "link": "https://www.techto.org/event/yc-toronto-spring-social",
-    "description": "An invite-only evening for Toronto's YC founders and alumni to connect and catch up.An invite-only evening for Toronto's YC founders and alumni to connect and catch up.",
+    "description": "An invite-only evening for Canada's YC founders and alumni to connect and catch up.An invite-only evening for Canada's YC founders and alumni to connect and catch up.",
     "date": "May 6, 2026 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
     "location": "The Dorset, 457 Wellington St W",
     "price": "Invite Only",
@@ -67,7 +76,7 @@
     "link": "https://www.techto.org/event/techto-hackaton-may-24-2026",
     "description": "Join us for the TechTO Hackathon: The Rise of Personal Assistants!Join us for the TechTO Hackathon: The Rise of Personal Assistants!",
     "date": "May 24, 2026 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
-    "location": "Rootly HQ, 366 Adelaide St W unit 701, 7th floor",
+    "location": "Rootly HQ, 46 Spadina Ave. 4th floor Toronto",
     "price": "$20 Individual l $70 Team",
     "status": "Sold OutUp NextSold Out"
   },
