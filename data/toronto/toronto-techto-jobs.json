@@ -99,15 +99,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Python Engineer II",
-    "link": "https://jobs.techto.org/jobs/333104396-python-engineer-ii",
-    "company": "Fulfil",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering, Python Developer"
-  },
-  {
     "title": "Lead Frontend Engineer",
     "link": "https://jobs.techto.org/jobs/335565494-lead-frontend-engineer",
     "company": "Fulfil",
@@ -250,6 +241,15 @@
     "location": "Remote (Toronto, Ontairo, Canada)",
     "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Python Engineer",
+    "link": "https://jobs.techto.org/jobs/444133949-senior-python-engineer",
+    "company": "Fulfil",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "45min ago",
+    "tags": "Product & Engineering, senior engineer, Python Developer"
   },
   {
     "title": "Principal Front End Engineer",
