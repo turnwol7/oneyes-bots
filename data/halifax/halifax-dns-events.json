@@ -147,13 +147,6 @@
     "cost": ""
   },
   {
-    "title": "Member Exclusive — From Survival to Sustainability with Matt Thomson",
-    "link": "https://digitalnovascotia.com/event/member-exclusive-from-survival-to-sustainability-with-matt-thomson/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tApril 22 @ 9:00 am - 12:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
     "title": "AI Showcase and Mixer",
     "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-7/",
     "datetime": "Featured\n\t\t\t\n\t\t\tApril 22 @ 6:00 pm - 8:30 pm  ADT",
@@ -164,6 +157,13 @@
     "title": "Cloudflare Immerse Montreal",
     "link": "https://digitalnovascotia.com/event/cloudflare-immerse-montreal/",
     "datetime": "April 22 @ 12:30 pm - 6:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "IGNITING Women in Business w/ Melissa Pike | New Glasgow",
+    "link": "https://digitalnovascotia.com/event/igniting-women-in-business-w-melissa-pike-new-glasgow/",
+    "datetime": "April 22 @ 4:00 pm - 6:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
