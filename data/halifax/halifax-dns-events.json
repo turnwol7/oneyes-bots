@@ -215,5 +215,12 @@
     "datetime": "Featured\n\t\t\t\n\t\t\tApril 30 @ 9:30 am - 12:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "Workshop: AI in the Workplace – A Practical Guide for Business Leaders",
+    "link": "https://digitalnovascotia.com/event/workshop-ai-in-the-workplace-a-practical-guide-for-business-leaders-4/",
+    "datetime": "May 1 @ 8:30 am - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
