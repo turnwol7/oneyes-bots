@@ -1,19 +1,19 @@
 [
   {
-    "title": "Sales TorontoSales Toronto",
-    "link": "https://www.techto.org/event/sales-toronto-apr-22-2026",
-    "description": "Join TechTO for engaging conversations with leaders in tech and salesJoin TechTO for engaging conversations with leaders in tech and sales",
-    "date": "April 22, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Northeastern University, Toronto Campus 375 Queen St W",
-    "price": "$30 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Scale & Secure: Peer Table for CIOs, CTOs & CFOsScale & Secure: Peer Table for CIOs, CTOs & CFOs",
     "link": "https://www.techto.org/event/scale-secure-peer-table-for-cios-ctos-cfos",
     "description": "A curated dinner for senior technology and finance leaders.A curated dinner for senior technology and finance leaders.",
     "date": "April 23, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Convivium Dining Community - 83 Yonge St",
+    "price": "Approval Required",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Together MontrealTogether Montreal",
+    "link": "https://www.techto.org/event/together-montreal",
+    "description": "Join us in Montréal for pitches, founder stories, and real tech connections.Join us in Montréal for pitches, founder stories, and real tech connections.",
+    "date": "April 28, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Planned 480 Boul. Saint-Laurent, Montréal",
     "price": "Approval Required",
     "status": "Sold OutUp NextSold Out"
   },
@@ -74,7 +74,7 @@
   {
     "title": "People First, Product Second: A Consumer Deep Dive with MaveronPeople First, Product Second: A Consumer Deep Dive with Maveron",
     "link": "https://www.techto.org/event/people-first-product-second-a-consumer-deep-dive-with-maveron",
-    "description": "A fireside deep dive with Maveron's CIO on spotting consumer behaviour shifts before they go mainstream.A fireside deep dive with Maveron's CIO on spotting consumer behaviour shifts before they go mainstream.",
+    "description": "A fireside deep dive with Maveron's CIO and GP on spotting consumer behaviour shifts before they go mainstream.A fireside deep dive with Maveron's CIO and GP on spotting consumer behaviour shifts before they go mainstream.",
     "date": "May 27, 2026 1:00 pm - 3:00 pm 1:00 pm - 3:00 pm",
     "location": "Schwartz Reisman Innovation Campus - U of T",
     "price": "Free Event | Approval Process Required",
