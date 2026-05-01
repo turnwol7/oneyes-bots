@@ -1,180 +1,5 @@
 [
   {
-    "title": "POWER LUNCH: Weathering the Digital Storm: Cyber Readiness for Halifax Businesses",
-    "link": "https://digitalnovascotia.com/event/power-lunch-weathering-the-digital-storm-cyber-readiness-for-halifax-businesses/",
-    "datetime": "March 31 @ 12:00 pm - 1:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "DEFCON Halifax Meetup",
-    "link": "https://digitalnovascotia.com/event/defcon-halifax-meetup/",
-    "datetime": "April 2 @ 6:30 pm - 8:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Transforming Cyber Defence: AI Powered Security Operations and Converged SASE Connectivity",
-    "link": "https://digitalnovascotia.com/event/transforming-cyber-defence-ai-powered-security-operations-and-converged-sase-connectivity/",
-    "datetime": "April 8 @ 12:00 pm - 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Halifax Networking Nights",
-    "link": "https://digitalnovascotia.com/event/halifax-networking-nights-2/",
-    "datetime": "April 8 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "ATLSECCON",
-    "link": "https://digitalnovascotia.com/event/atlseccon/",
-    "datetime": "April 9 @ 8:00 am - April 10 @ 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Discovery Series – Yarmouth",
-    "link": "https://digitalnovascotia.com/event/ai-discovery-series-yarmouth/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tApril 9 @ 9:00 am - 3:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "The Just Reward™ Workshop",
-    "link": "https://digitalnovascotia.com/event/the-just-reward-workshop/",
-    "datetime": "April 9 @ 10:00 am - 3:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "ATLSECCON",
-    "link": "https://digitalnovascotia.com/event/atlseccon/",
-    "datetime": "April 9 @ 8:00 am - April 10 @ 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Profit, Powered by AI",
-    "link": "https://digitalnovascotia.com/event/profit-powered-by-ai/",
-    "datetime": "April 10 @ 9:00 am - 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Vibe Coding Meetup",
-    "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-5/",
-    "datetime": "April 13 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "SR&ED 101 Virtual Masterclass",
-    "link": "https://digitalnovascotia.com/event/sred-101-virtual-masterclass/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tApril 14 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Info Session | SEUS-CP Business Forum 2026",
-    "link": "https://digitalnovascotia.com/event/info-session-seus-cp-business-forum-2026/",
-    "datetime": "April 14 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "St Margaret’s Bay Networking Lunch",
-    "link": "https://digitalnovascotia.com/event/st-margarets-bay-networking-lunch/",
-    "datetime": "April 14 @ 11:30 am - 1:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Third Wednesdays Networking Night",
-    "link": "https://digitalnovascotia.com/event/third-wednesdays-networking-night-3/",
-    "datetime": "April 15 @ 5:00 pm - 7:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Unlock PIVP Funding: Explore AI Partnerships with DeepSense",
-    "link": "https://digitalnovascotia.com/event/unlock-pivp-funding-explore-ai-partnerships-with-deepsense/",
-    "datetime": "April 16 @ 10:30 am - 11:30 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "OpenClaw: The Assistant Who Does It All!",
-    "link": "https://digitalnovascotia.com/event/openclaw-the-assistant-who-does-it-all/",
-    "datetime": "April 16 @ 4:00 pm - 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Networking Nights (Dartmouth)",
-    "link": "https://digitalnovascotia.com/event/networking-nights-dartmouth/",
-    "datetime": "April 16 @ 4:30 pm - 6:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Introduction to Artificial Intelligence (AI)",
-    "link": "https://digitalnovascotia.com/event/introduction-to-artificial-intelligence-ai/",
-    "datetime": "April 18 @ 10:30 am - 12:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Women in Machine Learning/Data Science Meetup",
-    "link": "https://digitalnovascotia.com/event/women-in-machine-learning-data-science-meetup-6/",
-    "datetime": "April 20 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Military Cyber Defence and the Threats of our Times",
-    "link": "https://digitalnovascotia.com/event/military-cyber-defence-and-the-threats-of-our-times/",
-    "datetime": "April 21 @ 11:30 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "The FAST+ER Framework for Effective AI Prompts",
-    "link": "https://digitalnovascotia.com/event/the-faster-framework-for-effective-ai-prompts/",
-    "datetime": "April 21 @ 7:00 pm - 9:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Showcase and Mixer",
-    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-7/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tApril 22 @ 6:00 pm - 8:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Cloudflare Immerse Montreal",
-    "link": "https://digitalnovascotia.com/event/cloudflare-immerse-montreal/",
-    "datetime": "April 22 @ 12:30 pm - 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "IGNITING Women in Business w/ Melissa Pike | New Glasgow",
-    "link": "https://digitalnovascotia.com/event/igniting-women-in-business-w-melissa-pike-new-glasgow/",
-    "datetime": "April 22 @ 4:00 pm - 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "IGNITING Women in Business w/ Melissa Pike | Sydney",
-    "link": "https://digitalnovascotia.com/event/igniting-women-in-business-w-melissa-pike-sydney/",
-    "datetime": "April 23 @ 4:00 pm - 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
     "title": "Export Café Series: Spain",
     "link": "https://digitalnovascotia.com/event/export-cafe-series-spain/",
     "datetime": "April 28 @ 11:00 am - 12:30 pm  ADT",
@@ -220,6 +45,76 @@
     "title": "Workshop: AI in the Workplace – A Practical Guide for Business Leaders",
     "link": "https://digitalnovascotia.com/event/workshop-ai-in-the-workplace-a-practical-guide-for-business-leaders-4/",
     "datetime": "May 1 @ 8:30 am - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "DNS Member Mixer – Spring Social",
+    "link": "https://digitalnovascotia.com/event/dns-member-mixer-spring-social/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMay 5 @ 8:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "From Data to Insight: Practical Statistical Modeling",
+    "link": "https://digitalnovascotia.com/event/from-data-to-insight-practical-statistical-modeling/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMay 5 @ 10:00 am - 12:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "DEFCON Halifax May Meet-Up",
+    "link": "https://digitalnovascotia.com/event/defcon-halifax-may-meet-up/",
+    "datetime": "May 7 @ 6:30 pm - 8:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Workshop: What If Your Pricing is Your Biggest Profit Problem? An AI-Amplified Masterclass for Business leaders",
+    "link": "https://digitalnovascotia.com/event/workshop-what-if-your-pricing-is-your-biggest-profit-problem-an-ai-amplified-masterclass-for-business-leaders/",
+    "datetime": "May 8 @ 8:30 am - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Export Café Series: Germany",
+    "link": "https://digitalnovascotia.com/event/export-cafe-series-germany/",
+    "datetime": "May 12 @ 10:00 am - 11:30 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Monday Girl x Digital Nova Scotia: Level Up Your Career Fireside Chat",
+    "link": "https://digitalnovascotia.com/event/monday-girl-x-digital-nova-scotia-level-up-your-career-fireside-chat/",
+    "datetime": "May 12 @ 5:30 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Vibe Coding Meetup",
+    "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-6/",
+    "datetime": "May 12 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "From Survival to Sustainability with Matt Thomson from Placemaking 4G",
+    "link": "https://digitalnovascotia.com/event/from-survival-to-sustainability-with-matt-thomson-from-placemaking-4g/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tMay 14 @ 9:00 am - 12:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Cyber Security | Lunch & Learn",
+    "link": "https://digitalnovascotia.com/event/cyber-security-lunch-learn/",
+    "datetime": "May 14 @ 12:00 pm - 1:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Third Wednesdays Networking Night",
+    "link": "https://digitalnovascotia.com/event/third-wednesdays-networking-night-4/",
+    "datetime": "May 20 @ 5:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
