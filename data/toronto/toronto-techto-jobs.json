@@ -1,5 +1,23 @@
 [
   {
+    "title": "Senior Full-Stack Developer",
+    "link": "https://jobs.techto.org/jobs/202639139-senior-full-stack-developer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "3m ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Software Engineer (Product & Platform)",
+    "link": "https://jobs.techto.org/jobs/294148448-software-engineer-product-platform",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "3m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "GCCX QA Lead / Senior Tester",
     "link": "https://jobs.techto.org/jobs/220439771-gccx-qa-lead-senior-tester",
     "company": "GuruLink",
@@ -248,25 +266,7 @@
     "company": "SuiteSpot Technology",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Principal Front End Engineer",
-    "link": "https://jobs.techto.org/jobs/421459714-principal-front-end-engineer",
-    "company": "Questrade Financial Group",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, software development, angular, full-stack, front end, React Native, Node.js"
-  },
-  {
-    "title": "Senior Principal Full Stack Engineer",
-    "link": "https://jobs.techto.org/jobs/421570602-senior-principal-full-stack-engineer",
-    "company": "Questrade Financial Group",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, software development, angular, fintech, full-stack, Node.js, Principal Engineer"
   }
 ]
