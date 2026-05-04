@@ -1,23 +1,5 @@
 [
   {
-    "title": "Scale & Secure: Peer Table for CIOs, CTOs & CFOsScale & Secure: Peer Table for CIOs, CTOs & CFOs",
-    "link": "https://www.techto.org/event/scale-secure-peer-table-for-cios-ctos-cfos",
-    "description": "A curated dinner for senior technology and finance leaders.A curated dinner for senior technology and finance leaders.",
-    "date": "April 23, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Convivium Dining Community - 83 Yonge St",
-    "price": "Approval Required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Together MontrealTogether Montreal",
-    "link": "https://www.techto.org/event/together-montreal",
-    "description": "Join us in Montréal for pitches, founder stories, and real tech connections.Join us in Montréal for pitches, founder stories, and real tech connections.",
-    "date": "April 28, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Planned 480 Boul. Saint-Laurent, Montréal",
-    "price": "Approval Required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Together Toronto and YC S26 Application SessionTogether Toronto and YC S26 Application Session",
     "link": "https://www.techto.org/event/together-toronto-may-4",
     "description": "Join TechTO for in-depth conversations with Toronto's top tech leaders - plus a YC S26 applicant sessionJoin TechTO for in-depth conversations with Toronto's top tech leaders - plus a YC S26 applicant session",
@@ -45,7 +27,7 @@
     "status": "Sold OutUp NextSold Out"
   },
   {
-    "title": "Vancouver Rocketships & Web Summit SocialVancouver Rocketships & Web Summit Social",
+    "title": "Vancouver Rocketships and Web Summit SocialVancouver Rocketships and Web Summit Social",
     "link": "https://www.techto.org/event/vancouver-rocketships-web-summit-social",
     "description": "Join us for Stop 1 of TechTO's national tour to find Canada's fastest-growing tech companies.Join us for Stop 1 of TechTO's national tour to find Canada's fastest-growing tech companies.",
     "date": "May 11, 2026 4:00 pm - 9:00 pm 4:00 pm - 9:00 pm",
@@ -68,7 +50,16 @@
     "description": "Join us at TiEQuest Summit, where founders, investors, and industry leaders connect.Join us at TiEQuest Summit, where founders, investors, and industry leaders connect.",
     "date": "May 25, 2026 8:30 am - 12:30 pm 8:30 am - 12:30 pm",
     "location": "U of T: Schwartz Reisman Innovation Campus - 108 College St",
-    "price": "Early Bird $40 | TechTO Members $10 off",
+    "price": "General Admission $45 | TechTO Members $15 off",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "The Growth TableThe Growth Table",
+    "link": "https://www.techto.org/event/the-growth-table-may-25",
+    "description": "Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.",
+    "date": "May 25, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Convivium Dining Community - 83 Yonge St, Toronto",
+    "price": "Invite Only",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -95,7 +86,7 @@
     "description": "Join the Toronto tech community for a Patio Dinner. Come meet other community members and expand your professional tech network!Join the Toronto tech community for a Patio Dinner. Come meet other community members and expand your professional tech network!",
     "date": "May 27, 2026 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
     "location": "Bobby Bermuda's Sunset Bar (formerly The Slip), 235 Queens Quay W",
-    "price": "Early Bird $50 | TechTO Members $10 off",
+    "price": "General Admission $60 | TechTO Members $20 off",
     "status": "Sold OutUp NextSold Out"
   }
 ]
