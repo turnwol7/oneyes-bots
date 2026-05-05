@@ -1,14 +1,5 @@
 [
   {
-    "title": "Together Toronto and YC S26 Application SessionTogether Toronto and YC S26 Application Session",
-    "link": "https://www.techto.org/event/together-toronto-may-4",
-    "description": "Join TechTO for in-depth conversations with Toronto's top tech leaders - plus a YC S26 applicant sessionJoin TechTO for in-depth conversations with Toronto's top tech leaders - plus a YC S26 applicant session",
-    "date": "May 4, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$45 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "YC Canada Spring SocialYC Canada Spring Social",
     "link": "https://www.techto.org/event/yc-toronto-spring-social",
     "description": "An invite-only evening for Canada's YC founders and alumni to connect and catch up.An invite-only evening for Canada's YC founders and alumni to connect and catch up.",
@@ -32,7 +23,7 @@
     "description": "Join us for Stop 1 of TechTO's national tour to find Canada's fastest-growing tech companies.Join us for Stop 1 of TechTO's national tour to find Canada's fastest-growing tech companies.",
     "date": "May 11, 2026 4:00 pm - 9:00 pm 4:00 pm - 9:00 pm",
     "location": "D/6 Bar & Lounge 39 Smithe St",
-    "price": "Free Event | Approval Process Required",
+    "price": "General Admission $30 | Approval Process Required",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -60,6 +51,15 @@
     "date": "May 25, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Convivium Dining Community - 83 Yonge St, Toronto",
     "price": "Invite Only",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Beyond the Trade - A New Era for Canadian Fintech with QuestradeBeyond the Trade - A New Era for Canadian Fintech with Questrade",
+    "link": "https://www.techto.org/event/beyond-the-trade---a-new-era-for-canadian-fintech-with-questrade",
+    "description": "An inside look at Questrade's product vision and culture, built for senior tech talent.An inside look at Questrade's product vision and culture, built for senior tech talent.",
+    "date": "May 26, 2026 4:30 pm - 9:00 pm 4:30 pm - 9:00 pm",
+    "location": "Questrade's New Downtown Office",
+    "price": "Approval required",
     "status": "Sold OutUp NextSold Out"
   },
   {
