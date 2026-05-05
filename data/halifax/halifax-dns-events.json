@@ -77,6 +77,13 @@
     "cost": ""
   },
   {
+    "title": "Government Innovation Showcase Atlantic",
+    "link": "https://digitalnovascotia.com/event/government-innovation-showcase-atlantic-2/",
+    "datetime": "May 12 @ 8:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Export Café Series: Germany",
     "link": "https://digitalnovascotia.com/event/export-cafe-series-germany/",
     "datetime": "May 12 @ 10:00 am - 11:30 am  ADT",
@@ -91,13 +98,6 @@
     "cost": ""
   },
   {
-    "title": "Vibe Coding Meetup",
-    "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-6/",
-    "datetime": "May 12 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
     "title": "From Survival to Sustainability with Matt Thomson from Placemaking 4G",
     "link": "https://digitalnovascotia.com/event/from-survival-to-sustainability-with-matt-thomson-from-placemaking-4g/",
     "datetime": "Featured\n\t\t\t\n\t\t\tMay 14 @ 9:00 am - 12:00 pm  ADT",
@@ -108,6 +108,13 @@
     "title": "Cyber Security | Lunch & Learn",
     "link": "https://digitalnovascotia.com/event/cyber-security-lunch-learn/",
     "datetime": "May 14 @ 12:00 pm - 1:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "GEO Nova Scotia Insight Form: Inclusion & Beyond",
+    "link": "https://digitalnovascotia.com/event/geo-nova-scotia-insight-form-inclusion-beyond/",
+    "datetime": "May 20 @ 1:00 pm - 2:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
