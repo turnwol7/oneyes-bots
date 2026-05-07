@@ -112,7 +112,7 @@
     "cost": ""
   },
   {
-    "title": "GEO Nova Scotia Insight Form: Inclusion & Beyond",
+    "title": "GEO Nova Scotia Insight Forum: Inclusion & Beyond",
     "link": "https://digitalnovascotia.com/event/geo-nova-scotia-insight-form-inclusion-beyond/",
     "datetime": "May 20 @ 1:00 pm - 2:30 pm  ADT",
     "isVirtual": false,
@@ -122,6 +122,13 @@
     "title": "Third Wednesdays Networking Night",
     "link": "https://digitalnovascotia.com/event/third-wednesdays-networking-night-4/",
     "datetime": "May 20 @ 5:00 pm - 7:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Building on a Global Scale with Jeremy Millar",
+    "link": "https://digitalnovascotia.com/event/building-on-a-global-scale-with-jeremy-millar/",
+    "datetime": "May 21 @ 3:00 pm - 5:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
