@@ -113,7 +113,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
+    "postedDate": "2m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -153,21 +153,12 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Senior Technical Writer",
-    "link": "https://jobs.techto.org/jobs/440888456-senior-technical-writer",
-    "company": "Relay",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Software Developer",
     "link": "https://jobs.techto.org/jobs/229017545-software-developer",
     "company": "Loopio Inc.",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -176,7 +167,7 @@
     "company": "commonsku",
     "jobType": "Full-time",
     "location": "Remote (Toronto, CA)",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -221,7 +212,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -254,6 +245,15 @@
   {
     "title": "Principal Software Engineer",
     "link": "https://jobs.techto.org/jobs/449752677-principal-software-engineer",
+    "company": "Questrade Financial Group",
+    "jobType": "",
+    "location": "",
+    "postedDate": "2w ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Principal, Network & Cloud Engineer",
+    "link": "https://jobs.techto.org/jobs/471331110-principal-network-cloud-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
