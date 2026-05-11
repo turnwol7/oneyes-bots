@@ -1,11 +1,83 @@
 [
   {
+    "title": "Sales Enablement Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/sales-enablement-specialist/",
+    "company": "Dash Social",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "5 minutes ago"
+  },
+  {
+    "title": "Business Development Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/business-development-specialist-2/",
+    "company": "Invest Nova Scotia",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "19 minutes ago"
+  },
+  {
+    "title": "Mechanical Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/mechanical-engineer-2/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time",
+    "postedDate": "59 minutes ago"
+  },
+  {
+    "title": "Internship/Co-op Opportunity",
+    "link": "https://digitalnovascotia.com/job-posts/internship-co-op-2/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Co-op",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "UX Content Designer",
+    "link": "https://digitalnovascotia.com/job-posts/ux-content-designer/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "SAP Functional Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/sap-functional-consultant/",
+    "company": "IBM Canada",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Microsoft Dynamics 365 F&O Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/microsoft-dynamics-365-fo-solution-architect-4/",
+    "company": "BDO Canada LLP",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Business Analyst – 12 Month Term",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-12-month-term/",
+    "company": "CAA Atlantic",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Information Systems Administrator & Security Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/information-systems-administrator-security-analyst/",
+    "company": "CAA Atlantic",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "3 hours ago"
+  },
+  {
     "title": "Development Lead",
     "link": "https://digitalnovascotia.com/job-posts/development-lead-4/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "18 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "AI & Automation Engineer, Endpoint Systems",
@@ -13,7 +85,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "29 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Operational Technology Analyst",
@@ -21,7 +93,7 @@
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "34 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Software Developer (Next JS)",
@@ -29,7 +101,7 @@
     "company": "Resulta",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "48 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Splunk Engineer",
@@ -37,7 +109,7 @@
     "company": "Cognizant",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "57 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Data & AI Solutions Architect – Customer Advisory",
@@ -45,7 +117,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Oracle Cloud Infrastructure Engineer",
@@ -53,7 +125,7 @@
     "company": "TribalScale",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Solutions Consultant",
@@ -61,7 +133,7 @@
     "company": "Torq IT",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Service Desk Team Lead",
@@ -69,7 +141,7 @@
     "company": "Humankind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Systems Engineer",
@@ -77,7 +149,7 @@
     "company": "Humankind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Intermediate Application Developer",
@@ -85,7 +157,7 @@
     "company": "Modest Tree Media Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Channel Account Manager- National Solution Provider",
@@ -93,7 +165,7 @@
     "company": "Fortinet",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Full Stack Developer",
@@ -101,7 +173,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Solution Architect",
@@ -109,7 +181,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Advertising Sales Consultant",
@@ -117,7 +189,7 @@
     "company": "Acadia Broadcasting Ltd.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Multimedia News Reporter",
@@ -125,7 +197,7 @@
     "company": "Acadia Broadcasting Ltd.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Carbide Work Term Opportunities",
@@ -133,7 +205,7 @@
     "company": "Carbide",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Marketing Content and Creative Manager",
@@ -141,7 +213,7 @@
     "company": "Bulletproof",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior GTM Manager",
@@ -149,7 +221,7 @@
     "company": "Foundation Marketing",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Freelancer Application",
@@ -157,7 +229,7 @@
     "company": "TribalScale",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Quality Assurance Engineer",
@@ -165,78 +237,6 @@
     "company": "Modest Tree Media Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Deskside Support Analyst – Onsite",
-    "link": "https://digitalnovascotia.com/job-posts/deskside-support-analyst-onsite/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Analyst, Advertising",
-    "link": "https://digitalnovascotia.com/job-posts/analyst-advertising-11/",
-    "company": "Outshine",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Paid Search Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/paid-search-specialist/",
-    "company": "Outshine",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Content Manager",
-    "link": "https://digitalnovascotia.com/job-posts/content-manager/",
-    "company": "Global Spatial Technology Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "IT Support Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/it-support-specialist-19/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior System Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/senior-system-analyst-3/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Salesforce Developer",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-developer-15/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Staff Developer – Mobile Apps",
-    "link": "https://digitalnovascotia.com/job-posts/staff-developer-mobile-apps/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Operational Technology Business Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/operational-technology-business-analyst/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
+    "postedDate": "5 days ago"
   }
 ]
