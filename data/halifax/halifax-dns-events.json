@@ -133,9 +133,23 @@
     "cost": ""
   },
   {
+    "title": "The State of Digital Adoption in Canada’s Advanced Manufacturing Sector",
+    "link": "https://digitalnovascotia.com/event/the-state-of-digital-adoption-in-canadas-advanced-manufacturing-sector/",
+    "datetime": "May 21 @ 2:30 pm - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Building on a Global Scale with Jeremy Millar",
     "link": "https://digitalnovascotia.com/event/building-on-a-global-scale-with-jeremy-millar/",
     "datetime": "May 21 @ 3:00 pm - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "The Future of GRC: Surviving Disruption",
+    "link": "https://digitalnovascotia.com/event/the-future-of-grc-surviving-disruption/",
+    "datetime": "May 27 @ 6:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
