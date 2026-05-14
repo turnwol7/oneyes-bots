@@ -1,11 +1,59 @@
 [
   {
+    "title": "Software Development Manager",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-manager-11/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "6 minutes ago"
+  },
+  {
+    "title": "Quality Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/quality-engineer-6/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "15 minutes ago"
+  },
+  {
+    "title": "Director, Software Development, Capital Markets (Java)",
+    "link": "https://digitalnovascotia.com/job-posts/director-software-development-capital-markets-java/",
+    "company": "RBC Technology & Operations",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "22 minutes ago"
+  },
+  {
+    "title": "Application Developer",
+    "link": "https://digitalnovascotia.com/job-posts/application-developer-8/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "53 minutes ago"
+  },
+  {
+    "title": "AI Systems Team (Developer, Architect, Infrastructure)",
+    "link": "https://digitalnovascotia.com/job-posts/ai-systems-team-developer-architect-infrastructure-2/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Data Engineer-Business Intelligence",
+    "link": "https://digitalnovascotia.com/job-posts/data-engineer-business-intelligence-3/",
+    "company": "IBM Canada",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
     "title": "Principal Architect, Endpoint Privilege Management",
     "link": "https://digitalnovascotia.com/job-posts/principal-architect-endpoint-privilege-management/",
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Senior Business Analyst – Healthcare",
@@ -13,7 +61,7 @@
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "23 hours ago"
   },
   {
     "title": "Software Engineer – Python & DevOps",
@@ -21,7 +69,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "23 hours ago"
   },
   {
     "title": "EPMO Project Manager",
@@ -29,7 +77,7 @@
     "company": "ESO",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Product Designer",
@@ -37,7 +85,7 @@
     "company": "Global Spatial Technology Solutions",
     "location": "Dartmouth",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Reddit Content Creator",
@@ -45,7 +93,7 @@
     "company": "Foundation Marketing",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Information Systems Administrator & Security Analyst",
@@ -53,7 +101,7 @@
     "company": "CAA Atlantic",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "2026 Fall Student Opportunities Capital Markets, QTS – Software Developer",
@@ -61,7 +109,7 @@
     "company": "RBC Technology & Operations",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Data Engineer",
@@ -69,7 +117,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Project Manager, Engineering",
@@ -77,7 +125,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "IT Support Specialist",
@@ -85,7 +133,7 @@
     "company": "Invest Nova Scotia",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Senior Civil Technologist",
@@ -93,7 +141,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Content Strategist",
@@ -101,7 +149,7 @@
     "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Apigee Engineer",
@@ -109,7 +157,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "IBM ACE Integration Consultant",
@@ -117,7 +165,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Sr Analyst Desktop Support at DXC Site",
@@ -125,7 +173,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Marketing Strategist",
@@ -133,7 +181,7 @@
     "company": "Steele Auto Group",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Senior Product Manager",
@@ -141,7 +189,7 @@
     "company": "Barrington Consulting Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Account Executive",
@@ -149,7 +197,7 @@
     "company": "Compugen",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Sales Advisor",
@@ -157,7 +205,7 @@
     "company": "GBS Technologies",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Director of News and Community Content",
@@ -165,7 +213,7 @@
     "company": "Acadia Broadcasting Ltd.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Cloud Full Stack Developer",
@@ -173,7 +221,7 @@
     "company": "Foci Solutions",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "Various Security and IT Experts",
@@ -181,7 +229,7 @@
     "company": "Castellan Information Security",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "2 days ago"
   },
   {
     "title": "2026 Fall – CDO, Reference Data Analyst Intern",
@@ -189,54 +237,6 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Sales Enablement Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/sales-enablement-specialist/",
-    "company": "Dash Social",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Business Development Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-specialist-2/",
-    "company": "Invest Nova Scotia",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Mechanical Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/mechanical-engineer-2/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Internship/Co-op Opportunity",
-    "link": "https://digitalnovascotia.com/job-posts/internship-co-op-2/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Co-op",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "UX Content Designer",
-    "link": "https://digitalnovascotia.com/job-posts/ux-content-designer/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "SAP Functional Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/sap-functional-consultant/",
-    "company": "IBM Canada",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "3 days ago"
   }
 ]
