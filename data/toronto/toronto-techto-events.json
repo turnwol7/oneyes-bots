@@ -70,5 +70,23 @@
     "location": "Bobby Bermuda's Sunset Bar (formerly The Slip), 235 Queens Quay W",
     "price": "General Admission $60 | TechTO Members $20 off",
     "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Market Overview: Fintech, co-hosted with AffirmMarket Overview: Fintech, co-hosted with Affirm",
+    "link": "https://www.techto.org/event/market-overview-fintech-co-hosted-with-affirm",
+    "description": "Map where Canadian fintech is heading across payments, embedded finance, and vertical software.Map where Canadian fintech is heading across payments, embedded finance, and vertical software.",
+    "date": "May 28, 2026 9:00 am - 12:00 pm 9:00 am - 12:00 pm",
+    "location": "Register to See Address",
+    "price": "Approval required",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Market Overview: InsurtechMarket Overview: Insurtech",
+    "link": "https://www.techto.org/event/market-overview-insurtech",
+    "description": "Get the sharpest read on where Canadian insurtech is heading.Get the sharpest read on where Canadian insurtech is heading.",
+    "date": "May 28, 2026 1:00 pm - 4:00 pm 1:00 pm - 4:00 pm",
+    "location": "Register to See Address",
+    "price": "Approval required",
+    "status": "Sold OutUp NextSold Out"
   }
 ]
