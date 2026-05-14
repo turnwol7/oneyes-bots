@@ -1,11 +1,35 @@
 [
   {
+    "title": "Product Designer",
+    "link": "https://digitalnovascotia.com/job-posts/product-designer-11/",
+    "company": "",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "53 minutes ago"
+  },
+  {
+    "title": "Senior IAM Systems Engineer, AI Identity Integration (Global Security)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-iam-systems-engineer-ai-identity-integration-global-security/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Consultant, Data & Analytics – New Grad (May 2026)",
+    "link": "https://digitalnovascotia.com/job-posts/consultant-data-analytics-new-grad-may-2026-2/",
+    "company": "BDO Canada LLP",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Lead Support Technician",
     "link": "https://digitalnovascotia.com/job-posts/lead-support-technician/",
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Software Development Manager",
@@ -13,7 +37,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "6 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Quality Engineer",
@@ -21,7 +45,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "6 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Director, Software Development, Capital Markets (Java)",
@@ -29,7 +53,7 @@
     "company": "RBC Technology & Operations",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "6 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Application Developer",
@@ -37,7 +61,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "6 hours ago"
+    "postedDate": "8 hours ago"
   },
   {
     "title": "AI Systems Team (Developer, Architect, Infrastructure)",
@@ -45,7 +69,7 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "7 hours ago"
+    "postedDate": "9 hours ago"
   },
   {
     "title": "Data Engineer-Business Intelligence",
@@ -53,7 +77,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "8 hours ago"
+    "postedDate": "9 hours ago"
   },
   {
     "title": "Principal Architect, Endpoint Privilege Management",
@@ -212,30 +236,6 @@
     "link": "https://digitalnovascotia.com/job-posts/sales-advisor-8/",
     "company": "GBS Technologies",
     "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Director of News and Community Content",
-    "link": "https://digitalnovascotia.com/job-posts/director-of-news-and-community-content/",
-    "company": "Acadia Broadcasting Ltd.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Cloud Full Stack Developer",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-full-stack-developer-2/",
-    "company": "Foci Solutions",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Various Security and IT Experts",
-    "link": "https://digitalnovascotia.com/job-posts/various-security-and-it-experts/",
-    "company": "Castellan Information Security",
-    "location": "Provincial",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
   }
