@@ -167,7 +167,7 @@
     "company": "Fulfil",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering, senior engineer, Python Developer"
   },
   {
@@ -243,12 +243,21 @@
     "tags": "Product & Engineering"
   },
   {
+    "title": "Head of Engineering",
+    "link": "https://jobs.techto.org/jobs/472712408-head-of-engineering",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Senior Software Engineer",
     "link": "https://jobs.techto.org/jobs/115286885-senior-software-engineer",
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "21h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
