@@ -1,11 +1,75 @@
 [
   {
+    "title": "Data Engineering Specialist- Healthcare",
+    "link": "https://digitalnovascotia.com/job-posts/data-engineering-specialist-healthcare-3/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "SMART on FHIR Developer",
+    "link": "https://digitalnovascotia.com/job-posts/smart-on-fhir-developer/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "CSC Land Based Test Facility (LBTF) Engineering Program Manager",
+    "link": "https://digitalnovascotia.com/job-posts/csc-land-based-test-facility-lbtf-engineering-program-manager/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "LBTF Integration Test and Trials Engineers",
+    "link": "https://digitalnovascotia.com/job-posts/lbtf-integration-test-and-trials-engineers/",
+    "company": "Lockheed Martin Canada",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Data Scientist, AI Model Risk",
+    "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-model-risk-3/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Data Scientist",
+    "link": "https://digitalnovascotia.com/job-posts/data-scientist-24/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Paid Internships in Applied AI",
+    "link": "https://digitalnovascotia.com/job-posts/paid-internships-in-applied-ai/",
+    "company": "Dalhousie University - DeepSense",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "@NS Technology Intern",
+    "link": "https://digitalnovascotia.com/job-posts/ns-technology-intern-2/",
+    "company": "Halifax Public Libraries",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
     "title": "Computer Services Officer 3 Multidisciplinary Specialist (Evening Shift)",
     "link": "https://digitalnovascotia.com/job-posts/computer-services-officer-3-multidisciplinary-specialist-evening-shift-wz2-yarmouth/",
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Yarmouth",
     "jobType": "Full Time",
-    "postedDate": "15 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Chief Technology Officer – AI",
@@ -13,7 +77,7 @@
     "company": "Nova Scotia Health & IWK",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "23 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Product Designer",
@@ -21,7 +85,7 @@
     "company": "Global Spatial Technology Solutions",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "16 hours ago"
+    "postedDate": "19 hours ago"
   },
   {
     "title": "Senior IAM Systems Engineer, AI Identity Integration (Global Security)",
@@ -29,7 +93,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "17 hours ago"
+    "postedDate": "19 hours ago"
   },
   {
     "title": "Consultant, Data & Analytics – New Grad (May 2026)",
@@ -37,7 +101,7 @@
     "company": "BDO Canada LLP",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "17 hours ago"
+    "postedDate": "19 hours ago"
   },
   {
     "title": "Lead Support Technician",
@@ -45,7 +109,7 @@
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "18 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Software Development Manager",
@@ -53,7 +117,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Quality Engineer",
@@ -61,7 +125,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Director, Software Development, Capital Markets (Java)",
@@ -69,7 +133,7 @@
     "company": "RBC Technology & Operations",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Application Developer",
@@ -77,7 +141,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "AI Systems Team (Developer, Architect, Infrastructure)",
@@ -174,69 +238,5 @@
     "location": "Provincial",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "IT Support Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/it-support-specialist-20/",
-    "company": "Invest Nova Scotia",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Civil Technologist",
-    "link": "https://digitalnovascotia.com/job-posts/senior-civil-technologist-2/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Content Strategist",
-    "link": "https://digitalnovascotia.com/job-posts/content-strategist-6/",
-    "company": "Resulta",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Apigee Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/apigee-engineer/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "IBM ACE Integration Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/ibm-ace-integration-consultant/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Sr Analyst Desktop Support at DXC Site",
-    "link": "https://digitalnovascotia.com/job-posts/sr-analyst-desktop-support-at-dxc-site/",
-    "company": "DXC Technology Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Marketing Strategist",
-    "link": "https://digitalnovascotia.com/job-posts/marketing-strategist/",
-    "company": "Steele Auto Group",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Product Manager",
-    "link": "https://digitalnovascotia.com/job-posts/senior-product-manager-19/",
-    "company": "Barrington Consulting Group",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
   }
 ]
