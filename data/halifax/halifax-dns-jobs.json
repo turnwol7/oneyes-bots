@@ -1,11 +1,83 @@
 [
   {
+    "title": "Manager, Energy Management Services",
+    "link": "https://digitalnovascotia.com/job-posts/manager-energy-management-services/",
+    "company": "Efficiency Nova Scotia",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "48 minutes ago"
+  },
+  {
+    "title": "Senior Business Analyst (Remote)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-business-analyst-remote/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Faculty – Information Technology – Cyber Security – Sydney Waterfront Campus",
+    "link": "https://digitalnovascotia.com/job-posts/faculty-information-technology-cyber-security-sydney-waterfront-campus/",
+    "company": "Nova Scotia Community College (NSCC)",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "EDIFECs Developer – 68261031",
+    "link": "https://digitalnovascotia.com/job-posts/edifecs-developer-68261031/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Lead React Native Developer",
+    "link": "https://digitalnovascotia.com/job-posts/lead-react-native-developer/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Mobile DevOps Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/mobile-devops-specialist/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Senior Java Developer, Payments",
+    "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-payments-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Senior Web Developer, React",
+    "link": "https://digitalnovascotia.com/job-posts/senior-web-developer-react-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Lead Business Analyst / Business Architect – Enterprise Transformation",
+    "link": "https://digitalnovascotia.com/job-posts/lead-business-analyst-business-architect-enterprise-transformation/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 hours ago"
+  },
+  {
     "title": "Solution Architect – NetOps",
     "link": "https://digitalnovascotia.com/job-posts/solution-architect-netops/",
     "company": "Compugen",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "2 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Business Systems Analyst (BSA) – Payments",
@@ -13,7 +85,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Operational Technology Engineer (Tier 1)",
@@ -21,7 +93,7 @@
     "company": "Marinus Services ULC",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Hardware Test Engineer",
@@ -29,7 +101,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Learning Operations Specialist",
@@ -37,7 +109,7 @@
     "company": "Resulta",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Systems Integration/Test Engineer – Software Tester Engineering",
@@ -45,7 +117,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Mechanical Engineer",
@@ -53,7 +125,7 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Application Developer",
@@ -166,77 +238,5 @@
     "location": "Provincial",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Data Engineering Specialist- Healthcare",
-    "link": "https://digitalnovascotia.com/job-posts/data-engineering-specialist-healthcare-3/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "SMART on FHIR Developer",
-    "link": "https://digitalnovascotia.com/job-posts/smart-on-fhir-developer/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "CSC Land Based Test Facility (LBTF) Engineering Program Manager",
-    "link": "https://digitalnovascotia.com/job-posts/csc-land-based-test-facility-lbtf-engineering-program-manager/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "LBTF Integration Test and Trials Engineers",
-    "link": "https://digitalnovascotia.com/job-posts/lbtf-integration-test-and-trials-engineers/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Data Scientist, AI Model Risk",
-    "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-model-risk-3/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Data Scientist",
-    "link": "https://digitalnovascotia.com/job-posts/data-scientist-24/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Paid Internships in Applied AI",
-    "link": "https://digitalnovascotia.com/job-posts/paid-internships-in-applied-ai/",
-    "company": "Dalhousie University - DeepSense",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Chief Technology Officer – AI",
-    "link": "https://digitalnovascotia.com/job-posts/chief-technology-officer-ai-2/",
-    "company": "Nova Scotia Health & IWK",
-    "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Product Designer",
-    "link": "https://digitalnovascotia.com/job-posts/product-designer-11/",
-    "company": "Global Spatial Technology Solutions",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "7 days ago"
   }
 ]
