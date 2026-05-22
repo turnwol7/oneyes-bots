@@ -5,7 +5,7 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "IT Service Operations Lead",
@@ -13,7 +13,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Business Analyst – Core & Digital Banking (Credit Union)",
@@ -21,7 +21,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Microsoft Dynamics 365 CE Technical Solution Architect",
@@ -29,7 +29,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Junior Program Manager, CMS Support Services",
@@ -37,7 +37,7 @@
     "company": "Lockheed Martin Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Audio Visual Technician (2 Positions)",
@@ -45,7 +45,7 @@
     "company": "Mount Saint Vincent University",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Manager, Energy Management Services",
@@ -98,14 +98,6 @@
   {
     "title": "Senior Java Developer, Payments",
     "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-payments-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 day ago"
-  },
-  {
-    "title": "Senior Web Developer, React",
-    "link": "https://digitalnovascotia.com/job-posts/senior-web-developer-react-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
@@ -236,6 +228,14 @@
     "link": "https://digitalnovascotia.com/job-posts/ai-engineer-healthcare/",
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 days ago"
+  },
+  {
+    "title": "Lead & Senior Developers – Healthcare",
+    "link": "https://digitalnovascotia.com/job-posts/lead-senior-developers-healthcare/",
+    "company": "Mariner Partners Inc.",
+    "location": "Nova Scotia",
     "jobType": "Full Time",
     "postedDate": "3 days ago"
   }
