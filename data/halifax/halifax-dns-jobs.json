@@ -1,11 +1,27 @@
 [
   {
+    "title": "Full Stack Dev (Java/Angular)",
+    "link": "https://digitalnovascotia.com/job-posts/full-stack-dev-java-angular/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "IT Support Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/it-support-specialist-21/",
+    "company": "Halifax Public Libraries",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
     "title": "Technical Writer",
     "link": "https://digitalnovascotia.com/job-posts/technical-writer-7/",
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "28 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Sr Security Engineer",
@@ -13,7 +29,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "36 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Specialist, Information Security",
@@ -21,7 +37,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "39 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Sr Security Engineer",
@@ -29,7 +45,7 @@
     "company": "Resmed Halifax",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "42 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Project Manager",
@@ -37,7 +53,7 @@
     "company": "Humankind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Summer Student, Business Development",
@@ -45,7 +61,7 @@
     "company": "MDR Strategy Group Ltd.",
     "location": "Halifax",
     "jobType": "Internship",
-    "postedDate": "1 hour ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Production Team Member (Future/Ongoing)",
@@ -220,22 +236,6 @@
     "link": "https://digitalnovascotia.com/job-posts/application-developer-9/",
     "company": "Sobeys",
     "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Delivery Manager – Healthcare",
-    "link": "https://digitalnovascotia.com/job-posts/delivery-manager-healthcare/",
-    "company": "Mariner Partners Inc.",
-    "location": "Nova Scotia",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Senior Solution Architect – Healthcare",
-    "link": "https://digitalnovascotia.com/job-posts/senior-solution-architect-healthcare/",
-    "company": "Mariner Partners Inc.",
-    "location": "Nova Scotia",
     "jobType": "Full Time",
     "postedDate": "5 days ago"
   }
