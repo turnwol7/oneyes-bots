@@ -215,5 +215,12 @@
     "datetime": "May 29 @ 9:30 am - 4:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "UX NS Mixer @ The Pint!",
+    "link": "https://digitalnovascotia.com/event/ux-ns-mixer-the-pint/",
+    "datetime": "May 30 @ 4:00 pm - 6:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
