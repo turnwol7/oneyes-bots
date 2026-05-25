@@ -32,7 +32,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3m ago",
+    "postedDate": "4m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -41,7 +41,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3m ago",
+    "postedDate": "4m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -50,7 +50,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3m ago",
+    "postedDate": "4m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -131,7 +131,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1m ago",
+    "postedDate": "2m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -151,51 +151,6 @@
     "location": "",
     "postedDate": "1m ago",
     "tags": "Product & Engineering, senior engineer, Python Developer"
-  },
-  {
-    "title": "Research Engineer, Calibration",
-    "link": "https://jobs.techto.org/jobs/445882763-research-engineer-calibration",
-    "company": "Waabi",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Industrial Designer",
-    "link": "https://jobs.techto.org/jobs/444702347-industrial-designer",
-    "company": "Pacific Smoke International Inc",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering"
-  },
-  {
-    "title": "Senior Product Manager",
-    "link": "https://jobs.techto.org/jobs/160870790-senior-product-manager",
-    "company": "Relay",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Principal Software Engineer",
-    "link": "https://jobs.techto.org/jobs/449752677-principal-software-engineer",
-    "company": "Questrade Financial Group",
-    "jobType": "",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering"
-  },
-  {
-    "title": "Principal, Network & Cloud Engineer",
-    "link": "https://jobs.techto.org/jobs/471331110-principal-network-cloud-engineer",
-    "company": "Questrade Financial Group",
-    "jobType": "",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering"
   },
   {
     "title": "Engineering Manager",
@@ -221,7 +176,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -230,7 +185,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "5d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -239,7 +194,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +203,7 @@
     "company": "SuiteSpot Technology",
     "jobType": "Full-time",
     "location": "Remote (Toronto, ON)",
-    "postedDate": "1d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -257,7 +212,16 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "15h ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Head of Product",
+    "link": "https://jobs.techto.org/jobs/476826663-head-of-product",
+    "company": "myAbode",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1h ago",
+    "tags": "Product & Engineering, Startup, proptech, product manager"
   }
 ]
