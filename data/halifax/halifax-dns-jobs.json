@@ -1,11 +1,35 @@
 [
   {
+    "title": "Business Systems Analyst (BSA)",
+    "link": "https://digitalnovascotia.com/job-posts/business-systems-analyst-bsa-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "11 minutes ago"
+  },
+  {
+    "title": "Senior Web Developer, React",
+    "link": "https://digitalnovascotia.com/job-posts/senior-web-developer-react-3/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "13 minutes ago"
+  },
+  {
+    "title": "Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-76/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
     "title": "Sr. Product Manager",
     "link": "https://digitalnovascotia.com/job-posts/sr-product-manager-3/",
     "company": "Dash Social",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 minute ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Project Manager/Scrum Master",
@@ -13,7 +37,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "58 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Senior .Net Full-Stack Developer",
@@ -21,7 +45,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Veeva Vault Clinical – Validation Test Lead/Manager",
@@ -29,7 +53,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Veeva Vault RIM – Validation Test Lead/Manager",
@@ -37,7 +61,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "IT Project Analyst",
@@ -45,7 +69,7 @@
     "company": "Protocase Inc.",
     "location": "Cape Breton",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Senior SOC Analyst",
@@ -53,7 +77,7 @@
     "company": "Humankind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "6 hours ago"
+    "postedDate": "8 hours ago"
   },
   {
     "title": "Senior Software Developer – GFT HALIFAX",
@@ -214,29 +238,5 @@
     "location": "Halifax",
     "jobType": "Internship",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Production Team Member (Future/Ongoing)",
-    "link": "https://digitalnovascotia.com/job-posts/production-team-member-future-ongoing/",
-    "company": "Protocase Inc.",
-    "location": "Cape Breton",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "IT Service Operations Lead",
-    "link": "https://digitalnovascotia.com/job-posts/it-service-operations-lead/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Business Analyst – Core & Digital Banking (Credit Union)",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-core-digital-banking-credit-union/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
