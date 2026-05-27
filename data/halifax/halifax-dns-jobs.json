@@ -1,11 +1,59 @@
 [
   {
+    "title": "Sr. Product Manager",
+    "link": "https://digitalnovascotia.com/job-posts/sr-product-manager-3/",
+    "company": "Dash Social",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 minute ago"
+  },
+  {
+    "title": "Project Manager/Scrum Master",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-scrum-master/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "58 minutes ago"
+  },
+  {
+    "title": "Senior .Net Full-Stack Developer",
+    "link": "https://digitalnovascotia.com/job-posts/senior-net-full-stack-developer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Veeva Vault Clinical – Validation Test Lead/Manager",
+    "link": "https://digitalnovascotia.com/job-posts/veeva-vault-clinical-validation-test-lead-manager/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Veeva Vault RIM – Validation Test Lead/Manager",
+    "link": "https://digitalnovascotia.com/job-posts/veeva-vault-rim-validation-test-lead-manager/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "IT Project Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/it-project-analyst/",
+    "company": "Protocase Inc.",
+    "location": "Cape Breton",
+    "jobType": "Full Time",
+    "postedDate": "4 hours ago"
+  },
+  {
     "title": "Senior SOC Analyst",
     "link": "https://digitalnovascotia.com/job-posts/senior-soc-analyst-4/",
     "company": "Humankind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Senior Software Developer – GFT HALIFAX",
@@ -190,53 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "5 days ago"
-  },
-  {
-    "title": "Microsoft Dynamics 365 CE Technical Solution Architect",
-    "link": "https://digitalnovascotia.com/job-posts/microsoft-dynamics-365-ce-technical-solution-architect/",
-    "company": "IBM Canada",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Junior Program Manager, CMS Support Services",
-    "link": "https://digitalnovascotia.com/job-posts/junior-program-manager-cms-support-services/",
-    "company": "Lockheed Martin Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Audio Visual Technician (2 Positions)",
-    "link": "https://digitalnovascotia.com/job-posts/audio-visual-technician2-positions/",
-    "company": "Mount Saint Vincent University",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Manager, Energy Management Services",
-    "link": "https://digitalnovascotia.com/job-posts/manager-energy-management-services/",
-    "company": "Efficiency Nova Scotia",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Faculty – Information Technology – Cyber Security – Sydney Waterfront Campus",
-    "link": "https://digitalnovascotia.com/job-posts/faculty-information-technology-cyber-security-sydney-waterfront-campus/",
-    "company": "Nova Scotia Community College (NSCC)",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "EDIFECs Developer – 68261031",
-    "link": "https://digitalnovascotia.com/job-posts/edifecs-developer-68261031/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
   }
 ]
