@@ -59,7 +59,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3m ago",
+    "postedDate": "4m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -158,7 +158,7 @@
     "company": "SuiteSpot Technology",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3w ago",
+    "postedDate": "1m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -167,7 +167,7 @@
     "company": "Voiceflow",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -176,7 +176,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -203,7 +203,7 @@
     "company": "SuiteSpot Technology",
     "jobType": "Full-time",
     "location": "Remote (Toronto, ON)",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -212,7 +212,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -221,7 +221,16 @@
     "company": "myAbode",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1h ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, Startup, proptech, product manager"
+  },
+  {
+    "title": "Infrastructure Security Engineer (Secret + Clearance)",
+    "link": "https://jobs.techto.org/jobs/479028962-infrastructure-security-engineer-secret-+-clearance",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
