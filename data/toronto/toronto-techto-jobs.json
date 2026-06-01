@@ -140,17 +140,8 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Mississauga, Ontario, Canada)",
-    "postedDate": "1m ago",
+    "postedDate": "2m ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Senior Python Engineer",
-    "link": "https://jobs.techto.org/jobs/444133949-senior-python-engineer",
-    "company": "Fulfil",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering, senior engineer, Python Developer"
   },
   {
     "title": "Engineering Manager",
@@ -194,7 +185,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -221,7 +212,7 @@
     "company": "myAbode",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "4d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, Startup, proptech, product manager"
   },
   {
@@ -230,7 +221,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3d ago",
+    "postedDate": "5d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -239,7 +230,7 @@
     "company": "Alma Care",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, AI, product, healthtech, womens health"
   },
   {
@@ -248,7 +239,16 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "10h ago",
+    "postedDate": "2d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior / Staff Software Engineer, Onboard Software (Sensors)",
+    "link": "https://jobs.techto.org/jobs/481421089-senior-staff-software-engineer-onboard-software-sensors",
+    "company": "Waabi",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "4h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
