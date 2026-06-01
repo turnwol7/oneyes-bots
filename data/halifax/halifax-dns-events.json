@@ -42,9 +42,30 @@
     "cost": ""
   },
   {
+    "title": "AI After Dark: Humans in AI (w/ TELUS Sovereign AI Factory)",
+    "link": "https://digitalnovascotia.com/event/ai-after-dark-humans-in-ai-w-telus-sovereign-ai-factory/",
+    "datetime": "June 4 @ 5:30 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "2026 Atlantic AI Summit",
     "link": "https://digitalnovascotia.com/event/2026-atlantic-ai-summit/",
     "datetime": "All day",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Capture the Flag w. DalCTF!",
+    "link": "https://digitalnovascotia.com/event/capture-the-flag-w-dalctf/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tJune 6 @ 9:00 am - June 7 @ 9:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Capture the Flag w. DalCTF!",
+    "link": "https://digitalnovascotia.com/event/capture-the-flag-w-dalctf/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tJune 6 @ 9:00 am - June 7 @ 9:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -143,6 +164,13 @@
     "title": "Market Expansion Stories: Scale into Europe",
     "link": "https://digitalnovascotia.com/event/market-expansion-stories-scale-into-europe-2/",
     "datetime": "Featured\n\t\t\t\n\t\t\tJune 18 @ 10:00 am - 11:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Through the Students’ Lens: Data-Driven Insights on Recruiting Technology and AI",
+    "link": "https://digitalnovascotia.com/event/through-the-students-lens-data-driven-insights-on-recruiting-technology-and-ai-2/",
+    "datetime": "June 18 @ 1:00 pm - 2:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
