@@ -133,9 +133,30 @@
     "cost": ""
   },
   {
+    "title": "e-Health Conference and Tradeshow",
+    "link": "https://digitalnovascotia.com/event/e-health-conference-and-tradeshow/",
+    "datetime": "All day",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "e-Health Conference and Tradeshow",
+    "link": "https://digitalnovascotia.com/event/e-health-conference-and-tradeshow/",
+    "datetime": "All day",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Vibe Coding Meetup",
     "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-7/",
     "datetime": "June 15 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "e-Health Conference and Tradeshow",
+    "link": "https://digitalnovascotia.com/event/e-health-conference-and-tradeshow/",
+    "datetime": "All day",
     "isVirtual": false,
     "cost": ""
   },
@@ -171,6 +192,13 @@
     "title": "Market Expansion Stories: Scale into Europe",
     "link": "https://digitalnovascotia.com/event/market-expansion-stories-scale-into-europe-2/",
     "datetime": "Featured\n\t\t\t\n\t\t\tJune 18 @ 10:00 am - 11:00 am  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Echo Podcast Summit",
+    "link": "https://digitalnovascotia.com/event/echo-podcast-summit-2/",
+    "datetime": "June 18 @ 10:00 am - 4:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
