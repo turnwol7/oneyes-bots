@@ -1,110 +1,11 @@
 [
   {
-    "title": "TechTO HackathonTechTO Hackathon",
-    "link": "https://www.techto.org/event/techto-hackaton-may-24-2026",
-    "description": "Join us for the TechTO Hackathon: The Rise of Personal Assistants!Join us for the TechTO Hackathon: The Rise of Personal Assistants!",
-    "date": "May 24, 2026 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
-    "location": "Rootly HQ, 46 Spadina Ave. 4th floor Toronto",
-    "price": "$20 Individual l $70 Team",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "TiEQuest Summit 2026TiEQuest Summit 2026",
-    "link": "https://www.techto.org/event/tiequest-summit-2026",
-    "description": "Join us at TiEQuest Summit, where founders, investors, and industry leaders connect.Join us at TiEQuest Summit, where founders, investors, and industry leaders connect.",
-    "date": "May 25, 2026 8:30 am - 12:30 pm 8:30 am - 12:30 pm",
-    "location": "U of T: Schwartz Reisman Innovation Campus - 108 College St",
-    "price": "General Admission $45 | TechTO Members $15 off",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "The Growth TableThe Growth Table",
-    "link": "https://www.techto.org/event/the-growth-table-may-25",
-    "description": "Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.",
-    "date": "May 25, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Register To See Address",
-    "price": "Invite Only",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Boast Funding StageBoast Funding Stage",
-    "link": "https://www.techto.org/event/boast-funding-stage",
-    "description": "Break down the financing options across each stage of startup growth.Break down the financing options across each stage of startup growth.",
-    "date": "May 26, 2026 8:30 am - 11:00 am 8:30 am - 11:00 am",
-    "location": "U of T: Schwartz Reisman Innovation Campus",
-    "price": "Approval Required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Beyond the Trade - A New Era for Canadian Fintech with QuestradeBeyond the Trade - A New Era for Canadian Fintech with Questrade",
-    "link": "https://www.techto.org/event/beyond-the-trade---a-new-era-for-canadian-fintech-with-questrade",
-    "description": "An inside look at Questrade's product vision and culture, built for senior tech talent.An inside look at Questrade's product vision and culture, built for senior tech talent.",
-    "date": "May 26, 2026 4:30 pm - 9:00 pm 4:30 pm - 9:00 pm",
-    "location": "Register to See Address",
-    "price": "Approval required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "The Silicon Valley Playbook for Canadian FoundersThe Silicon Valley Playbook for Canadian Founders",
-    "link": "https://www.techto.org/event/the-silicon-valley-playbook-for-canadian-founders",
-    "description": "Join us to hear how Canadian founders can start playing by Silicon Valley's rules, and win.Join us to hear how Canadian founders can start playing by Silicon Valley's rules, and win.",
-    "date": "May 27, 2026 9:00 am - 12:00 pm 9:00 am - 12:00 pm",
-    "location": "Register To See Address",
-    "price": "Invite Only",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "People First, Product Second: A Consumer Deep Dive with MaveronPeople First, Product Second: A Consumer Deep Dive with Maveron",
-    "link": "https://www.techto.org/event/people-first-product-second-a-consumer-deep-dive-with-maveron",
-    "description": "A fireside deep dive with Maveron's CIO and GP on spotting consumer behaviour shifts before they go mainstream.A fireside deep dive with Maveron's CIO and GP on spotting consumer behaviour shifts before they go mainstream.",
-    "date": "May 27, 2026 1:00 pm - 3:00 pm 1:00 pm - 3:00 pm",
-    "location": "Schwartz Reisman Innovation Campus - U of T",
-    "price": "Free Event | Approval Process Required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Beyond the Bubble: An Intimate Chat with Will Hsu and Alex NormanBeyond the Bubble: An Intimate Chat with Will Hsu and Alex Norman",
-    "link": "https://www.techto.org/event/beyond-the-bubble-an-intimate-chat-with-will-hsu-and-alex-norman",
-    "description": "Join us for a rare, off-the-record conversation with the man behind $20B+ in exits - all built outside the Bay Area.Join us for a rare, off-the-record conversation with the man behind $20B+ in exits - all built outside the Bay Area.",
-    "date": "May 27, 2026 4:00 pm - 6:00 pm 4:00 pm - 6:00 pm",
-    "location": "Schwartz Reisman Innovation Campus - U of T",
-    "price": "Free Event | Approval Process Required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "TechTO Summer Social  TechTO Summer Social",
-    "link": "https://www.techto.org/event/techto-summer-social-may-27-2026",
-    "description": "Join the Toronto tech community for a Patio gathering. Come meet other community members and expand your professional tech network!Join the Toronto tech community for a Patio gathering. Come meet other community members and expand your professional tech network!",
-    "date": "May 27, 2026 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
-    "location": "Bobby Bermuda's Sunset Bar (formerly The Slip), 235 Queens Quay W",
-    "price": "General Admission $60 | TechTO Members $20 off",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Market Overview: Fintech, co-hosted with AffirmMarket Overview: Fintech, co-hosted with Affirm",
-    "link": "https://www.techto.org/event/market-overview-fintech-co-hosted-with-affirm",
-    "description": "Map where Canadian fintech is heading across payments, embedded finance, and vertical software.Map where Canadian fintech is heading across payments, embedded finance, and vertical software.",
-    "date": "May 28, 2026 9:00 am - 12:00 pm 9:00 am - 12:00 pm",
-    "location": "Register to See Address",
-    "price": "Approval required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Market Overview: InsurtechMarket Overview: Insurtech",
-    "link": "https://www.techto.org/event/market-overview-insurtech",
-    "description": "Get the sharpest read on where Canadian insurtech is heading.Get the sharpest read on where Canadian insurtech is heading.",
-    "date": "May 28, 2026 1:00 pm - 4:00 pm 1:00 pm - 4:00 pm",
-    "location": "Register to See Address",
-    "price": "Approval required",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "The Quiet Part Out Loud: A RevOps DinnerThe Quiet Part Out Loud: A RevOps Dinner",
-    "link": "https://www.techto.org/event/the-quiet-part-out-loud-a-revops-dinner",
-    "description": "Join us for an intimate dinner where RevOps and GTM leaders get real about what breaks when AI hits a B2B revenue org.Join us for an intimate dinner where RevOps and GTM leaders get real about what breaks when AI hits a B2B revenue org.",
-    "date": "May 28, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Register To See Address",
-    "price": "Invite Only",
+    "title": "Together TorontoTogether Toronto",
+    "link": "https://www.techto.org/event/together-toronto-jul-6",
+    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
+    "date": "July 6, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
+    "price": "$30 Early Bird Tickets | Free for Members",
     "status": "Sold OutUp NextSold Out"
   }
 ]
