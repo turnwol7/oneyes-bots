@@ -105,6 +105,13 @@
     "cost": ""
   },
   {
+    "title": "Claude Code for Developers",
+    "link": "https://digitalnovascotia.com/event/claude-code-for-developers/",
+    "datetime": "June 10 @ 6:00 pm - 8:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Canada’s premier 2SLGBTQ+ STEM gathering",
     "link": "https://digitalnovascotia.com/event/canadas-premier-2slgbtq-stem-gathering/",
     "datetime": "All day",
@@ -129,6 +136,13 @@
     "title": "Canada’s premier 2SLGBTQ+ STEM gathering",
     "link": "https://digitalnovascotia.com/event/canadas-premier-2slgbtq-stem-gathering/",
     "datetime": "All day",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "GEO Nova Scotia’s 2026 Annual General Meeting",
+    "link": "https://digitalnovascotia.com/event/geo-nova-scotias-2026-annual-general-meeting/",
+    "datetime": "June 12 @ 10:00 am - 11:00 am  ADT",
     "isVirtual": false,
     "cost": ""
   },
