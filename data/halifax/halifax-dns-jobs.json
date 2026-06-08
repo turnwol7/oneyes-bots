@@ -1,11 +1,83 @@
 [
   {
+    "title": "Senior Specialist, Data Analytics and Innovation",
+    "link": "https://digitalnovascotia.com/job-posts/senior-specialist-data-analytics-and-innovation/",
+    "company": "Office of the Auditor General of Nova Scotia",
+    "location": "Nova Scotia",
+    "jobType": "Full TimeFeatured Job",
+    "postedDate": "5 days ago"
+  },
+  {
+    "title": "Frontend Developer – Angular",
+    "link": "https://digitalnovascotia.com/job-posts/frontend-developer-angular-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "27 minutes ago"
+  },
+  {
+    "title": "Microsoft Fabric Data Engineering Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/microsoft-fabric-data-engineering-specialist-3/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "30 minutes ago"
+  },
+  {
+    "title": "Business Support Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/business-support-analyst-4/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "40 minutes ago"
+  },
+  {
+    "title": "Business Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-88/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "43 minutes ago"
+  },
+  {
+    "title": "Business Analyst (Future Opportunities)",
+    "link": "https://digitalnovascotia.com/job-posts/business-analyst-future-opportunities/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "54 minutes ago"
+  },
+  {
+    "title": "Senior Project Manager – Healthcare (Future Opportunities)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-healthcare-future-opportunities-2/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior Project Manager – Fintech & Integration Delivery",
+    "link": "https://digitalnovascotia.com/job-posts/senior-project-manager-fintech-integration-delivery/",
+    "company": "Mariner Partners Inc.",
+    "location": "Nova Scotia",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "PMO Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/pmo-coordinator/",
+    "company": "Mariner Partners Inc.",
+    "location": "Nova Scotia",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Network Engineer",
     "link": "https://digitalnovascotia.com/job-posts/network-engineer-4/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "10 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Cybersecurity Architect – Critical National Infrastructure",
@@ -13,7 +85,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "10 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Sr. Python Snowflake Data Engineer (Hybrid)",
@@ -21,7 +93,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "11 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Sr. AJO/AEP Developer",
@@ -29,7 +101,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "11 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Splunk Administrator – ITSI",
@@ -37,7 +109,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Splunk ITSI Engineer",
@@ -45,7 +117,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Co-Op Content Creator",
@@ -53,7 +125,7 @@
     "company": "QuickFacts Inc",
     "location": "Halifax",
     "jobType": "Co-op",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Product Owner, Global CRM",
@@ -61,7 +133,7 @@
     "company": "Gallagher",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Business Process Transformation Lead (AI & Automation)",
@@ -69,7 +141,7 @@
     "company": "Humankind Global Recruitment",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Director, PAM Systems Support (Global Security)",
@@ -77,7 +149,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Process Automation Specialist",
@@ -85,7 +157,7 @@
     "company": "RBC Technology & Operations",
     "location": "Nova Scotia",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "ML Engineer, Agentic AI Risk & Compliance, GFT",
@@ -93,7 +165,7 @@
     "company": "RBC Technology & Operations",
     "location": "Nova Scotia",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Director, PAM Systems Support (Global Security)",
@@ -101,7 +173,7 @@
     "company": "RBC Technology & Operations",
     "location": "Nova Scotia",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Director Information and Data Security (Global Security)",
@@ -109,7 +181,7 @@
     "company": "RBC Technology & Operations",
     "location": "Nova Scotia",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Reporting Data Analyst",
@@ -117,7 +189,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Senior Project Manager, eHealth and Clinical Information Systems",
@@ -125,7 +197,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Senior Business Analyst, eHealth and Clinical Information Systems",
@@ -133,7 +205,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Atlantic Consulting Intern (Sept 2026 – 4 Months – Halifax)",
@@ -141,7 +213,7 @@
     "company": "IBM Canada",
     "location": "Provincial",
     "jobType": "Internship",
-    "postedDate": "3 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Bilingual Service Desk Analyst – Analyste du bureau de service Bilingue",
@@ -149,7 +221,7 @@
     "company": "Compugen",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "Analyst, ICFR Operations, Internal Audit",
@@ -157,7 +229,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "5 days ago"
   },
   {
     "title": "ML Engineer, Agentic AI Risk & Compliance, GFT",
@@ -165,78 +237,6 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Director, Identity data and Workflow engineering (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/director-identity-data-and-workflow-engineering-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Manager, IAM Process & Control Assessment (IAM Process & Compliance)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-manager-iam-process-control-assessment-iam-process-compliance/",
-    "company": "RBC Technology & Operations",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior IAM Systems Engineer, Authorization (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-iam-systems-engineer-authorization-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Manager, IAM Design & Controls (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-manager-iam-design-controls-global-security-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Global Revenue CCaaS Sr. Product Manager",
-    "link": "https://digitalnovascotia.com/job-posts/global-revenue-ccaas-sr-product-manager/",
-    "company": "Resmed Halifax",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Regulatory Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/regulatory-analyst-4/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Director, Access Request Control (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/director-access-request-control-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Senior IAM Systems Engineer, Agentic AI, DevSecOps (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-iam-systems-engineer-agentic-ai-devsecops-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "IAM Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/iam-specialist-2/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
+    "postedDate": "5 days ago"
   }
 ]
