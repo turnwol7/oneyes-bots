@@ -1,14 +1,5 @@
 [
   {
-    "title": "Software Engineer (Product & Platform)",
-    "link": "https://jobs.techto.org/jobs/294148448-software-engineer-product-platform",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "GCCX QA Lead / Senior Tester",
     "link": "https://jobs.techto.org/jobs/220439771-gccx-qa-lead-senior-tester",
     "company": "GuruLink",
@@ -176,7 +167,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -230,7 +221,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -239,7 +230,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -257,7 +248,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "23h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -266,7 +257,16 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "23h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Team Lead, Software Engineering",
+    "link": "https://jobs.techto.org/jobs/489278281-team-lead-software-engineering",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
