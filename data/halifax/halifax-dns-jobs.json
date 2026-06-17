@@ -16,12 +16,60 @@
     "postedDate": "2 weeks ago"
   },
   {
+    "title": "Data Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/data-analyst-28/",
+    "company": "IBM Canada",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "53 minutes ago"
+  },
+  {
+    "title": "Senior Managing Consultant SAP HANA SD OTC",
+    "link": "https://digitalnovascotia.com/job-posts/senior-managing-consultant-sap-hana-sd-otc/",
+    "company": "IBM Canada",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "57 minutes ago"
+  },
+  {
+    "title": "Analyst, Enterprise Data Traceability & Controls",
+    "link": "https://digitalnovascotia.com/job-posts/analyst-enterprise-data-traceability-controls/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Analyst, High Risk Client Management",
+    "link": "https://digitalnovascotia.com/job-posts/analyst-high-risk-client-management-3/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior Analyst, Reporting Shared Services",
+    "link": "https://digitalnovascotia.com/job-posts/senior-analyst-reporting-shared-services-3/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior Manager, Archer Development – GFT Halifax",
+    "link": "https://digitalnovascotia.com/job-posts/senior-manager-archer-development-gft-halifax/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Splunk Engineer- Remote",
     "link": "https://digitalnovascotia.com/job-posts/splunk-engineer-remote/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Senior Splunk SaaS Engineer",
@@ -29,7 +77,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Apigee Engineer",
@@ -37,7 +85,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Dynatrace Architect",
@@ -45,7 +93,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "6 hours ago"
   },
   {
     "title": "Dynatrace Implementation Engineer",
@@ -53,7 +101,7 @@
     "company": "DXC Technology Canada",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Marketing Specialist, Driving Dealership Impact Across Atlantic Canada",
@@ -61,7 +109,7 @@
     "company": "Steele Auto Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Bilingual System administrator",
@@ -69,7 +117,7 @@
     "company": "Compugen",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "24 hours ago"
   },
   {
     "title": "Senior AML Analyst",
@@ -77,7 +125,7 @@
     "company": "Gallagher",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Vice President, Marketing & Membership",
@@ -85,7 +133,7 @@
     "company": "CAA Atlantic",
     "location": "Dartmouth",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "iOS Platform Specialist",
@@ -93,7 +141,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Technical Support Representative – Enterprise Information Technology",
@@ -101,7 +149,7 @@
     "company": "Saint Mary's University",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Analyst, Business Optimization & Strategy (Data Analytics & Insights)",
@@ -109,7 +157,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior IAM Systems Support Analyst – Agentic AI (Global Security)",
@@ -117,7 +165,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Junior 3D Multimedia Developer",
@@ -125,7 +173,7 @@
     "company": "Bluedrop",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Accounting Technician",
@@ -190,53 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "5 days ago"
-  },
-  {
-    "title": "Sr Analyst II Business Process Transactions",
-    "link": "https://digitalnovascotia.com/job-posts/sr-analyst-ii-business-process-transactions/",
-    "company": "DXC Technology Canada",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Content Marketer",
-    "link": "https://digitalnovascotia.com/job-posts/content-marketer-2/",
-    "company": "Global Spatial Technology Solutions",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Chief of Staff",
-    "link": "https://digitalnovascotia.com/job-posts/chief-of-staff-2/",
-    "company": "QuickFacts Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
-  },
-  {
-    "title": "Technical Specialist, DevSecOps Cloud (Computer Services Off 3)",
-    "link": "https://digitalnovascotia.com/job-posts/technical-specialist-devsecops-cloud-computer-services-off-3/",
-    "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Clinical Informatics Analyst (Future Opportunities)",
-    "link": "https://digitalnovascotia.com/job-posts/clinical-informatics-analyst-future-opportunities/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Senior Security Engineer (Microsoft Purview)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-security-engineer-microsoft-purview/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
   }
 ]
