@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior Backend Javascript Developer (Node.js)",
-    "link": "https://jobs.techto.org/jobs/284294379-senior-backend-javascript-developer-node-js",
-    "company": "Baseline",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Technical Lead",
     "link": "https://jobs.techto.org/jobs/294148451-technical-lead",
     "company": "GuruLink",
@@ -257,7 +248,7 @@
     "company": "commonsku",
     "jobType": "Full-time",
     "location": "Remote (Toronto, CA)",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -268,5 +259,14 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Senior Product Manager",
+    "link": "https://jobs.techto.org/jobs/496690519-senior-product-manager",
+    "company": "Blossom Social",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "42min ago",
+    "tags": "Product & Engineering, Startup, product, product manager, product design, product analyst"
   }
 ]
