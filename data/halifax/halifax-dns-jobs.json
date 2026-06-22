@@ -5,7 +5,7 @@
     "company": "Food Web Asset Mapping Inc",
     "location": "Remote",
     "jobType": "Full TimeFeatured Job",
-    "postedDate": "7 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "title": "Senior Specialist, Data Analytics and Innovation",
@@ -16,12 +16,68 @@
     "postedDate": "3 weeks ago"
   },
   {
+    "title": "Python Developer",
+    "link": "https://digitalnovascotia.com/job-posts/python-developer-4/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Junior 3D Multimedia Developer",
+    "link": "https://digitalnovascotia.com/job-posts/junior-3d-multimedia-developer-2/",
+    "company": "Bluedrop",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Senior IAM Systems Engineer (Global Security)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-iam-systems-engineer-global-security/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 hours ago"
+  },
+  {
+    "title": "IAM Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/iam-specialist-3/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "3 hours ago"
+  },
+  {
+    "title": "Software Engineering Manager",
+    "link": "https://digitalnovascotia.com/job-posts/software-engineering-manager-4/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 hours ago"
+  },
+  {
+    "title": "Senior Software Developer – Ad Tech",
+    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-ad-tech/",
+    "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "3 hours ago"
+  },
+  {
+    "title": "IT Support Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/it-support-specialist-22/",
+    "company": "REDspace Inc",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "3 hours ago"
+  },
+  {
     "title": "Engineering Manager",
     "link": "https://digitalnovascotia.com/job-posts/engineering-manager-10/",
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "8 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Manager, Electronics & Embedded Systems",
@@ -29,7 +85,7 @@
     "company": "Venor Search Group",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "17 minutes ago"
+    "postedDate": "4 hours ago"
   },
   {
     "title": "Senior Enterprise Architect",
@@ -37,7 +93,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Data Analyst",
@@ -182,61 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "6 days ago"
-  },
-  {
-    "title": "Accounting Technician",
-    "link": "https://digitalnovascotia.com/job-posts/accounting-technician/",
-    "company": "Baker Tilly Nova Scotia Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "7 days ago"
-  },
-  {
-    "title": "Manager",
-    "link": "https://digitalnovascotia.com/job-posts/manager/",
-    "company": "Baker Tilly Nova Scotia Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "7 days ago"
-  },
-  {
-    "title": "Private Enterprise Manager",
-    "link": "https://digitalnovascotia.com/job-posts/private-enterprise-manager/",
-    "company": "Baker Tilly Nova Scotia Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "7 days ago"
-  },
-  {
-    "title": "CoFounder & Chief Sales Officer",
-    "link": "https://digitalnovascotia.com/job-posts/cofounder-chief-sales-officer/",
-    "company": "Food Web Asset Mapping Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "7 days ago"
-  },
-  {
-    "title": "CoFounder & Chief of Operations",
-    "link": "https://digitalnovascotia.com/job-posts/cofounder-chief-of-operations/",
-    "company": "Food Web Asset Mapping Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "7 days ago"
-  },
-  {
-    "title": "Data Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/data-analyst-27/",
-    "company": "Mariner Partners Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Senior Facets Solutions Engineer – Claims & Utilization Management",
-    "link": "https://digitalnovascotia.com/job-posts/senior-facets-solutions-engineer-claims-utilization-management/",
-    "company": "Cognizant",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
   }
 ]
