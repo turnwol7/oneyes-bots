@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior .NET Developer",
-    "link": "https://jobs.techto.org/jobs/421422044-seniordot-netdeveloper",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Mississauga, Ontario, Canada)",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Amazon Connect Developer",
     "link": "https://jobs.techto.org/jobs/179870376-amazon-connect-developer",
     "company": "GuruLink",
@@ -59,7 +50,7 @@
     "company": "myAbode",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering, Startup, proptech, product manager"
   },
   {
@@ -261,12 +252,21 @@
     "tags": "Product & Engineering"
   },
   {
+    "title": "Principal Software Engineer (Backend)",
+    "link": "https://jobs.techto.org/jobs/500580758-principal-software-engineer-backend",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "QA Engineer",
     "link": "https://jobs.techto.org/jobs/496744435-qa-engineer",
     "company": "Baseline",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1h ago",
+    "postedDate": "8h ago",
     "tags": "Product & Engineering, QA, JavaScript, React, fintech, Quality Assurance, Playwright, Automation Testing, CI/CD"
   }
 ]
