@@ -4,8 +4,26 @@
     "link": "https://www.techto.org/event/together-toronto-jul-6",
     "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
     "date": "July 6, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Auditorium - MaRS Centre, 101 College St, Toronto",
-    "price": "$30 Early Bird Tickets | Free for Members",
+    "location": "U of T: Schwartz Reisman Innovation Campus, 108 College St, Toronto, ON M5G 0C6",
+    "price": "$40 General Admission | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "The Founder's CollectiveThe Founder's Collective",
+    "link": "https://www.techto.org/event/the-founders-collective-mtl-july-7-startupfest",
+    "description": "Join us for an inspiring evening celebrating and supporting women founders, presented in partnership with BDC Thrive Venture Fund, White Star Capital and TechTOJoin us for an inspiring evening celebrating and supporting women founders, presented in partnership with BDC Thrive Venture Fund, White Star Capital and TechTO",
+    "date": "July 7, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Register To See Address",
+    "price": "Free to Attend. By Application Only",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "The Growth Table: StartupfestThe Growth Table: Startupfest",
+    "link": "https://www.techto.org/event/the-growth-table-startupfest-mtl-july-9",
+    "description": "Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.",
+    "date": "July 9, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Register To See Address",
+    "price": "Invite Only",
     "status": "Sold OutUp NextSold Out"
   }
 ]
