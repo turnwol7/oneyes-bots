@@ -32,12 +32,68 @@
     "postedDate": "3 weeks ago"
   },
   {
+    "title": "Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-78/",
+    "company": "Bluedrop",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Senior Process Automation Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-process-automation-specialist-4/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "TLM Support Manager",
+    "link": "https://digitalnovascotia.com/job-posts/tlm-support-manager/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Equity Derivative Operations Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/equity-derivative-operations-analyst/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Data Quality Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/data-quality-analyst-2/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Analyst, Data Traceability and Controls",
+    "link": "https://digitalnovascotia.com/job-posts/analyst-data-traceability-and-controls/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
+    "title": "Director, Customer Engagement Platforms",
+    "link": "https://digitalnovascotia.com/job-posts/director-customer-engagement-platforms/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
     "title": "Institutional Research Analyst (CL4) – Central Office",
     "link": "https://digitalnovascotia.com/job-posts/institutional-research-analyst-cl4-central-office/",
     "company": "Nova Scotia Community College (NSCC)",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "18 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Analyst, Financial",
@@ -45,7 +101,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "23 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Junior Business Intelligence Analyst",
@@ -53,7 +109,7 @@
     "company": "Dalhousie University",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "41 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Senior Analyst, Family Office Services",
@@ -182,61 +238,5 @@
     "location": "Remote",
     "jobType": "Full Time",
     "postedDate": "3 days ago"
-  },
-  {
-    "title": "Financial Systems Enterprise Application Owner",
-    "link": "https://digitalnovascotia.com/job-posts/financial-systems-enterprise-application-owner/",
-    "company": "Gallagher",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Python Developer",
-    "link": "https://digitalnovascotia.com/job-posts/python-developer-4/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Junior 3D Multimedia Developer",
-    "link": "https://digitalnovascotia.com/job-posts/junior-3d-multimedia-developer-2/",
-    "company": "Bluedrop",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Senior IAM Systems Engineer (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-iam-systems-engineer-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "IAM Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/iam-specialist-3/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Software Engineering Manager",
-    "link": "https://digitalnovascotia.com/job-posts/software-engineering-manager-4/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Senior Software Developer – Ad Tech",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-ad-tech/",
-    "company": "REDspace Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
   }
 ]
