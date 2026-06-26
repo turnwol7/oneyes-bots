@@ -23,17 +23,8 @@
     "company": "myAbode",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "4w ago",
+    "postedDate": "1m ago",
     "tags": "Product & Engineering, Startup, proptech, product manager"
-  },
-  {
-    "title": "Infrastructure Security Engineer (Secret + Clearance)",
-    "link": "https://jobs.techto.org/jobs/479028962-infrastructure-security-engineer-secret-+-clearance",
-    "company": "Cohere",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "AI Product & Systems Lead",
@@ -41,7 +32,7 @@
     "company": "Alma Care",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering, AI, product, healthtech, womens health"
   },
   {
@@ -135,8 +126,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Director of Product, North",
-    "link": "https://jobs.techto.org/jobs/495326387-director-of-product-north",
+    "title": "Product Manager, Integrations",
+    "link": "https://jobs.techto.org/jobs/495326386-product-manager-integrations",
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -144,8 +135,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Product Manager, Integrations",
-    "link": "https://jobs.techto.org/jobs/495326386-product-manager-integrations",
+    "title": "Director of Product, North",
+    "link": "https://jobs.techto.org/jobs/495326387-director-of-product-north",
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -203,7 +194,7 @@
     "company": "Blossom Social",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, Startup, product, product manager, product design, product analyst"
   },
   {
@@ -212,7 +203,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -221,7 +212,7 @@
     "company": "Ideogram",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -230,7 +221,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -239,7 +230,7 @@
     "company": "Baseline",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, QA, JavaScript, React, fintech, Quality Assurance, Playwright, Automation Testing, CI/CD"
   },
   {
@@ -248,7 +239,7 @@
     "company": "Waabi",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -266,7 +257,16 @@
     "company": "commonsku",
     "jobType": "Full-time",
     "location": "Remote (Toronto, CA)",
-    "postedDate": "20h ago",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Product Manager",
+    "link": "https://jobs.techto.org/jobs/502732265-product-manager",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering"
   }
 ]
