@@ -1,5 +1,14 @@
 [
   {
+    "title": "Engineering Manager",
+    "link": "https://jobs.techto.org/jobs/459905386-engineering-manager",
+    "company": "SuiteSpot Technology",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Staff Engineer",
     "link": "https://jobs.techto.org/jobs/269605509-staff-engineer",
     "company": "GuruLink",
@@ -34,15 +43,6 @@
     "location": "",
     "postedDate": "1m ago",
     "tags": "Product & Engineering, Startup, proptech, product manager"
-  },
-  {
-    "title": "Senior / Staff Software Engineer, Onboard Software (Sensors)",
-    "link": "https://jobs.techto.org/jobs/481421089-senior-staff-software-engineer-onboard-software-sensors",
-    "company": "Waabi",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Principal Hardware Engineer",
@@ -266,7 +266,7 @@
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "23h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering"
   }
 ]
