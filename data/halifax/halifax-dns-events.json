@@ -1,295 +1,106 @@
 [
   {
-    "title": "Executive Lounge: Global Lens on Games Development",
-    "link": "https://digitalnovascotia.com/event/executive-lounge-global-lens-on-games-development/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJune 2 @ 8:30 am - 10:00 am  ADT",
+    "title": "Entrepreneurial Edge:A Complete Guide to Starting a Business in Nova Scotia",
+    "link": "https://digitalnovascotia.com/event/entrepreneurial-edgea-complete-guide-to-starting-a-business-in-nova-scotia/",
+    "datetime": "July 2 @ 5:30 pm - 6:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Humans in AI: East Coast Kitchen Party (w/ TELUS Sovereign AI Factory)",
-    "link": "https://digitalnovascotia.com/event/humans-in-ai-east-coast-kitchen-party-w-telus-sovereign-ai-factory/",
-    "datetime": "June 2 @ 5:30 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "2026 Atlantic AI Summit",
-    "link": "https://digitalnovascotia.com/event/2026-atlantic-ai-summit/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Tribe Network Community Social",
-    "link": "https://digitalnovascotia.com/event/tribe-network-community-social/",
-    "datetime": "June 3 @ 5:30 pm - 7:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "2026 Atlantic AI Summit",
-    "link": "https://digitalnovascotia.com/event/2026-atlantic-ai-summit/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "2026 Tech Forward Awards — Categories, Nominations & Next Steps",
-    "link": "https://digitalnovascotia.com/event/2026-tech-forward-awards-categories-nominations-next-steps/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJune 4 @ 11:00 am - 12:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI After Dark: Humans in AI (w/ TELUS Sovereign AI Factory)",
-    "link": "https://digitalnovascotia.com/event/ai-after-dark-humans-in-ai-w-telus-sovereign-ai-factory/",
-    "datetime": "June 4 @ 5:30 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "2026 Atlantic AI Summit",
-    "link": "https://digitalnovascotia.com/event/2026-atlantic-ai-summit/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "XP Game Connect Atlantic",
-    "link": "https://digitalnovascotia.com/event/xp-game-connect-atlantic/",
-    "datetime": "June 5 @ 9:00 am - 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Capture the Flag w. DalCTF!",
-    "link": "https://digitalnovascotia.com/event/capture-the-flag-w-dalctf/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJune 6 @ 9:00 am - June 7 @ 9:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Capture the Flag w. DalCTF!",
-    "link": "https://digitalnovascotia.com/event/capture-the-flag-w-dalctf/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJune 6 @ 9:00 am - June 7 @ 9:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Crack The Hiring Code",
-    "link": "https://digitalnovascotia.com/event/crack-the-hiring-code/",
-    "datetime": "June 9 @ 4:30 pm - 7:30 pm  ADT",
+    "title": "So You Need a Business Loan, Are You Actually Ready?",
+    "link": "https://digitalnovascotia.com/event/so-you-need-a-business-loan-are-you-actually-ready/",
+    "datetime": "July 7 @ 12:00 pm - 1:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
     "title": "AI Showcase and Mixer",
-    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-8/",
-    "datetime": "June 9 @ 6:00 pm - 8:30 pm  ADT",
+    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-9/",
+    "datetime": "July 7 @ 6:00 pm - 8:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Canada’s premier 2SLGBTQ+ STEM gathering",
-    "link": "https://digitalnovascotia.com/event/canadas-premier-2slgbtq-stem-gathering/",
-    "datetime": "All day",
+    "title": "Agentics Foundation Meetup",
+    "link": "https://digitalnovascotia.com/event/agentics-foundation-meetup/",
+    "datetime": "July 8 @ 6:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Write Better Code Through Compositional Design",
-    "link": "https://digitalnovascotia.com/event/write-better-code-through-compositional-design/",
-    "datetime": "June 10 @ 2:00 pm - 4:00 pm  ADT",
+    "title": "DEFCON Halifax July Meet-Up",
+    "link": "https://digitalnovascotia.com/event/defcon-halifax-july-meet-up-3/",
+    "datetime": "July 9 @ 6:30 pm - 8:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Claude Code for Developers",
-    "link": "https://digitalnovascotia.com/event/claude-code-for-developers/",
-    "datetime": "June 10 @ 6:00 pm - 8:30 pm  ADT",
+    "title": "Vibe Code Meetup",
+    "link": "https://digitalnovascotia.com/event/vibe-code-meetup/",
+    "datetime": "July 13 @ 6:00 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Canada’s premier 2SLGBTQ+ STEM gathering",
-    "link": "https://digitalnovascotia.com/event/canadas-premier-2slgbtq-stem-gathering/",
-    "datetime": "All day",
+    "title": "HFX Lockpickers Club",
+    "link": "https://digitalnovascotia.com/event/hfx-lockpickers-club/",
+    "datetime": "July 14 @ 5:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Check Point Advantage Halifax",
-    "link": "https://digitalnovascotia.com/event/check-point-advantage-halifax/",
-    "datetime": "June 11 @ 9:00 am - 4:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Business and AI: Where to Start?",
-    "link": "https://digitalnovascotia.com/event/business-and-ai-where-to-start/",
-    "datetime": "June 11 @ 4:00 pm - 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Canada’s premier 2SLGBTQ+ STEM gathering",
-    "link": "https://digitalnovascotia.com/event/canadas-premier-2slgbtq-stem-gathering/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "GEO Nova Scotia’s 2026 Annual General Meeting",
-    "link": "https://digitalnovascotia.com/event/geo-nova-scotias-2026-annual-general-meeting/",
-    "datetime": "June 12 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Canada’s premier 2SLGBTQ+ STEM gathering",
-    "link": "https://digitalnovascotia.com/event/canadas-premier-2slgbtq-stem-gathering/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "e-Health Conference and Tradeshow",
-    "link": "https://digitalnovascotia.com/event/e-health-conference-and-tradeshow/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "e-Health Conference and Tradeshow",
-    "link": "https://digitalnovascotia.com/event/e-health-conference-and-tradeshow/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Vibe Coding Meetup",
-    "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-7/",
-    "datetime": "June 15 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "e-Health Conference and Tradeshow",
-    "link": "https://digitalnovascotia.com/event/e-health-conference-and-tradeshow/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Startup Atlantic Kitchen Party: Collide & Connect",
-    "link": "https://digitalnovascotia.com/event/startup-atlantic-kitchen-party-collide-connect-2/",
-    "datetime": "June 16 @ 5:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Atlantic Venture Forum",
-    "link": "https://digitalnovascotia.com/event/atlantic-venture-forum-5/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Executive Lounge: Innovation and Dual-Use",
-    "link": "https://digitalnovascotia.com/event/executive-lounge-innovation-and-dual-use/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJune 17 @ 8:30 am - 10:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Why Salespeople Fail (And What to Do About It)",
-    "link": "https://digitalnovascotia.com/event/why-salespeople-fail-and-what-to-do-about-it/",
-    "datetime": "June 17 @ 10:00 am - 10:30 am  ADT",
+    "title": "The Marketing Meetup IRL: Halifax",
+    "link": "https://digitalnovascotia.com/event/the-marketing-meetup-irl-halifax/",
+    "datetime": "July 14 @ 6:30 pm - 8:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
     "title": "Third Wednesday Networking Night",
-    "link": "https://digitalnovascotia.com/event/third-wednesday-networking-night-2/",
-    "datetime": "June 17 @ 5:00 pm - 7:00 pm  ADT",
+    "link": "https://digitalnovascotia.com/event/third-wednesday-networking-night/",
+    "datetime": "July 15 @ 5:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Atlantic Venture Forum",
-    "link": "https://digitalnovascotia.com/event/atlantic-venture-forum-5/",
+    "title": "$100 Youth Startup Challenge",
+    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
     "datetime": "All day",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Market Expansion Stories: Scale into Europe",
-    "link": "https://digitalnovascotia.com/event/market-expansion-stories-scale-into-europe-2/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJune 18 @ 10:00 am - 11:00 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Echo Podcast Summit",
-    "link": "https://digitalnovascotia.com/event/echo-podcast-summit-2/",
-    "datetime": "June 18 @ 10:00 am - 4:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Through the Students’ Lens: Data-Driven Insights on Recruiting Technology and AI",
-    "link": "https://digitalnovascotia.com/event/through-the-students-lens-data-driven-insights-on-recruiting-technology-and-ai-2/",
-    "datetime": "June 18 @ 1:00 pm - 2:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Startup Smarter Bootcamp",
-    "link": "https://digitalnovascotia.com/event/startup-smarter-bootcamp/",
+    "title": "$100 Youth Startup Challenge",
+    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
     "datetime": "All day",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Startup Smarter Bootcamp",
-    "link": "https://digitalnovascotia.com/event/startup-smarter-bootcamp/",
+    "title": "$100 Youth Startup Challenge",
+    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
     "datetime": "All day",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "Women in Machine Learning/Data Science Meetup – June 22nd",
-    "link": "https://digitalnovascotia.com/event/women-in-machine-learning-data-science-meetup-june-22nd/",
-    "datetime": "June 22 @ 6:00 pm - 8:00 pm  ADT",
+    "title": "$100 Youth Startup Challenge",
+    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
+    "datetime": "All day",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "From Survival to Sustainability with Matt Thomson from Placemaking 4G",
-    "link": "https://digitalnovascotia.com/event/from-survival-to-sustainability-with-matt-thomson-from-placemaking-4g-2/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tJune 24 @ 9:00 am - 12:00 pm  ADT",
+    "title": "$100 Youth Startup Challenge",
+    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
+    "datetime": "All day",
     "isVirtual": false,
     "cost": ""
   },
   {
-    "title": "ISNS June Mixer",
-    "link": "https://digitalnovascotia.com/event/isns-june-mixer-2/",
-    "datetime": "June 24 @ 5:30 pm - 7:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Employee vs. Entrepreneur: Which Path Is Right for You?",
-    "link": "https://digitalnovascotia.com/event/employee-vs-entrepreneur-which-path-is-right-for-you/",
-    "datetime": "June 24 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Entrepreneurial Edge:A Complete Guide to Starting a Business in Nova Scotia",
-    "link": "https://digitalnovascotia.com/event/entrepreneurial-edgea-complete-guide-to-starting-a-business-in-nova-scotia/",
-    "datetime": "July 2 @ 5:30 pm - 6:30 pm  ADT",
+    "title": "DNS Summer Member Mixer | Lunenburg",
+    "link": "https://digitalnovascotia.com/event/dns-summer-member-mixer-lunenburg/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tJuly 29 @ 5:30 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
