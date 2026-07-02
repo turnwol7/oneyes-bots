@@ -24,12 +24,68 @@
     "postedDate": "1 week ago"
   },
   {
+    "title": "Solution Architect",
+    "link": "https://digitalnovascotia.com/job-posts/solution-architect-8/",
+    "company": "Mariner Partners Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "32 minutes ago"
+  },
+  {
+    "title": "Infra Technology Specialist-VMware and Window Server Administration",
+    "link": "https://digitalnovascotia.com/job-posts/infra-technology-specialist-vmware-and-window-server-administration/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "40 minutes ago"
+  },
+  {
+    "title": "Dynatrace SaaS Platform Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/dynatrace-saas-platform-engineer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "42 minutes ago"
+  },
+  {
+    "title": "webMethods Developer",
+    "link": "https://digitalnovascotia.com/job-posts/webmethods-developer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "47 minutes ago"
+  },
+  {
+    "title": "Java Application Developer",
+    "link": "https://digitalnovascotia.com/job-posts/java-application-developer/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior Technical Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-technical-specialist/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Pega Developer",
+    "link": "https://digitalnovascotia.com/job-posts/pega-developer/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Director Information and Data Security (Global Security)",
     "link": "https://digitalnovascotia.com/job-posts/director-information-and-data-security-global-security-2/",
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "16 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Producer Experience – AI Lead",
@@ -37,7 +93,7 @@
     "company": "Gallagher",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "42 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Salesforce Marketing Cloud Architect",
@@ -45,7 +101,7 @@
     "company": "Gallagher",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "46 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Full Stack Developer (Java + Angular)",
@@ -182,61 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Quality Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-quality-engineer-8/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Salesforce Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-salesforce-developer-4/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "VP, Marketing",
-    "link": "https://digitalnovascotia.com/job-posts/vp-marketing/",
-    "company": "Global Spatial Technology Solutions",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Project Manager",
-    "link": "https://digitalnovascotia.com/job-posts/project-manager-78/",
-    "company": "Bluedrop",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "TLM Support Manager",
-    "link": "https://digitalnovascotia.com/job-posts/tlm-support-manager/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Equity Derivative Operations Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/equity-derivative-operations-analyst/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
-  },
-  {
-    "title": "Data Quality Analyst",
-    "link": "https://digitalnovascotia.com/job-posts/data-quality-analyst-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "6 days ago"
   }
 ]
