@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior .NET Developer",
-    "link": "https://jobs.techto.org/jobs/421422044-seniordot-netdeveloper",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Mississauga, Ontario, Canada)",
-    "postedDate": "3m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Amazon Connect Developer",
     "link": "https://jobs.techto.org/jobs/179870376-amazon-connect-developer",
     "company": "GuruLink",
@@ -249,6 +240,15 @@
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1w ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "link": "https://jobs.techto.org/jobs/446809472-senior-software-engineer",
+    "company": "Questrade Financial Group",
+    "jobType": "",
+    "location": "",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering"
   },
   {
