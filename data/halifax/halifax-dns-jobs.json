@@ -24,12 +24,52 @@
     "postedDate": "1 week ago"
   },
   {
+    "title": "IAM Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/iam-specialist-4/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior Cyber Security Specialist – Cyber Incident Management",
+    "link": "https://digitalnovascotia.com/job-posts/senior-cyber-security-specialist-cyber-incident-management-5/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Integrated Planning Manager",
+    "link": "https://digitalnovascotia.com/job-posts/integrated-planning-manager/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior AI Engineer, Platform Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/senior-ai-engineer-platform-engineering/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior Marketing Manager, Canada",
+    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-manager-canada/",
+    "company": "Resmed Halifax",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "2 hours ago"
+  },
+  {
     "title": "Cloud Infrastructure & Platform Solutions Architect",
     "link": "https://digitalnovascotia.com/job-posts/cloud-infrastructure-platform-solutions-architect/",
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "49 seconds ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Java Application Developer",
@@ -37,7 +77,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "8 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Product Owner/Manager",
@@ -45,7 +85,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "14 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Cloud Architect",
@@ -53,7 +93,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Business Analyst (Computer Services Officer 4)",
@@ -61,7 +101,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "60 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Solution Architect",
@@ -69,7 +109,7 @@
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Infra Technology Specialist-VMware and Window Server Administration",
@@ -77,7 +117,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Dynatrace SaaS Platform Engineer",
@@ -85,7 +125,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "webMethods Developer",
@@ -93,7 +133,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "19 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Java Application Developer",
@@ -101,7 +141,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Senior Technical Specialist",
@@ -109,7 +149,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Pega Developer",
@@ -117,7 +157,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "21 hours ago"
   },
   {
     "title": "Director Information and Data Security (Global Security)",
@@ -125,7 +165,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Producer Experience – AI Lead",
@@ -133,7 +173,7 @@
     "company": "Gallagher",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Salesforce Marketing Cloud Architect",
@@ -141,7 +181,7 @@
     "company": "Gallagher",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "20 hours ago"
+    "postedDate": "22 hours ago"
   },
   {
     "title": "Senior Full Stack Developer (Java + Angular)",
@@ -198,45 +238,5 @@
     "location": "Provincial",
     "jobType": "Full Time",
     "postedDate": "3 days ago"
-  },
-  {
-    "title": "Business Analyst – Contract",
-    "link": "https://digitalnovascotia.com/job-posts/business-analyst-contract/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Manager, Strategic Planning",
-    "link": "https://digitalnovascotia.com/job-posts/senior-manager-strategic-planning/",
-    "company": "Efficiency Nova Scotia",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Roku Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/roku-engineer-4/",
-    "company": "TribalScale",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Product Manager, Defence & Security",
-    "link": "https://digitalnovascotia.com/job-posts/product-manager-defence-security/",
-    "company": "Global Spatial Technology Solutions",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Product Designer",
-    "link": "https://digitalnovascotia.com/job-posts/product-designer-12/",
-    "company": "Global Spatial Technology Solutions",
-    "location": "Dartmouth",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
   }
 ]
