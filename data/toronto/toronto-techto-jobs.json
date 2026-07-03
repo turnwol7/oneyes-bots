@@ -1,5 +1,23 @@
 [
   {
+    "title": "Senior .NET Developer",
+    "link": "https://jobs.techto.org/jobs/421422044-seniordot-netdeveloper",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Mississauga, Ontario, Canada)",
+    "postedDate": "3m ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Amazon Connect Developer",
+    "link": "https://jobs.techto.org/jobs/179870376-amazon-connect-developer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Engineering Manager",
     "link": "https://jobs.techto.org/jobs/459905386-engineering-manager",
     "company": "SuiteSpot Technology",
@@ -43,24 +61,6 @@
     "location": "",
     "postedDate": "1m ago",
     "tags": "Product & Engineering, Startup, proptech, product manager"
-  },
-  {
-    "title": "Founding Product Manager",
-    "link": "https://jobs.techto.org/jobs/483763065-founding-product-manager",
-    "company": "Ideogram",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Full Stack Product Engineer",
-    "link": "https://jobs.techto.org/jobs/286916863-full-stack-product-engineer",
-    "company": "Ideogram",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Staff Software Engineer",
@@ -176,7 +176,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -252,8 +252,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Quality Assurance Engineer",
-    "link": "https://jobs.techto.org/jobs/507029054-principal-quality-assurance-engineer",
+    "title": "Principal Software Engineer",
+    "link": "https://jobs.techto.org/jobs/449752677-principal-software-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
@@ -261,8 +261,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Software Engineer",
-    "link": "https://jobs.techto.org/jobs/449752677-principal-software-engineer",
+    "title": "Principal Quality Assurance Engineer",
+    "link": "https://jobs.techto.org/jobs/507029054-principal-quality-assurance-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
