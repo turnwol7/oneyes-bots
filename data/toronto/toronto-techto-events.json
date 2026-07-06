@@ -25,5 +25,14 @@
     "location": "Register To See Address",
     "price": "Invite Only",
     "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Together Toronto Together Toronto",
+    "link": "https://www.techto.org/event/together-toronto-august-10-2026",
+    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
+    "date": "August 10, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "U of T: Schwartz Reisman Innovation Campus, 108 College St, Toronto, ON M5G 0C6",
+    "price": "$30 Early Bird | Free for Members",
+    "status": "Sold OutUp NextSold Out"
   }
 ]
