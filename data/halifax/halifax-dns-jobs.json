@@ -5,7 +5,7 @@
     "company": "",
     "location": "Halifax",
     "jobType": "FreelanceFeatured Job",
-    "postedDate": "1 week ago"
+    "postedDate": "2 weeks ago"
   },
   {
     "title": "Senior Product Designer (UX/UI) AI SaaS – Contract",
@@ -13,7 +13,7 @@
     "company": "",
     "location": "Halifax",
     "jobType": "FreelanceFeatured Job",
-    "postedDate": "1 week ago"
+    "postedDate": "2 weeks ago"
   },
   {
     "title": "Smart Meter Solution Specialist",
@@ -21,7 +21,63 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full TimeFeatured Job",
-    "postedDate": "1 week ago"
+    "postedDate": "2 weeks ago"
+  },
+  {
+    "title": "Application Developer",
+    "link": "https://digitalnovascotia.com/job-posts/application-developer-10/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "1 second ago"
+  },
+  {
+    "title": "Senior IT Auditor (12 months contract)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-it-auditor-12-months-contract/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "3 minutes ago"
+  },
+  {
+    "title": "Senior Cyber Security Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-cyber-security-specialist-7/",
+    "company": "Sobeys",
+    "location": "Pictou",
+    "jobType": "Full Time",
+    "postedDate": "6 minutes ago"
+  },
+  {
+    "title": "Senior AI Engineer, Platform Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/senior-ai-engineer-platform-engineering-2/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "11 minutes ago"
+  },
+  {
+    "title": "Manager, Cyber Governance, Risk & Strategy",
+    "link": "https://digitalnovascotia.com/job-posts/manager-cyber-governance-risk-strategy/",
+    "company": "Nova Scotia Power",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "15 minutes ago"
+  },
+  {
+    "title": "Project Control Coordinator – PCO (Level 1)",
+    "link": "https://digitalnovascotia.com/job-posts/project-control-coordinator-pco-level-1/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "21 minutes ago"
+  },
+  {
+    "title": "Employee Success Manager",
+    "link": "https://digitalnovascotia.com/job-posts/employee-success-manager/",
+    "company": "REDspace Inc",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "26 minutes ago"
   },
   {
     "title": "IAM Specialist",
@@ -29,7 +85,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Cyber Security Specialist – Cyber Incident Management",
@@ -37,7 +93,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Integrated Planning Manager",
@@ -45,7 +101,7 @@
     "company": "Sobeys",
     "location": "Pictou",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior AI Engineer, Platform Engineering",
@@ -53,7 +109,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Marketing Manager, Canada",
@@ -61,7 +117,7 @@
     "company": "Resmed Halifax",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Cloud Infrastructure & Platform Solutions Architect",
@@ -69,7 +125,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Java Application Developer",
@@ -77,7 +133,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Product Owner/Manager",
@@ -85,7 +141,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Cloud Architect",
@@ -93,7 +149,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "2 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Business Analyst (Computer Services Officer 4)",
@@ -101,7 +157,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 hours ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Solution Architect",
@@ -109,7 +165,7 @@
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Infra Technology Specialist-VMware and Window Server Administration",
@@ -117,7 +173,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Dynatrace SaaS Platform Engineer",
@@ -125,7 +181,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "webMethods Developer",
@@ -133,7 +189,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Java Application Developer",
@@ -141,7 +197,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Technical Specialist",
@@ -149,7 +205,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Pega Developer",
@@ -157,7 +213,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "21 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Director Information and Data Security (Global Security)",
@@ -165,7 +221,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Producer Experience – AI Lead",
@@ -173,7 +229,7 @@
     "company": "Gallagher",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Salesforce Marketing Cloud Architect",
@@ -181,62 +237,6 @@
     "company": "Gallagher",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "22 hours ago"
-  },
-  {
-    "title": "Senior Full Stack Developer (Java + Angular)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-java-angular-5/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Integration Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/integration-specialist-10/",
-    "company": "Bluedrop",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Software Engineer (Full-Stack Web Developer/Learninglogics)",
-    "link": "https://digitalnovascotia.com/job-posts/software-engineer-full-stack-web-developer-learninglogics-2/",
-    "company": "Bluedrop",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "AI Engineer – Multi-Modal LLM Orchestration, Knowledge – Graph RAG & S1000D/ASD-SPEC Compliance",
-    "link": "https://digitalnovascotia.com/job-posts/ai-engineer-multi-modal-llm-ochestration-knowlege-graph-rag-s1000d-asd-spec-compliance/",
-    "company": "ARKEN",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Chief Technology Officer (CTO) – AI/ML & Agentic Systems & S1000D Architecture",
-    "link": "https://digitalnovascotia.com/job-posts/chief-technology-officer-cto-ai-ml-agentic-systems-s1000d-architecture/",
-    "company": "ARKEN",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Technology Enablement Technician",
-    "link": "https://digitalnovascotia.com/job-posts/technology-enablement-technician/",
-    "company": "East Coast Credit Union",
-    "location": "Antigonish",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Clinical Informatics Workforce & Program Development Lead – Contract",
-    "link": "https://digitalnovascotia.com/job-posts/clinical-informatics-workforce-program-development-lead-contract/",
-    "company": "Compugen",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
+    "postedDate": "4 days ago"
   }
 ]
