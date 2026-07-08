@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior .NET Developer",
-    "link": "https://jobs.techto.org/jobs/421422044-seniordot-netdeveloper",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Mississauga, Ontario, Canada)",
-    "postedDate": "3m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Amazon Connect Developer",
     "link": "https://jobs.techto.org/jobs/179870376-amazon-connect-developer",
     "company": "GuruLink",
@@ -257,7 +248,16 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "5d ago",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Staff Software Engineer",
+    "link": "https://jobs.techto.org/jobs/230982795-staff-software-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "21h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -266,7 +266,7 @@
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "8h ago",
+    "postedDate": "9h ago",
     "tags": "Product & Engineering"
   }
 ]
