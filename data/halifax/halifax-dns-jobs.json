@@ -16,12 +16,44 @@
     "postedDate": "2 weeks ago"
   },
   {
+    "title": "Devops Solutions Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/devops-solutions-engineer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior Data Analyst – Part Time – Contract",
+    "link": "https://digitalnovascotia.com/job-posts/senior-data-analyst-part-time-contract/",
+    "company": "Compugen",
+    "location": "Provincial",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Account Executive – Defence",
+    "link": "https://digitalnovascotia.com/job-posts/account-executive-defence/",
+    "company": "Global Spatial Technology Solutions",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Recruiter",
+    "link": "https://digitalnovascotia.com/job-posts/recruiter-2/",
+    "company": "Bulletproof",
+    "location": "Nova Scotia",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Business Analyst – Core & Digital Banking (Credit Union)",
     "link": "https://digitalnovascotia.com/job-posts/business-analyst-core-digital-banking-credit-union-2/",
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "12 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Advisor, Geoscience Data & Systems, NovaGEOSCIENCE",
@@ -29,7 +61,7 @@
     "company": "Dalhousie University",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "20 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Deskside Support Technician",
@@ -37,7 +69,7 @@
     "company": "Bluedrop",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Business Systems Analyst",
@@ -45,7 +77,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "29 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Analyst, Metadata Management",
@@ -53,7 +85,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "32 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Research Analyst",
@@ -61,7 +93,7 @@
     "company": "Invest Nova Scotia",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "36 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Content Engineer (part-time)",
@@ -206,37 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "2 days ago"
-  },
-  {
-    "title": "Fullstack AI Engineer – GFT Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/fullstack-ai-engineer-gft-halifax/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior IAM Systems Engineer, Identity Data & Workflow Engineering (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-iam-systems-engineer-identity-data-workflow-engineering-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Senior Manager, RBC Innovation Hubs",
-    "link": "https://digitalnovascotia.com/job-posts/senior-manager-rbc-innovation-hubs/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
-  },
-  {
-    "title": "Application Developer",
-    "link": "https://digitalnovascotia.com/job-posts/application-developer-10/",
-    "company": "Sobeys",
-    "location": "Pictou",
-    "jobType": "Full Time",
-    "postedDate": "3 days ago"
   }
 ]
