@@ -1,14 +1,5 @@
 [
   {
-    "title": "Engineering Manager",
-    "link": "https://jobs.techto.org/jobs/459905386-engineering-manager",
-    "company": "SuiteSpot Technology",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Staff Engineer",
     "link": "https://jobs.techto.org/jobs/269605509-staff-engineer",
     "company": "GuruLink",
@@ -198,8 +189,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Senior Software Engineer",
-    "link": "https://jobs.techto.org/jobs/510990051-senior-software-engineer",
+    "title": "Principal Quality Assurance Engineer",
+    "link": "https://jobs.techto.org/jobs/510990050-principal-quality-assurance-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
@@ -207,8 +198,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Quality Assurance Engineer",
-    "link": "https://jobs.techto.org/jobs/510990050-principal-quality-assurance-engineer",
+    "title": "Senior Software Engineer",
+    "link": "https://jobs.techto.org/jobs/510990051-senior-software-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
@@ -268,5 +259,14 @@
     "location": "",
     "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Software Developer",
+    "link": "https://jobs.techto.org/jobs/520874630-senior-software-developer",
+    "company": "7shifts",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "38min ago",
+    "tags": "Product & Engineering, Growth, software development, SaaS, senior engineer, ai engineering, software engineering"
   }
 ]
