@@ -1,14 +1,5 @@
 [
   {
-    "title": "QA Engineer",
-    "link": "https://jobs.techto.org/jobs/488943326-qa-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Backend Developer",
     "link": "https://jobs.techto.org/jobs/494065270-senior-backend-developer",
     "company": "GuruLink",
@@ -18,8 +9,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Director of Product, North",
-    "link": "https://jobs.techto.org/jobs/495326387-director-of-product-north",
+    "title": "Product Manager, Integrations",
+    "link": "https://jobs.techto.org/jobs/495326386-product-manager-integrations",
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -27,8 +18,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Product Manager, Integrations",
-    "link": "https://jobs.techto.org/jobs/495326386-product-manager-integrations",
+    "title": "Director of Product, North",
+    "link": "https://jobs.techto.org/jobs/495326387-director-of-product-north",
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -162,8 +153,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Quality Assurance Engineer",
-    "link": "https://jobs.techto.org/jobs/510990050-principal-quality-assurance-engineer",
+    "title": "Senior Software Engineer",
+    "link": "https://jobs.techto.org/jobs/510990051-senior-software-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
@@ -171,8 +162,8 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Senior Software Engineer",
-    "link": "https://jobs.techto.org/jobs/510990051-senior-software-engineer",
+    "title": "Principal Quality Assurance Engineer",
+    "link": "https://jobs.techto.org/jobs/510990050-principal-quality-assurance-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
@@ -268,5 +259,14 @@
     "location": "",
     "postedDate": "1d ago",
     "tags": "Product & Engineering, Growth, software development, SaaS, senior engineer, ai engineering, software engineering"
+  },
+  {
+    "title": "Engineering Manager, Activation",
+    "link": "https://jobs.techto.org/jobs/523270805-engineering-manager-activation",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
