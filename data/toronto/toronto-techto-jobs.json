@@ -1,14 +1,5 @@
 [
   {
-    "title": "Technical Implementation Manager",
-    "link": "https://jobs.techto.org/jobs/473403494-technical-implementation-manager",
-    "company": "SuiteSpot Technology",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, ON)",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "QA Engineer",
     "link": "https://jobs.techto.org/jobs/488943326-qa-engineer",
     "company": "GuruLink",
@@ -268,5 +259,14 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Dynamics 365 CRM Developer / Technical Architect",
+    "link": "https://jobs.techto.org/jobs/525456949-dynamics-365-crm-developer-technical-architect",
+    "company": "GuruLink",
+    "jobType": "Contract",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
   }
 ]
