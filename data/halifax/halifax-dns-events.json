@@ -112,9 +112,23 @@
     "cost": ""
   },
   {
+    "title": "AI Working Group Meetup",
+    "link": "https://digitalnovascotia.com/event/ai-working-group-meetup/",
+    "datetime": "July 22 @ 5:00 pm - 7:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "$100 Youth Startup Challenge",
     "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
     "datetime": "All day",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Ocean Connector: Building Canada’s Workforce for the Future",
+    "link": "https://digitalnovascotia.com/event/ocean-connector-building-canadas-workforce-for-the-future/",
+    "datetime": "July 23 @ 4:00 pm - 6:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -136,6 +150,13 @@
     "title": "Coffee, Community and Co – Work",
     "link": "https://digitalnovascotia.com/event/coffee-community-and-co-work-5/",
     "datetime": "July 29 @ 9:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Defence Trials & Demonstration Opportunities: Industry Engagement Event",
+    "link": "https://digitalnovascotia.com/event/defence-trials-demonstration-opportunities-industry-engagement-event/",
+    "datetime": "July 30 @ 2:00 pm - 4:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
