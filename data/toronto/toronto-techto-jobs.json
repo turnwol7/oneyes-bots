@@ -1,14 +1,5 @@
 [
   {
-    "title": "Staff Engineer",
-    "link": "https://jobs.techto.org/jobs/269605509-staff-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Head of Engineering",
     "link": "https://jobs.techto.org/jobs/472712408-head-of-engineering",
     "company": "GuruLink",
@@ -185,7 +176,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -225,8 +216,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Frontend Engineer, Growth & Agents",
-    "link": "https://jobs.techto.org/jobs/521537549-senior-frontend-engineer-growth-agents",
+    "title": "Senior Backend Engineer, Growth & Agents",
+    "link": "https://jobs.techto.org/jobs/521537551-senior-backend-engineer-growth-agents",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -234,8 +225,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Backend Engineer, Growth & Agents",
-    "link": "https://jobs.techto.org/jobs/521537551-senior-backend-engineer-growth-agents",
+    "title": "Senior Frontend Engineer, Growth & Agents",
+    "link": "https://jobs.techto.org/jobs/521537549-senior-frontend-engineer-growth-agents",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -268,5 +259,14 @@
     "location": "",
     "postedDate": "6d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Production Associate (Evening Shift)",
+    "link": "https://jobs.techto.org/jobs/541427150-production-associate-evening-shift",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "20min ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
