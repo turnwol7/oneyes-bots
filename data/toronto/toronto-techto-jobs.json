@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior .NET Developer",
-    "link": "https://jobs.techto.org/jobs/421422044-seniordot-netdeveloper",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Mississauga, Ontario, Canada)",
-    "postedDate": "3m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Amazon Connect Developer",
     "link": "https://jobs.techto.org/jobs/179870376-amazon-connect-developer",
     "company": "GuruLink",
@@ -162,24 +153,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Senior Software Engineer",
-    "link": "https://jobs.techto.org/jobs/115286885-senior-software-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "2w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Staff Software Engineer",
-    "link": "https://jobs.techto.org/jobs/230982795-staff-software-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "2w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Principal Software Engineer",
     "link": "https://jobs.techto.org/jobs/465629802-principal-software-engineer",
     "company": "Questrade Financial Group",
@@ -263,6 +236,33 @@
   {
     "title": "Production Associate (Evening Shift)",
     "link": "https://jobs.techto.org/jobs/541427150-production-associate-evening-shift",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "2d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Staff Platform Engineer",
+    "link": "https://jobs.techto.org/jobs/548069115-staff-platform-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "link": "https://jobs.techto.org/jobs/115286885-senior-software-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Staff Software Engineer",
+    "link": "https://jobs.techto.org/jobs/230982795-staff-software-engineer",
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
