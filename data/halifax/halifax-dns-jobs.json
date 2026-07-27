@@ -1,5 +1,13 @@
 [
   {
+    "title": "Director, SAP APFA Platform Lead",
+    "link": "https://digitalnovascotia.com/job-posts/director-sap-apfa-platform-lead/",
+    "company": "RBC Technology & Operations",
+    "location": "Halifax",
+    "jobType": "Full TimeFeatured Job",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Head of Engineering / Founding CTO – AI SaaS",
     "link": "https://digitalnovascotia.com/job-posts/head-of-engineering-founding-cto-ai-saas/",
     "company": "",
@@ -16,12 +24,76 @@
     "postedDate": "1 month ago"
   },
   {
+    "title": "Staff AI Data Scientist",
+    "link": "https://digitalnovascotia.com/job-posts/staff-ai-data-scientist-2/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "40 minutes ago"
+  },
+  {
+    "title": "VP, Product Management, AI Security & Strategy",
+    "link": "https://digitalnovascotia.com/job-posts/vp-product-management-ai-security-strategy/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "48 minutes ago"
+  },
+  {
+    "title": "Staff Software Development Engineer – macOS Endpoint",
+    "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer-macos-endpoint/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "53 minutes ago"
+  },
+  {
+    "title": "Product Security Architect",
+    "link": "https://digitalnovascotia.com/job-posts/product-security-architect-3/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "56 minutes ago"
+  },
+  {
+    "title": "Manager, Demand Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/manager-demand-engineer/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Salesforce Solution Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-solution-consultant/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "AWS Cloud Operations Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/aws-cloud-operations-engineer/",
+    "company": "Cognizant",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Senior Marketing Events Specialist",
+    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-events-specialist/",
+    "company": "Compugen",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Product Manager",
     "link": "https://digitalnovascotia.com/job-posts/product-manager-39/",
     "company": "QuickFacts Inc",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "57 minutes ago"
+    "postedDate": "5 hours ago"
   },
   {
     "title": "Intermediate Business Systems Analyst (BSA) – Payments",
@@ -166,77 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "1 week ago"
-  },
-  {
-    "title": "Senior Business Systems Analyst (BSA) – Payments",
-    "link": "https://digitalnovascotia.com/job-posts/senior-business-systems-analyst-bsa-payments/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Data Analyst Co-op (Master’s Student)",
-    "link": "https://digitalnovascotia.com/job-posts/data-analyst-co-op-masters-student/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Capital Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/capital-engineer-3/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Co-op Engineering – ECEI",
-    "link": "https://digitalnovascotia.com/job-posts/co-op-engineering-ecei/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Senior Database Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-database-developer-2/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 weeks ago"
-  },
-  {
-    "title": "Employee Experience Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/employee-experience-engineer-2/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 weeks ago"
-  },
-  {
-    "title": "Senior Marketing Manager, Consumer Health & Partnerships – Canada",
-    "link": "https://digitalnovascotia.com/job-posts/senior-marketing-manager-consumer-health-partnerships-canada/",
-    "company": "Resmed Halifax",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 weeks ago"
-  },
-  {
-    "title": "Staff Engineer, Identity Data and Workflow Engineering",
-    "link": "https://digitalnovascotia.com/job-posts/staff-engineer-identity-data-and-workflow-engineering-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 weeks ago"
-  },
-  {
-    "title": "Sr IAM Engineer – Vault Specialist (CyberArk, Hashicorp) (Global Security)",
-    "link": "https://digitalnovascotia.com/job-posts/sr-iam-engineer-vault-specialist-cyberark-hashicorp-global-security/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 weeks ago"
   }
 ]
