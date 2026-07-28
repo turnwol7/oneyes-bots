@@ -5,7 +5,7 @@
     "company": "",
     "location": "Remote",
     "jobType": "VolunteerFeatured Job",
-    "postedDate": "16 minutes ago"
+    "postedDate": "3 hours ago"
   },
   {
     "title": "Director, SAP APFA Platform Lead",
@@ -32,12 +32,52 @@
     "postedDate": "1 month ago"
   },
   {
+    "title": "Marketing Coordinator",
+    "link": "https://digitalnovascotia.com/job-posts/marketing-coordinator-17/",
+    "company": "REDspace Inc",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Project Manager",
+    "link": "https://digitalnovascotia.com/job-posts/project-manager-79/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Forward Deployed Developer (Golang/Next.js)",
+    "link": "https://digitalnovascotia.com/job-posts/forward-deployed-developer-golang-next-js/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Specialist, Information Security",
+    "link": "https://digitalnovascotia.com/job-posts/specialist-information-security-2/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Software Engineering Manager",
+    "link": "https://digitalnovascotia.com/job-posts/software-engineering-manager-5/",
+    "company": "Resmed Halifax",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Senior IAM Systems Engineer-Idira (Global Security)",
     "link": "https://digitalnovascotia.com/job-posts/senior-iam-systems-engineer-idira-global-security/",
     "company": "RBC Technology & Operations",
     "location": "Nova Scotia",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Sr IAM Engineer – Secret Management (Global Security)",
@@ -45,7 +85,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "4 hours ago"
+    "postedDate": "7 hours ago"
   },
   {
     "title": "Associate Director DevOps Developer",
@@ -53,7 +93,7 @@
     "company": "RBC Technology & Operations",
     "location": "Nova Scotia",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "8 hours ago"
   },
   {
     "title": "Lead, IAM Operations Analyst (Global Security)",
@@ -61,7 +101,7 @@
     "company": "RBC Technology & Operations",
     "location": "Nova Scotia",
     "jobType": "Full Time",
-    "postedDate": "5 hours ago"
+    "postedDate": "8 hours ago"
   },
   {
     "title": "Staff AI Data Scientist",
@@ -69,7 +109,7 @@
     "company": "BeyondTrust",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "VP, Product Management, AI Security & Strategy",
@@ -77,7 +117,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Staff Software Development Engineer – macOS Endpoint",
@@ -85,7 +125,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Product Security Architect",
@@ -93,7 +133,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Manager, Demand Engineer",
@@ -198,45 +238,5 @@
     "location": "Halifax",
     "jobType": "Full Time",
     "postedDate": "1 week ago"
-  },
-  {
-    "title": "Database Platform Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/database-platform-engineer/",
-    "company": "Humankind Global Recruitment",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Senior Software Developer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-software-developer-38/",
-    "company": "Venor Search Group",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Business Development Manager – Commercial Insurance NS",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-manager-commercial-insurance-ns/",
-    "company": "Munn Insurance",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Management Information Systems",
-    "link": "https://digitalnovascotia.com/job-posts/management-information-systems/",
-    "company": "Mount Saint Vincent University",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Business Development Representative (BDR), 1 Year Contract",
-    "link": "https://digitalnovascotia.com/job-posts/business-development-representative-bdr-1-year-contract-2/",
-    "company": "Compugen",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "2 weeks ago"
   }
 ]
