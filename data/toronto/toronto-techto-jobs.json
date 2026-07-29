@@ -1,14 +1,5 @@
 [
   {
-    "title": "QA Engineer",
-    "link": "https://jobs.techto.org/jobs/488943326-qa-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Backend Developer",
     "link": "https://jobs.techto.org/jobs/494065270-senior-backend-developer",
     "company": "GuruLink",
@@ -153,8 +144,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Backend Engineer, Growth & Agents",
-    "link": "https://jobs.techto.org/jobs/521537551-senior-backend-engineer-growth-agents",
+    "title": "Senior Frontend Engineer, Growth & Agents",
+    "link": "https://jobs.techto.org/jobs/521537549-senior-frontend-engineer-growth-agents",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -162,8 +153,8 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Frontend Engineer, Growth & Agents",
-    "link": "https://jobs.techto.org/jobs/521537549-senior-frontend-engineer-growth-agents",
+    "title": "Senior Backend Engineer, Growth & Agents",
+    "link": "https://jobs.techto.org/jobs/521537551-senior-backend-engineer-growth-agents",
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
@@ -261,12 +252,21 @@
     "tags": "Product & Engineering"
   },
   {
+    "title": "Senior Product Manager, Growth",
+    "link": "https://jobs.techto.org/jobs/563930063-senior-product-manager-growth",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "7h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Principal Software Engineer",
     "link": "https://jobs.techto.org/jobs/563676498-principal-software-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "47min ago",
+    "postedDate": "3h ago",
     "tags": "Product & Engineering"
   }
 ]
