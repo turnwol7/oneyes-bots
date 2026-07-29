@@ -1,14 +1,5 @@
 [
   {
-    "title": "Technical Implementation Manager",
-    "link": "https://jobs.techto.org/jobs/473403494-technical-implementation-manager",
-    "company": "SuiteSpot Technology",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, ON)",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "QA Engineer",
     "link": "https://jobs.techto.org/jobs/488943326-qa-engineer",
     "company": "GuruLink",
@@ -117,15 +108,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Quality Assurance Engineer",
-    "link": "https://jobs.techto.org/jobs/510990050-principal-quality-assurance-engineer",
-    "company": "Questrade Financial Group",
-    "jobType": "",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Software Engineer",
     "link": "https://jobs.techto.org/jobs/510990051-senior-software-engineer",
     "company": "Questrade Financial Group",
@@ -135,21 +117,12 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Principal Quality Assurance Engineer",
-    "link": "https://jobs.techto.org/jobs/507029054-principal-quality-assurance-engineer",
-    "company": "Questrade Financial Group",
-    "jobType": "",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Principal Software Engineer",
-    "link": "https://jobs.techto.org/jobs/561396845-principal-software-engineer",
+    "link": "https://jobs.techto.org/jobs/465629802-principal-software-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -221,7 +194,7 @@
     "company": "GuruLink",
     "jobType": "Contract",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -230,7 +203,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -239,7 +212,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "5d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +221,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "5d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -257,7 +230,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "5d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -266,7 +239,34 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4d ago",
+    "postedDate": "5d ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "AWS Connect Engineer",
+    "link": "https://jobs.techto.org/jobs/563540360-aws-connect-engineer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Sr. IVR Developer",
+    "link": "https://jobs.techto.org/jobs/563540362-sr-ivr-developer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Principal Software Engineer",
+    "link": "https://jobs.techto.org/jobs/563676498-principal-software-engineer",
+    "company": "Questrade Financial Group",
+    "jobType": "",
+    "location": "",
+    "postedDate": "47min ago",
     "tags": "Product & Engineering"
   }
 ]
