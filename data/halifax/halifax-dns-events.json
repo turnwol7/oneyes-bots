@@ -1,145 +1,5 @@
 [
   {
-    "title": "Entrepreneurial Edge:A Complete Guide to Starting a Business in Nova Scotia",
-    "link": "https://digitalnovascotia.com/event/entrepreneurial-edgea-complete-guide-to-starting-a-business-in-nova-scotia/",
-    "datetime": "July 2 @ 5:30 pm - 6:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "So You Need a Business Loan, Are You Actually Ready?",
-    "link": "https://digitalnovascotia.com/event/so-you-need-a-business-loan-are-you-actually-ready/",
-    "datetime": "July 7 @ 12:00 pm - 1:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Showcase and Mixer",
-    "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-9/",
-    "datetime": "July 7 @ 6:00 pm - 8:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Agentics Foundation Meetup",
-    "link": "https://digitalnovascotia.com/event/agentics-foundation-meetup/",
-    "datetime": "July 8 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "DEFCON Halifax July Meet-Up",
-    "link": "https://digitalnovascotia.com/event/defcon-halifax-july-meet-up-3/",
-    "datetime": "July 9 @ 6:30 pm - 8:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Vibe Code Meetup",
-    "link": "https://digitalnovascotia.com/event/vibe-code-meetup/",
-    "datetime": "July 13 @ 6:00 pm - 8:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "HFX Lockpickers Club",
-    "link": "https://digitalnovascotia.com/event/hfx-lockpickers-club/",
-    "datetime": "July 14 @ 5:00 pm - 7:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "The Marketing Meetup IRL: Halifax",
-    "link": "https://digitalnovascotia.com/event/the-marketing-meetup-irl-halifax/",
-    "datetime": "July 14 @ 6:30 pm - 8:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Third Wednesday Networking Night",
-    "link": "https://digitalnovascotia.com/event/third-wednesday-networking-night/",
-    "datetime": "July 15 @ 5:00 pm - 7:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Business and AI: What Comes Next?",
-    "link": "https://digitalnovascotia.com/event/business-and-ai-what-comes-next/",
-    "datetime": "July 16 @ 3:00 pm - 5:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Claude for Sales (Women-Focused)",
-    "link": "https://digitalnovascotia.com/event/claude-for-sales-women-focused/",
-    "datetime": "July 16 @ 6:00 pm - 8:30 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "$100 Youth Startup Challenge",
-    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "$100 Youth Startup Challenge",
-    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Defence Sector IP Essentials: Protecting Your Competitive Advantage",
-    "link": "https://digitalnovascotia.com/event/defence-sector-ip-essentials-protecting-your-competitive-advantage/",
-    "datetime": "July 21 @ 9:00 am - 10:30 am  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "$100 Youth Startup Challenge",
-    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Getting Started with AI: An Everyday Guide for Non Profits",
-    "link": "https://digitalnovascotia.com/event/getting-started-with-ai-an-everyday-guide-for-non-profits/",
-    "datetime": "July 22 @ 12:00 pm - 1:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "AI Working Group Meetup",
-    "link": "https://digitalnovascotia.com/event/ai-working-group-meetup/",
-    "datetime": "July 22 @ 5:00 pm - 7:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "$100 Youth Startup Challenge",
-    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "Ocean Connector: Building Canada’s Workforce for the Future",
-    "link": "https://digitalnovascotia.com/event/ocean-connector-building-canadas-workforce-for-the-future/",
-    "datetime": "July 23 @ 4:00 pm - 6:00 pm  ADT",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
-    "title": "$100 Youth Startup Challenge",
-    "link": "https://digitalnovascotia.com/event/100-youth-startup-challenge-2/",
-    "datetime": "All day",
-    "isVirtual": false,
-    "cost": ""
-  },
-  {
     "title": "DNS Summer Member Mixer | Lunenburg",
     "link": "https://digitalnovascotia.com/event/dns-summer-member-mixer-lunenburg/",
     "datetime": "Featured\n\t\t\t\n\t\t\tJuly 29 @ 5:30 pm - 8:00 pm  ADT",
@@ -157,6 +17,132 @@
     "title": "Defence Trials & Demonstration Opportunities: Industry Engagement Event",
     "link": "https://digitalnovascotia.com/event/defence-trials-demonstration-opportunities-industry-engagement-event/",
     "datetime": "July 30 @ 2:00 pm - 4:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "UP + ATOM Sport & Science Camp | Glace Bay",
+    "link": "https://digitalnovascotia.com/event/up-atom-sport-science-camp-glace-bay/",
+    "datetime": "August 5 @ 9:00 am - August 6 @ 3:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Why AI isn’t Recommending Your Business (And What to do About It)",
+    "link": "https://digitalnovascotia.com/event/why-ai-isnt-recommending-your-business-and-what-to-do-about-it/",
+    "datetime": "August 5 @ 1:00 am - 2:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "UP + ATOM Sport & Science Camp | Glace Bay",
+    "link": "https://digitalnovascotia.com/event/up-atom-sport-science-camp-glace-bay/",
+    "datetime": "August 5 @ 9:00 am - August 6 @ 3:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Entrepreneurial Edge: A Complete Guide to Starting a Business in Nova Scotia",
+    "link": "https://digitalnovascotia.com/event/entrepreneurial-edgea-complete-guide-to-starting-a-business-in-nova-scotia-2/",
+    "datetime": "August 6 @ 5:30 pm - 6:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Women+ in STEM & Skilled Trades Summer Mixer",
+    "link": "https://digitalnovascotia.com/event/women-in-stem-skilled-trades-summer-mixer/",
+    "datetime": "August 6 @ 6:00 pm - 9:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "DEFCON Halifax August Meet-Up",
+    "link": "https://digitalnovascotia.com/event/defcon-halifax-august-meet-up-3/",
+    "datetime": "August 6 @ 6:30 pm - 8:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "HFX Lockpickers Club",
+    "link": "https://digitalnovascotia.com/event/hfx-lockpickers-club-2/",
+    "datetime": "August 11 @ 5:00 pm - 7:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "AI Model Evaluation: Measuring What Matters (Workshop)",
+    "link": "https://digitalnovascotia.com/event/ai-model-evaluation-measuring-what-matters-workshop/",
+    "datetime": "August 12 @ 1:00 pm - 3:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "BIJ’s Stem Summer Boot Camp",
+    "link": "https://digitalnovascotia.com/event/bijs-stem-summer-boot-camp/",
+    "datetime": "August 14 @ 9:30 am - August 18 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Computation and Cognition Symposium 2026",
+    "link": "https://digitalnovascotia.com/event/computation-and-cognition-symposium-2026-2/",
+    "datetime": "August 14 @ 8:30 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "So You Need a Business Loan, Are You Actually Ready?",
+    "link": "https://digitalnovascotia.com/event/so-you-need-a-business-loan-are-you-actually-ready-2/",
+    "datetime": "August 14 @ 12:00 pm - 1:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "BIJ’s Stem Summer Boot Camp",
+    "link": "https://digitalnovascotia.com/event/bijs-stem-summer-boot-camp/",
+    "datetime": "August 14 @ 9:30 am - August 18 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "BIJ’s Stem Summer Boot Camp",
+    "link": "https://digitalnovascotia.com/event/bijs-stem-summer-boot-camp/",
+    "datetime": "August 14 @ 9:30 am - August 18 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "BIJ’s Stem Summer Boot Camp",
+    "link": "https://digitalnovascotia.com/event/bijs-stem-summer-boot-camp/",
+    "datetime": "August 14 @ 9:30 am - August 18 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "BIJ’s Stem Summer Boot Camp",
+    "link": "https://digitalnovascotia.com/event/bijs-stem-summer-boot-camp/",
+    "datetime": "August 14 @ 9:30 am - August 18 @ 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Third Wednesday Networking Night",
+    "link": "https://digitalnovascotia.com/event/third-wednesday-networking-night-3/",
+    "datetime": "August 19 @ 5:00 pm - 7:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "B2B Sales Fundamentals for the AI Era",
+    "link": "https://digitalnovascotia.com/event/b2b-sales-fundamentals-for-the-ai-era/",
+    "datetime": "August 20 @ 10:00 am - 11:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "OffshoreWind4Kids Interactive Showcase – Inverness Beach",
+    "link": "https://digitalnovascotia.com/event/offshorewind4kids-interactive-showcase-inverness-beach/",
+    "datetime": "August 26 @ 11:00 am - 12:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   }
