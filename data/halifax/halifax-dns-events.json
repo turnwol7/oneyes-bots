@@ -142,7 +142,14 @@
   {
     "title": "B2B Sales Fundamentals for the AI Era",
     "link": "https://digitalnovascotia.com/event/b2b-sales-fundamentals-for-the-ai-era/",
-    "datetime": "August 20 @ 10:00 am - 11:00 pm  ADT",
+    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 20 @ 10:00 am - 11:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Summer Member Mixer | Halifax",
+    "link": "https://digitalnovascotia.com/event/summer-member-mixer-halifax/",
+    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 26 @ 5:30 pm - 8:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
