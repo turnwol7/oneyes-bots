@@ -1,16 +1,16 @@
 [
   {
-    "title": "Print Services Specialist (Computer Services Officer 3)Print Services Specialist (Computer Services Officer 3)",
-    "link": "https://jobs.novascotia.ca/job/HALIFAX-Print-Services-Specialist-%28Computer-Services-Officer-3%29-NS-B3K-2A6/604812417/",
-    "department": "Cyber Security & Digital Solutions",
-    "location": "HALIFAX, NS, CA, B3K 2A6",
-    "closingDate": "Jul 30, 2026"
-  },
-  {
     "title": "Product Director - Early Years ModernizationProduct Director - Early Years Modernization",
     "link": "https://jobs.novascotia.ca/job/HALIFAX-Product-Director-Early-Years-Modernization-NS-B3J-2Y1/604816617/",
     "department": "Cyber Security & Digital Solutions",
     "location": "HALIFAX, NS, CA, B3J 2Y1",
+    "closingDate": "Jul 30, 2026"
+  },
+  {
+    "title": "Print Services Specialist (Computer Services Officer 3)Print Services Specialist (Computer Services Officer 3)",
+    "link": "https://jobs.novascotia.ca/job/HALIFAX-Print-Services-Specialist-%28Computer-Services-Officer-3%29-NS-B3K-2A6/604812417/",
+    "department": "Cyber Security & Digital Solutions",
+    "location": "HALIFAX, NS, CA, B3K 2A6",
     "closingDate": "Jul 30, 2026"
   },
   {
@@ -19,5 +19,26 @@
     "department": "Cyber Security & Digital Solutions",
     "location": "HALIFAX, NS, CA, B3K 2A6",
     "closingDate": "Aug 4, 2026"
+  },
+  {
+    "title": "Manager, FirewallManager, Firewall",
+    "link": "https://jobs.novascotia.ca/job/HALIFAX-Manager%2C-Firewall-NS-B3K-2A6/604940217/",
+    "department": "Cyber Security & Digital Solutions",
+    "location": "HALIFAX, NS, CA, B3K 2A6",
+    "closingDate": "Aug 5, 2026"
+  },
+  {
+    "title": "Network Analyst (Computer Services Officer 3)Network Analyst (Computer Services Officer 3)",
+    "link": "https://jobs.novascotia.ca/job/NEW-GLASGOW-Network-Analyst-%28Computer-Services-Officer-3%29-NS-B2H-3S6/604939217/",
+    "department": "Cyber Security & Digital Solutions",
+    "location": "NEW GLASGOW, NS, CA, B2H 3S6",
+    "closingDate": "Aug 5, 2026"
+  },
+  {
+    "title": "Manager, NetworksManager, Networks",
+    "link": "https://jobs.novascotia.ca/job/HALIFAX-Manager%2C-Networks-NS-B3K-2A6/604941617/",
+    "department": "Cyber Security & Digital Solutions",
+    "location": "HALIFAX, NS, CA, B3K 2A6",
+    "closingDate": "Aug 5, 2026"
   }
 ]
