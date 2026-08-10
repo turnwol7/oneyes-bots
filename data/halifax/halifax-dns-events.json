@@ -63,6 +63,13 @@
     "cost": ""
   },
   {
+    "title": "Computation and Cognition Symposium 2026",
+    "link": "https://digitalnovascotia.com/event/computation-and-cognition-symposium-2026/",
+    "datetime": "August 10 @ 8:00 am - 5:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "HFX Lockpickers Club",
     "link": "https://digitalnovascotia.com/event/hfx-lockpickers-club-2/",
     "datetime": "August 11 @ 5:00 pm - 7:00 pm  ADT",
@@ -80,6 +87,13 @@
     "title": "Halifax – August Agentics Foundation Meetup",
     "link": "https://digitalnovascotia.com/event/halifax-agentics-foundation-meetup-3/",
     "datetime": "August 12 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "CEO Breakfast with Jon McGinley",
+    "link": "https://digitalnovascotia.com/event/ceo-breakfast-with-jon-mcginley/",
+    "datetime": "August 13 @ 9:30 am - 11:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -126,6 +140,13 @@
     "cost": ""
   },
   {
+    "title": "Vibe Coding Meetup",
+    "link": "https://digitalnovascotia.com/event/vibe-coding-meetup-8/",
+    "datetime": "August 17 @ 6:00 pm - 8:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "BIJ’s Stem Summer Boot Camp",
     "link": "https://digitalnovascotia.com/event/bijs-stem-summer-boot-camp/",
     "datetime": "August 14 @ 9:30 am - August 18 @ 5:00 pm  ADT",
@@ -149,7 +170,7 @@
   {
     "title": "Summer Member Mixer | Halifax",
     "link": "https://digitalnovascotia.com/event/summer-member-mixer-halifax/",
-    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 26 @ 5:30 pm - 8:00 pm  ADT",
+    "datetime": "Featured\n\t\t\t\n\t\t\tAugust 26 @ 5:30 pm - 7:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
