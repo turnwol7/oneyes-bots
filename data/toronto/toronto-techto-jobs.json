@@ -1,23 +1,5 @@
 [
   {
-    "title": "Technical Implementation Manager",
-    "link": "https://jobs.techto.org/jobs/473403494-technical-implementation-manager",
-    "company": "SuiteSpot Technology",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, ON)",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
-    "title": "QA Engineer",
-    "link": "https://jobs.techto.org/jobs/488943326-qa-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Backend Developer",
     "link": "https://jobs.techto.org/jobs/494065270-senior-backend-developer",
     "company": "GuruLink",
@@ -261,6 +243,15 @@
     "tags": "Product & Engineering, AI, UI/UX, product design"
   },
   {
+    "title": "Senior Application Security Engineer II",
+    "link": "https://jobs.techto.org/jobs/601112157-senior-application-security-engineer-ii",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Staff Engineer - (Forward Deployed)",
     "link": "https://jobs.techto.org/jobs/600619403-staff-engineer-forward-deployed",
     "company": "GuruLink",
@@ -268,5 +259,14 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Application Security Engineer II",
+    "link": "https://jobs.techto.org/jobs/601112156-application-security-engineer-ii",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
