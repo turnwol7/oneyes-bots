@@ -40,12 +40,84 @@
     "postedDate": "2 weeks ago"
   },
   {
+    "title": "Staff Software Development Engineer – Linux Endpoint",
+    "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer-linux-endpoint/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Staff Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/staff-software-development-engineer-4/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Staff Site Reliability Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/staff-site-reliability-engineer/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Sr Staff Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-staff-software-development-engineer/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Sr Software Development Manager",
+    "link": "https://digitalnovascotia.com/job-posts/sr-software-development-manager/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Sr Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/sr-software-development-engineer-7/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Sr Product Manager",
+    "link": "https://digitalnovascotia.com/job-posts/sr-product-manager-4/",
+    "company": "BeyondTrust",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Software Development Engineer – macOS Endpoint",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-macos-endpoint/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
+    "title": "Software Development Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/software-development-engineer-16/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "1 hour ago"
+  },
+  {
     "title": "Senior .NET Developer",
     "link": "https://digitalnovascotia.com/job-posts/senior-net-developer-15/",
     "company": "Mariner Partners Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "3 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Business Analyst (Future Opportunities)",
@@ -53,7 +125,7 @@
     "company": "Mariner Partners Inc.",
     "location": "Nova Scotia",
     "jobType": "Full Time",
-    "postedDate": "9 minutes ago"
+    "postedDate": "2 hours ago"
   },
   {
     "title": "Senior Quality Engineer (Python, SQL)",
@@ -163,78 +235,6 @@
     "title": "Data Analyst",
     "link": "https://digitalnovascotia.com/job-posts/data-analyst-29/",
     "company": "IBM Canada",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Senior Platform Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-platform-engineer-4/",
-    "company": "QuickFacts Inc",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Incident Response Security Consultant, Mandiant (English)",
-    "link": "https://digitalnovascotia.com/job-posts/incident-response-security-consultant-mandiant-english/",
-    "company": "Google Cloud",
-    "location": "Nova Scotia",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Microsoft Dynamics 365 CE Technical Solution Architect/Architecte Technique de Solutions Microsoft Dynamics 365 CE",
-    "link": "https://digitalnovascotia.com/job-posts/microsoft-dynamics-365-ce-technical-solution-architect-architecte-technique-de-solutions-microsoft-dynamics-365-ce/",
-    "company": "IBM Canada",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Intermediate Business Systems Analyst (BSA) – Payments",
-    "link": "https://digitalnovascotia.com/job-posts/intermediate-business-systems-analyst-bsa-payments-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Salesforce Developer – Financial Services Cloud",
-    "link": "https://digitalnovascotia.com/job-posts/salesforce-developer-financial-services-cloud-2/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Infrastructure Automation Engineering Specialist",
-    "link": "https://digitalnovascotia.com/job-posts/infrastructure-automation-engineering-specialist/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Senior Data Analyst – GFT Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/3505195-2/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Senior Data Engineer – GFT Halifax",
-    "link": "https://digitalnovascotia.com/job-posts/senior-data-engineer-gft-halifax-5/",
-    "company": "RBC Technology & Operations",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 week ago"
-  },
-  {
-    "title": "Microsoft Alliance Manager",
-    "link": "https://digitalnovascotia.com/job-posts/microsoft-alliance-manager/",
-    "company": "Compugen",
     "location": "Provincial",
     "jobType": "Full Time",
     "postedDate": "1 week ago"
