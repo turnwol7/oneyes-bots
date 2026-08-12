@@ -1,23 +1,5 @@
 [
   {
-    "title": "Senior Staff Software Engineer",
-    "link": "https://jobs.techto.org/jobs/496001452-senior-staff-software-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
-    "title": "Senior Backend Engineer (Analytics)",
-    "link": "https://jobs.techto.org/jobs/497390590-senior-backend-engineer-analytics",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Lead Site Reliability Engineer",
     "link": "https://jobs.techto.org/jobs/497390589-lead-site-reliability-engineer",
     "company": "GuruLink",
@@ -110,15 +92,6 @@
   {
     "title": "Production Associate (Evening Shift)",
     "link": "https://jobs.techto.org/jobs/541427150-production-associate-evening-shift",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Senior Software Engineer",
-    "link": "https://jobs.techto.org/jobs/115286885-senior-software-engineer",
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
@@ -234,6 +207,15 @@
     "tags": "Product & Engineering, AI, UI/UX, product design"
   },
   {
+    "title": "Engineering Manager, FDE Agentic Platform",
+    "link": "https://jobs.techto.org/jobs/601930511-engineering-manager-fde-agentic-platform",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Senior Application Security Engineer II",
     "link": "https://jobs.techto.org/jobs/601112157-senior-application-security-engineer-ii",
     "company": "Relay",
@@ -252,6 +234,15 @@
     "tags": "Product & Engineering"
   },
   {
+    "title": "Senior Security Engineer - Detection & Response",
+    "link": "https://jobs.techto.org/jobs/601970359-senior-security-engineer-detection-response",
+    "company": "EvenUp",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontairo, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Application Security Engineer II",
     "link": "https://jobs.techto.org/jobs/601112156-application-security-engineer-ii",
     "company": "Relay",
@@ -261,12 +252,21 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
+    "title": "Senior Software Engineer",
+    "link": "https://jobs.techto.org/jobs/115286885-senior-software-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "22h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Founding Technical Lead - Palladium",
     "link": "https://jobs.techto.org/jobs/601858056-founding-technical-lead-palladium",
     "company": "AXL",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "30min ago",
+    "postedDate": "1h ago",
     "tags": "Product & Engineering, AI, full-stack, legaltech, software engineering"
   }
 ]
