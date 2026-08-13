@@ -1,23 +1,5 @@
 [
   {
-    "title": "Senior Backend Engineer (Analytics)",
-    "link": "https://jobs.techto.org/jobs/497390590-senior-backend-engineer-analytics",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
-    "title": "Lead Site Reliability Engineer",
-    "link": "https://jobs.techto.org/jobs/497390589-lead-site-reliability-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Lead Backend Developer",
     "link": "https://jobs.techto.org/jobs/497390591-lead-backend-developer",
     "company": "GuruLink",
@@ -176,7 +158,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -252,12 +234,21 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
+    "title": "Senior Front End Engineer",
+    "link": "https://jobs.techto.org/jobs/605260022-senior-front-end-engineer",
+    "company": "SuiteSpot",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Founding Technical Lead - Palladium",
     "link": "https://jobs.techto.org/jobs/601858056-founding-technical-lead-palladium",
     "company": "AXL",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "22h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, AI, full-stack, legaltech, software engineering"
   },
   {
@@ -266,7 +257,16 @@
     "company": "commonsku",
     "jobType": "Full-time",
     "location": "Remote (Toronto, CA)",
-    "postedDate": "21h ago",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Team Lead, Software Engineering",
+    "link": "https://jobs.techto.org/jobs/489278281-team-lead-software-engineering",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
