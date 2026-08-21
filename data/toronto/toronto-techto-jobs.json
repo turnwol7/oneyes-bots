@@ -1,14 +1,5 @@
 [
   {
-    "title": "Principal Software Engineer (Backend)",
-    "link": "https://jobs.techto.org/jobs/500580758-principal-software-engineer-backend",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Full Stack Developer",
     "link": "https://jobs.techto.org/jobs/483844627-senior-full-stack-developer",
     "company": "GuruLink",
@@ -266,6 +257,15 @@
     "company": "Loopio Inc.",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Founding Staff Platform Engineer",
+    "link": "https://jobs.techto.org/jobs/629376884-founding-staff-platform-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
     "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
