@@ -1,14 +1,5 @@
 [
   {
-    "title": "Principal Software Engineer (Backend)",
-    "link": "https://jobs.techto.org/jobs/500580758-principal-software-engineer-backend",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Full Stack Developer",
     "link": "https://jobs.techto.org/jobs/483844627-senior-full-stack-developer",
     "company": "GuruLink",
@@ -59,7 +50,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -257,7 +248,7 @@
     "company": "JMA Consulting",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, developer"
   },
   {
@@ -266,7 +257,16 @@
     "company": "Wattpad",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Staff Product Manager (Agentic)",
+    "link": "https://jobs.techto.org/jobs/627328391-staff-product-manager-agentic",
+    "company": "Loopio Inc.",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
