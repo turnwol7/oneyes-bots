@@ -5,7 +5,7 @@
     "company": "GEO Nova Scotia",
     "location": "Nova Scotia",
     "jobType": "Full TimeFeatured Job",
-    "postedDate": "3 days ago"
+    "postedDate": "6 days ago"
   },
   {
     "title": "Manager, Networks",
@@ -13,7 +13,7 @@
     "company": "Nova Scotia Cyber Security & Digital Solutions (CSDS)",
     "location": "Halifax",
     "jobType": "Full TimeFeatured Job",
-    "postedDate": "2 weeks ago"
+    "postedDate": "3 weeks ago"
   },
   {
     "title": "Director, Digital Nova Scotia Board of Directors",
@@ -21,7 +21,7 @@
     "company": "",
     "location": "Remote",
     "jobType": "VolunteerFeatured Job",
-    "postedDate": "3 weeks ago"
+    "postedDate": "4 weeks ago"
   },
   {
     "title": "Director, SAP APFA Platform Lead",
@@ -32,12 +32,68 @@
     "postedDate": "4 weeks ago"
   },
   {
+    "title": "Field Support Manager",
+    "link": "https://digitalnovascotia.com/job-posts/field-support-manager/",
+    "company": "Purple Cow Internet",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "4 minutes ago"
+  },
+  {
+    "title": "Senior Manager, Data Engineering",
+    "link": "https://digitalnovascotia.com/job-posts/senior-manager-data-engineering-3/",
+    "company": "Sterling Brokers",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "22 minutes ago"
+  },
+  {
+    "title": "Customer Success Designer – Professional Services",
+    "link": "https://digitalnovascotia.com/job-posts/customer-success-designer-professional-services/",
+    "company": "Proposify",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "31 minutes ago"
+  },
+  {
+    "title": "Java Developer – Payments",
+    "link": "https://digitalnovascotia.com/job-posts/java-developer-payments/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "36 minutes ago"
+  },
+  {
+    "title": "Quality Analyst (Python/ API Testing)",
+    "link": "https://digitalnovascotia.com/job-posts/quality-analyst-python-api-testing/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "38 minutes ago"
+  },
+  {
+    "title": "Senior AI Engineer (US Citizenship Required)",
+    "link": "https://digitalnovascotia.com/job-posts/senior-ai-engineer-us-citizenship-required/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "41 minutes ago"
+  },
+  {
+    "title": "Quality Automation Analyst",
+    "link": "https://digitalnovascotia.com/job-posts/quality-automation-analyst-2/",
+    "company": "CGI Information Systems and Management Consultants Inc.",
+    "location": "Halifax",
+    "jobType": "Full Time",
+    "postedDate": "44 minutes ago"
+  },
+  {
     "title": "Data Engineer with Microsoft Fabric",
     "link": "https://digitalnovascotia.com/job-posts/data-engineer-with-microsoft-fabric/",
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "33 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "DevOps Programmer – Web Digital Office – Contract",
@@ -45,7 +101,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "36 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Bilingual Field Services Coordinator",
@@ -53,7 +109,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "39 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Python Developer – API & Data Integration",
@@ -61,7 +117,7 @@
     "company": "Cognizant",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "49 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Associate Instructor",
@@ -69,7 +125,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "55 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Technical Support Engineer – Temp Employment",
@@ -77,7 +133,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "57 minutes ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Manager, Data Security Automations & Engineering (Global Security)",
@@ -85,7 +141,7 @@
     "company": "RBC Technology & Operations",
     "location": "Bedford",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Data Engineer & Analyst – Climate Risk & Data Strategy",
@@ -93,7 +149,7 @@
     "company": "RBC Technology & Operations",
     "location": "Bedford",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Associate Director, Lead database developer (SQL)",
@@ -101,7 +157,7 @@
     "company": "RBC Technology & Operations",
     "location": "Bedford",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior QE Analyst",
@@ -109,7 +165,7 @@
     "company": "RBC Technology & Operations",
     "location": "Bedford",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "IT Co-op (Jr. Service Management Analyst)",
@@ -117,7 +173,7 @@
     "company": "Nova Scotia Power",
     "location": "Provincial",
     "jobType": "Full Time",
-    "postedDate": "1 hour ago"
+    "postedDate": "3 days ago"
   },
   {
     "title": "Senior Full Stack Developer (Node.js / React / AWS)",
@@ -125,7 +181,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Organizational Change Manager",
@@ -133,7 +189,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Salesforce Developer – Financial Services Cloud",
@@ -141,7 +197,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Project Manager – Dartmouth / Halifax, NS (Onsite)",
@@ -149,7 +205,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Full Stack Developer (Java + Angular)",
@@ -157,7 +213,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Consultant, Industry Marketing – Public Sector and Health, Canada",
@@ -165,7 +221,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Senior Business Systems Analyst",
@@ -173,7 +229,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
+    "postedDate": "4 days ago"
   },
   {
     "title": "Director Consulting, Health Technology & Transformation",
@@ -181,62 +237,6 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "1 day ago"
-  },
-  {
-    "title": "DevOps Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/devops-consultant/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 day ago"
-  },
-  {
-    "title": "DevSecOps Consultant",
-    "link": "https://digitalnovascotia.com/job-posts/devsecops-consultant/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 day ago"
-  },
-  {
-    "title": "Senior Forward Deployed Developer (Golang/Next.js)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-forward-deployed-developer-golang-next-js/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "1 day ago"
-  },
-  {
-    "title": "Senior Java Developer – Payments",
-    "link": "https://digitalnovascotia.com/job-posts/senior-java-developer-payments-3/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Senior Test Automation Engineer",
-    "link": "https://digitalnovascotia.com/job-posts/senior-test-automation-engineer/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Remote",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Cloud Platform Solutions Architect",
-    "link": "https://digitalnovascotia.com/job-posts/cloud-platform-solutions-architect/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
-  },
-  {
-    "title": "Data Scientist – AI Solutions",
-    "link": "https://digitalnovascotia.com/job-posts/data-scientist-ai-solutions/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "2 days ago"
+    "postedDate": "4 days ago"
   }
 ]
