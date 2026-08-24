@@ -1,14 +1,5 @@
 [
   {
-    "title": "Product Manager",
-    "link": "https://jobs.techto.org/jobs/502732265-product-manager",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Full-Stack Engineer",
     "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
     "company": "GuruLink",
@@ -65,6 +56,15 @@
   {
     "title": "Principal Software Engineer",
     "link": "https://jobs.techto.org/jobs/561396845-principal-software-engineer",
+    "company": "Questrade Financial Group",
+    "jobType": "",
+    "location": "",
+    "postedDate": "3w ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Principal Software Engineer",
+    "link": "https://jobs.techto.org/jobs/563676498-principal-software-engineer",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
