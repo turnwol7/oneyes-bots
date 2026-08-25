@@ -5,7 +5,7 @@
     "company": "GEO Nova Scotia",
     "location": "Nova Scotia",
     "jobType": "Full TimeFeatured Job",
-    "postedDate": "7 days ago"
+    "postedDate": "1 week ago"
   },
   {
     "title": "Manager, Networks",
@@ -32,12 +32,28 @@
     "postedDate": "4 weeks ago"
   },
   {
+    "title": "Manager, Demand Engineer",
+    "link": "https://digitalnovascotia.com/job-posts/manager-demand-engineer-2/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "47 minutes ago"
+  },
+  {
+    "title": "Salesforce Solution Consultant",
+    "link": "https://digitalnovascotia.com/job-posts/salesforce-solution-consultant-2/",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "jobType": "Full Time",
+    "postedDate": "51 minutes ago"
+  },
+  {
     "title": "Sr Software Development Manager",
     "link": "https://digitalnovascotia.com/job-posts/sr-software-development-manager-2/",
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "4 minutes ago"
+    "postedDate": "59 minutes ago"
   },
   {
     "title": "VP, Product Management, AI Security & Strategy",
@@ -45,7 +61,7 @@
     "company": "BeyondTrust",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "6 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Information & Data Security Analyst – Halifax",
@@ -53,7 +69,7 @@
     "company": "RBC Technology & Operations",
     "location": "Bedford",
     "jobType": "Full Time",
-    "postedDate": "12 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Lead Data Engineer GFT – Halifax",
@@ -61,7 +77,7 @@
     "company": "RBC Technology & Operations",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "16 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Project Manager",
@@ -69,7 +85,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "29 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Senior Software Engineer – Cloud Platform Control Plane",
@@ -77,7 +93,7 @@
     "company": "IBM Canada",
     "location": "Bedford",
     "jobType": "Full Time",
-    "postedDate": "32 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Senior Software Engineer – Kafka",
@@ -85,7 +101,7 @@
     "company": "IBM Canada",
     "location": "Bedford",
     "jobType": "Full Time",
-    "postedDate": "35 minutes ago"
+    "postedDate": "1 hour ago"
   },
   {
     "title": "Field Support Manager",
@@ -93,7 +109,7 @@
     "company": "Purple Cow Internet",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior Manager, Data Engineering",
@@ -101,7 +117,7 @@
     "company": "Sterling Brokers",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "23 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Customer Success Designer – Professional Services",
@@ -109,7 +125,7 @@
     "company": "Proposify",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Java Developer – Payments",
@@ -117,7 +133,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Quality Analyst (Python/ API Testing)",
@@ -125,7 +141,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Senior AI Engineer (US Citizenship Required)",
@@ -133,7 +149,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Remote",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Quality Automation Analyst",
@@ -141,7 +157,7 @@
     "company": "CGI Information Systems and Management Consultants Inc.",
     "location": "Halifax",
     "jobType": "Full Time",
-    "postedDate": "24 hours ago"
+    "postedDate": "1 day ago"
   },
   {
     "title": "Data Engineer with Microsoft Fabric",
@@ -222,21 +238,5 @@
     "location": "Bedford",
     "jobType": "Full Time",
     "postedDate": "4 days ago"
-  },
-  {
-    "title": "IT Co-op (Jr. Service Management Analyst)",
-    "link": "https://digitalnovascotia.com/job-posts/it-co-op-jr-service-management-analyst/",
-    "company": "Nova Scotia Power",
-    "location": "Provincial",
-    "jobType": "Full Time",
-    "postedDate": "4 days ago"
-  },
-  {
-    "title": "Senior Full Stack Developer (Node.js / React / AWS)",
-    "link": "https://digitalnovascotia.com/job-posts/senior-full-stack-developer-node-js-react-aws/",
-    "company": "CGI Information Systems and Management Consultants Inc.",
-    "location": "Halifax",
-    "jobType": "Full Time",
-    "postedDate": "5 days ago"
   }
 ]
