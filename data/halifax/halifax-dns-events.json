@@ -222,5 +222,12 @@
     "datetime": "September 3 @ 5:30 pm - 6:30 pm  ADT \t\t\n\t\t\n\t\n\t\t\n\t\n\n\t\n\t\n\t\tRecurring",
     "isVirtual": false,
     "cost": ""
+  },
+  {
+    "title": "DEFCON Halifax September Mixer",
+    "link": "https://digitalnovascotia.com/event/defcon-halifax-september-mixer/",
+    "datetime": "September 3 @ 6:30 pm - 8:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
   }
 ]
