@@ -1,14 +1,5 @@
 [
   {
-    "title": "Product Manager",
-    "link": "https://jobs.techto.org/jobs/502732265-product-manager",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Full-Stack Engineer",
     "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
     "company": "GuruLink",
@@ -258,6 +249,15 @@
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "2d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Quality Engineer",
+    "link": "https://jobs.techto.org/jobs/650696542-senior-quality-engineer",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
