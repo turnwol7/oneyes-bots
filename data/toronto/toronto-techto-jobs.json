@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Developer",
-    "link": "https://jobs.techto.org/jobs/483844627-senior-full-stack-developer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Product Manager",
     "link": "https://jobs.techto.org/jobs/502732265-product-manager",
     "company": "GuruLink",
@@ -248,7 +239,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -257,7 +248,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -266,7 +257,16 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1d ago",
+    "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Agentic Engineer, TypeScript",
+    "link": "https://jobs.techto.org/jobs/650413603-senior-agentic-engineer-typescript",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
   }
 ]
