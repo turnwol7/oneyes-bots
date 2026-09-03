@@ -1,29 +1,38 @@
 [
   {
     "title": "Together Toronto Together Toronto",
-    "link": "https://www.techto.org/event/together-toronto-august-10-2026",
+    "link": "https://www.techto.org/event/together-toronto-september-14-2026",
     "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
-    "date": "August 10, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "date": "September 14, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "U of T: Schwartz Reisman Innovation Campus, 108 College St, Toronto, ON M5G 0C6",
     "price": "$40 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
-    "title": "Together Toronto Together Toronto",
-    "link": "https://www.techto.org/event/together-toronto-september-14-2026",
-    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
-    "date": "September 14, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "title": "The Growth TableThe Growth Table",
+    "link": "https://www.techto.org/event/the-growth-table-toronto-september-22-2026",
+    "description": "Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.",
+    "date": "September 22, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Register To See Address",
+    "price": "Invite Only",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Together Toronto and YC Winter 2027 (W27) Application SessionTogether Toronto and YC Winter 2027 (W27) Application Session",
+    "link": "https://www.techto.org/event/together-toronto-october-5-2026",
+    "description": "Join TechTO for in-depth conversations with Toronto's top tech leaders - plus a YC W27 applicant info sessionJoin TechTO for in-depth conversations with Toronto's top tech leaders - plus a YC W27 applicant info session",
+    "date": "October 5, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "U of T: Schwartz Reisman Innovation Campus, 108 College St, Toronto, ON M5G 0C6",
     "price": "$30 Early Bird | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
-    "title": "TechTO x SAAS NORTH AI 2026TechTO x SAAS NORTH AI 2026",
-    "link": "https://www.techto.org/event/techto-x-saas-north-ai-2026",
-    "description": "Come to SAAS NORTH AI with the TechTO crew!Come to SAAS NORTH AI with the TechTO crew!",
-    "date": "November 3, 2026 7:00 pm - 6:00 pm 7:00 pm - 6:00 pm",
-    "location": "Rogers Centre, Ottawa",
-    "price": "Please refer to Luma page",
+    "title": "The Growth Table The Growth Table",
+    "link": "https://www.techto.org/event/the-growth-table-montreal-october-19-2026",
+    "description": "Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.",
+    "date": "October 19, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Register To See Address",
+    "price": "Invite Only",
     "status": "Sold OutUp NextSold Out"
   },
   {
