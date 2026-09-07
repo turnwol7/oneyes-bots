@@ -1,5 +1,14 @@
 [
   {
+    "title": "Dynamics 365 CRM Developer / Technical Architect",
+    "link": "https://jobs.techto.org/jobs/525456949-dynamics-365-crm-developer-technical-architect",
+    "company": "GuruLink",
+    "jobType": "Contract",
+    "location": "",
+    "postedDate": "1m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Senior Backend Engineer (Distributed Systems)",
     "link": "https://jobs.techto.org/jobs/552852464-senior-backend-engineer-distributed-systems",
     "company": "GuruLink",
@@ -27,21 +36,12 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Lead Product Manager, Autonomy",
-    "link": "https://jobs.techto.org/jobs/590545492-lead-product-manager-autonomy",
-    "company": "Waabi",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "3w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Product Design at AXL",
     "link": "https://jobs.techto.org/jobs/596437258-product-design-at-axl",
     "company": "AXL",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering, AI, UI/UX, product design"
   },
   {
@@ -140,7 +140,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -230,7 +230,7 @@
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "5d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -239,7 +239,7 @@
     "company": "Clutch Technologies Inc.",
     "jobType": "",
     "location": "",
-    "postedDate": "4d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +248,7 @@
     "company": "StreamLocator",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "5d ago",
     "tags": "Product & Engineering, software development, developer, Application Development, software engineering, Rails, android, ruby on rails"
   },
   {
@@ -257,7 +257,7 @@
     "company": "Provision",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering, Machine Learning, React, full-stack, Django, py"
   },
   {
@@ -266,7 +266,7 @@
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "1d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
