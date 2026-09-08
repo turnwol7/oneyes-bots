@@ -63,6 +63,13 @@
     "cost": ""
   },
   {
+    "title": "AI for Business, Halifax Meetup",
+    "link": "https://digitalnovascotia.com/event/ai-for-business-halifax-meetup/",
+    "datetime": "September 9 @ 12:00 pm - 1:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "Halifax – September Agentics Foundation Meetup",
     "link": "https://digitalnovascotia.com/event/halifax-september-agentics-foundation-meetup/",
     "datetime": "September 9 @ 6:00 pm - 8:00 pm  ADT",
@@ -80,6 +87,13 @@
     "title": "Fintech Drinks Halifax – Fintech Plus",
     "link": "https://digitalnovascotia.com/event/3505564/",
     "datetime": "September 10 @ 5:00 pm - 7:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Virtual Info Session: AI2Market Discover",
+    "link": "https://digitalnovascotia.com/event/virtual-info-session-ai2market-discover/",
+    "datetime": "September 10 @ 6:00 pm - 7:00 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
@@ -154,6 +168,13 @@
     "cost": ""
   },
   {
+    "title": "In-Person Info Session: AI2Market Discover",
+    "link": "https://digitalnovascotia.com/event/in-person-info-session-ai2market-discover/",
+    "datetime": "September 16 @ 4:30 pm - 5:30 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
     "title": "AI Showcase and Mixer",
     "link": "https://digitalnovascotia.com/event/ai-showcase-and-mixer-10/",
     "datetime": "September 16 @ 6:00 pm - 8:30 pm  ADT",
@@ -185,6 +206,13 @@
     "title": "Vibe Code Club",
     "link": "https://digitalnovascotia.com/event/vibe-code-club/",
     "datetime": "September 24 @ 4:00 pm - 6:00 pm  ADT",
+    "isVirtual": false,
+    "cost": ""
+  },
+  {
+    "title": "Turning Cybersecurity, Privacy and AI Governance into a Business Advantage",
+    "link": "https://digitalnovascotia.com/event/turning-cybersecurity-privacy-and-ai-governance-into-a-business-advantage/",
+    "datetime": "September 28 @ 12:00 pm - 1:30 pm  ADT",
     "isVirtual": false,
     "cost": ""
   },
