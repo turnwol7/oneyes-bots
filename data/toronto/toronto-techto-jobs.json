@@ -1,5 +1,23 @@
 [
   {
+    "title": "Senior Full Stack Developer",
+    "link": "https://jobs.techto.org/jobs/483844627-senior-full-stack-developer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "2m ago",
+    "tags": "Product & Engineering"
+  },
+  {
+    "title": "Product Manager",
+    "link": "https://jobs.techto.org/jobs/502732265-product-manager",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "2m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Senior Full-Stack Engineer",
     "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
     "company": "GuruLink",
@@ -45,15 +63,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Product Design at AXL",
-    "link": "https://jobs.techto.org/jobs/596437258-product-design-at-axl",
-    "company": "AXL",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering, AI, UI/UX, product design"
-  },
-  {
     "title": "Staff Engineer - (Forward Deployed)",
     "link": "https://jobs.techto.org/jobs/600619403-staff-engineer-forward-deployed",
     "company": "GuruLink",
@@ -70,15 +79,6 @@
     "location": "",
     "postedDate": "1m ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Founding Technical Lead - Palladium",
-    "link": "https://jobs.techto.org/jobs/601858056-founding-technical-lead-palladium",
-    "company": "AXL",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "1m ago",
-    "tags": "Product & Engineering, AI, full-stack, legaltech, software engineering"
   },
   {
     "title": "Manager, Site Reliability Engineering",
@@ -194,7 +194,7 @@
     "company": "StreamLocator",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, software development, developer, Application Development, software engineering, Rails, android, ruby on rails"
   },
   {
