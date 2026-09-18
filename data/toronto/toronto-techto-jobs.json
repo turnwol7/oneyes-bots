@@ -1,14 +1,5 @@
 [
   {
-    "title": "Product Manager",
-    "link": "https://jobs.techto.org/jobs/502732265-product-manager",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Full-Stack Engineer",
     "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
     "company": "GuruLink",
@@ -86,15 +77,6 @@
     "company": "Loopio Inc.",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Founding Staff Platform Engineer",
-    "link": "https://jobs.techto.org/jobs/629376884-founding-staff-platform-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
     "postedDate": "4w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
@@ -216,20 +198,20 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Software Engineer, Commercial Software",
-    "link": "https://jobs.techto.org/jobs/697357717-software-engineer-commercial-software",
-    "company": "Waabi",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "3d ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Security Engineer",
     "link": "https://jobs.techto.org/jobs/699319093-security-engineer",
     "company": "Relay",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "3d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Software Engineer, Commercial Software",
+    "link": "https://jobs.techto.org/jobs/697357717-software-engineer-commercial-software",
+    "company": "Waabi",
+    "jobType": "Full-time",
+    "location": "",
     "postedDate": "3d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
@@ -257,7 +239,7 @@
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "2d ago",
+    "postedDate": "3d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -268,5 +250,23 @@
     "location": "",
     "postedDate": "1d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Software Engineer, Security",
+    "link": "https://jobs.techto.org/jobs/134100539-software-engineer-security",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Founding Staff Platform Engineer",
+    "link": "https://jobs.techto.org/jobs/629376884-founding-staff-platform-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
