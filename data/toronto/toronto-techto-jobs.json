@@ -1,14 +1,5 @@
 [
   {
-    "title": "Product Manager",
-    "link": "https://jobs.techto.org/jobs/502732265-product-manager",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Full-Stack Engineer",
     "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
     "company": "GuruLink",
@@ -198,6 +189,15 @@
     "tags": "Product & Engineering"
   },
   {
+    "title": "Security Engineer",
+    "link": "https://jobs.techto.org/jobs/699319093-security-engineer",
+    "company": "Relay",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "4d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Software Engineer, Commercial Software",
     "link": "https://jobs.techto.org/jobs/697357717-software-engineer-commercial-software",
     "company": "Waabi",
@@ -207,9 +207,9 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Security Engineer",
-    "link": "https://jobs.techto.org/jobs/699319093-security-engineer",
-    "company": "Relay",
+    "title": "Staff Product Manager",
+    "link": "https://jobs.techto.org/jobs/698240055-staff-product-manager",
+    "company": "Loopio Inc.",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "4d ago",
@@ -225,21 +225,12 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Staff Product Manager",
-    "link": "https://jobs.techto.org/jobs/698240055-staff-product-manager",
-    "company": "Loopio Inc.",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4d ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
     "title": "Head of Product, Questrade Experience Platform",
     "link": "https://jobs.techto.org/jobs/698689614-head-of-product-questrade-experience-platform",
     "company": "Questrade Financial Group",
     "jobType": "",
     "location": "",
-    "postedDate": "3d ago",
+    "postedDate": "4d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -268,5 +259,14 @@
     "location": "",
     "postedDate": "1d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "link": "https://jobs.techto.org/jobs/707027638-senior-software-engineer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
   }
 ]
