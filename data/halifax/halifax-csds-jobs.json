@@ -1,19 +1,5 @@
 [
   {
-    "title": "Manager - User Support ServicesManager - User Support Services",
-    "link": "https://jobs.novascotia.ca/job/HALIFAX-Manager-User-Support-Services-NS-B3K-2A6/605750717/",
-    "department": "Cyber Security & Digital Solutions",
-    "location": "HALIFAX, NS, CA, B3K 2A6",
-    "closingDate": "Sep 2, 2026"
-  },
-  {
-    "title": "Communications AdvisorCommunications Advisor",
-    "link": "https://jobs.novascotia.ca/job/HALIFAX-Communications-Advisor-NS-B3J-1M7/605905617/",
-    "department": "Cyber Security & Digital Solutions",
-    "location": "HALIFAX, NS, CA, B3J 1M7",
-    "closingDate": "Sep 8, 2026"
-  },
-  {
     "title": "Product Manager - Enterprise Permit & LicencingProduct Manager - Enterprise Permit & Licencing",
     "link": "https://jobs.novascotia.ca/job/HALIFAX-Product-Manager-Enterprise-Permit-&-Licencing-NS-B3J-1M7/605927517/",
     "department": "Cyber Security & Digital Solutions",
@@ -26,5 +12,12 @@
     "department": "Cyber Security & Digital Solutions",
     "location": "HALIFAX, NS, CA, B3J 1M7",
     "closingDate": "Sep 14, 2026"
+  },
+  {
+    "title": "Manager, SaaS SolutionsManager, SaaS Solutions",
+    "link": "https://jobs.novascotia.ca/job/HALIFAX-Manager%2C-SaaS-Solutions-NS-B3J-1M7/606392617/",
+    "department": "Cyber Security & Digital Solutions",
+    "location": "HALIFAX, NS, CA, B3J 1M7",
+    "closingDate": "Sep 23, 2026"
   }
 ]
