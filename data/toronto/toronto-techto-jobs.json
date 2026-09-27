@@ -1,5 +1,14 @@
 [
   {
+    "title": "Principal Software Engineer (Backend)",
+    "link": "https://jobs.techto.org/jobs/500580758-principal-software-engineer-backend",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "3m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Senior Full Stack Developer",
     "link": "https://jobs.techto.org/jobs/483844627-senior-full-stack-developer",
     "company": "GuruLink",
@@ -88,15 +97,6 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1m ago",
     "tags": "Product & Engineering"
-  },
-  {
-    "title": "Senior Quality Engineer",
-    "link": "https://jobs.techto.org/jobs/650696542-senior-quality-engineer",
-    "company": "Relay",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Senior Agentic Engineer, TypeScript",
@@ -189,18 +189,18 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Staff Product Manager",
-    "link": "https://jobs.techto.org/jobs/698240055-staff-product-manager",
-    "company": "Loopio Inc.",
+    "title": "Senior Full-Stack Engineer, Internal Applications",
+    "link": "https://jobs.techto.org/jobs/700129003-senior-full-stack-engineer-internal-applications",
+    "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
-    "title": "Senior Full-Stack Engineer, Internal Applications",
-    "link": "https://jobs.techto.org/jobs/700129003-senior-full-stack-engineer-internal-applications",
-    "company": "Cohere",
+    "title": "Staff Product Manager",
+    "link": "https://jobs.techto.org/jobs/698240055-staff-product-manager",
+    "company": "Loopio Inc.",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1w ago",
@@ -257,7 +257,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -266,7 +266,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering"
   }
 ]
