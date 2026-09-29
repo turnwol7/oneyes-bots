@@ -1,12 +1,5 @@
 [
   {
-    "title": "Senior Software Developer - Enterprise Permit & Licensing (Computer Services Officer 4)Senior Software Developer - Enterprise Permit & Licensing (Computer Services Officer 4)",
-    "link": "https://jobs.novascotia.ca/job/HALIFAX-Senior-Software-Developer-Enterprise-Permit-&-Licensing-%28Computer-Services-Officer-4%29-NS-B3J-1M7/606083517/",
-    "department": "Cyber Security & Digital Solutions",
-    "location": "HALIFAX, NS, CA, B3J 1M7",
-    "closingDate": "Sep 14, 2026"
-  },
-  {
     "title": "Manager, SaaS SolutionsManager, SaaS Solutions",
     "link": "https://jobs.novascotia.ca/job/HALIFAX-Manager%2C-SaaS-Solutions-NS-B3J-1M7/606392617/",
     "department": "Cyber Security & Digital Solutions",
@@ -19,5 +12,12 @@
     "department": "Cyber Security & Digital Solutions",
     "location": "HALIFAX, NS, CA, B3J 2Y1",
     "closingDate": "Sep 24, 2026"
+  },
+  {
+    "title": "Computer Services Officer 4 (Technical Architect)Computer Services Officer 4 (Technical Architect)",
+    "link": "https://jobs.novascotia.ca/job/HALIFAX-Computer-Services-Officer-4-%28Technical-Architect%29-NS-B3K-2A6/606564117/",
+    "department": "Cyber Security & Digital Solutions",
+    "location": "HALIFAX, NS, CA, B3K 2A6",
+    "closingDate": "Sep 29, 2026"
   }
 ]
