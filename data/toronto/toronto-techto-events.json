@@ -1,56 +1,29 @@
 [
   {
-    "title": "Together Toronto Together Toronto",
-    "link": "https://www.techto.org/event/together-toronto-september-14-2026",
-    "description": "Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.Join TechTO for in-depth conversations with tech leaders, innovators, and entrepreneurs.",
-    "date": "September 14, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "U of T: Schwartz Reisman Innovation Campus, 108 College St, Toronto, ON M5G 0C6",
-    "price": "$40 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "The Growth TableThe Growth Table",
-    "link": "https://www.techto.org/event/the-growth-table-toronto-september-22-2026",
-    "description": "Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.",
-    "date": "September 22, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "Register To See Address",
-    "price": "Invite Only",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "Health TorontoHealth Toronto",
-    "link": "https://www.techto.org/event/health-toronto-sept-28-2026",
-    "description": "Build in Canadian healthcare. Learn from those who’ve done it.Build in Canadian healthcare. Learn from those who’ve done it.",
-    "date": "September 28, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "30 Wellington St W, Toronto, ON M5L 1B1, Canada Floor 5",
-    "price": "$33.90 General Admission | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Together Toronto and YC Winter 2027 (W27) Application SessionTogether Toronto and YC Winter 2027 (W27) Application Session",
     "link": "https://www.techto.org/event/together-toronto-october-5-2026",
     "description": "Join TechTO for in-depth conversations with Toronto's top tech leaders - plus a YC W27 applicant info sessionJoin TechTO for in-depth conversations with Toronto's top tech leaders - plus a YC W27 applicant info session",
     "date": "October 5, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "U of T: Schwartz Reisman Innovation Campus, 108 College St, Toronto, ON M5G 0C6",
-    "price": "$30 Early Bird | Free for Members",
+    "price": "$40 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
     "title": "Commerce TorontoCommerce Toronto",
     "link": "https://www.techto.org/event/commerce-toronto-oct-13-2026",
     "description": "Join 200+ founders, operators, and brand builders from the retail, e-commerce, CPGJoin 200+ founders, operators, and brand builders from the retail, e-commerce, CPG",
-    "date": "October 13, 2026 6:00 pm - 6:00 pm 6:00 pm - 6:00 pm",
+    "date": "October 13, 2026 5:30 pm - 8:30 pm 5:30 pm - 8:30 pm",
     "location": "Rotman School of Management",
-    "price": "$33.90 General Admission | Free for Members",
+    "price": "$30 General Admission | Free for Members",
     "status": "Sold OutUp NextSold Out"
   },
   {
     "title": "TechTO HackathonTechTO Hackathon",
     "link": "https://www.techto.org/event/techto-hackathon-oct-17-2026",
     "description": "​Eat. Code. Ship. Win 💲.​Eat. Code. Ship. Win 💲.",
-    "date": "October 17, 2026 8:00 am - 8:00 pm 8:00 am - 8:00 pm",
+    "date": "October 17, 2026 9:00 am - 9:00 pm 9:00 am - 9:00 pm",
     "location": "175 Bloor St E 7th floor unit 700",
-    "price": "$33.90 General Admission | Free for Members",
+    "price": "$20 Early Bird",
     "status": "Sold OutUp NextSold Out"
   },
   {
@@ -59,6 +32,15 @@
     "description": "Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.Join us for an invite-only dinner for $3M+ or venture-backed founders - small, candid, no panels or pitches. Only honest peer conversation.",
     "date": "October 19, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
     "location": "Register To See Address",
+    "price": "Invite Only",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "TechTO Montreal Rocketships SoiréeTechTO Montreal Rocketships Soirée",
+    "link": "https://www.techto.org/event/techto-montreal-rocketships-oct-20-2026",
+    "description": "​An evening for everyone building tech in Québec, with a spotlight on eight of its fastest-growing companies.​An evening for everyone building tech in Québec, with a spotlight on eight of its fastest-growing companies.",
+    "date": "October 20, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Escape CDPQ",
     "price": "Invite Only",
     "status": "Sold OutUp NextSold Out"
   },
