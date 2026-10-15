@@ -1,14 +1,5 @@
 [
   {
-    "title": "Principal Software Engineer (Backend)",
-    "link": "https://jobs.techto.org/jobs/500580758-principal-software-engineer-backend",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "3m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Full Stack Developer",
     "link": "https://jobs.techto.org/jobs/483844627-senior-full-stack-developer",
     "company": "GuruLink",
@@ -268,5 +259,14 @@
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "2d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Sr Software Developer II",
+    "link": "https://jobs.techto.org/jobs/770595590-sr-software-developer-ii",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering"
   }
 ]
