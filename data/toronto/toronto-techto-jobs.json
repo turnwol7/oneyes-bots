@@ -1,14 +1,5 @@
 [
   {
-    "title": "Senior Full-Stack Engineer",
-    "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "3m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Dynamics 365 CRM Developer / Technical Architect",
     "link": "https://jobs.techto.org/jobs/525456949-dynamics-365-crm-developer-technical-architect",
     "company": "GuruLink",
@@ -261,12 +252,21 @@
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
+    "title": "Senior / Staff Technical Program Manager, Platform Software",
+    "link": "https://jobs.techto.org/jobs/779722936-senior-staff-technical-program-manager-platform-software",
+    "company": "Waabi",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "23h ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
     "title": "Staff/Senior Staff Software Engineer, Agent Infrastructure",
     "link": "https://jobs.techto.org/jobs/779706190-staff-senior-staff-software-engineer-agent-infrastructure",
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "20h ago",
+    "postedDate": "23h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
