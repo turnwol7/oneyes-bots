@@ -1,23 +1,5 @@
 [
   {
-    "title": "Senior Full Stack Developer",
-    "link": "https://jobs.techto.org/jobs/483844627-senior-full-stack-developer",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4m ago",
-    "tags": "Product & Engineering"
-  },
-  {
-    "title": "Product Manager",
-    "link": "https://jobs.techto.org/jobs/502732265-product-manager",
-    "company": "GuruLink",
-    "jobType": "Full-time",
-    "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4m ago",
-    "tags": "Product & Engineering"
-  },
-  {
     "title": "Senior Full-Stack Engineer",
     "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
     "company": "GuruLink",
@@ -167,7 +149,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -176,7 +158,7 @@
     "company": "Field24",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, full-stack, ai engineering, software engineering, AI agents and platform engineering, Founding Engineer"
   },
   {
@@ -185,7 +167,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -212,8 +194,17 @@
     "company": "VAZA",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "1w ago",
+    "postedDate": "2w ago",
     "tags": "Product & Engineering, Startup, engineering, TechTO Rocketships, android, Mobile, iOS"
+  },
+  {
+    "title": "Production Development Engineering Intern (Co-op), Winter 2027",
+    "link": "https://jobs.techto.org/jobs/792594296-production-development-engineering-intern-co-op-winter-2027",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "2w ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
     "title": "Frontend Engineer, Growth & Agents",
@@ -266,7 +257,16 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "4d ago",
+    "postedDate": "1w ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Production Development Engineer",
+    "link": "https://jobs.techto.org/jobs/792594295-production-development-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "4h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
