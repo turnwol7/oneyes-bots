@@ -1,29 +1,65 @@
 [
   {
-    "title": "Together Toronto & Ecosystem ShowcaseTogether Toronto & Ecosystem Showcase",
-    "link": "https://www.techto.org/event/together-toronto-nov-2-2026",
-    "description": "Canada is building companies worth buying from, backing, and joining. On November 2, they open the floor.Canada is building companies worth buying from, backing, and joining. On November 2, they open the floor.",
-    "date": "November 2, 2026 4:00 pm - 9:00 pm 4:00 pm - 9:00 pm",
-    "location": "U of T: Schwartz Reisman Innovation Campus",
-    "price": "$30 Early Bird | Free for Members",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
-    "title": "\"What Happens After Dark\" Presented by TechTO\"What Happens After Dark\" Presented by TechTO",
-    "link": "https://www.techto.org/event/what-happens-after-dark-presented-by-techto-2026",
-    "description": "​The SAAS NORTH AI Welcome Afterparty, presented by TechTO​The SAAS NORTH AI Welcome Afterparty, presented by TechTO",
-    "date": "November 3, 2026 7:00 pm - 9:30 pm 7:00 pm - 9:30 pm",
-    "location": "Lowertown Brewery, Ottawa",
-    "price": "Please refer to Luma page",
-    "status": "Sold OutUp NextSold Out"
-  },
-  {
     "title": "Future of Education: Impact of AI on LearningFuture of Education: Impact of AI on Learning",
     "link": "https://www.techto.org/event/future-of-education-nov-10-2026",
     "description": "",
     "date": "November 10, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
-    "location": "",
-    "price": "$20 Early Bird | Free for Members",
+    "location": "Convivium Dining Community",
+    "price": "$30 General Admission | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "TechTO’s 12th Anniversary & Rocketships SoiréeTechTO’s 12th Anniversary & Rocketships Soirée",
+    "link": "https://www.techto.org/event/techto-12th-anniversary-and-rocketships-soiree-nov-17-2026",
+    "description": "​For twelve years, TechTO has brought Canada’s tech community together.​For twelve years, TechTO has brought Canada’s tech community together.",
+    "date": "November 17, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "La Plume",
+    "price": "Invite Only",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Humans in the Loop: Building and hiring for AI at QuestradeHumans in the Loop: Building and hiring for AI at Questrade",
+    "link": "https://www.techto.org/event/humans-in-the-loop-nov-19-2026",
+    "description": "Join us for an evening with Questrade’s engineering, product, and hiring leadersJoin us for an evening with Questrade’s engineering, product, and hiring leaders",
+    "date": "November 19, 2026 5:30 pm - 9:00 pm 5:30 pm - 9:00 pm",
+    "location": "70 York St",
+    "price": "Invite Only",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "Together VancouverTogether Vancouver",
+    "link": "https://www.techto.org/event/together-vancouver-nov-24-2026",
+    "description": "​​Together Vancouver brings the local tech community together for an evening of connection, inspiration, and real conversations.​​Together Vancouver brings the local tech community together for an evening of connection, inspiration, and real conversations.",
+    "date": "November 24, 2026 6:00 pm - 9:00 pm 6:00 pm - 9:00 pm",
+    "location": "Onni Group",
+    "price": "Early Bird $30 | Free for Members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "The Founder’s Collective: A Curated Dinner Series for Women Shaping the FutureThe Founder’s Collective: A Curated Dinner Series for Women Shaping the Future",
+    "link": "https://www.techto.org/event/the-founders-collective-nov-25-2026",
+    "description": "Meet the bold, ambitious women who are building and leading the tech companies of tomorrow.Meet the bold, ambitious women who are building and leading the tech companies of tomorrow.",
+    "date": "November 25, 2026 6:00 pm - 6:00 pm 6:00 pm - 6:00 pm",
+    "location": "Chambar Restaurant",
+    "price": "Invite Only",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "TechTO Canadian Rocketships 2026TechTO Canadian Rocketships 2026",
+    "link": "https://www.techto.org/event/techto-canadian-rocketships-2026",
+    "description": "​Join us at Toronto City Hall for our annual event, where we spotlight the fastest-growing tech companies, putting Canada on the global map.​Join us at Toronto City Hall for our annual event, where we spotlight the fastest-growing tech companies, putting Canada on the global map.",
+    "date": "December 1, 2026 6:00 pm - 8:30 pm 6:00 pm - 8:30 pm",
+    "location": "City Hall",
+    "price": "$35 Early bird | Free for members",
+    "status": "Sold OutUp NextSold Out"
+  },
+  {
+    "title": "YC Alumni Holiday PartyYC Alumni Holiday Party",
+    "link": "https://www.techto.org/event/yc-alumni-holiday-party-dec-2-2026",
+    "description": "​Celebrate the season with your fellow YC founders and alumni!​Celebrate the season with your fellow YC founders and alumni!",
+    "date": "December 2, 2026 6:00 pm - 10:00 pm 6:00 pm - 10:00 pm",
+    "location": "Lulu Bar",
+    "price": "Invite Only",
     "status": "Sold OutUp NextSold Out"
   }
 ]
