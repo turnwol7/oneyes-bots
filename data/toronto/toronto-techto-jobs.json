@@ -1,5 +1,14 @@
 [
   {
+    "title": "Senior Full-Stack Engineer",
+    "link": "https://jobs.techto.org/jobs/399288789-senior-full-stack-engineer",
+    "company": "GuruLink",
+    "jobType": "Full-time",
+    "location": "",
+    "postedDate": "4m ago",
+    "tags": "Product & Engineering"
+  },
+  {
     "title": "Dynamics 365 CRM Developer / Technical Architect",
     "link": "https://jobs.techto.org/jobs/525456949-dynamics-365-crm-developer-technical-architect",
     "company": "GuruLink",
@@ -41,7 +50,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "2m ago",
+    "postedDate": "3m ago",
     "tags": "Product & Engineering"
   },
   {
@@ -126,15 +135,6 @@
     "tags": "Product & Engineering"
   },
   {
-    "title": "Founding Engineer (Full Stack)",
-    "link": "https://jobs.techto.org/jobs/764396578-founding-engineer-full-stack",
-    "company": "Field24",
-    "jobType": "Full-time",
-    "location": "",
-    "postedDate": "4w ago",
-    "tags": "Product & Engineering, full-stack, ai engineering, software engineering, AI agents and platform engineering, Founding Engineer"
-  },
-  {
     "title": "Senior Full-Stack Engineer, Cohere Dashboard",
     "link": "https://jobs.techto.org/jobs/769534462-senior-full-stack-engineer-cohere-dashboard",
     "company": "Cohere",
@@ -149,7 +149,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "3w ago",
+    "postedDate": "4w ago",
     "tags": "Product & Engineering"
   },
   {
@@ -185,16 +185,7 @@
     "company": "EvenUp",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontairo, Canada)",
-    "postedDate": "2w ago",
-    "tags": "Product & Engineering, TechTO Rocketships"
-  },
-  {
-    "title": "Staff Platform Engineer",
-    "link": "https://jobs.techto.org/jobs/548069115-staff-platform-engineer",
-    "company": "Clutch Technologies Inc.",
-    "jobType": "",
-    "location": "",
-    "postedDate": "2w ago",
+    "postedDate": "3w ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -248,7 +239,7 @@
     "company": "Cohere",
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
-    "postedDate": "5d ago",
+    "postedDate": "6d ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   },
   {
@@ -257,7 +248,7 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "4d ago",
+    "postedDate": "5d ago",
     "tags": "Product & Engineering"
   },
   {
@@ -266,7 +257,16 @@
     "company": "GuruLink",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "4d ago",
+    "postedDate": "5d ago",
     "tags": "Product & Engineering"
+  },
+  {
+    "title": "Staff Platform Engineer",
+    "link": "https://jobs.techto.org/jobs/548069115-staff-platform-engineer",
+    "company": "Clutch Technologies Inc.",
+    "jobType": "",
+    "location": "",
+    "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
