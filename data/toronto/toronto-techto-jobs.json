@@ -221,7 +221,7 @@
     "company": "WorkWhile",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, Startup, software development, SaaS, engineering, software engineering"
   },
   {
@@ -230,7 +230,7 @@
     "company": "WorkWhile",
     "jobType": "Full-time",
     "location": "",
-    "postedDate": "6d ago",
+    "postedDate": "1w ago",
     "tags": "Product & Engineering, Startup, software development, React, python, SaaS, engineering, React Native, software engineering"
   },
   {
@@ -258,6 +258,15 @@
     "jobType": "Full-time",
     "location": "Remote (Toronto, Ontario, Canada)",
     "postedDate": "1d ago",
+    "tags": "Product & Engineering, TechTO Rocketships"
+  },
+  {
+    "title": "Technical Program Manager, Model Delivery",
+    "link": "https://jobs.techto.org/jobs/834481921-technical-program-manager-model-delivery",
+    "company": "Cohere",
+    "jobType": "Full-time",
+    "location": "Remote (Toronto, Ontario, Canada)",
+    "postedDate": "23h ago",
     "tags": "Product & Engineering, TechTO Rocketships"
   }
 ]
